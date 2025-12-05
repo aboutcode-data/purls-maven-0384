@@ -1,0 +1,4 @@
+- pkg:maven/com.reevoo.taglib/reevoo-taglib@1.0
+- pkg:maven/com.reevoo.taglib/reevoo-taglib@1.0?classifier=sources
+- pkg:maven/com.reevoo.taglib/reevoo-taglib@1.9
+- pkg:maven/com.reevoo.taglib/reevoo-taglib@1.9?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.caverock/androidsvg@1.0.170
+- pkg:maven/com.caverock/androidsvg@1.0.170?classifier=sources
+- pkg:maven/com.caverock/androidsvg@1.1.182
+- pkg:maven/com.caverock/androidsvg@1.1.182?classifier=sources
+- pkg:maven/com.caverock/androidsvg@1.2.0
+- pkg:maven/com.caverock/androidsvg@1.2.0?classifier=sources
+- pkg:maven/com.caverock/androidsvg@1.2.1
+- pkg:maven/com.caverock/androidsvg@1.2.1?classifier=sources

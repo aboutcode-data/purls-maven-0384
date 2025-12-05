@@ -1,0 +1,2 @@
+- pkg:maven/org.akhikhl.mavenize/gradle-eclipse2mvn@0.0.1
+- pkg:maven/org.akhikhl.mavenize/gradle-eclipse2mvn@0.0.1?classifier=sources

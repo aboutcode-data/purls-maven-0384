@@ -1,0 +1,3 @@
+- pkg:maven/com.github.cycladessoa.nyxlets/script_engine@1.0.0.2?classifier=sources
+- pkg:maven/com.github.cycladessoa.nyxlets/script_engine@1.0.0.4?classifier=sources
+- pkg:maven/com.github.cycladessoa.nyxlets/script_engine@1.0.0.5?classifier=sources

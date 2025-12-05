@@ -1,0 +1,2 @@
+- pkg:maven/jp.t2v/play20.auth_2.9.1@0.5
+- pkg:maven/jp.t2v/play20.auth_2.9.1@0.5?classifier=sources

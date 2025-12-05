@@ -1,0 +1,6 @@
+- pkg:maven/de.crowdcode.kissmda.profiles/kissmda-profile-datatype@1.1.0
+- pkg:maven/de.crowdcode.kissmda.profiles/kissmda-profile-datatype@1.1.0?classifier=sources
+- pkg:maven/de.crowdcode.kissmda.profiles/kissmda-profile-datatype@1.2.0
+- pkg:maven/de.crowdcode.kissmda.profiles/kissmda-profile-datatype@1.2.0?classifier=sources
+- pkg:maven/de.crowdcode.kissmda.profiles/kissmda-profile-datatype@1.4.0
+- pkg:maven/de.crowdcode.kissmda.profiles/kissmda-profile-datatype@1.4.0?classifier=sources

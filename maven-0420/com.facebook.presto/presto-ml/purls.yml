@@ -1,0 +1,1 @@
+- pkg:maven/com.facebook.presto/presto-ml@0.69?classifier=sources

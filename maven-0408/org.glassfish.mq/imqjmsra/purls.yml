@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.mq/imqjmsra@5.0
+- pkg:maven/org.glassfish.mq/imqjmsra@5.0?classifier=sources

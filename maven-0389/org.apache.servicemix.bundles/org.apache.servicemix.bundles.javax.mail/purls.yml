@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.javax.mail@1.4.1_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.javax.mail@1.4.1_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.javax.mail@1.4.1_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.javax.mail@1.4.1_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.javax.mail@1.4.1_5?classifier=sources

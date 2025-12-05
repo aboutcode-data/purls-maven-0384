@@ -1,0 +1,12 @@
+- pkg:maven/com.tobedevoured.naether/core@0.12.0
+- pkg:maven/com.tobedevoured.naether/core@0.12.0?classifier=sources
+- pkg:maven/com.tobedevoured.naether/core@0.12.1
+- pkg:maven/com.tobedevoured.naether/core@0.12.1?classifier=sources
+- pkg:maven/com.tobedevoured.naether/core@0.13.0
+- pkg:maven/com.tobedevoured.naether/core@0.13.0?classifier=sources
+- pkg:maven/com.tobedevoured.naether/core@0.13.3
+- pkg:maven/com.tobedevoured.naether/core@0.13.3?classifier=sources
+- pkg:maven/com.tobedevoured.naether/core@0.13.4
+- pkg:maven/com.tobedevoured.naether/core@0.13.4?classifier=sources
+- pkg:maven/com.tobedevoured.naether/core@0.13.5
+- pkg:maven/com.tobedevoured.naether/core@0.13.5?classifier=sources

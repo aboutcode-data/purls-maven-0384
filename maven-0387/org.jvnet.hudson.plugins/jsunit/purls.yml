@@ -1,0 +1,7 @@
+- pkg:maven/org.jvnet.hudson.plugins/jsunit@0.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/jsunit@0.2?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/jsunit@0.3?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/jsunit@0.4?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/jsunit@1.0?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/jsunit@1.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/jsunit@1.2?classifier=sources

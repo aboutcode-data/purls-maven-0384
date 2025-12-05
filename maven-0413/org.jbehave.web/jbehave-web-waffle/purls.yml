@@ -1,0 +1,12 @@
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-beta-1
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-beta-1?classifier=sources
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-beta-2
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-beta-2?classifier=sources
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-beta-3
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-beta-3?classifier=sources
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-beta-4
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-beta-4?classifier=sources
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-beta-5
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-beta-5?classifier=sources
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-rc1
+- pkg:maven/org.jbehave.web/jbehave-web-waffle@2.0-rc1?classifier=sources

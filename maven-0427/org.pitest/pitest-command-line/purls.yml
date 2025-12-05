@@ -1,0 +1,6 @@
+- pkg:maven/org.pitest/pitest-command-line@0.32
+- pkg:maven/org.pitest/pitest-command-line@0.32?classifier=sources
+- pkg:maven/org.pitest/pitest-command-line@0.33
+- pkg:maven/org.pitest/pitest-command-line@0.33?classifier=sources
+- pkg:maven/org.pitest/pitest-command-line@1.0.0
+- pkg:maven/org.pitest/pitest-command-line@1.0.0?classifier=sources

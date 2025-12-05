@@ -1,0 +1,6 @@
+- pkg:maven/net.stickycode.plugins/bootstrap-maven-plugin@1.2
+- pkg:maven/net.stickycode.plugins/bootstrap-maven-plugin@1.2?classifier=sources
+- pkg:maven/net.stickycode.plugins/bootstrap-maven-plugin@1.4
+- pkg:maven/net.stickycode.plugins/bootstrap-maven-plugin@1.4?classifier=sources
+- pkg:maven/net.stickycode.plugins/bootstrap-maven-plugin@1.9
+- pkg:maven/net.stickycode.plugins/bootstrap-maven-plugin@1.9?classifier=sources

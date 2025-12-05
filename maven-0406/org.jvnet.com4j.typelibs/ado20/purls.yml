@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.com4j.typelibs/ado20@1.0
+- pkg:maven/org.jvnet.com4j.typelibs/ado20@1.0?classifier=sources

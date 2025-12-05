@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.cocoon/cocoon-databases-bridge@1.0.0
+- pkg:maven/org.apache.cocoon/cocoon-databases-bridge@1.0.0?classifier=sources

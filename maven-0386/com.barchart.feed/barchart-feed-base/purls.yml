@@ -1,0 +1,4 @@
+- pkg:maven/com.barchart.feed/barchart-feed-base@1.3.24
+- pkg:maven/com.barchart.feed/barchart-feed-base@1.3.24?classifier=sources
+- pkg:maven/com.barchart.feed/barchart-feed-base@1.3.26
+- pkg:maven/com.barchart.feed/barchart-feed-base@1.3.26?classifier=sources

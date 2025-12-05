@@ -1,0 +1,2 @@
+- pkg:maven/org.osgl/osgl-tool@0.2
+- pkg:maven/org.osgl/osgl-tool@0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.neavo/libumenganalytics@5.2.3?classifier=sources
+- pkg:maven/me.neavo/libumenganalytics@5.2.3?type=aar

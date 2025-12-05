@@ -1,0 +1,4 @@
+- pkg:maven/dentaku/example-web@0.7?type=war
+- pkg:maven/dentaku/example-web@20050105.013502?type=war
+- pkg:maven/dentaku/example-web@20050208.175957
+- pkg:maven/dentaku/example-web@20050708.210634?type=war

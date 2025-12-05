@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jipcam/jipcam@0.9.1
+- pkg:maven/net.sf.jipcam/jipcam@0.9.1?classifier=sources

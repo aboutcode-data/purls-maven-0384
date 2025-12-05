@@ -1,0 +1,4 @@
+- pkg:maven/org.javafxdata/datafx-tutorial2@8.0b4
+- pkg:maven/org.javafxdata/datafx-tutorial2@8.0b4?classifier=sources
+- pkg:maven/org.javafxdata/datafx-tutorial2@8.0b5
+- pkg:maven/org.javafxdata/datafx-tutorial2@8.0b5?classifier=sources

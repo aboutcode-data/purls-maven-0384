@@ -1,0 +1,2 @@
+- pkg:maven/org.jbundle.config/org.jbundle.base.model@1.0.4
+- pkg:maven/org.jbundle.config/org.jbundle.base.model@1.0.4?classifier=sources

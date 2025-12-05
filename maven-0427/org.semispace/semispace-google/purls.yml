@@ -1,0 +1,4 @@
+- pkg:maven/org.semispace/semispace-google@0.9?classifier=sources
+- pkg:maven/org.semispace/semispace-google@0.9?type=war
+- pkg:maven/org.semispace/semispace-google@1.0.0?classifier=sources
+- pkg:maven/org.semispace/semispace-google@1.0.0?type=war

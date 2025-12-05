@@ -1,0 +1,2 @@
+- pkg:maven/org.codelabor/codelabor-commons-calendar@1.0.0
+- pkg:maven/org.codelabor/codelabor-commons-calendar@1.0.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/net.sf.seaf/seaf-persistence@0.3
+- pkg:maven/net.sf.seaf/seaf-persistence@0.3?classifier=sources
+- pkg:maven/net.sf.seaf/seaf-persistence@0.4
+- pkg:maven/net.sf.seaf/seaf-persistence@0.4?classifier=sources
+- pkg:maven/net.sf.seaf/seaf-persistence@0.5
+- pkg:maven/net.sf.seaf/seaf-persistence@0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.infinispan/integrationtests-osgi@7.0.0.Alpha4
+- pkg:maven/org.infinispan/integrationtests-osgi@7.0.0.Alpha4?classifier=sources

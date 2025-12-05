@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.specs/geronimo-concurrent_1.0_spec@1.0-EA
+- pkg:maven/org.apache.geronimo.specs/geronimo-concurrent_1.0_spec@1.0-EA?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.belerweb/alipay-msp@20121026
+- pkg:maven/com.belerweb/alipay-msp@20121026?classifier=sources

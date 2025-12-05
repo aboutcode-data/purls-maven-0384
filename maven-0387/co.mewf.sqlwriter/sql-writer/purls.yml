@@ -1,0 +1,2 @@
+- pkg:maven/co.mewf.sqlwriter/sql-writer@0.1.0
+- pkg:maven/co.mewf.sqlwriter/sql-writer@0.1.0?classifier=sources

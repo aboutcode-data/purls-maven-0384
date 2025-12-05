@@ -1,0 +1,4 @@
+- pkg:maven/org.ops4j.pax.exam/pax-exam-sample4-service@3.0.0.M3
+- pkg:maven/org.ops4j.pax.exam/pax-exam-sample4-service@3.0.0.M3?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-sample4-service@3.0.0.M4
+- pkg:maven/org.ops4j.pax.exam/pax-exam-sample4-service@3.0.0.M4?classifier=sources

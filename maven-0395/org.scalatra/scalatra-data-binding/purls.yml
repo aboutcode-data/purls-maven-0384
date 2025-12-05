@@ -1,0 +1,2 @@
+- pkg:maven/org.scalatra/scalatra-data-binding@2.2.0-RC1
+- pkg:maven/org.scalatra/scalatra-data-binding@2.2.0-RC1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.birt.runtime/javax.xml.stream@1.0.1.v201004272200
+- pkg:maven/org.eclipse.birt.runtime/javax.xml.stream@1.0.1.v201004272200?classifier=sources

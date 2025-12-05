@@ -1,0 +1,3 @@
+- pkg:maven/tomcat/tomcat-apr@5.5.12
+- pkg:maven/tomcat/tomcat-apr@5.5.15
+- pkg:maven/tomcat/tomcat-apr@5.5.23

@@ -1,0 +1,2 @@
+- pkg:maven/com.zenjava.zen-resources/zen-resources@1.0
+- pkg:maven/com.zenjava.zen-resources/zen-resources@1.0?classifier=sources

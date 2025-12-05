@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.sociaal/sdklib@1.0.0
+- pkg:maven/net.sf.sociaal/sdklib@1.0.0?classifier=sources
+- pkg:maven/net.sf.sociaal/sdklib@22.6.3
+- pkg:maven/net.sf.sociaal/sdklib@22.6.3?classifier=sources

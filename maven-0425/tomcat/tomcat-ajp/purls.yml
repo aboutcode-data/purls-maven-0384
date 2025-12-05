@@ -1,0 +1,5 @@
+- pkg:maven/tomcat/tomcat-ajp@4.0.6
+- pkg:maven/tomcat/tomcat-ajp@5.5.12
+- pkg:maven/tomcat/tomcat-ajp@5.5.15
+- pkg:maven/tomcat/tomcat-ajp@5.5.23
+- pkg:maven/tomcat/tomcat-ajp@5.5.9

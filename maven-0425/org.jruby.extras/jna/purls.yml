@@ -1,0 +1,4 @@
+- pkg:maven/org.jruby.extras/jna@3.0
+- pkg:maven/org.jruby.extras/jna@3.0.1
+- pkg:maven/org.jruby.extras/jna@3.0.2
+- pkg:maven/org.jruby.extras/jna@jruby-pre

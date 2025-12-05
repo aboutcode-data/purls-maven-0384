@@ -1,0 +1,4 @@
+- pkg:maven/de.intarsys.opensource/isnativec@5.3
+- pkg:maven/de.intarsys.opensource/isnativec@5.3?classifier=sources
+- pkg:maven/de.intarsys.opensource/isnativec@5.5
+- pkg:maven/de.intarsys.opensource/isnativec@5.5?classifier=sources

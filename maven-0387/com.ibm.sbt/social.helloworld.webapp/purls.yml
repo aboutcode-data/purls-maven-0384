@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.sbt/social.helloworld.webapp@1.0.1?type=war
+- pkg:maven/com.ibm.sbt/social.helloworld.webapp@1.0.2.20140527-1807?type=war

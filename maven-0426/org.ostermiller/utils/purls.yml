@@ -1,0 +1,2 @@
+- pkg:maven/org.ostermiller/utils@1.07.00
+- pkg:maven/org.ostermiller/utils@1.07.00?classifier=sources

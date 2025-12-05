@@ -1,0 +1,2 @@
+- pkg:maven/net.kieker-monitoring/kieker-aspectj@1.6
+- pkg:maven/net.kieker-monitoring/kieker-aspectj@1.6?classifier=sources

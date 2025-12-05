@@ -1,0 +1,12 @@
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.0?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.10?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.2.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.2?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.3?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.4?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.5?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.6?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.7?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.8?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/email-ext@2.9?classifier=sources

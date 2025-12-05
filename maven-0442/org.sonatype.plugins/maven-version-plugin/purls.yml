@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.plugins/maven-version-plugin@1.0
+- pkg:maven/org.sonatype.plugins/maven-version-plugin@1.0?classifier=sources

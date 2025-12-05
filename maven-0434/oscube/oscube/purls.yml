@@ -1,0 +1,6 @@
+- pkg:maven/oscube/oscube@0.1
+- pkg:maven/oscube/oscube@0.1?classifier=sources
+- pkg:maven/oscube/oscube@0.2
+- pkg:maven/oscube/oscube@0.2?classifier=sources
+- pkg:maven/oscube/oscube@0.3
+- pkg:maven/oscube/oscube@0.3?classifier=sources

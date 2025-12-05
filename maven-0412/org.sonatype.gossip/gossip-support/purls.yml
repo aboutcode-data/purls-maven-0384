@@ -1,0 +1,6 @@
+- pkg:maven/org.sonatype.gossip/gossip-support@1.6
+- pkg:maven/org.sonatype.gossip/gossip-support@1.6?classifier=sources
+- pkg:maven/org.sonatype.gossip/gossip-support@1.7
+- pkg:maven/org.sonatype.gossip/gossip-support@1.7?classifier=sources
+- pkg:maven/org.sonatype.gossip/gossip-support@1.8
+- pkg:maven/org.sonatype.gossip/gossip-support@1.8?classifier=sources

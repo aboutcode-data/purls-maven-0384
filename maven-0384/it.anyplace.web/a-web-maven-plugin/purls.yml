@@ -1,0 +1,6 @@
+- pkg:maven/it.anyplace.web/a-web-maven-plugin@1.0
+- pkg:maven/it.anyplace.web/a-web-maven-plugin@1.0?classifier=sources
+- pkg:maven/it.anyplace.web/a-web-maven-plugin@2.0
+- pkg:maven/it.anyplace.web/a-web-maven-plugin@2.0?classifier=sources
+- pkg:maven/it.anyplace.web/a-web-maven-plugin@2.1
+- pkg:maven/it.anyplace.web/a-web-maven-plugin@2.1?classifier=sources

@@ -1,0 +1,13 @@
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.0.0.ga
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.1.0.CR1
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.1.0.CR1?classifier=sources
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.1.0.CR2
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.1.0.CR2?classifier=sources
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.1.0.GA
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.1.0.GA?classifier=sources
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.2.0.Beta1
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.2.0.Beta1?classifier=sources
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.2.0.Final
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.2.0.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.3.0.ga
+- pkg:maven/org.hibernate/hibernate-commons-annotations@3.3.0.ga?classifier=sources

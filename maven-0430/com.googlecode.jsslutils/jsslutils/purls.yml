@@ -1,0 +1,4 @@
+- pkg:maven/com.googlecode.jsslutils/jsslutils@0.3
+- pkg:maven/com.googlecode.jsslutils/jsslutils@0.3?classifier=sources
+- pkg:maven/com.googlecode.jsslutils/jsslutils@0.4
+- pkg:maven/com.googlecode.jsslutils/jsslutils@0.4?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.0?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.0?type=war
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.1?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.1?type=war
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.2?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.2?type=war
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.3?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.3?type=war
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.4?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.4?type=war
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.5?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.5?type=war
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.6?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.6?type=war

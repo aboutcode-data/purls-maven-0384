@@ -1,0 +1,6 @@
+- pkg:maven/dk.eobjects.metamodel/MetaModel-swingcomponents@1.1
+- pkg:maven/dk.eobjects.metamodel/MetaModel-swingcomponents@1.1.1
+- pkg:maven/dk.eobjects.metamodel/MetaModel-swingcomponents@1.1.1?classifier=sources
+- pkg:maven/dk.eobjects.metamodel/MetaModel-swingcomponents@1.1.2
+- pkg:maven/dk.eobjects.metamodel/MetaModel-swingcomponents@1.1.2?classifier=sources
+- pkg:maven/dk.eobjects.metamodel/MetaModel-swingcomponents@1.1?classifier=sources

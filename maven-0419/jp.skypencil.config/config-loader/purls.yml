@@ -1,0 +1,2 @@
+- pkg:maven/jp.skypencil.config/config-loader@1.0.0
+- pkg:maven/jp.skypencil.config/config-loader@1.0.0?classifier=sources

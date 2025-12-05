@@ -1,0 +1,6 @@
+- pkg:maven/org.freehep/freehep-argv@2.0.2
+- pkg:maven/org.freehep/freehep-argv@2.0.2?classifier=sources
+- pkg:maven/org.freehep/freehep-argv@2.1
+- pkg:maven/org.freehep/freehep-argv@2.1.1
+- pkg:maven/org.freehep/freehep-argv@2.1.1?classifier=sources
+- pkg:maven/org.freehep/freehep-argv@2.1?classifier=sources

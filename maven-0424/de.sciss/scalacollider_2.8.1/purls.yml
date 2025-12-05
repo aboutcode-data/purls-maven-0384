@@ -1,0 +1,4 @@
+- pkg:maven/de.sciss/scalacollider_2.8.1@0.23
+- pkg:maven/de.sciss/scalacollider_2.8.1@0.23?classifier=sources
+- pkg:maven/de.sciss/scalacollider_2.8.1@0.24
+- pkg:maven/de.sciss/scalacollider_2.8.1@0.24?classifier=sources

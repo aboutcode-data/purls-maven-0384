@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/lucreevent-expr_2.11@2.6.1
+- pkg:maven/de.sciss/lucreevent-expr_2.11@2.6.1?classifier=sources

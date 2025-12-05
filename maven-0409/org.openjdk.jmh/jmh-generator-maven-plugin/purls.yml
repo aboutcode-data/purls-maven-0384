@@ -1,0 +1,4 @@
+- pkg:maven/org.openjdk.jmh/jmh-generator-maven-plugin@0.5
+- pkg:maven/org.openjdk.jmh/jmh-generator-maven-plugin@0.5.2
+- pkg:maven/org.openjdk.jmh/jmh-generator-maven-plugin@0.5.2?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-generator-maven-plugin@0.5?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.onami/org.apache.onami.parent@1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.onami/org.apache.onami.parent@2-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.onami/org.apache.onami.parent@3-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.onami/org.apache.onami.parent@4?classifier=source-release&type=zip
+- pkg:maven/org.apache.onami/org.apache.onami.parent@5?classifier=source-release&type=zip

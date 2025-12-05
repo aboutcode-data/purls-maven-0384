@@ -1,0 +1,2 @@
+- pkg:maven/org.javabits.maven.md/md-maven-pluging@1.0.0.M3
+- pkg:maven/org.javabits.maven.md/md-maven-pluging@1.0.0.M3?classifier=sources

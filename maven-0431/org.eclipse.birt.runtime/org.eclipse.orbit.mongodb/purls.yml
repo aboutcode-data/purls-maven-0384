@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.orbit.mongodb@2.10.1.v20130422-1135
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.orbit.mongodb@2.10.1.v20130422-1135?classifier=sources

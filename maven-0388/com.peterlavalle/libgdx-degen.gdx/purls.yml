@@ -1,0 +1,2 @@
+- pkg:maven/com.peterlavalle/libgdx-degen.gdx@0.9.6
+- pkg:maven/com.peterlavalle/libgdx-degen.gdx@0.9.6?classifier=sources

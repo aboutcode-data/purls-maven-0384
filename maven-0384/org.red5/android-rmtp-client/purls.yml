@@ -1,0 +1,2 @@
+- pkg:maven/org.red5/android-rmtp-client@0.3
+- pkg:maven/org.red5/android-rmtp-client@0.3?classifier=sources

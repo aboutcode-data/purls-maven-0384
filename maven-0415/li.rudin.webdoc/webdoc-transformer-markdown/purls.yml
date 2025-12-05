@@ -1,0 +1,4 @@
+- pkg:maven/li.rudin.webdoc/webdoc-transformer-markdown@1.6
+- pkg:maven/li.rudin.webdoc/webdoc-transformer-markdown@1.6?classifier=sources
+- pkg:maven/li.rudin.webdoc/webdoc-transformer-markdown@1.7
+- pkg:maven/li.rudin.webdoc/webdoc-transformer-markdown@1.7?classifier=sources

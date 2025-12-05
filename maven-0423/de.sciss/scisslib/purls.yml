@@ -1,0 +1,4 @@
+- pkg:maven/de.sciss/scisslib@0.15
+- pkg:maven/de.sciss/scisslib@0.15?classifier=sources
+- pkg:maven/de.sciss/scisslib@1.0.0
+- pkg:maven/de.sciss/scisslib@1.0.0?classifier=sources

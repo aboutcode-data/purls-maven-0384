@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.openejb/xbean-asm-shaded@3.6-r779512
+- pkg:maven/org.apache.openejb/xbean-asm-shaded@3.6-r779512?classifier=sources

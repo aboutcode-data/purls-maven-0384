@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.james/apache-james-jsieve@0.4?classifier=src&type=tar.gz
+- pkg:maven/org.apache.james/apache-james-jsieve@0.4?classifier=src&type=zip

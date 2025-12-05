@@ -1,0 +1,10 @@
+- pkg:maven/info.archinnov/achilles-test@2.0.10-dse
+- pkg:maven/info.archinnov/achilles-test@2.0.10-dse?classifier=sources
+- pkg:maven/info.archinnov/achilles-test@2.0.12-dse
+- pkg:maven/info.archinnov/achilles-test@2.0.12-dse?classifier=sources
+- pkg:maven/info.archinnov/achilles-test@2.0.13-dse
+- pkg:maven/info.archinnov/achilles-test@2.0.13-dse?classifier=sources
+- pkg:maven/info.archinnov/achilles-test@2.0.9
+- pkg:maven/info.archinnov/achilles-test@2.0.9-dse
+- pkg:maven/info.archinnov/achilles-test@2.0.9-dse?classifier=sources
+- pkg:maven/info.archinnov/achilles-test@2.0.9?classifier=sources

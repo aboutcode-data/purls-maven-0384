@@ -1,0 +1,2 @@
+- pkg:maven/net.zeroinstall.pom2feed/pom2feed-maven-plugin@1.0.0
+- pkg:maven/net.zeroinstall.pom2feed/pom2feed-maven-plugin@1.0.0?classifier=sources

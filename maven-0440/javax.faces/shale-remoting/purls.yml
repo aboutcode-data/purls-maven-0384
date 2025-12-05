@@ -1,0 +1,3 @@
+- pkg:maven/javax.faces/shale-remoting@1.1.0-swdp-a
+- pkg:maven/javax.faces/shale-remoting@1.1.0-swdp-b
+- pkg:maven/javax.faces/shale-remoting@1.1.0-swdp-c

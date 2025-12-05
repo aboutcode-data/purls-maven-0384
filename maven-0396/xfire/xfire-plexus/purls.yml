@@ -1,0 +1,15 @@
+- pkg:maven/xfire/xfire-plexus@1.0-20050913.005153
+- pkg:maven/xfire/xfire-plexus@1.0-20050917.231235
+- pkg:maven/xfire/xfire-plexus@1.0-20050920.032533
+- pkg:maven/xfire/xfire-plexus@1.0-20050920.035001
+- pkg:maven/xfire/xfire-plexus@1.0-20051009.200602
+- pkg:maven/xfire/xfire-plexus@1.0-M3?classifier=src&type=tar.gz
+- pkg:maven/xfire/xfire-plexus@1.0-M3?classifier=src&type=zip
+- pkg:maven/xfire/xfire-plexus@1.0-M4
+- pkg:maven/xfire/xfire-plexus@1.0-M5
+- pkg:maven/xfire/xfire-plexus@1.0-alpha-1?classifier=src&type=tar.gz
+- pkg:maven/xfire/xfire-plexus@1.0-alpha-1?classifier=src&type=zip
+- pkg:maven/xfire/xfire-plexus@1.0-alpha-2?classifier=src&type=tar.gz
+- pkg:maven/xfire/xfire-plexus@1.0-alpha-2?classifier=src&type=zip
+- pkg:maven/xfire/xfire-plexus@20041222
+- pkg:maven/xfire/xfire-plexus@20050103.051819

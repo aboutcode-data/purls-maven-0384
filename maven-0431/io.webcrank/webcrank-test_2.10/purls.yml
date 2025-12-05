@@ -1,0 +1,2 @@
+- pkg:maven/io.webcrank/webcrank-test_2.10@0.2
+- pkg:maven/io.webcrank/webcrank-test_2.10@0.2?classifier=sources

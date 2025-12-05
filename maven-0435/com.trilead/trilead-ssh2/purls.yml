@@ -1,0 +1,6 @@
+- pkg:maven/com.trilead/trilead-ssh2@1.0.0-build215
+- pkg:maven/com.trilead/trilead-ssh2@1.0.0-build215?classifier=sources
+- pkg:maven/com.trilead/trilead-ssh2@1.0.0-build217
+- pkg:maven/com.trilead/trilead-ssh2@1.0.0-build217?classifier=sources
+- pkg:maven/com.trilead/trilead-ssh2@build213-svnkit-1.3-patch
+- pkg:maven/com.trilead/trilead-ssh2@build213-svnkit-1.3-patch?classifier=sources

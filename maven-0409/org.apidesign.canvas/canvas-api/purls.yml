@@ -1,0 +1,2 @@
+- pkg:maven/org.apidesign.canvas/canvas-api@0.5.2
+- pkg:maven/org.apidesign.canvas/canvas-api@0.5.2?classifier=sources

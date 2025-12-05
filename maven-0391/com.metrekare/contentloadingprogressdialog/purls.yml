@@ -1,0 +1,2 @@
+- pkg:maven/com.metrekare/contentloadingprogressdialog@0.1?classifier=sources
+- pkg:maven/com.metrekare/contentloadingprogressdialog@0.1?type=aar

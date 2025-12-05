@@ -1,0 +1,2 @@
+- pkg:maven/se.jguru.nazgul.core.quickstart.analyzer.impl.nazgul/nazgul-core-analyzer-impl-nazgul@1.6.0
+- pkg:maven/se.jguru.nazgul.core.quickstart.analyzer.impl.nazgul/nazgul-core-analyzer-impl-nazgul@1.6.0?classifier=sources

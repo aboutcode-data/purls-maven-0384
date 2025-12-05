@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.brunneng.fusie/fusie@0.8.1
+- pkg:maven/net.sf.brunneng.fusie/fusie@0.8.1?classifier=sources

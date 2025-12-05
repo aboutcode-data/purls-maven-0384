@@ -1,0 +1,2 @@
+- pkg:maven/au.net.ocean.maven.plugin/maven-plugin-annotations@1.0
+- pkg:maven/au.net.ocean.maven.plugin/maven-plugin-annotations@1.0?classifier=sources

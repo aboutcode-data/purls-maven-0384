@@ -1,0 +1,2 @@
+- pkg:maven/eu.unicore/unicore-client-wrapper@1.6.0-p4_1
+- pkg:maven/eu.unicore/unicore-client-wrapper@1.6.0-p4_1?classifier=sources

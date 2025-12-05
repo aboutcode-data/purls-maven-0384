@@ -1,0 +1,4 @@
+- pkg:maven/com.pelzer.util/pelzer-queue@1.0.0
+- pkg:maven/com.pelzer.util/pelzer-queue@1.0.0?classifier=sources
+- pkg:maven/com.pelzer.util/pelzer-queue@1.1.0
+- pkg:maven/com.pelzer.util/pelzer-queue@1.1.0?classifier=sources

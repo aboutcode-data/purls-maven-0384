@@ -1,0 +1,6 @@
+- pkg:maven/org.mod4j/mod4j-buildtools@1.0.0
+- pkg:maven/org.mod4j/mod4j-buildtools@1.0.0-beta-3
+- pkg:maven/org.mod4j/mod4j-buildtools@1.0.0-beta-3?classifier=sources
+- pkg:maven/org.mod4j/mod4j-buildtools@1.0.0?classifier=sources
+- pkg:maven/org.mod4j/mod4j-buildtools@1.0.1
+- pkg:maven/org.mod4j/mod4j-buildtools@1.0.1?classifier=sources

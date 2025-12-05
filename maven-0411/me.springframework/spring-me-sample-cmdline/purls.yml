@@ -1,0 +1,2 @@
+- pkg:maven/me.springframework/spring-me-sample-cmdline@1.0
+- pkg:maven/me.springframework/spring-me-sample-cmdline@1.0?classifier=sources

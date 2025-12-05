@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.spec.javax.ejb/jboss-ejb-api_3.0_spec@1.0.0.Beta1
+- pkg:maven/org.jboss.spec.javax.ejb/jboss-ejb-api_3.0_spec@1.0.0.Beta1?classifier=sources

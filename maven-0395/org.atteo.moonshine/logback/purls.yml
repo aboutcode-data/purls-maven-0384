@@ -1,0 +1,2 @@
+- pkg:maven/org.atteo.moonshine/logback@0.9
+- pkg:maven/org.atteo.moonshine/logback@0.9?classifier=sources

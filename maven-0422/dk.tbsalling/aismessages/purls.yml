@@ -1,0 +1,2 @@
+- pkg:maven/dk.tbsalling/aismessages@1.08
+- pkg:maven/dk.tbsalling/aismessages@1.08?classifier=sources

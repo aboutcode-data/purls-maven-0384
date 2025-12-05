@@ -1,0 +1,4 @@
+- pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt013@1.0.0-beta3
+- pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt013@1.0.0-beta3?classifier=sources
+- pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt013@1.0.0-beta4
+- pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt013@1.0.0-beta4?classifier=sources

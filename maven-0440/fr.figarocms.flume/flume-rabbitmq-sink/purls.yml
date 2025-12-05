@@ -1,0 +1,2 @@
+- pkg:maven/fr.figarocms.flume/flume-rabbitmq-sink@1.1
+- pkg:maven/fr.figarocms.flume/flume-rabbitmq-sink@1.1?classifier=sources

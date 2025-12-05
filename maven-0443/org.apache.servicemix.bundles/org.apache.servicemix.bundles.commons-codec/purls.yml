@@ -1,0 +1,9 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-codec@1.2_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-codec@1.2_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-codec@1.2_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-codec@1.2_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-codec@1.3_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-codec@1.3_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-codec@1.3_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-codec@1.3_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-codec@1.3_5?classifier=sources

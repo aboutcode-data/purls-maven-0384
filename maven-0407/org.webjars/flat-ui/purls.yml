@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars/flat-ui@bcaf2de95e
+- pkg:maven/org.webjars/flat-ui@bcaf2de95e?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.etl-unit/etlunit-module-mojo@1.6.9
+- pkg:maven/com.googlecode.etl-unit/etlunit-module-mojo@1.6.9?classifier=sources

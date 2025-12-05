@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.portals.applications/apa-dbbrowser@1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.applications/apa-dbbrowser@1.2?classifier=source-release&type=zip

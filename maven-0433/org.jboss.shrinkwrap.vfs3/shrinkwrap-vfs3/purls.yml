@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.shrinkwrap.vfs3/shrinkwrap-vfs3@1.0.0-cr-1
+- pkg:maven/org.jboss.shrinkwrap.vfs3/shrinkwrap-vfs3@1.0.0-cr-1?classifier=sources

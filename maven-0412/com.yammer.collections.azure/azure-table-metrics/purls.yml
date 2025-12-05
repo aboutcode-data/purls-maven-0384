@@ -1,0 +1,4 @@
+- pkg:maven/com.yammer.collections.azure/azure-table-metrics@1.1.4
+- pkg:maven/com.yammer.collections.azure/azure-table-metrics@1.1.4?classifier=sources
+- pkg:maven/com.yammer.collections.azure/azure-table-metrics@2.0.1
+- pkg:maven/com.yammer.collections.azure/azure-table-metrics@2.0.1?classifier=sources

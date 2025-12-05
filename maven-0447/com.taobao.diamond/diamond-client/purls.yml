@@ -1,0 +1,2 @@
+- pkg:maven/com.taobao.diamond/diamond-client@3.7.0-sopen
+- pkg:maven/com.taobao.diamond/diamond-client@3.7.0-sopen?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/nl.pieni.maven.dependency-analyzer/maven-dependency-analyzer@0.6
+- pkg:maven/nl.pieni.maven.dependency-analyzer/maven-dependency-analyzer@0.6?classifier=sources
+- pkg:maven/nl.pieni.maven.dependency-analyzer/maven-dependency-analyzer@0.8
+- pkg:maven/nl.pieni.maven.dependency-analyzer/maven-dependency-analyzer@0.8?classifier=sources

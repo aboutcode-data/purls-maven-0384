@@ -1,0 +1,16 @@
+- pkg:maven/ws.ladder/ladder@0.216
+- pkg:maven/ws.ladder/ladder@0.216?classifier=sources
+- pkg:maven/ws.ladder/ladder@1.0.236
+- pkg:maven/ws.ladder/ladder@1.0.236?classifier=sources
+- pkg:maven/ws.ladder/ladder@1.0.260
+- pkg:maven/ws.ladder/ladder@1.0.260?classifier=sources
+- pkg:maven/ws.ladder/ladder@1.1
+- pkg:maven/ws.ladder/ladder@1.1?classifier=sources
+- pkg:maven/ws.ladder/ladder@1.2
+- pkg:maven/ws.ladder/ladder@1.2.1
+- pkg:maven/ws.ladder/ladder@1.2.1?classifier=sources
+- pkg:maven/ws.ladder/ladder@1.2.2
+- pkg:maven/ws.ladder/ladder@1.2.2?classifier=sources
+- pkg:maven/ws.ladder/ladder@1.2.3
+- pkg:maven/ws.ladder/ladder@1.2.3?classifier=sources
+- pkg:maven/ws.ladder/ladder@1.2?classifier=sources

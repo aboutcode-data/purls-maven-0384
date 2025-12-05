@@ -1,0 +1,2 @@
+- pkg:maven/net.java.dev.weblets/weblets@0.1
+- pkg:maven/net.java.dev.weblets/weblets@0.1?classifier=sources

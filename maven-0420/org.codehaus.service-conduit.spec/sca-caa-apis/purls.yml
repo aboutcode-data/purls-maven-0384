@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.service-conduit.spec/sca-caa-apis@1.1-CD04
+- pkg:maven/org.codehaus.service-conduit.spec/sca-caa-apis@1.1-CD04?classifier=sources

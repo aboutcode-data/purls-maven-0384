@@ -1,0 +1,4 @@
+- pkg:maven/com.mycila/mycila-jmx@1.0.rc1
+- pkg:maven/com.mycila/mycila-jmx@1.0.rc1?classifier=sources
+- pkg:maven/com.mycila/mycila-jmx@1.1.ga
+- pkg:maven/com.mycila/mycila-jmx@1.1.ga?classifier=sources

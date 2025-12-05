@@ -1,0 +1,9 @@
+- pkg:maven/org.jboss.test.richfaces-selenium/test@1.5.0.Final
+- pkg:maven/org.jboss.test.richfaces-selenium/test@1.5.1.Final
+- pkg:maven/org.jboss.test.richfaces-selenium/test@1.5.2.Final
+- pkg:maven/org.jboss.test.richfaces-selenium/test@1.5.2.SP1
+- pkg:maven/org.jboss.test.richfaces-selenium/test@1.5.2.SP2
+- pkg:maven/org.jboss.test.richfaces-selenium/test@1.5.2.SP3
+- pkg:maven/org.jboss.test.richfaces-selenium/test@1.5.2.SP4
+- pkg:maven/org.jboss.test.richfaces-selenium/test@1.5.2.SP5
+- pkg:maven/org.jboss.test.richfaces-selenium/test@1.5.3.Final

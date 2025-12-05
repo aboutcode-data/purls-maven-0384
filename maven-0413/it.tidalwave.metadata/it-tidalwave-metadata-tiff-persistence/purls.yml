@@ -1,0 +1,5 @@
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-tiff-persistence@1.1.29?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-tiff-persistence@1.1.30?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-tiff-persistence@1.1.31?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-tiff-persistence@1.1.32?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-tiff-persistence@1.1.33?classifier=sources

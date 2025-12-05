@@ -1,0 +1,2 @@
+- pkg:maven/com.shakingearthdigital/logutil-lib@1.0.0?classifier=sources
+- pkg:maven/com.shakingearthdigital/logutil-lib@1.0.0?type=aar

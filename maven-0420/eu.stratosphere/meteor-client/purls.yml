@@ -1,0 +1,2 @@
+- pkg:maven/eu.stratosphere/meteor-client@0.4
+- pkg:maven/eu.stratosphere/meteor-client@0.4?classifier=sources

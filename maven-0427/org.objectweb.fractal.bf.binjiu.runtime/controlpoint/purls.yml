@@ -1,0 +1,4 @@
+- pkg:maven/org.objectweb.fractal.bf.binjiu.runtime/controlpoint@0.1
+- pkg:maven/org.objectweb.fractal.bf.binjiu.runtime/controlpoint@0.8
+- pkg:maven/org.objectweb.fractal.bf.binjiu.runtime/controlpoint@0.8?classifier=sources
+- pkg:maven/org.objectweb.fractal.bf.binjiu.runtime/controlpoint@0.9

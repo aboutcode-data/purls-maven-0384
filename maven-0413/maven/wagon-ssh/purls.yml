@@ -1,0 +1,4 @@
+- pkg:maven/maven/wagon-ssh@1.0-alpha-1
+- pkg:maven/maven/wagon-ssh@1.0-alpha-3
+- pkg:maven/maven/wagon-ssh@20040703.124428
+- pkg:maven/maven/wagon-ssh@20040703.124914

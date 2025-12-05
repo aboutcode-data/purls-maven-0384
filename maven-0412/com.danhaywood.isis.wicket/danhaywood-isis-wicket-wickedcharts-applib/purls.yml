@@ -1,0 +1,4 @@
+- pkg:maven/com.danhaywood.isis.wicket/danhaywood-isis-wicket-wickedcharts-applib@1.2.0
+- pkg:maven/com.danhaywood.isis.wicket/danhaywood-isis-wicket-wickedcharts-applib@1.2.0?classifier=sources
+- pkg:maven/com.danhaywood.isis.wicket/danhaywood-isis-wicket-wickedcharts-applib@1.4.0
+- pkg:maven/com.danhaywood.isis.wicket/danhaywood-isis-wicket-wickedcharts-applib@1.4.0?classifier=sources

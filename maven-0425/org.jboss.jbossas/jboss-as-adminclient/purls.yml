@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.jbossas/jboss-as-adminclient@5.1.0.GA
+- pkg:maven/org.jboss.jbossas/jboss-as-adminclient@5.1.0.GA?classifier=sources
+- pkg:maven/org.jboss.jbossas/jboss-as-adminclient@6.0.0.M1
+- pkg:maven/org.jboss.jbossas/jboss-as-adminclient@6.0.0.M1?classifier=sources

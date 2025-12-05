@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.mojo.groovy.support/slf4j-gossip@1.0-beta-3
+- pkg:maven/org.codehaus.mojo.groovy.support/slf4j-gossip@1.0-beta-3?classifier=sources

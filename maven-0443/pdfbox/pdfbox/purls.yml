@@ -1,0 +1,4 @@
+- pkg:maven/pdfbox/pdfbox@0.6.4
+- pkg:maven/pdfbox/pdfbox@0.6.4?classifier=sources
+- pkg:maven/pdfbox/pdfbox@0.7.1
+- pkg:maven/pdfbox/pdfbox@0.7.3

@@ -1,0 +1,2 @@
+- pkg:maven/com.carrotgarden.maven/carrot-maven-slf4j-impl@1.1.0
+- pkg:maven/com.carrotgarden.maven/carrot-maven-slf4j-impl@1.1.0?classifier=sources

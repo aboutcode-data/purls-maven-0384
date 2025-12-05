@@ -1,0 +1,2 @@
+- pkg:maven/org.pitest/classycle-maven-plugin@0.4
+- pkg:maven/org.pitest/classycle-maven-plugin@0.4?classifier=sources

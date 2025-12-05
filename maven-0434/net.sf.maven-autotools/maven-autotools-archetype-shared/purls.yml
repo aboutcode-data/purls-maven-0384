@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.maven-autotools/maven-autotools-archetype-shared@0.2
+- pkg:maven/net.sf.maven-autotools/maven-autotools-archetype-shared@0.2?classifier=sources

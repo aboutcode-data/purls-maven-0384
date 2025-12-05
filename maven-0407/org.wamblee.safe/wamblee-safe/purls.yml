@@ -1,0 +1,2 @@
+- pkg:maven/org.wamblee.safe/wamblee-safe@0.4?classifier=sources
+- pkg:maven/org.wamblee.safe/wamblee-safe@0.4?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.activemq/org.apache.servicemix.activemq.service@5.0.1
+- pkg:maven/org.apache.servicemix.activemq/org.apache.servicemix.activemq.service@5.0.1?classifier=sources

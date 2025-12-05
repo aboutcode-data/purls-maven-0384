@@ -1,0 +1,8 @@
+- pkg:maven/hibernate/hibernate-annotations@3.0alpha3
+- pkg:maven/hibernate/hibernate-annotations@3.0beta1
+- pkg:maven/hibernate/hibernate-annotations@3.0beta2
+- pkg:maven/hibernate/hibernate-annotations@3.1beta3
+- pkg:maven/hibernate/hibernate-annotations@3.1beta4
+- pkg:maven/hibernate/hibernate-annotations@3.1beta4?classifier=sources
+- pkg:maven/hibernate/hibernate-annotations@3.1beta5?classifier=sources
+- pkg:maven/hibernate/hibernate-annotations@3.1beta6?classifier=sources

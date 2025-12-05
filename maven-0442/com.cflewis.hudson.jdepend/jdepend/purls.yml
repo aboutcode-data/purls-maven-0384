@@ -1,0 +1,1 @@
+- pkg:maven/com.cflewis.hudson.jdepend/jdepend@1.0?classifier=sources

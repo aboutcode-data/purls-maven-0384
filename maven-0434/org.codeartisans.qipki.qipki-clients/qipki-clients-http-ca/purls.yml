@@ -1,0 +1,6 @@
+- pkg:maven/org.codeartisans.qipki.qipki-clients/qipki-clients-http-ca@1.0-alpha5
+- pkg:maven/org.codeartisans.qipki.qipki-clients/qipki-clients-http-ca@1.0-alpha5?classifier=sources
+- pkg:maven/org.codeartisans.qipki.qipki-clients/qipki-clients-http-ca@1.0-alpha6
+- pkg:maven/org.codeartisans.qipki.qipki-clients/qipki-clients-http-ca@1.0-alpha6?classifier=sources
+- pkg:maven/org.codeartisans.qipki.qipki-clients/qipki-clients-http-ca@1.0-alpha7
+- pkg:maven/org.codeartisans.qipki.qipki-clients/qipki-clients-http-ca@1.0-alpha7?classifier=sources

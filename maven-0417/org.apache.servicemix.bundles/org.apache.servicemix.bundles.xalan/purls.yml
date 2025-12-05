@@ -1,0 +1,14 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_5?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_6
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_6?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_6?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_6?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_7
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_7?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_7?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.1_7?classifier=src&type=zip

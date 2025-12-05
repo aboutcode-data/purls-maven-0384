@@ -1,0 +1,8 @@
+- pkg:maven/net.sf.squirrel-sql.plugins/greenplum@3.3.0
+- pkg:maven/net.sf.squirrel-sql.plugins/greenplum@3.3.0-rc1
+- pkg:maven/net.sf.squirrel-sql.plugins/greenplum@3.3.0-rc1?classifier=sources
+- pkg:maven/net.sf.squirrel-sql.plugins/greenplum@3.3.0?classifier=sources
+- pkg:maven/net.sf.squirrel-sql.plugins/greenplum@3.4.0
+- pkg:maven/net.sf.squirrel-sql.plugins/greenplum@3.4.0?classifier=sources
+- pkg:maven/net.sf.squirrel-sql.plugins/greenplum@3.5.0
+- pkg:maven/net.sf.squirrel-sql.plugins/greenplum@3.5.0?classifier=sources

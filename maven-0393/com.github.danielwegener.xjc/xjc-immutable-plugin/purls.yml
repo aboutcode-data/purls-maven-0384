@@ -1,0 +1,2 @@
+- pkg:maven/com.github.danielwegener.xjc/xjc-immutable-plugin@0.1
+- pkg:maven/com.github.danielwegener.xjc/xjc-immutable-plugin@0.1?classifier=sources

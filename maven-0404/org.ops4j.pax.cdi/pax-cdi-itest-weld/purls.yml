@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-itest-weld@0.3.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-itest-weld@0.4.0

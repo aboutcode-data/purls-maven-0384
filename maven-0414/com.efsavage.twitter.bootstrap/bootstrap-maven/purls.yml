@@ -1,0 +1,6 @@
+- pkg:maven/com.efsavage.twitter.bootstrap/bootstrap-maven@2.0.4
+- pkg:maven/com.efsavage.twitter.bootstrap/bootstrap-maven@2.0.4?classifier=sources
+- pkg:maven/com.efsavage.twitter.bootstrap/bootstrap-maven@2.1.1
+- pkg:maven/com.efsavage.twitter.bootstrap/bootstrap-maven@2.1.1?classifier=sources
+- pkg:maven/com.efsavage.twitter.bootstrap/bootstrap-maven@2.3.1
+- pkg:maven/com.efsavage.twitter.bootstrap/bootstrap-maven@2.3.1?classifier=sources

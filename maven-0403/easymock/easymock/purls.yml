@@ -1,0 +1,13 @@
+- pkg:maven/easymock/easymock@0.8
+- pkg:maven/easymock/easymock@1.0
+- pkg:maven/easymock/easymock@1.0.1b
+- pkg:maven/easymock/easymock@1.0rc
+- pkg:maven/easymock/easymock@1.1
+- pkg:maven/easymock/easymock@1.1?classifier=sources
+- pkg:maven/easymock/easymock@1.2_Java1.3
+- pkg:maven/easymock/easymock@1.2_Java1.3?classifier=sources
+- pkg:maven/easymock/easymock@1.2_Java1.5
+- pkg:maven/easymock/easymock@1.2_Java1.5?classifier=sources
+- pkg:maven/easymock/easymock@1.2_RC2_Java1.3
+- pkg:maven/easymock/easymock@2.0
+- pkg:maven/easymock/easymock@2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-role@1.0.0?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-role@1.0.1?classifier=sources

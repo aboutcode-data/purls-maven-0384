@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.sit/sit@0.1
+- pkg:maven/net.sf.sit/sit@0.1?classifier=sources

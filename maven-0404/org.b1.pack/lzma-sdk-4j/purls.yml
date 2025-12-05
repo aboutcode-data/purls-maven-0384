@@ -1,0 +1,2 @@
+- pkg:maven/org.b1.pack/lzma-sdk-4j@9.22.0
+- pkg:maven/org.b1.pack/lzma-sdk-4j@9.22.0?classifier=sources

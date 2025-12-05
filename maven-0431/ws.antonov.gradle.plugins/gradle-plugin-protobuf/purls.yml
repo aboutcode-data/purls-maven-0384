@@ -1,0 +1,14 @@
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.4
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.4?classifier=sources
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.5
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.5?classifier=sources
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.6
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.6?classifier=sources
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.7
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.7?classifier=sources
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.8
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.8?classifier=sources
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.9
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.9.1
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.9.1?classifier=sources
+- pkg:maven/ws.antonov.gradle.plugins/gradle-plugin-protobuf@0.9?classifier=sources

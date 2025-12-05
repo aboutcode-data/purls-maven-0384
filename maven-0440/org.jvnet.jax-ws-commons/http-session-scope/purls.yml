@@ -1,0 +1,6 @@
+- pkg:maven/org.jvnet.jax-ws-commons/http-session-scope@1.0
+- pkg:maven/org.jvnet.jax-ws-commons/http-session-scope@1.0?classifier=sources
+- pkg:maven/org.jvnet.jax-ws-commons/http-session-scope@1.1
+- pkg:maven/org.jvnet.jax-ws-commons/http-session-scope@1.1?classifier=sources
+- pkg:maven/org.jvnet.jax-ws-commons/http-session-scope@1.1?classifier=src&type=tar.gz
+- pkg:maven/org.jvnet.jax-ws-commons/http-session-scope@1.1?classifier=src&type=zip

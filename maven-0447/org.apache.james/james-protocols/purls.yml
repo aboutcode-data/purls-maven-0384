@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.james/james-protocols@1.0?classifier=source-release&type=zip

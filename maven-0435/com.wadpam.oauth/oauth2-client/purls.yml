@@ -1,0 +1,4 @@
+- pkg:maven/com.wadpam.oauth/oauth2-client@1.4
+- pkg:maven/com.wadpam.oauth/oauth2-client@1.4?classifier=sources
+- pkg:maven/com.wadpam.oauth/oauth2-client@1.9
+- pkg:maven/com.wadpam.oauth/oauth2-client@1.9?classifier=sources

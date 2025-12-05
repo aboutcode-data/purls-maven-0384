@@ -1,0 +1,2 @@
+- pkg:maven/org.omnaest.maven.plugin/maven-technology-timeline-plugin@1.0.0
+- pkg:maven/org.omnaest.maven.plugin/maven-technology-timeline-plugin@1.0.0?classifier=sources

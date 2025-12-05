@@ -1,0 +1,2 @@
+- pkg:maven/xfire/xfire-demo@0.1?classifier=src&type=tar.gz
+- pkg:maven/xfire/xfire-demo@0.1?classifier=src&type=zip

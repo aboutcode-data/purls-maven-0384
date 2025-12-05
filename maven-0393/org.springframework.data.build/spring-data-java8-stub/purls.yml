@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.0.RELEASE
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.0.RELEASE?classifier=sources

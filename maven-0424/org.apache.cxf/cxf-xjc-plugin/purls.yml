@@ -1,0 +1,16 @@
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.3.0
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.3.0?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.3.2
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.3.2?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.4.0
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.4.0?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.6.0
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.6.0?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.6.1
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.6.1?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.6.2
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.6.2?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.7.0
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@2.7.0?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@3.0.0
+- pkg:maven/org.apache.cxf/cxf-xjc-plugin@3.0.0?classifier=sources

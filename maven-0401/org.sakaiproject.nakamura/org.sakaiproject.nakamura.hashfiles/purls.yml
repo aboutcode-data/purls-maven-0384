@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject.nakamura/org.sakaiproject.nakamura.hashfiles@1.2.0-RC1
+- pkg:maven/org.sakaiproject.nakamura/org.sakaiproject.nakamura.hashfiles@1.2.0-RC1?classifier=sources

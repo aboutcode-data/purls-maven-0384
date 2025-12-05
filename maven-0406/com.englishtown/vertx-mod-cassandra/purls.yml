@@ -1,0 +1,2 @@
+- pkg:maven/com.englishtown/vertx-mod-cassandra@1.0.0
+- pkg:maven/com.englishtown/vertx-mod-cassandra@1.0.0?classifier=sources

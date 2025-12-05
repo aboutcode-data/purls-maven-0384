@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate/enhance-maven-plugin@4.2.8.Final
+- pkg:maven/org.hibernate/enhance-maven-plugin@4.2.8.Final?classifier=sources

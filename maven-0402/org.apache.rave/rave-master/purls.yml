@@ -1,0 +1,7 @@
+- pkg:maven/org.apache.rave/rave-master@0.1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.rave/rave-master@0.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.rave/rave-master@0.19?classifier=source-release&type=zip
+- pkg:maven/org.apache.rave/rave-master@0.21?classifier=source-release&type=zip
+- pkg:maven/org.apache.rave/rave-master@0.23?classifier=source-release&type=zip
+- pkg:maven/org.apache.rave/rave-master@0.3-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.rave/rave-master@0.8-incubating?classifier=source-release&type=zip

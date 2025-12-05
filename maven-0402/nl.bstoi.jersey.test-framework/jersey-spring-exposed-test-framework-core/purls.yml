@@ -1,0 +1,2 @@
+- pkg:maven/nl.bstoi.jersey.test-framework/jersey-spring-exposed-test-framework-core@2.9
+- pkg:maven/nl.bstoi.jersey.test-framework/jersey-spring-exposed-test-framework-core@2.9?classifier=sources

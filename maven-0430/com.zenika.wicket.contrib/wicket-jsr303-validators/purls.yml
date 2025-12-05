@@ -1,0 +1,2 @@
+- pkg:maven/com.zenika.wicket.contrib/wicket-jsr303-validators@6.6.0
+- pkg:maven/com.zenika.wicket.contrib/wicket-jsr303-validators@6.6.0?classifier=sources

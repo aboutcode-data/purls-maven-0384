@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.geronimo.bundles/jaxb-impl@2.2.3-1_1
+- pkg:maven/org.apache.geronimo.bundles/jaxb-impl@2.2.3-1_1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.bundles/jaxb-impl@2.2.3-1_1?classifier=sources
+- pkg:maven/org.apache.geronimo.bundles/jaxb-impl@2.2_1
+- pkg:maven/org.apache.geronimo.bundles/jaxb-impl@2.2_1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.bundles/jaxb-impl@2.2_1?classifier=sources

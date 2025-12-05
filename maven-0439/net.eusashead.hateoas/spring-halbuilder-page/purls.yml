@@ -1,0 +1,2 @@
+- pkg:maven/net.eusashead.hateoas/spring-halbuilder-page@1.0.0.RELEASE
+- pkg:maven/net.eusashead.hateoas/spring-halbuilder-page@1.0.0.RELEASE?classifier=sources

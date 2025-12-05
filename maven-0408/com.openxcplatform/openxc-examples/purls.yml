@@ -1,0 +1,4 @@
+- pkg:maven/com.openxcplatform/openxc-examples@4.0.3?classifier=sources
+- pkg:maven/com.openxcplatform/openxc-examples@5.0.0?classifier=sources
+- pkg:maven/com.openxcplatform/openxc-examples@5.1.0?classifier=sources
+- pkg:maven/com.openxcplatform/openxc-examples@5.1.1?classifier=sources

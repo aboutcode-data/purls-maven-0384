@@ -1,0 +1,4 @@
+- pkg:maven/org.streum/configrity-yaml_2.9.0-1@0.10.1
+- pkg:maven/org.streum/configrity-yaml_2.9.0-1@0.10.1?classifier=sources
+- pkg:maven/org.streum/configrity-yaml_2.9.0-1@0.10.2
+- pkg:maven/org.streum/configrity-yaml_2.9.0-1@0.10.2?classifier=sources

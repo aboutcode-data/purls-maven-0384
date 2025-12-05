@@ -1,0 +1,4 @@
+- pkg:maven/org.kasource.websocket/ka-websocket-spring@0.2
+- pkg:maven/org.kasource.websocket/ka-websocket-spring@0.2?classifier=sources
+- pkg:maven/org.kasource.websocket/ka-websocket-spring@0.3
+- pkg:maven/org.kasource.websocket/ka-websocket-spring@0.3?classifier=sources

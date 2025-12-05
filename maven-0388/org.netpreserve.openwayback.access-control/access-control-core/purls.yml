@@ -1,0 +1,2 @@
+- pkg:maven/org.netpreserve.openwayback.access-control/access-control-core@1.0.0
+- pkg:maven/org.netpreserve.openwayback.access-control/access-control-core@1.0.0?classifier=sources

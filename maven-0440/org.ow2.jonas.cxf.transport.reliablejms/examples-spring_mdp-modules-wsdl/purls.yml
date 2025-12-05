@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.jonas.cxf.transport.reliablejms/examples-spring_mdp-modules-wsdl@0.1
+- pkg:maven/org.ow2.jonas.cxf.transport.reliablejms/examples-spring_mdp-modules-wsdl@0.1?classifier=sources

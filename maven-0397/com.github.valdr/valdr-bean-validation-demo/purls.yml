@@ -1,0 +1,4 @@
+- pkg:maven/com.github.valdr/valdr-bean-validation-demo@1.0.0-rc2?classifier=sources
+- pkg:maven/com.github.valdr/valdr-bean-validation-demo@1.0.0-rc2?type=war
+- pkg:maven/com.github.valdr/valdr-bean-validation-demo@1.0.0-rc3?classifier=sources
+- pkg:maven/com.github.valdr/valdr-bean-validation-demo@1.0.0-rc3?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.jasig.ssp.platform/platform-java-api@0.1.0
+- pkg:maven/org.jasig.ssp.platform/platform-java-api@0.1.0?classifier=sources

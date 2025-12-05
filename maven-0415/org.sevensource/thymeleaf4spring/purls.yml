@@ -1,0 +1,8 @@
+- pkg:maven/org.sevensource/thymeleaf4spring@0.0.1
+- pkg:maven/org.sevensource/thymeleaf4spring@0.0.1?classifier=sources
+- pkg:maven/org.sevensource/thymeleaf4spring@0.0.2
+- pkg:maven/org.sevensource/thymeleaf4spring@0.0.2?classifier=sources
+- pkg:maven/org.sevensource/thymeleaf4spring@0.1.1
+- pkg:maven/org.sevensource/thymeleaf4spring@0.1.1?classifier=sources
+- pkg:maven/org.sevensource/thymeleaf4spring@0.1.2
+- pkg:maven/org.sevensource/thymeleaf4spring@0.1.2?classifier=sources

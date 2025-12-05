@@ -1,0 +1,2 @@
+- pkg:maven/org.liquibase.ext/liquibase-sequencetable@3.0
+- pkg:maven/org.liquibase.ext/liquibase-sequencetable@3.0?classifier=sources

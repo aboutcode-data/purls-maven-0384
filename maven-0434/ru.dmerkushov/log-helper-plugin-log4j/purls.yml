@@ -1,0 +1,2 @@
+- pkg:maven/ru.dmerkushov/log-helper-plugin-log4j@2.0.2
+- pkg:maven/ru.dmerkushov/log-helper-plugin-log4j@2.0.2?classifier=sources

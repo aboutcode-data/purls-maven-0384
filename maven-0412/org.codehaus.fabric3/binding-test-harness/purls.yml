@@ -1,0 +1,10 @@
+- pkg:maven/org.codehaus.fabric3/binding-test-harness@0.1
+- pkg:maven/org.codehaus.fabric3/binding-test-harness@0.1?classifier=sources
+- pkg:maven/org.codehaus.fabric3/binding-test-harness@0.2
+- pkg:maven/org.codehaus.fabric3/binding-test-harness@0.2?classifier=sources
+- pkg:maven/org.codehaus.fabric3/binding-test-harness@0.5ALPHA1
+- pkg:maven/org.codehaus.fabric3/binding-test-harness@0.5ALPHA1?classifier=sources
+- pkg:maven/org.codehaus.fabric3/binding-test-harness@0.5ALPHA2
+- pkg:maven/org.codehaus.fabric3/binding-test-harness@0.5ALPHA2?classifier=sources
+- pkg:maven/org.codehaus.fabric3/binding-test-harness@0.5BETA1
+- pkg:maven/org.codehaus.fabric3/binding-test-harness@0.5BETA1?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.fasterxml/classmate@0.5.2
+- pkg:maven/com.fasterxml/classmate@0.5.2?classifier=sources
+- pkg:maven/com.fasterxml/classmate@0.5.3
+- pkg:maven/com.fasterxml/classmate@0.5.3?classifier=sources
+- pkg:maven/com.fasterxml/classmate@0.5.4
+- pkg:maven/com.fasterxml/classmate@0.5.4?classifier=sources
+- pkg:maven/com.fasterxml/classmate@0.7.0
+- pkg:maven/com.fasterxml/classmate@0.7.0?classifier=sources
+- pkg:maven/com.fasterxml/classmate@0.8.0
+- pkg:maven/com.fasterxml/classmate@0.8.0?classifier=sources
+- pkg:maven/com.fasterxml/classmate@0.9.0
+- pkg:maven/com.fasterxml/classmate@0.9.0?classifier=sources
+- pkg:maven/com.fasterxml/classmate@1.0.0
+- pkg:maven/com.fasterxml/classmate@1.0.0?classifier=sources

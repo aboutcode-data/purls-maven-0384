@@ -1,0 +1,2 @@
+- pkg:maven/org.swixml/swixml-examples-showcase@2.6.20130530
+- pkg:maven/org.swixml/swixml-examples-showcase@2.6.20130530?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.caprica/juds@0.94.1
+- pkg:maven/uk.co.caprica/juds@0.94.1?classifier=sources

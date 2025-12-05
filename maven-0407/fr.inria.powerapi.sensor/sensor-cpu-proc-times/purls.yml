@@ -1,0 +1,4 @@
+- pkg:maven/fr.inria.powerapi.sensor/sensor-cpu-proc-times@1.4
+- pkg:maven/fr.inria.powerapi.sensor/sensor-cpu-proc-times@1.4?classifier=sources
+- pkg:maven/fr.inria.powerapi.sensor/sensor-cpu-proc-times@1.5
+- pkg:maven/fr.inria.powerapi.sensor/sensor-cpu-proc-times@1.5?classifier=sources

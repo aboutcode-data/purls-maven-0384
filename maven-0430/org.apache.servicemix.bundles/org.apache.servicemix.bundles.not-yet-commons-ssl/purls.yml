@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.not-yet-commons-ssl@0.3.11_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.not-yet-commons-ssl@0.3.11_1?classifier=sources

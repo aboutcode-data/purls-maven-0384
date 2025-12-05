@@ -1,0 +1,2 @@
+- pkg:maven/com.dlecan.reflections/jboss7-reflections-vfs-integration-servlet3x@1.1.0
+- pkg:maven/com.dlecan.reflections/jboss7-reflections-vfs-integration-servlet3x@1.1.0?classifier=sources

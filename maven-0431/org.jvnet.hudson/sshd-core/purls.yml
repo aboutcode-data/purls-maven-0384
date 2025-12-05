@@ -1,0 +1,4 @@
+- pkg:maven/org.jvnet.hudson/sshd-core@1.0-hudson-2
+- pkg:maven/org.jvnet.hudson/sshd-core@1.0-hudson-2?classifier=sources
+- pkg:maven/org.jvnet.hudson/sshd-core@1.0-pre-hudson-1
+- pkg:maven/org.jvnet.hudson/sshd-core@1.0-pre-hudson-1?classifier=sources

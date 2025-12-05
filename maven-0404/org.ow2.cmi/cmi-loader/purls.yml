@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.cmi/cmi-loader@2.0-RC7
+- pkg:maven/org.ow2.cmi/cmi-loader@2.0-RC7?classifier=sources

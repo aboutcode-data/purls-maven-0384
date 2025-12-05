@@ -1,0 +1,4 @@
+- pkg:maven/com.github.epabst.scala-android-crud/scala-android-crud@0.3-alpha2?classifier=sources
+- pkg:maven/com.github.epabst.scala-android-crud/scala-android-crud@0.3-alpha3?classifier=sources
+- pkg:maven/com.github.epabst.scala-android-crud/scala-android-crud@0.3-alpha4?classifier=sources
+- pkg:maven/com.github.epabst.scala-android-crud/scala-android-crud@0.3-alpha6?classifier=sources

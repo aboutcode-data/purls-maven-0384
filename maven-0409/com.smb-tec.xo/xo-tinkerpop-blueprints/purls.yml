@@ -1,0 +1,2 @@
+- pkg:maven/com.smb-tec.xo/xo-tinkerpop-blueprints@0.0.1
+- pkg:maven/com.smb-tec.xo/xo-tinkerpop-blueprints@0.0.1?classifier=sources

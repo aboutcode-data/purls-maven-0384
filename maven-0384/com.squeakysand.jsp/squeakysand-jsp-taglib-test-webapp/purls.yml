@@ -1,0 +1,4 @@
+- pkg:maven/com.squeakysand.jsp/squeakysand-jsp-taglib-test-webapp@0.3.0?type=war
+- pkg:maven/com.squeakysand.jsp/squeakysand-jsp-taglib-test-webapp@0.4.0?type=war
+- pkg:maven/com.squeakysand.jsp/squeakysand-jsp-taglib-test-webapp@0.6.0?classifier=sources
+- pkg:maven/com.squeakysand.jsp/squeakysand-jsp-taglib-test-webapp@0.6.0?type=war

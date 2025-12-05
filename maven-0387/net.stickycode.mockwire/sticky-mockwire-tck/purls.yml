@@ -1,0 +1,10 @@
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@5.5
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@5.5?classifier=sources
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@6.2
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@6.2?classifier=sources
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@7.2
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@7.2?classifier=sources
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@7.5
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@7.5?classifier=sources
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@8.2
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@8.2?classifier=sources

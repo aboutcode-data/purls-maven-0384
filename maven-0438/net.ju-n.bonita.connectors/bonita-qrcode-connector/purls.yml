@@ -1,0 +1,2 @@
+- pkg:maven/net.ju-n.bonita.connectors/bonita-qrcode-connector@0.2
+- pkg:maven/net.ju-n.bonita.connectors/bonita-qrcode-connector@0.2?classifier=sources

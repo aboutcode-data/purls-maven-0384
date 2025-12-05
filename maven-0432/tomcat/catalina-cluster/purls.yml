@@ -1,0 +1,7 @@
+- pkg:maven/tomcat/catalina-cluster@5.0.16
+- pkg:maven/tomcat/catalina-cluster@5.0.18
+- pkg:maven/tomcat/catalina-cluster@5.0.28
+- pkg:maven/tomcat/catalina-cluster@5.5.12
+- pkg:maven/tomcat/catalina-cluster@5.5.15
+- pkg:maven/tomcat/catalina-cluster@5.5.23
+- pkg:maven/tomcat/catalina-cluster@5.5.9

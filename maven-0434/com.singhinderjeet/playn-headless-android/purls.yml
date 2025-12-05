@@ -1,0 +1,2 @@
+- pkg:maven/com.singhinderjeet/playn-headless-android@1.5.2
+- pkg:maven/com.singhinderjeet/playn-headless-android@1.5.2?classifier=sources

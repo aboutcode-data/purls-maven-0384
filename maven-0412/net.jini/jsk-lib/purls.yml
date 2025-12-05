@@ -1,0 +1,4 @@
+- pkg:maven/net.jini/jsk-lib@2.1
+- pkg:maven/net.jini/jsk-lib@2.1-beta2
+- pkg:maven/net.jini/jsk-lib@2.2.1
+- pkg:maven/net.jini/jsk-lib@2.2.2

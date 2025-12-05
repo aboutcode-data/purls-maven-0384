@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco.javacpp-presets/artoolkitplus@2.3.0-0.8
+- pkg:maven/org.bytedeco.javacpp-presets/artoolkitplus@2.3.0-0.8?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.sun.phobos/freemarker@2.3.12
+- pkg:maven/com.sun.phobos/freemarker@2.3.12?classifier=sources
+- pkg:maven/com.sun.phobos/freemarker@2.3.6
+- pkg:maven/com.sun.phobos/freemarker@2.3.9

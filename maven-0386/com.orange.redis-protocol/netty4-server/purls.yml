@@ -1,0 +1,2 @@
+- pkg:maven/com.orange.redis-protocol/netty4-server@0.9
+- pkg:maven/com.orange.redis-protocol/netty4-server@0.9?classifier=sources

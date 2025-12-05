@@ -1,0 +1,4 @@
+- pkg:maven/fr.norad.bootstrap/bootstrap-java@1.1
+- pkg:maven/fr.norad.bootstrap/bootstrap-java@1.1-jdk6
+- pkg:maven/fr.norad.bootstrap/bootstrap-java@1.1-jdk6?classifier=sources
+- pkg:maven/fr.norad.bootstrap/bootstrap-java@1.1?classifier=sources

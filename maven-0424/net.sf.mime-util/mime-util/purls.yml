@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.mime-util/mime-util@1.2
+- pkg:maven/net.sf.mime-util/mime-util@1.2?classifier=sources

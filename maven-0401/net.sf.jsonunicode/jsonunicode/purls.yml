@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jsonunicode/jsonunicode@1.0
+- pkg:maven/net.sf.jsonunicode/jsonunicode@1.0?classifier=sources

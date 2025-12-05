@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jersey-core@1.11_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jersey-core@1.11_1?classifier=sources

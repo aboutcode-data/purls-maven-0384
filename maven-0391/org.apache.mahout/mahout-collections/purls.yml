@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.mahout/mahout-collections@0.3
+- pkg:maven/org.apache.mahout/mahout-collections@0.3?classifier=sources
+- pkg:maven/org.apache.mahout/mahout-collections@1.0
+- pkg:maven/org.apache.mahout/mahout-collections@1.0?classifier=sources
+- pkg:maven/org.apache.mahout/mahout-collections@1.0?classifier=src&type=zip

@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.james.jspf/apache-jspf-resolver@0.9.8
+- pkg:maven/org.apache.james.jspf/apache-jspf-resolver@0.9.8?classifier=sources
+- pkg:maven/org.apache.james.jspf/apache-jspf-resolver@0.9.9
+- pkg:maven/org.apache.james.jspf/apache-jspf-resolver@0.9.9?classifier=sources
+- pkg:maven/org.apache.james.jspf/apache-jspf-resolver@1.0.0
+- pkg:maven/org.apache.james.jspf/apache-jspf-resolver@1.0.0?classifier=sources

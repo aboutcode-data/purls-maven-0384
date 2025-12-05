@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.antenna/antenna@0.9.14
+- pkg:maven/net.sf.antenna/antenna@0.9.14?classifier=sources
+- pkg:maven/net.sf.antenna/antenna@1.0.2
+- pkg:maven/net.sf.antenna/antenna@1.0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/marmalade/marmalade-compat-jelly@0.2
+- pkg:maven/marmalade/marmalade-compat-jelly@1.0-alpha-3
+- pkg:maven/marmalade/marmalade-compat-jelly@1.0-alpha-3?classifier=sources
+- pkg:maven/marmalade/marmalade-compat-jelly@1.0-alpha2

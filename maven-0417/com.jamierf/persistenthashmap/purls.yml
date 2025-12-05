@@ -1,0 +1,2 @@
+- pkg:maven/com.jamierf/persistenthashmap@1.0
+- pkg:maven/com.jamierf/persistenthashmap@1.0?classifier=sources

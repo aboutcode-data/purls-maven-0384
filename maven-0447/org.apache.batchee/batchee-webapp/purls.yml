@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.batchee/batchee-webapp@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.batchee/batchee-webapp@0.1-incubating?type=war

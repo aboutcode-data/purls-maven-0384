@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jaxb/txw2@2.2.10-b140310.1920
+- pkg:maven/org.glassfish.jaxb/txw2@2.2.10-b140310.1920?classifier=sources

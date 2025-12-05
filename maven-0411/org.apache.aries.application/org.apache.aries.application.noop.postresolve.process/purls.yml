@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.aries.application/org.apache.aries.application.noop.postresolve.process@0.3
+- pkg:maven/org.apache.aries.application/org.apache.aries.application.noop.postresolve.process@0.3?classifier=sources

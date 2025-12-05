@@ -1,0 +1,4 @@
+- pkg:maven/com.prezi.haxe/gradle-haxe-plugin@3.0
+- pkg:maven/com.prezi.haxe/gradle-haxe-plugin@3.0?classifier=sources
+- pkg:maven/com.prezi.haxe/gradle-haxe-plugin@3.1
+- pkg:maven/com.prezi.haxe/gradle-haxe-plugin@3.1?classifier=sources

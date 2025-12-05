@@ -1,0 +1,2 @@
+- pkg:maven/com.github.seratch/scalatra-openid-provider-support_2.9.2@2.0.0
+- pkg:maven/com.github.seratch/scalatra-openid-provider-support_2.9.2@2.0.0?classifier=sources

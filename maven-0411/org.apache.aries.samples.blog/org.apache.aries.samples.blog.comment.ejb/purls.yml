@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.aries.samples.blog/org.apache.aries.samples.blog.comment.ejb@1.0.0
+- pkg:maven/org.apache.aries.samples.blog/org.apache.aries.samples.blog.comment.ejb@1.0.0?classifier=sources

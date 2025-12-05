@@ -1,0 +1,2 @@
+- pkg:maven/ch.rolandschaer.ascrblr/ascrblr@1.0-alpha2
+- pkg:maven/ch.rolandschaer.ascrblr/ascrblr@1.0-alpha2?classifier=sources

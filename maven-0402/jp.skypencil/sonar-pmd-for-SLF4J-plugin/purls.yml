@@ -1,0 +1,4 @@
+- pkg:maven/jp.skypencil/sonar-pmd-for-SLF4J-plugin@0.1?classifier=sources
+- pkg:maven/jp.skypencil/sonar-pmd-for-SLF4J-plugin@0.2?classifier=sources
+- pkg:maven/jp.skypencil/sonar-pmd-for-SLF4J-plugin@0.3?classifier=sources
+- pkg:maven/jp.skypencil/sonar-pmd-for-SLF4J-plugin@0.4?classifier=sources

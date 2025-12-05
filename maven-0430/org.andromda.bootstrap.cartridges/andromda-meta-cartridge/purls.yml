@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.bootstrap.cartridges/andromda-meta-cartridge@3.4
+- pkg:maven/org.andromda.bootstrap.cartridges/andromda-meta-cartridge@3.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mithrim.epf/mithrim-epf-core@0.1.0
+- pkg:maven/org.mithrim.epf/mithrim-epf-core@0.1.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.jvnet.hudson/wagon-webdav@1.0-beta-2-hudson-0
+- pkg:maven/org.jvnet.hudson/wagon-webdav@1.0-beta-2-hudson-1
+- pkg:maven/org.jvnet.hudson/wagon-webdav@1.0-beta-2-hudson-1?classifier=sources

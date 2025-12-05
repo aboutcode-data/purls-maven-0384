@@ -1,0 +1,2 @@
+- pkg:maven/net.leadware/jpersistence-tools-tests-model@2.0
+- pkg:maven/net.leadware/jpersistence-tools-tests-model@2.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/pw.hysteria.input/dashfoo@1.2
+- pkg:maven/pw.hysteria.input/dashfoo@1.2?classifier=sources
+- pkg:maven/pw.hysteria.input/dashfoo@1.3
+- pkg:maven/pw.hysteria.input/dashfoo@1.3?classifier=sources
+- pkg:maven/pw.hysteria.input/dashfoo@1.4
+- pkg:maven/pw.hysteria.input/dashfoo@1.4?classifier=sources
+- pkg:maven/pw.hysteria.input/dashfoo@1.5
+- pkg:maven/pw.hysteria.input/dashfoo@1.5?classifier=sources

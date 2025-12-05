@@ -1,0 +1,2 @@
+- pkg:maven/com.elega9t/jmeter-jms-skip-jndi@0.0.1
+- pkg:maven/com.elega9t/jmeter-jms-skip-jndi@0.0.1?classifier=sources

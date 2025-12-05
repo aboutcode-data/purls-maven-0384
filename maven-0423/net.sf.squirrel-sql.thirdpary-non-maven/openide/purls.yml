@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.squirrel-sql.thirdpary-non-maven/openide@4.0
+- pkg:maven/net.sf.squirrel-sql.thirdpary-non-maven/openide@4.0?classifier=sources

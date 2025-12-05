@@ -1,0 +1,7 @@
+- pkg:maven/org.jboss.jbossas/jboss-as-distribution@6.0.0.20100216-M2?classifier=src&type=zip
+- pkg:maven/org.jboss.jbossas/jboss-as-distribution@6.0.0.20100429-M3?classifier=src&type=zip
+- pkg:maven/org.jboss.jbossas/jboss-as-distribution@6.0.0.20100721-M4?classifier=src&type=zip
+- pkg:maven/org.jboss.jbossas/jboss-as-distribution@6.0.0.20100911-M5?classifier=src&type=zip
+- pkg:maven/org.jboss.jbossas/jboss-as-distribution@6.0.0.20101110-CR1?classifier=src&type=zip
+- pkg:maven/org.jboss.jbossas/jboss-as-distribution@6.0.0.Final?classifier=src&type=zip
+- pkg:maven/org.jboss.jbossas/jboss-as-distribution@6.1.0.Final?classifier=src&type=zip

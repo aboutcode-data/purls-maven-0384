@@ -1,0 +1,2 @@
+- pkg:maven/com.opensudoku.setgame/set-game@1.0?classifier=sources
+- pkg:maven/com.opensudoku.setgame/set-game@1.0?type=war

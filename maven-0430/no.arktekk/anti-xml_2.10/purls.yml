@@ -1,0 +1,2 @@
+- pkg:maven/no.arktekk/anti-xml_2.10@0.5.1
+- pkg:maven/no.arktekk/anti-xml_2.10@0.5.1?classifier=sources

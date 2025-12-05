@@ -1,0 +1,2 @@
+- pkg:maven/cc.spray.can/spray-can_2.9.1@0.9.0
+- pkg:maven/cc.spray.can/spray-can_2.9.1@0.9.0?classifier=sources

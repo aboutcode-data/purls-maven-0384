@@ -1,0 +1,4 @@
+- pkg:maven/org.keycloak/keycloak-forms@1.0-alpha-1
+- pkg:maven/org.keycloak/keycloak-forms@1.0-alpha-1-12062013
+- pkg:maven/org.keycloak/keycloak-forms@1.0-alpha-1-12062013?classifier=sources
+- pkg:maven/org.keycloak/keycloak-forms@1.0-alpha-1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.kryshchuk.maven.plugins/umlet-maven-plugin-java6@1.1.4
+- pkg:maven/com.kryshchuk.maven.plugins/umlet-maven-plugin-java6@1.1.4?classifier=sources

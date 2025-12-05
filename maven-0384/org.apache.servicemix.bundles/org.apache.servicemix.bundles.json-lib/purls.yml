@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.json-lib@2.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.json-lib@2.4_1?classifier=sources

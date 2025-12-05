@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.jonas/jonas-web-container-tomcat-6.0-with-http-service@5.1.0-RC3
+- pkg:maven/org.ow2.jonas/jonas-web-container-tomcat-6.0-with-http-service@5.1.0-RC4?classifier=sources
+- pkg:maven/org.ow2.jonas/jonas-web-container-tomcat-6.0-with-http-service@5.1.0-cxf-2.2?classifier=sources
+- pkg:maven/org.ow2.jonas/jonas-web-container-tomcat-6.0-with-http-service@5.1.0?classifier=sources

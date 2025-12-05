@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza.ext/com.hp.hpl.jena.tdb@0.3-incubating
+- pkg:maven/org.apache.clerezza.ext/com.hp.hpl.jena.tdb@0.3-incubating?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.twentyeleven.skysail/org.apache.poi-osgi@3.8
+- pkg:maven/de.twentyeleven.skysail/org.apache.poi-osgi@3.8?classifier=sources
