@@ -82,3 +82,17 @@
 - pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@3.2.2?classifier=sources
 - pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@3.3.0
 - pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@3.3.0?classifier=sources
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.0
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.0?classifier=sources
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.1
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.1?classifier=sources
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.2
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.2?classifier=sources
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.3
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.3?classifier=sources
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.4
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.4?classifier=sources
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.5
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.5?classifier=sources
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.6
+- pkg:maven/com.atlassian.maven.plugins/maven-clover2-plugin@4.0.6?classifier=sources

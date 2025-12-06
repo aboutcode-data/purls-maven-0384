@@ -16,6 +16,16 @@
 - pkg:maven/org.modeshape/modeshape-assembly-descriptors@3.7.3.Final
 - pkg:maven/org.modeshape/modeshape-assembly-descriptors@3.7.4.Final
 - pkg:maven/org.modeshape/modeshape-assembly-descriptors@3.8.0.Final
+- pkg:maven/org.modeshape/modeshape-assembly-descriptors@3.8.1.Final
 - pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.0.0.Alpha1
 - pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.0.0.Alpha2
 - pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.0.0.Alpha3
+- pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.0.0.Alpha4
+- pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.0.0.Beta1
+- pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.0.0.Beta2
+- pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.0.0.Final
+- pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.1.0.Final
+- pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.2.0.Final
+- pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.3.0.Final
+- pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.4.0.Final
+- pkg:maven/org.modeshape/modeshape-assembly-descriptors@4.5.0.Final

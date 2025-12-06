@@ -1,0 +1,2 @@
+- pkg:maven/net.fwbrasil/smirror_2.11@0.9
+- pkg:maven/net.fwbrasil/smirror_2.11@0.9?classifier=sources

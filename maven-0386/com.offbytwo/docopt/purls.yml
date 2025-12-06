@@ -1,0 +1,2 @@
+- pkg:maven/com.offbytwo/docopt@0.6.0.20150202
+- pkg:maven/com.offbytwo/docopt@0.6.0.20150202?classifier=sources

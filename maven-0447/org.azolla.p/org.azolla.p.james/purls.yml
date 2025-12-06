@@ -1,0 +1,2 @@
+- pkg:maven/org.azolla.p/org.azolla.p.james@2.0.2
+- pkg:maven/org.azolla.p/org.azolla.p.james@2.0.2?classifier=sources

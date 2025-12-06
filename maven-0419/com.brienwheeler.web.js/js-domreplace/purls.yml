@@ -1,0 +1,6 @@
+- pkg:maven/com.brienwheeler.web.js/js-domreplace@1.0-RELEASE?classifier=sources
+- pkg:maven/com.brienwheeler.web.js/js-domreplace@1.01-RELEASE?classifier=sources
+- pkg:maven/com.brienwheeler.web.js/js-domreplace@1.02-RELEASE?classifier=sources
+- pkg:maven/com.brienwheeler.web.js/js-domreplace@1.03-RELEASE?classifier=sources
+- pkg:maven/com.brienwheeler.web.js/js-domreplace@1.05-RELEASE?classifier=sources
+- pkg:maven/com.brienwheeler.web.js/js-domreplace@1.06-RELEASE?classifier=sources

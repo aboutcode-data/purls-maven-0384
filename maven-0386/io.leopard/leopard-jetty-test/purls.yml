@@ -1,0 +1,2 @@
+- pkg:maven/io.leopard/leopard-jetty-test@0.0.5
+- pkg:maven/io.leopard/leopard-jetty-test@0.0.5?classifier=sources

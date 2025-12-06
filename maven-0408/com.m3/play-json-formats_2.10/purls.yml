@@ -1,0 +1,2 @@
+- pkg:maven/com.m3/play-json-formats_2.10@2.3
+- pkg:maven/com.m3/play-json-formats_2.10@2.3?classifier=sources

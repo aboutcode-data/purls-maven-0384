@@ -1,0 +1,6 @@
+- pkg:maven/com.anrisoftware.globalpom/globalpom-groovytestutils@1.24
+- pkg:maven/com.anrisoftware.globalpom/globalpom-groovytestutils@1.24?classifier=sources
+- pkg:maven/com.anrisoftware.globalpom/globalpom-groovytestutils@1.25
+- pkg:maven/com.anrisoftware.globalpom/globalpom-groovytestutils@1.25?classifier=sources
+- pkg:maven/com.anrisoftware.globalpom/globalpom-groovytestutils@1.26
+- pkg:maven/com.anrisoftware.globalpom/globalpom-groovytestutils@1.26?classifier=sources

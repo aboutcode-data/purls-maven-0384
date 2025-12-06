@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/accepts@1.0.7
+- pkg:maven/org.webjars.npm/accepts@1.0.7?classifier=sources
+- pkg:maven/org.webjars.npm/accepts@1.2.10
+- pkg:maven/org.webjars.npm/accepts@1.2.10?classifier=sources
+- pkg:maven/org.webjars.npm/accepts@1.2.7
+- pkg:maven/org.webjars.npm/accepts@1.2.7?classifier=sources

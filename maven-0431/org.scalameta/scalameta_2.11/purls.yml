@@ -1,0 +1,14 @@
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.0-M0
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.0-M0?classifier=sources
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.1
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.1?classifier=sources
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.2
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.2?classifier=sources
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.3
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.3?classifier=sources
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.4
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.4?classifier=sources
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.5-M1
+- pkg:maven/org.scalameta/scalameta_2.11@0.0.5-M1?classifier=sources
+- pkg:maven/org.scalameta/scalameta_2.11@0.1.0-M0
+- pkg:maven/org.scalameta/scalameta_2.11@0.1.0-M0?classifier=sources

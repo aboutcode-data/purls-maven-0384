@@ -1,1 +1,4 @@
 - pkg:maven/org.webjars/dustjs-linkedin@2.3.4
+- pkg:maven/org.webjars/dustjs-linkedin@2.4.0
+- pkg:maven/org.webjars/dustjs-linkedin@2.4.0-1
+- pkg:maven/org.webjars/dustjs-linkedin@2.6.1

@@ -1,0 +1,6 @@
+- pkg:maven/de.alpharogroup/wicket-toastr@6.18.0
+- pkg:maven/de.alpharogroup/wicket-toastr@6.18.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket-toastr@7.0.0
+- pkg:maven/de.alpharogroup/wicket-toastr@7.0.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket-toastr@7.1.0
+- pkg:maven/de.alpharogroup/wicket-toastr@7.1.0?classifier=sources

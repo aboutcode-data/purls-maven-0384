@@ -1,0 +1,1 @@
+- pkg:maven/io.druid/tranquility-samza_2.11@0.6.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.tycho.extras/tycho-pomless@0.24.0
+- pkg:maven/org.eclipse.tycho.extras/tycho-pomless@0.24.0?classifier=sources

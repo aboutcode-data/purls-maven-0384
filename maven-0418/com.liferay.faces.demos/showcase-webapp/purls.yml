@@ -1,0 +1,4 @@
+- pkg:maven/com.liferay.faces.demos/showcase-webapp@3.2.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces.demos/showcase-webapp@3.2.5-ga6?type=war
+- pkg:maven/com.liferay.faces.demos/showcase-webapp@4.2.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces.demos/showcase-webapp@4.2.5-ga6?type=war

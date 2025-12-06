@@ -1,0 +1,4 @@
+- pkg:maven/de.greenrobot/androidsvg@1.2.2-beta-1-tweaked
+- pkg:maven/de.greenrobot/androidsvg@1.2.2-beta-1-tweaked-2
+- pkg:maven/de.greenrobot/androidsvg@1.2.2-beta-1-tweaked-2?classifier=sources
+- pkg:maven/de.greenrobot/androidsvg@1.2.2-beta-1-tweaked?classifier=sources

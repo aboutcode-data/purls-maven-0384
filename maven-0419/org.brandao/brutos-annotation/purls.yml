@@ -1,0 +1,4 @@
+- pkg:maven/org.brandao/brutos-annotation@2.0-b5
+- pkg:maven/org.brandao/brutos-annotation@2.0-b5?classifier=sources
+- pkg:maven/org.brandao/brutos-annotation@2.0-rc1
+- pkg:maven/org.brandao/brutos-annotation@2.0-rc1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.spark-project.spark/unused@1.0.0
+- pkg:maven/org.spark-project.spark/unused@1.0.0?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/io.fabric8.apps/console@2.2.81
+- pkg:maven/io.fabric8.apps/console@2.2.81?classifier=sources
+- pkg:maven/io.fabric8.apps/console@2.2.85
+- pkg:maven/io.fabric8.apps/console@2.2.85?classifier=sources
+- pkg:maven/io.fabric8.apps/console@2.2.86
+- pkg:maven/io.fabric8.apps/console@2.2.86?classifier=sources
+- pkg:maven/io.fabric8.apps/console@2.2.87
+- pkg:maven/io.fabric8.apps/console@2.2.87?classifier=sources
+- pkg:maven/io.fabric8.apps/console@2.2.88
+- pkg:maven/io.fabric8.apps/console@2.2.88?classifier=sources
+- pkg:maven/io.fabric8.apps/console@2.2.89
+- pkg:maven/io.fabric8.apps/console@2.2.89?classifier=sources
+- pkg:maven/io.fabric8.apps/console@2.2.90
+- pkg:maven/io.fabric8.apps/console@2.2.90?classifier=sources

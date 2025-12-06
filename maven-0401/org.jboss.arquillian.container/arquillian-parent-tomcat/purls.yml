@@ -1,0 +1,1 @@
+- pkg:maven/org.jboss.arquillian.container/arquillian-parent-tomcat@1.0.0.CR7?classifier=source-release&type=zip

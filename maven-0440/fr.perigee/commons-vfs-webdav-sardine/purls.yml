@@ -1,2 +1,4 @@
 - pkg:maven/fr.perigee/commons-vfs-webdav-sardine@0.0.2
 - pkg:maven/fr.perigee/commons-vfs-webdav-sardine@0.0.2?classifier=sources
+- pkg:maven/fr.perigee/commons-vfs-webdav-sardine@0.0.5
+- pkg:maven/fr.perigee/commons-vfs-webdav-sardine@0.0.5?classifier=sources

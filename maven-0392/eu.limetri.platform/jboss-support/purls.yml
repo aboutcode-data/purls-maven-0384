@@ -1,0 +1,2 @@
+- pkg:maven/eu.limetri.platform/jboss-support@0.3
+- pkg:maven/eu.limetri.platform/jboss-support@0.3?classifier=sources

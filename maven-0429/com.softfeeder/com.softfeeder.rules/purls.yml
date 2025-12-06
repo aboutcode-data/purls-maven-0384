@@ -1,0 +1,2 @@
+- pkg:maven/com.softfeeder/com.softfeeder.rules@1.0-RC1
+- pkg:maven/com.softfeeder/com.softfeeder.rules@1.0-RC1?classifier=sources

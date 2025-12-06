@@ -1,0 +1,2 @@
+- pkg:maven/io.mth/unfiltered-cors_2.11@0.3
+- pkg:maven/io.mth/unfiltered-cors_2.11@0.3?classifier=sources

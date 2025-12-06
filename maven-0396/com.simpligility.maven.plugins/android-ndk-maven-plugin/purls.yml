@@ -1,0 +1,4 @@
+- pkg:maven/com.simpligility.maven.plugins/android-ndk-maven-plugin@0.1.0
+- pkg:maven/com.simpligility.maven.plugins/android-ndk-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/com.simpligility.maven.plugins/android-ndk-maven-plugin@1.0.0
+- pkg:maven/com.simpligility.maven.plugins/android-ndk-maven-plugin@1.0.0?classifier=sources

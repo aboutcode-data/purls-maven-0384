@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.clerezza/rdf.simple.storage@0.7-incubating
 - pkg:maven/org.apache.clerezza/rdf.simple.storage@0.7-incubating?classifier=sources
+- pkg:maven/org.apache.clerezza/rdf.simple.storage@0.8
+- pkg:maven/org.apache.clerezza/rdf.simple.storage@0.8?classifier=sources
+- pkg:maven/org.apache.clerezza/rdf.simple.storage@1.0.0
+- pkg:maven/org.apache.clerezza/rdf.simple.storage@1.0.0?classifier=sources

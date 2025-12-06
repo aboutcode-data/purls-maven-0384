@@ -1,0 +1,6 @@
+- pkg:maven/org.hawkular.commons/hawkular-commons-templates@0.2.2.Final
+- pkg:maven/org.hawkular.commons/hawkular-commons-templates@0.2.2.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-commons-templates@0.2.3.Final
+- pkg:maven/org.hawkular.commons/hawkular-commons-templates@0.2.3.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-commons-templates@0.2.4.Final
+- pkg:maven/org.hawkular.commons/hawkular-commons-templates@0.2.4.Final?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/fr.lirmm.graphik/graal-tools@0.9.0
+- pkg:maven/fr.lirmm.graphik/graal-tools@0.9.0?classifier=sources
+- pkg:maven/fr.lirmm.graphik/graal-tools@1.0.0
+- pkg:maven/fr.lirmm.graphik/graal-tools@1.0.0?classifier=sources
+- pkg:maven/fr.lirmm.graphik/graal-tools@1.0.1
+- pkg:maven/fr.lirmm.graphik/graal-tools@1.0.1?classifier=sources

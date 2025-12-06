@@ -1,0 +1,2 @@
+- pkg:maven/ca.eandb.jmist/jmist-core@0.1.1
+- pkg:maven/ca.eandb.jmist/jmist-core@0.1.1?classifier=sources

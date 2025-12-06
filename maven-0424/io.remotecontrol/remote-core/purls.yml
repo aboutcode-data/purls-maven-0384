@@ -1,0 +1,2 @@
+- pkg:maven/io.remotecontrol/remote-core@0.7
+- pkg:maven/io.remotecontrol/remote-core@0.7?classifier=sources

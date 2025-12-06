@@ -1,0 +1,2 @@
+- pkg:maven/de.fau.cs.osr.hddiff/hddiff-wom-adapter@1.0.0
+- pkg:maven/de.fau.cs.osr.hddiff/hddiff-wom-adapter@1.0.0?classifier=sources

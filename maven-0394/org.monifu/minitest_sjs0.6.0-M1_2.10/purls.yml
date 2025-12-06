@@ -1,0 +1,6 @@
+- pkg:maven/org.monifu/minitest_sjs0.6.0-M1_2.10@0.1
+- pkg:maven/org.monifu/minitest_sjs0.6.0-M1_2.10@0.1?classifier=sources
+- pkg:maven/org.monifu/minitest_sjs0.6.0-M1_2.10@0.2
+- pkg:maven/org.monifu/minitest_sjs0.6.0-M1_2.10@0.2?classifier=sources
+- pkg:maven/org.monifu/minitest_sjs0.6.0-M1_2.10@0.3
+- pkg:maven/org.monifu/minitest_sjs0.6.0-M1_2.10@0.3?classifier=sources

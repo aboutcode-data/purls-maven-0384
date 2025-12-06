@@ -1,0 +1,4 @@
+- pkg:maven/info.modprobe/browserid-verifier@0.2
+- pkg:maven/info.modprobe/browserid-verifier@0.2?classifier=sources
+- pkg:maven/info.modprobe/browserid-verifier@0.8.9
+- pkg:maven/info.modprobe/browserid-verifier@0.8.9?classifier=sources

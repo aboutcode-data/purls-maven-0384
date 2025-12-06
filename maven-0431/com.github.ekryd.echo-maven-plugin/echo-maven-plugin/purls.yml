@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ekryd.echo-maven-plugin/echo-maven-plugin@1.2.0
+- pkg:maven/com.github.ekryd.echo-maven-plugin/echo-maven-plugin@1.2.0?classifier=sources

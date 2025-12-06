@@ -1,0 +1,2 @@
+- pkg:maven/net.donky/donky-module-sequencing@2.2.0.3?classifier=sources
+- pkg:maven/net.donky/donky-module-sequencing@2.2.0.3?type=aar

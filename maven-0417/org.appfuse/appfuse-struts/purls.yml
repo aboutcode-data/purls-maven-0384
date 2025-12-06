@@ -26,3 +26,4 @@
 - pkg:maven/org.appfuse/appfuse-struts@2.2?type=war
 - pkg:maven/org.appfuse/appfuse-struts@3.0.0?classifier=sources
 - pkg:maven/org.appfuse/appfuse-struts@3.0.0?type=war
+- pkg:maven/org.appfuse/appfuse-struts@3.5.0?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/io.relayr/android-commons@1.0?classifier=sources
+- pkg:maven/io.relayr/android-commons@1.0?type=aar
+- pkg:maven/io.relayr/android-commons@1.1.0?classifier=sources
+- pkg:maven/io.relayr/android-commons@1.1.0?type=aar

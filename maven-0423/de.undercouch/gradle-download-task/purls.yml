@@ -10,3 +10,7 @@
 - pkg:maven/de.undercouch/gradle-download-task@0.5?classifier=sources
 - pkg:maven/de.undercouch/gradle-download-task@1.0
 - pkg:maven/de.undercouch/gradle-download-task@1.0?classifier=sources
+- pkg:maven/de.undercouch/gradle-download-task@1.2
+- pkg:maven/de.undercouch/gradle-download-task@1.2?classifier=sources
+- pkg:maven/de.undercouch/gradle-download-task@2.0.0
+- pkg:maven/de.undercouch/gradle-download-task@2.0.0?classifier=sources

@@ -6,6 +6,12 @@
 - pkg:maven/org.yaml/snakeyaml@1.12?classifier=sources
 - pkg:maven/org.yaml/snakeyaml@1.13
 - pkg:maven/org.yaml/snakeyaml@1.13?classifier=sources
+- pkg:maven/org.yaml/snakeyaml@1.14
+- pkg:maven/org.yaml/snakeyaml@1.14?classifier=sources
+- pkg:maven/org.yaml/snakeyaml@1.15
+- pkg:maven/org.yaml/snakeyaml@1.15?classifier=sources
+- pkg:maven/org.yaml/snakeyaml@1.16
+- pkg:maven/org.yaml/snakeyaml@1.16?classifier=sources
 - pkg:maven/org.yaml/snakeyaml@1.4
 - pkg:maven/org.yaml/snakeyaml@1.4?classifier=sources
 - pkg:maven/org.yaml/snakeyaml@1.5

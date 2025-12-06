@@ -1,0 +1,4 @@
+- pkg:maven/com.liferay.faces/liferay-faces-reslib@3.2.5-ga6
+- pkg:maven/com.liferay.faces/liferay-faces-reslib@3.2.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces/liferay-faces-reslib@4.2.5-ga6
+- pkg:maven/com.liferay.faces/liferay-faces-reslib@4.2.5-ga6?classifier=sources

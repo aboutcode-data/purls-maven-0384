@@ -1,0 +1,6 @@
+- pkg:maven/de.alpharogroup/jetty-runner-config@3.1.0
+- pkg:maven/de.alpharogroup/jetty-runner-config@3.1.0?classifier=sources
+- pkg:maven/de.alpharogroup/jetty-runner-config@3.3.0
+- pkg:maven/de.alpharogroup/jetty-runner-config@3.3.0?classifier=sources
+- pkg:maven/de.alpharogroup/jetty-runner-config@3.4.0
+- pkg:maven/de.alpharogroup/jetty-runner-config@3.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tchoulihan/javalite-common@1.4.20
+- pkg:maven/com.github.tchoulihan/javalite-common@1.4.20?classifier=sources

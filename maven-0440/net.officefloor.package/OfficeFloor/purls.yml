@@ -12,6 +12,8 @@
 - pkg:maven/net.officefloor.package/OfficeFloor@2.14.0?classifier=sources
 - pkg:maven/net.officefloor.package/OfficeFloor@2.15.0
 - pkg:maven/net.officefloor.package/OfficeFloor@2.15.0?classifier=sources
+- pkg:maven/net.officefloor.package/OfficeFloor@2.16.0
+- pkg:maven/net.officefloor.package/OfficeFloor@2.16.0?classifier=sources
 - pkg:maven/net.officefloor.package/OfficeFloor@2.2.0
 - pkg:maven/net.officefloor.package/OfficeFloor@2.2.0?classifier=sources
 - pkg:maven/net.officefloor.package/OfficeFloor@2.3.0

@@ -4,3 +4,11 @@
 - pkg:maven/tv.cntt/rhinocoffeescript@1.6.3?classifier=sources
 - pkg:maven/tv.cntt/rhinocoffeescript@1.7.1
 - pkg:maven/tv.cntt/rhinocoffeescript@1.7.1?classifier=sources
+- pkg:maven/tv.cntt/rhinocoffeescript@1.8.0
+- pkg:maven/tv.cntt/rhinocoffeescript@1.8.0?classifier=sources
+- pkg:maven/tv.cntt/rhinocoffeescript@1.9.0
+- pkg:maven/tv.cntt/rhinocoffeescript@1.9.0?classifier=sources
+- pkg:maven/tv.cntt/rhinocoffeescript@1.9.2
+- pkg:maven/tv.cntt/rhinocoffeescript@1.9.2?classifier=sources
+- pkg:maven/tv.cntt/rhinocoffeescript@1.9.3
+- pkg:maven/tv.cntt/rhinocoffeescript@1.9.3?classifier=sources

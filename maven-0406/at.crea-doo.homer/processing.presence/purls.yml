@@ -1,0 +1,2 @@
+- pkg:maven/at.crea-doo.homer/processing.presence@1.0.1
+- pkg:maven/at.crea-doo.homer/processing.presence@1.0.1?classifier=sources

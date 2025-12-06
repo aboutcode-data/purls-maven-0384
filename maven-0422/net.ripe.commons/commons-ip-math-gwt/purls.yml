@@ -1,0 +1,8 @@
+- pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.20
+- pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.20?classifier=sources
+- pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.21
+- pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.21.1
+- pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.21.1?classifier=sources
+- pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.21?classifier=sources
+- pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.22
+- pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.22?classifier=sources

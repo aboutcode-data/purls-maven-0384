@@ -1,0 +1,2 @@
+- pkg:maven/me.geso.jolokia_jvm_agent_retry/jolokia-jvm-retry@1.0.0
+- pkg:maven/me.geso.jolokia_jvm_agent_retry/jolokia-jvm-retry@1.0.0?classifier=sources

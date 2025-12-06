@@ -54,3 +54,5 @@
 - pkg:maven/com.github.kevinsawicki/http-request@5.5?classifier=sources
 - pkg:maven/com.github.kevinsawicki/http-request@5.6
 - pkg:maven/com.github.kevinsawicki/http-request@5.6?classifier=sources
+- pkg:maven/com.github.kevinsawicki/http-request@6.0
+- pkg:maven/com.github.kevinsawicki/http-request@6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.karaf.decanter/org.apache.karaf.decanter.elasticsearch@1.0.0?classifier=sources
+- pkg:maven/org.apache.karaf.decanter/org.apache.karaf.decanter.elasticsearch@1.0.1?classifier=sources

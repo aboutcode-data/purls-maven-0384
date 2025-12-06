@@ -1,0 +1,2 @@
+- pkg:maven/com.continuuity/http@0.3.0
+- pkg:maven/com.continuuity/http@0.3.0?classifier=sources

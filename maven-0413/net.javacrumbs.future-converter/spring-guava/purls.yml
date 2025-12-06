@@ -1,0 +1,4 @@
+- pkg:maven/net.javacrumbs.future-converter/spring-guava@0.0.3
+- pkg:maven/net.javacrumbs.future-converter/spring-guava@0.0.3?classifier=sources
+- pkg:maven/net.javacrumbs.future-converter/spring-guava@0.0.4
+- pkg:maven/net.javacrumbs.future-converter/spring-guava@0.0.4?classifier=sources

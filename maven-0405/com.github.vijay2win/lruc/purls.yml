@@ -1,0 +1,8 @@
+- pkg:maven/com.github.vijay2win/lruc@0.10
+- pkg:maven/com.github.vijay2win/lruc@0.10?classifier=sources
+- pkg:maven/com.github.vijay2win/lruc@0.6
+- pkg:maven/com.github.vijay2win/lruc@0.6?classifier=sources
+- pkg:maven/com.github.vijay2win/lruc@0.7
+- pkg:maven/com.github.vijay2win/lruc@0.7?classifier=sources
+- pkg:maven/com.github.vijay2win/lruc@0.9
+- pkg:maven/com.github.vijay2win/lruc@0.9?classifier=sources

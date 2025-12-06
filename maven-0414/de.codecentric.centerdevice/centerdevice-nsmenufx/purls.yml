@@ -1,0 +1,2 @@
+- pkg:maven/de.codecentric.centerdevice/centerdevice-nsmenufx@1.0.0
+- pkg:maven/de.codecentric.centerdevice/centerdevice-nsmenufx@1.0.0?classifier=sources

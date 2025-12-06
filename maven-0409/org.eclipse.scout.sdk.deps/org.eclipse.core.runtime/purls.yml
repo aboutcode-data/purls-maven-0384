@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.runtime@3.11.0.v20150405-1723
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.runtime@3.11.0.v20150405-1723?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/hu.supercluster/overpasser-retrofit-adapter@0.1.0?classifier=sources
+- pkg:maven/hu.supercluster/overpasser-retrofit-adapter@0.1.0?type=aar

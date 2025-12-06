@@ -1,0 +1,1 @@
+- pkg:maven/org.jboss.arquillian.osgi/arquillian-osgi@2.1.0.CR16?classifier=source-release&type=zip

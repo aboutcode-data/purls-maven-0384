@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/module-deps@3.9.1
+- pkg:maven/org.webjars.npm/module-deps@3.9.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.airavata/airavata-credential-store-webapp@0.13?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-credential-store-webapp@0.13?type=war
+- pkg:maven/org.apache.airavata/airavata-credential-store-webapp@0.14?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-credential-store-webapp@0.14?type=war

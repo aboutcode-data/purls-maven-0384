@@ -1,0 +1,2 @@
+- pkg:maven/com.vecna.maven/db-manager-plugin@1.5
+- pkg:maven/com.vecna.maven/db-manager-plugin@1.5?classifier=sources

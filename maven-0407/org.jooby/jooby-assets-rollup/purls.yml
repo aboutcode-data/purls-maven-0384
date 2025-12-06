@@ -1,0 +1,2 @@
+- pkg:maven/org.jooby/jooby-assets-rollup@0.12.0
+- pkg:maven/org.jooby/jooby-assets-rollup@0.12.0?classifier=sources

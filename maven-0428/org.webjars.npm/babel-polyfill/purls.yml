@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel-polyfill@6.0.16
+- pkg:maven/org.webjars.npm/babel-polyfill@6.0.16?classifier=sources

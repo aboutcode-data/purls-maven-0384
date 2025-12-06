@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.auckland.bathe.initializers/ebean-agent-initializer@1.1
+- pkg:maven/nz.ac.auckland.bathe.initializers/ebean-agent-initializer@1.1?classifier=sources

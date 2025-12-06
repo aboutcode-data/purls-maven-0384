@@ -1,0 +1,4 @@
+- pkg:maven/ru.noties/tasker@1.0.0?classifier=sources
+- pkg:maven/ru.noties/tasker@1.0.0?type=aar
+- pkg:maven/ru.noties/tasker@1.1.0?classifier=sources
+- pkg:maven/ru.noties/tasker@1.1.0?type=aar

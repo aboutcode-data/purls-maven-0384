@@ -1,0 +1,4 @@
+- pkg:maven/org.everit.osgi/org.everit.osgi.ecm.extender.ri@1.0.0
+- pkg:maven/org.everit.osgi/org.everit.osgi.ecm.extender.ri@1.0.0?classifier=sources
+- pkg:maven/org.everit.osgi/org.everit.osgi.ecm.extender.ri@2.0.0
+- pkg:maven/org.everit.osgi/org.everit.osgi.ecm.extender.ri@2.0.0?classifier=sources

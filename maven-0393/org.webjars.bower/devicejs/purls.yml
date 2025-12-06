@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/devicejs@0.2.7
+- pkg:maven/org.webjars.bower/devicejs@0.2.7?classifier=sources

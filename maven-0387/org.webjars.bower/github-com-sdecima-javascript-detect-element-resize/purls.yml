@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/github-com-sdecima-javascript-detect-element-resize@0.5.2
+- pkg:maven/org.webjars.bower/github-com-sdecima-javascript-detect-element-resize@0.5.2?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-sdecima-javascript-detect-element-resize@0.5.3
+- pkg:maven/org.webjars.bower/github-com-sdecima-javascript-detect-element-resize@0.5.3?classifier=sources

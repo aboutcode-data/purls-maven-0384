@@ -1,0 +1,2 @@
+- pkg:maven/com.dragome/dragome-guia-web@0.96-beta2
+- pkg:maven/com.dragome/dragome-guia-web@0.96-beta2?classifier=sources

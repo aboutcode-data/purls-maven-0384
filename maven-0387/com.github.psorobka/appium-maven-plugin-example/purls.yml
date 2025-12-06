@@ -1,0 +1,2 @@
+- pkg:maven/com.github.psorobka/appium-maven-plugin-example@1.0.0?classifier=sources
+- pkg:maven/com.github.psorobka/appium-maven-plugin-example@1.1.0?classifier=sources

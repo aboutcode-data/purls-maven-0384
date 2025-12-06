@@ -1,2 +1,4 @@
 - pkg:maven/com.mgmtp.perfload/perfload-perfalyzer@0.7.0
 - pkg:maven/com.mgmtp.perfload/perfload-perfalyzer@0.7.0?classifier=sources
+- pkg:maven/com.mgmtp.perfload/perfload-perfalyzer@1.0.0-beta-1
+- pkg:maven/com.mgmtp.perfload/perfload-perfalyzer@1.0.0-beta-1?classifier=sources

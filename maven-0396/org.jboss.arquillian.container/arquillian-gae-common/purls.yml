@@ -17,6 +17,8 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-gae-common@1.0.0.Alpha9
 - pkg:maven/org.jboss.arquillian.container/arquillian-gae-common@1.0.0.Alpha9?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-gae-common@1.0.0.Beta1
+- pkg:maven/org.jboss.arquillian.container/arquillian-gae-common@1.0.0.Beta10
+- pkg:maven/org.jboss.arquillian.container/arquillian-gae-common@1.0.0.Beta10?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-gae-common@1.0.0.Beta1?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-gae-common@1.0.0.Beta2
 - pkg:maven/org.jboss.arquillian.container/arquillian-gae-common@1.0.0.Beta2?classifier=sources

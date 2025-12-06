@@ -1,0 +1,10 @@
+- pkg:maven/io.fabric8.jube.images.fabric8/lets-chat@2.0.42
+- pkg:maven/io.fabric8.jube.images.fabric8/lets-chat@2.0.42?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/lets-chat@2.0.43
+- pkg:maven/io.fabric8.jube.images.fabric8/lets-chat@2.0.43?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/lets-chat@2.0.44
+- pkg:maven/io.fabric8.jube.images.fabric8/lets-chat@2.0.44?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/lets-chat@2.0.46
+- pkg:maven/io.fabric8.jube.images.fabric8/lets-chat@2.0.46?classifier=sources
+- pkg:maven/io.fabric8.jube.images.fabric8/lets-chat@2.0.47
+- pkg:maven/io.fabric8.jube.images.fabric8/lets-chat@2.0.47?classifier=sources

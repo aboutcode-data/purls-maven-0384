@@ -1,0 +1,2 @@
+- pkg:maven/com.elasticpath.json/json-unmarshaller@1.0.0
+- pkg:maven/com.elasticpath.json/json-unmarshaller@1.0.0?classifier=sources

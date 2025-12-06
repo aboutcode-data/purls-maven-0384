@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.airavata/app-catalog-jpa@0.12
+- pkg:maven/org.apache.airavata/app-catalog-jpa@0.12?classifier=sources

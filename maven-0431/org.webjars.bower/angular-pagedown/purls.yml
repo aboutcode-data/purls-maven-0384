@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-pagedown@0.4.4
+- pkg:maven/org.webjars.bower/angular-pagedown@0.4.4?classifier=sources

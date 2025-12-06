@@ -2,3 +2,7 @@
 - pkg:maven/org.glassfish.main.admin/appserver-domain@4.0-b90
 - pkg:maven/org.glassfish.main.admin/appserver-domain@4.0-b90?classifier=sources
 - pkg:maven/org.glassfish.main.admin/appserver-domain@4.0?classifier=sources
+- pkg:maven/org.glassfish.main.admin/appserver-domain@4.1
+- pkg:maven/org.glassfish.main.admin/appserver-domain@4.1.1
+- pkg:maven/org.glassfish.main.admin/appserver-domain@4.1.1?classifier=sources
+- pkg:maven/org.glassfish.main.admin/appserver-domain@4.1?classifier=sources

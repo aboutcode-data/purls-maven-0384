@@ -1,0 +1,2 @@
+- pkg:maven/travel.izi.api/android-api@0.1.0?classifier=sources
+- pkg:maven/travel.izi.api/android-api@0.1.0?type=aar

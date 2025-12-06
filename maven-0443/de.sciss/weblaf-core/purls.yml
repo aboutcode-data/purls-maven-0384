@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/weblaf-core@1.28
+- pkg:maven/de.sciss/weblaf-core@1.28?classifier=sources

@@ -1,6 +1,9 @@
 - pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.1
 - pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.1-RC1
 - pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.1-RC2
+- pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.10
+- pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.11
+- pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.11-RC1
 - pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.2
 - pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.2-RC3
 - pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.2-RC4
@@ -12,3 +15,7 @@
 - pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.6
 - pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.6-RC2
 - pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.7
+- pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.8
+- pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.8-RC1
+- pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.2.9
+- pkg:maven/se.skltp.vp/vp-soitoolkit-mule-dependencies@2.3.0

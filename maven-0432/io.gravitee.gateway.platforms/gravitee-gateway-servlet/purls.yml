@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.gateway.platforms/gravitee-gateway-servlet@0.1.0
+- pkg:maven/io.gravitee.gateway.platforms/gravitee-gateway-servlet@0.1.0?classifier=sources

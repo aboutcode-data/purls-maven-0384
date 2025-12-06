@@ -1,0 +1,2 @@
+- pkg:maven/info.debatty/spark-nndescent@0.1
+- pkg:maven/info.debatty/spark-nndescent@0.1?classifier=sources

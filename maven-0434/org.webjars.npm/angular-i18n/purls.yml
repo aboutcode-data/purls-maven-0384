@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/angular-i18n@1.2.29
+- pkg:maven/org.webjars.npm/angular-i18n@1.2.29?classifier=sources
+- pkg:maven/org.webjars.npm/angular-i18n@1.4.7
+- pkg:maven/org.webjars.npm/angular-i18n@1.4.7?classifier=sources

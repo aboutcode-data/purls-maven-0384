@@ -2,3 +2,5 @@
 - pkg:maven/eu.agrosense.server/storage-tinkerpop@14.02-beta?classifier=sources
 - pkg:maven/eu.agrosense.server/storage-tinkerpop@14.04-beta
 - pkg:maven/eu.agrosense.server/storage-tinkerpop@14.04-beta?classifier=sources
+- pkg:maven/eu.agrosense.server/storage-tinkerpop@14.06-beta
+- pkg:maven/eu.agrosense.server/storage-tinkerpop@14.06-beta?classifier=sources

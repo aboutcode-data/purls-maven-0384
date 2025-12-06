@@ -10,3 +10,5 @@
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-pack@1.2.1?classifier=sources
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-pack@1.2.2?classifier=sources
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-pack@1.2.3?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-pack@10.3?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-pack@10.4?classifier=sources

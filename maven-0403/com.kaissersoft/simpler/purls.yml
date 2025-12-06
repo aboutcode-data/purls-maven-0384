@@ -1,0 +1,2 @@
+- pkg:maven/com.kaissersoft/simpler@1.0?classifier=sources
+- pkg:maven/com.kaissersoft/simpler@1.0?type=aar

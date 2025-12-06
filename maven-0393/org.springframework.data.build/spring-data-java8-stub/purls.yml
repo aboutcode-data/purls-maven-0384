@@ -1,2 +1,12 @@
 - pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.0.RELEASE
 - pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.1.RELEASE
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.2.RELEASE
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.4.RELEASE
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.5.RELEASE
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.6.RELEASE
+- pkg:maven/org.springframework.data.build/spring-data-java8-stub@1.4.6.RELEASE?classifier=sources

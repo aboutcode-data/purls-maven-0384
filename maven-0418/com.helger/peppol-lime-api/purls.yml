@@ -1,0 +1,2 @@
+- pkg:maven/com.helger/peppol-lime-api@3.0.0
+- pkg:maven/com.helger/peppol-lime-api@3.0.0?classifier=sources

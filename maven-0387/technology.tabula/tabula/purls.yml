@@ -1,0 +1,2 @@
+- pkg:maven/technology.tabula/tabula@0.8.0
+- pkg:maven/technology.tabula/tabula@0.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.fastconnect.jaxb.com.tibco.bw.schemas/process-model@5.9
+- pkg:maven/fr.fastconnect.jaxb.com.tibco.bw.schemas/process-model@5.9?classifier=sources

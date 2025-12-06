@@ -1,0 +1,2 @@
+- pkg:maven/org.randombits.support/support-confluence-compat@5.2.8?classifier=sources
+- pkg:maven/org.randombits.support/support-confluence-compat@5.2.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.programmiersportgruppe.jgoodies/jgoodies-extensions@0.0.1
+- pkg:maven/org.programmiersportgruppe.jgoodies/jgoodies-extensions@0.0.1?classifier=sources

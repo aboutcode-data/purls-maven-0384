@@ -1,0 +1,14 @@
+- pkg:maven/org.refcodes/refcodes-numerical@0.0.3
+- pkg:maven/org.refcodes/refcodes-numerical@0.0.3?classifier=sources
+- pkg:maven/org.refcodes/refcodes-numerical@0.0.4
+- pkg:maven/org.refcodes/refcodes-numerical@0.0.4?classifier=sources
+- pkg:maven/org.refcodes/refcodes-numerical@0.1.0
+- pkg:maven/org.refcodes/refcodes-numerical@0.1.0?classifier=sources
+- pkg:maven/org.refcodes/refcodes-numerical@0.2.0
+- pkg:maven/org.refcodes/refcodes-numerical@0.2.0?classifier=sources
+- pkg:maven/org.refcodes/refcodes-numerical@0.3.0
+- pkg:maven/org.refcodes/refcodes-numerical@0.3.0?classifier=sources
+- pkg:maven/org.refcodes/refcodes-numerical@0.4.0
+- pkg:maven/org.refcodes/refcodes-numerical@0.4.0?classifier=sources
+- pkg:maven/org.refcodes/refcodes-numerical@1.0.0
+- pkg:maven/org.refcodes/refcodes-numerical@1.0.0?classifier=sources

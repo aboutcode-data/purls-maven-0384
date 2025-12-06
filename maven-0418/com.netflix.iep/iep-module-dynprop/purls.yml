@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.iep/iep-module-dynprop@0.1.14
+- pkg:maven/com.netflix.iep/iep-module-dynprop@0.1.14?classifier=sources

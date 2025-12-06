@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/medium-editor@4.10.1
+- pkg:maven/org.webjars.npm/medium-editor@4.10.1?classifier=sources

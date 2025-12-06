@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.expressions@3.5.0.v20150421-2214
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.expressions@3.5.0.v20150421-2214?classifier=sources

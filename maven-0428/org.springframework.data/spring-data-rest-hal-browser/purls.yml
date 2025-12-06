@@ -1,0 +1,4 @@
+- pkg:maven/org.springframework.data/spring-data-rest-hal-browser@2.4.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-hal-browser@2.4.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-hal-browser@2.4.1.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-hal-browser@2.4.1.RELEASE?classifier=sources

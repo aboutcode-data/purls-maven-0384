@@ -3,3 +3,4 @@
 - pkg:maven/com.cloudbees.thirdparty/vijava@5.1
 - pkg:maven/com.cloudbees.thirdparty/vijava@5.1-beta
 - pkg:maven/com.cloudbees.thirdparty/vijava@5.1-beta?classifier=sources
+- pkg:maven/com.cloudbees.thirdparty/vijava@5.5-beta?classifier=sources

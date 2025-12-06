@@ -1,0 +1,10 @@
+- pkg:maven/org.st-js.bridge/requirejs@2.1.15.bv1
+- pkg:maven/org.st-js.bridge/requirejs@2.1.15.bv1?classifier=sources
+- pkg:maven/org.st-js.bridge/requirejs@2.1.15.bv2
+- pkg:maven/org.st-js.bridge/requirejs@2.1.15.bv2?classifier=sources
+- pkg:maven/org.st-js.bridge/requirejs@2.1.15.bv3
+- pkg:maven/org.st-js.bridge/requirejs@2.1.15.bv3?classifier=sources
+- pkg:maven/org.st-js.bridge/requirejs@2.1.15.bv4
+- pkg:maven/org.st-js.bridge/requirejs@2.1.15.bv4?classifier=sources
+- pkg:maven/org.st-js.bridge/requirejs@2.1.20.bv1
+- pkg:maven/org.st-js.bridge/requirejs@2.1.20.bv1?classifier=sources

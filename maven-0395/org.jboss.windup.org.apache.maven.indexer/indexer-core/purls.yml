@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.windup.org.apache.maven.indexer/indexer-core@6.0.WINDUP
+- pkg:maven/org.jboss.windup.org.apache.maven.indexer/indexer-core@6.0.WINDUP?classifier=sources
+- pkg:maven/org.jboss.windup.org.apache.maven.indexer/indexer-core@7.0.WINDUP
+- pkg:maven/org.jboss.windup.org.apache.maven.indexer/indexer-core@7.0.WINDUP?classifier=sources

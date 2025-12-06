@@ -1,2 +1,5 @@
 - pkg:maven/org.apache.pig/piggybank@0.12.0
 - pkg:maven/org.apache.pig/piggybank@0.12.1
+- pkg:maven/org.apache.pig/piggybank@0.13.0
+- pkg:maven/org.apache.pig/piggybank@0.14.0
+- pkg:maven/org.apache.pig/piggybank@0.15.0

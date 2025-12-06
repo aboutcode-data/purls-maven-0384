@@ -2,3 +2,7 @@
 - pkg:maven/com.java-adventures.glassfish.realm.salted/glassfish-jdbc-realm-salted@0.1.0?classifier=sources
 - pkg:maven/com.java-adventures.glassfish.realm.salted/glassfish-jdbc-realm-salted@0.2.0
 - pkg:maven/com.java-adventures.glassfish.realm.salted/glassfish-jdbc-realm-salted@0.2.0?classifier=sources
+- pkg:maven/com.java-adventures.glassfish.realm.salted/glassfish-jdbc-realm-salted@0.2.2
+- pkg:maven/com.java-adventures.glassfish.realm.salted/glassfish-jdbc-realm-salted@0.2.2?classifier=sources
+- pkg:maven/com.java-adventures.glassfish.realm.salted/glassfish-jdbc-realm-salted@0.2.3
+- pkg:maven/com.java-adventures.glassfish.realm.salted/glassfish-jdbc-realm-salted@0.2.3?classifier=sources

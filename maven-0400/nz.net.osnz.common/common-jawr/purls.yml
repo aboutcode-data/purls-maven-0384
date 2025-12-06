@@ -6,3 +6,5 @@
 - pkg:maven/nz.net.osnz.common/common-jawr@2.1?classifier=sources
 - pkg:maven/nz.net.osnz.common/common-jawr@3.1
 - pkg:maven/nz.net.osnz.common/common-jawr@3.1?classifier=sources
+- pkg:maven/nz.net.osnz.common/common-jawr@4.1
+- pkg:maven/nz.net.osnz.common/common-jawr@4.1?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/com.wizecommerce/hecuba-client@0.0.54?classifier=sources
 - pkg:maven/com.wizecommerce/hecuba-client@0.0.55
 - pkg:maven/com.wizecommerce/hecuba-client@0.0.55?classifier=sources
+- pkg:maven/com.wizecommerce/hecuba-client@0.0.56
+- pkg:maven/com.wizecommerce/hecuba-client@0.0.56?classifier=sources
+- pkg:maven/com.wizecommerce/hecuba-client@0.0.57
+- pkg:maven/com.wizecommerce/hecuba-client@0.0.57?classifier=sources

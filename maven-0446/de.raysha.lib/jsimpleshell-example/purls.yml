@@ -1,0 +1,2 @@
+- pkg:maven/de.raysha.lib/jsimpleshell-example@1.0
+- pkg:maven/de.raysha.lib/jsimpleshell-example@1.0?classifier=sources

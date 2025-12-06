@@ -1,0 +1,4 @@
+- pkg:maven/fr.matthieu-vergne/progress-samples@1.0
+- pkg:maven/fr.matthieu-vergne/progress-samples@1.0?classifier=sources
+- pkg:maven/fr.matthieu-vergne/progress-samples@1.1
+- pkg:maven/fr.matthieu-vergne/progress-samples@1.1?classifier=sources

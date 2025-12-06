@@ -1,0 +1,2 @@
+- pkg:maven/de.dagere.kopeme/build-tools@1.0
+- pkg:maven/de.dagere.kopeme/build-tools@1.0?classifier=sources

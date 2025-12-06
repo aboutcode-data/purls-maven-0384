@@ -1,2 +1,4 @@
+- pkg:maven/gov.nasa/worldwindx@2.0.0
 - pkg:maven/gov.nasa/worldwindx@2.0.0-986
 - pkg:maven/gov.nasa/worldwindx@2.0.0-986?classifier=sources
+- pkg:maven/gov.nasa/worldwindx@2.0.0?classifier=sources

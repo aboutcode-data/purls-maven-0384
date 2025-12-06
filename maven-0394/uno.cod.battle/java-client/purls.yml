@@ -1,0 +1,4 @@
+- pkg:maven/uno.cod.battle/java-client@1.0
+- pkg:maven/uno.cod.battle/java-client@1.0?classifier=sources
+- pkg:maven/uno.cod.battle/java-client@2.0
+- pkg:maven/uno.cod.battle/java-client@2.0?classifier=sources

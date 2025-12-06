@@ -1,0 +1,2 @@
+- pkg:maven/com.qualinsight.plugins.jetty/qualinsight-plugins-jetty-8.1.x@1.0.1
+- pkg:maven/com.qualinsight.plugins.jetty/qualinsight-plugins-jetty-8.1.x@1.0.1?classifier=sources

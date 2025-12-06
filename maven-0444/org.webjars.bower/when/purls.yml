@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/when@2.3.0
+- pkg:maven/org.webjars.bower/when@2.3.0?classifier=sources
+- pkg:maven/org.webjars.bower/when@3.7.3
+- pkg:maven/org.webjars.bower/when@3.7.3?classifier=sources
+- pkg:maven/org.webjars.bower/when@3.7.4
+- pkg:maven/org.webjars.bower/when@3.7.4?classifier=sources

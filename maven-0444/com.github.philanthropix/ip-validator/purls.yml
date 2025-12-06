@@ -1,0 +1,2 @@
+- pkg:maven/com.github.philanthropix/ip-validator@0.0.3
+- pkg:maven/com.github.philanthropix/ip-validator@0.0.3?classifier=sources

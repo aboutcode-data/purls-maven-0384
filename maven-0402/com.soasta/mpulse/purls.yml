@@ -1,0 +1,2 @@
+- pkg:maven/com.soasta/mpulse@0.1
+- pkg:maven/com.soasta/mpulse@0.1?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/com.google.code.simple-spring-memcached/simple-spring-memcached@3.3.0?classifier=sources
 - pkg:maven/com.google.code.simple-spring-memcached/simple-spring-memcached@3.4.0
 - pkg:maven/com.google.code.simple-spring-memcached/simple-spring-memcached@3.4.0?classifier=sources
+- pkg:maven/com.google.code.simple-spring-memcached/simple-spring-memcached@3.5.0
+- pkg:maven/com.google.code.simple-spring-memcached/simple-spring-memcached@3.5.0?classifier=sources
+- pkg:maven/com.google.code.simple-spring-memcached/simple-spring-memcached@3.6.0
+- pkg:maven/com.google.code.simple-spring-memcached/simple-spring-memcached@3.6.0?classifier=sources

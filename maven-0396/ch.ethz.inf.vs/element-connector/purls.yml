@@ -1,0 +1,2 @@
+- pkg:maven/ch.ethz.inf.vs/element-connector@0.2-final
+- pkg:maven/ch.ethz.inf.vs/element-connector@0.2-final?classifier=sources

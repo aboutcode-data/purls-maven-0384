@@ -1,0 +1,5 @@
+- pkg:maven/org.hawkular.btm/hawkular-btm-tests-server-wildfly@0.3.0.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-tests-server-wildfly@0.3.1.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-tests-server-wildfly@0.4.0.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-tests-server-wildfly@0.5.0.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-tests-server-wildfly@0.6.0.Final

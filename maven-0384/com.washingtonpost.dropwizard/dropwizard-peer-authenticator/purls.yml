@@ -1,0 +1,2 @@
+- pkg:maven/com.washingtonpost.dropwizard/dropwizard-peer-authenticator@1.0.2
+- pkg:maven/com.washingtonpost.dropwizard/dropwizard-peer-authenticator@1.0.2?classifier=sources

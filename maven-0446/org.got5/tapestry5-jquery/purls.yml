@@ -1,0 +1,6 @@
+- pkg:maven/org.got5/tapestry5-jquery@3.4.2
+- pkg:maven/org.got5/tapestry5-jquery@3.4.2?classifier=sources
+- pkg:maven/org.got5/tapestry5-jquery@4.0-beta-29
+- pkg:maven/org.got5/tapestry5-jquery@4.0-beta-29?classifier=sources
+- pkg:maven/org.got5/tapestry5-jquery@4.0-rc-1
+- pkg:maven/org.got5/tapestry5-jquery@4.0-rc-1?classifier=sources

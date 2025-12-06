@@ -1,0 +1,2 @@
+- pkg:maven/hm.binkley/binkley-finance@0.3
+- pkg:maven/hm.binkley/binkley-finance@0.3?classifier=sources

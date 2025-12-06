@@ -1,1 +1,2 @@
 - pkg:maven/org.ow2.chameleon.fuchsia.importer/org.ow2.chameleon.fuchsia.importer.json-rpc-it@0.0.2
+- pkg:maven/org.ow2.chameleon.fuchsia.importer/org.ow2.chameleon.fuchsia.importer.json-rpc-it@0.0.3

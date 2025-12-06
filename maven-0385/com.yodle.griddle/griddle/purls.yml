@@ -1,0 +1,2 @@
+- pkg:maven/com.yodle.griddle/griddle@1.7
+- pkg:maven/com.yodle.griddle/griddle@1.7?classifier=sources

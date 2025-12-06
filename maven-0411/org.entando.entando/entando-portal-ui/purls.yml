@@ -1,0 +1,2 @@
+- pkg:maven/org.entando.entando/entando-portal-ui@4.2.0-TP1?classifier=sources
+- pkg:maven/org.entando.entando/entando-portal-ui@4.2.0-TP1?type=war

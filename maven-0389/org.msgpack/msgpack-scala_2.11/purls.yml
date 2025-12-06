@@ -1,0 +1,2 @@
+- pkg:maven/org.msgpack/msgpack-scala_2.11@0.6.11
+- pkg:maven/org.msgpack/msgpack-scala_2.11@0.6.11?classifier=sources

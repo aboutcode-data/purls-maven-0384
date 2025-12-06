@@ -1,0 +1,2 @@
+- pkg:maven/de.zalando/kairosdb-client@2.0-ZAL-1
+- pkg:maven/de.zalando/kairosdb-client@2.0-ZAL-1?classifier=sources

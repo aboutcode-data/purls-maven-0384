@@ -1,0 +1,2 @@
+- pkg:maven/br.com.objectos/schema@0.1.1
+- pkg:maven/br.com.objectos/schema@0.1.1?classifier=sources

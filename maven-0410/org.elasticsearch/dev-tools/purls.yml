@@ -1,0 +1,6 @@
+- pkg:maven/org.elasticsearch/dev-tools@2.0.0
+- pkg:maven/org.elasticsearch/dev-tools@2.0.0-beta1
+- pkg:maven/org.elasticsearch/dev-tools@2.0.0-beta2
+- pkg:maven/org.elasticsearch/dev-tools@2.0.0-rc1
+- pkg:maven/org.elasticsearch/dev-tools@2.0.1
+- pkg:maven/org.elasticsearch/dev-tools@2.1.0

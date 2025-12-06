@@ -1,0 +1,8 @@
+- pkg:maven/com.github.jasonmfehr/combiner-maven-plugin-api@1.0.0-beta-01
+- pkg:maven/com.github.jasonmfehr/combiner-maven-plugin-api@1.0.0-beta-01?classifier=sources
+- pkg:maven/com.github.jasonmfehr/combiner-maven-plugin-api@1.0.0-beta-03
+- pkg:maven/com.github.jasonmfehr/combiner-maven-plugin-api@1.0.0-beta-03?classifier=sources
+- pkg:maven/com.github.jasonmfehr/combiner-maven-plugin-api@1.0.0-beta-04
+- pkg:maven/com.github.jasonmfehr/combiner-maven-plugin-api@1.0.0-beta-04?classifier=sources
+- pkg:maven/com.github.jasonmfehr/combiner-maven-plugin-api@1.0.0-beta-05
+- pkg:maven/com.github.jasonmfehr/combiner-maven-plugin-api@1.0.0-beta-05?classifier=sources

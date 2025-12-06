@@ -1,0 +1,4 @@
+- pkg:maven/org.easybatch/easybatch-hibernate@3.1.0
+- pkg:maven/org.easybatch/easybatch-hibernate@3.1.0?classifier=sources
+- pkg:maven/org.easybatch/easybatch-hibernate@4.0.0
+- pkg:maven/org.easybatch/easybatch-hibernate@4.0.0?classifier=sources

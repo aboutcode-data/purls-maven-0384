@@ -1,0 +1,2 @@
+- pkg:maven/org.openehealth.ipf.labs.maven/maven-dsldoc-plugin@1.6
+- pkg:maven/org.openehealth.ipf.labs.maven/maven-dsldoc-plugin@1.6?classifier=sources

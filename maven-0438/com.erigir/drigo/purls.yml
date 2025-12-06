@@ -1,0 +1,2 @@
+- pkg:maven/com.erigir/drigo@0.92
+- pkg:maven/com.erigir/drigo@0.92?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.jfxtras/jfxtras-menu@8.0-r2
+- pkg:maven/org.jfxtras/jfxtras-menu@8.0-r2?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-menu@8.0-r3
+- pkg:maven/org.jfxtras/jfxtras-menu@8.0-r3?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-menu@8.0-r4
+- pkg:maven/org.jfxtras/jfxtras-menu@8.0-r4?classifier=sources

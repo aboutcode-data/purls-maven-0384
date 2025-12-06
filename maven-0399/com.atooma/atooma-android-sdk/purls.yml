@@ -1,0 +1,3 @@
+- pkg:maven/com.atooma/atooma-android-sdk@1.2.1?classifier=sources
+- pkg:maven/com.atooma/atooma-android-sdk@1.2.1?type=aar
+- pkg:maven/com.atooma/atooma-android-sdk@2.0?type=aar

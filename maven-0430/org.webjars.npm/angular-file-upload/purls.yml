@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular-file-upload@1.6.4
+- pkg:maven/org.webjars.npm/angular-file-upload@1.6.4?classifier=sources

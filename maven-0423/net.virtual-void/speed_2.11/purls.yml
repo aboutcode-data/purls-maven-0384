@@ -1,0 +1,2 @@
+- pkg:maven/net.virtual-void/speed_2.11@15
+- pkg:maven/net.virtual-void/speed_2.11@15?classifier=sources

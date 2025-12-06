@@ -1,0 +1,2 @@
+- pkg:maven/com.github.igortrncic.dotted-progress-bar/library@1.0.0?classifier=sources
+- pkg:maven/com.github.igortrncic.dotted-progress-bar/library@1.0.0?type=aar

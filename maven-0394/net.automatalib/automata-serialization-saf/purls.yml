@@ -1,0 +1,4 @@
+- pkg:maven/net.automatalib/automata-serialization-saf@0.5.2
+- pkg:maven/net.automatalib/automata-serialization-saf@0.5.2?classifier=sources
+- pkg:maven/net.automatalib/automata-serialization-saf@0.6.0
+- pkg:maven/net.automatalib/automata-serialization-saf@0.6.0?classifier=sources

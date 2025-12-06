@@ -1,0 +1,10 @@
+- pkg:maven/net.cassite/daf4j-api@0.0.2-RELEASE
+- pkg:maven/net.cassite/daf4j-api@0.0.2-RELEASE?classifier=sources
+- pkg:maven/net.cassite/daf4j-api@0.0.3-RELEASE
+- pkg:maven/net.cassite/daf4j-api@0.0.3-RELEASE?classifier=sources
+- pkg:maven/net.cassite/daf4j-api@0.1.0-RELEASE
+- pkg:maven/net.cassite/daf4j-api@0.1.0-RELEASE?classifier=sources
+- pkg:maven/net.cassite/daf4j-api@0.1.1-RELEASE
+- pkg:maven/net.cassite/daf4j-api@0.1.1-RELEASE?classifier=sources
+- pkg:maven/net.cassite/daf4j-api@0.1.2-SNAPSHOT-1
+- pkg:maven/net.cassite/daf4j-api@0.1.2-SNAPSHOT-1?classifier=sources

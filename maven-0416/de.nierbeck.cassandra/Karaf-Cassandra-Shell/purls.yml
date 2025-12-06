@@ -1,0 +1,2 @@
+- pkg:maven/de.nierbeck.cassandra/Karaf-Cassandra-Shell@1.0.0
+- pkg:maven/de.nierbeck.cassandra/Karaf-Cassandra-Shell@1.0.0?classifier=sources

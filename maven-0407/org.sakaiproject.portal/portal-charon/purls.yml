@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject.portal/portal-charon@10.3?type=war
+- pkg:maven/org.sakaiproject.portal/portal-charon@10.4?type=war

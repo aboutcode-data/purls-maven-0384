@@ -1,0 +1,8 @@
+- pkg:maven/net.sf.geographiclib/GeographicLib-Java@1.42
+- pkg:maven/net.sf.geographiclib/GeographicLib-Java@1.42?classifier=sources
+- pkg:maven/net.sf.geographiclib/GeographicLib-Java@1.43
+- pkg:maven/net.sf.geographiclib/GeographicLib-Java@1.43?classifier=sources
+- pkg:maven/net.sf.geographiclib/GeographicLib-Java@1.44
+- pkg:maven/net.sf.geographiclib/GeographicLib-Java@1.44?classifier=sources
+- pkg:maven/net.sf.geographiclib/GeographicLib-Java@1.45
+- pkg:maven/net.sf.geographiclib/GeographicLib-Java@1.45?classifier=sources

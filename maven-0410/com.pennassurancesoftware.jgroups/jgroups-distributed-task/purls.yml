@@ -1,0 +1,8 @@
+- pkg:maven/com.pennassurancesoftware.jgroups/jgroups-distributed-task@1.00.00
+- pkg:maven/com.pennassurancesoftware.jgroups/jgroups-distributed-task@1.00.00?classifier=sources
+- pkg:maven/com.pennassurancesoftware.jgroups/jgroups-distributed-task@1.00.01
+- pkg:maven/com.pennassurancesoftware.jgroups/jgroups-distributed-task@1.00.01?classifier=sources
+- pkg:maven/com.pennassurancesoftware.jgroups/jgroups-distributed-task@1.01.00
+- pkg:maven/com.pennassurancesoftware.jgroups/jgroups-distributed-task@1.01.00?classifier=sources
+- pkg:maven/com.pennassurancesoftware.jgroups/jgroups-distributed-task@1.01.01
+- pkg:maven/com.pennassurancesoftware.jgroups/jgroups-distributed-task@1.01.01?classifier=sources

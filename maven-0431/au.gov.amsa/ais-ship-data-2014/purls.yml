@@ -1,0 +1,2 @@
+- pkg:maven/au.gov.amsa/ais-ship-data-2014@2.1
+- pkg:maven/au.gov.amsa/ais-ship-data-2014@2.1?classifier=sources

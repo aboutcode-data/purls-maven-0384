@@ -1,0 +1,2 @@
+- pkg:maven/info.kwarc.sally4/planetary-base@0.0.3
+- pkg:maven/info.kwarc.sally4/planetary-base@0.0.3?classifier=sources

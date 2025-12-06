@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.osgi.bundles/org.everit.osgi.bundles.org.apache.felix.utils@1.6.0
+- pkg:maven/org.everit.osgi.bundles/org.everit.osgi.bundles.org.apache.felix.utils@1.6.0?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.24
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.24?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.25
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.25?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.26
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.26?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.27
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.27?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.28
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.28?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.29
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.29?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.30
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.30?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.31
+- pkg:maven/edu.berkeley.cs/chisel_2.11@2.2.31?classifier=sources

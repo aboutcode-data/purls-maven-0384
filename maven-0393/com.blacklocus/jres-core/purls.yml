@@ -1,2 +1,4 @@
 - pkg:maven/com.blacklocus/jres-core@0.1.10
 - pkg:maven/com.blacklocus/jres-core@0.1.10?classifier=sources
+- pkg:maven/com.blacklocus/jres-core@0.1.12
+- pkg:maven/com.blacklocus/jres-core@0.1.12?classifier=sources

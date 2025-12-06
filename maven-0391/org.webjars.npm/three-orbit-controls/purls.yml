@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/three-orbit-controls@69.0.5
+- pkg:maven/org.webjars.npm/three-orbit-controls@69.0.5?classifier=sources

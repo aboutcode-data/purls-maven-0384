@@ -1,2 +1,5 @@
 - pkg:maven/org.apache.geronimo.specs/geronimo-concurrent_1.0_spec@1.0-EA
 - pkg:maven/org.apache.geronimo.specs/geronimo-concurrent_1.0_spec@1.0-EA?classifier=sources
+- pkg:maven/org.apache.geronimo.specs/geronimo-concurrent_1.0_spec@1.0-alpha-1
+- pkg:maven/org.apache.geronimo.specs/geronimo-concurrent_1.0_spec@1.0-alpha-1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.specs/geronimo-concurrent_1.0_spec@1.0-alpha-1?classifier=sources

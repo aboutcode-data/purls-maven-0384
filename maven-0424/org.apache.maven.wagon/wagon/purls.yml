@@ -2,9 +2,13 @@
 - pkg:maven/org.apache.maven.wagon/wagon@1.0-beta-7?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.wagon/wagon@1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.wagon/wagon@2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.wagon/wagon@2.10?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.wagon/wagon@2.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.wagon/wagon@2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.wagon/wagon@2.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.wagon/wagon@2.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.wagon/wagon@2.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.wagon/wagon@2.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.wagon/wagon@2.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.wagon/wagon@2.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.wagon/wagon@2.9?classifier=source-release&type=zip

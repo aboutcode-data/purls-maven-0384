@@ -1,0 +1,8 @@
+- pkg:maven/eu.trentorise.opendata/jackan@0.2.0
+- pkg:maven/eu.trentorise.opendata/jackan@0.2.0?classifier=sources
+- pkg:maven/eu.trentorise.opendata/jackan@0.3.1
+- pkg:maven/eu.trentorise.opendata/jackan@0.3.1?classifier=sources
+- pkg:maven/eu.trentorise.opendata/jackan@0.3.3
+- pkg:maven/eu.trentorise.opendata/jackan@0.3.3?classifier=sources
+- pkg:maven/eu.trentorise.opendata/jackan@0.4.1?classifier=sources
+- pkg:maven/eu.trentorise.opendata/jackan@0.4.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.davidgenn/http-replaying-proxy@0.1.0
+- pkg:maven/com.github.davidgenn/http-replaying-proxy@0.1.0?classifier=sources

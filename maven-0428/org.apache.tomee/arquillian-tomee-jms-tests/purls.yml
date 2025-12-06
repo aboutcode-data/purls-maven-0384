@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tomee/arquillian-tomee-jms-tests@7.0.0-M1
+- pkg:maven/org.apache.tomee/arquillian-tomee-jms-tests@7.0.0-M1?classifier=sources

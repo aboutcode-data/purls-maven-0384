@@ -1,0 +1,12 @@
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@0.10.0
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@0.10.0?classifier=sources
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@1.0.0
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@1.0.0?classifier=sources
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@1.0.1
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@1.0.1?classifier=sources
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@1.0.2
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@1.0.2?classifier=sources
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@1.0.3
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@1.0.3?classifier=sources
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@1.0.4
+- pkg:maven/org.vertexium/vertexium-elasticsearch-parentchild@1.0.4?classifier=sources

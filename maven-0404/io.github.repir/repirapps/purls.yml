@@ -1,0 +1,2 @@
+- pkg:maven/io.github.repir/repirapps@0.26
+- pkg:maven/io.github.repir/repirapps@0.26?classifier=sources

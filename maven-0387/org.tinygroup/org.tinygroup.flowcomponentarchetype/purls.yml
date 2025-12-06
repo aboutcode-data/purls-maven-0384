@@ -1,1 +1,12 @@
 - pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@1.1.0?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@1.2.2?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@1.2.3?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@1.2.4?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@2.0.0?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@2.0.10?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@2.0.19?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@2.0.20?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@2.0.21?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@2.0.26?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@2.0.27?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.flowcomponentarchetype@2.0.29?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/it.tidalwave.northernwind/northernwind-twitter-bootstrap-3.3.5@1
+- pkg:maven/it.tidalwave.northernwind/northernwind-twitter-bootstrap-3.3.5@1?classifier=sources

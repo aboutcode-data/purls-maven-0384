@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.server/kie-server-integ-tests-controller@6.3.0.CR2
+- pkg:maven/org.kie.server/kie-server-integ-tests-controller@6.3.0.CR2?classifier=sources
+- pkg:maven/org.kie.server/kie-server-integ-tests-controller@6.3.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-controller@6.3.0.Final?classifier=sources

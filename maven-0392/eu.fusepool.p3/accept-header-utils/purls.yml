@@ -1,0 +1,4 @@
+- pkg:maven/eu.fusepool.p3/accept-header-utils@1.0.0
+- pkg:maven/eu.fusepool.p3/accept-header-utils@1.0.0?classifier=sources
+- pkg:maven/eu.fusepool.p3/accept-header-utils@1.0.1
+- pkg:maven/eu.fusepool.p3/accept-header-utils@1.0.1?classifier=sources

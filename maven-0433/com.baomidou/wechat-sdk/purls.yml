@@ -1,0 +1,2 @@
+- pkg:maven/com.baomidou/wechat-sdk@1.b.0
+- pkg:maven/com.baomidou/wechat-sdk@1.b.0?classifier=sources

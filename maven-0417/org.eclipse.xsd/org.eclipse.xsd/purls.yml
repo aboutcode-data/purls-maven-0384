@@ -1,3 +1,9 @@
+- pkg:maven/org.eclipse.xsd/org.eclipse.xsd@2.10.0
+- pkg:maven/org.eclipse.xsd/org.eclipse.xsd@2.10.0-v20150123-0357
+- pkg:maven/org.eclipse.xsd/org.eclipse.xsd@2.10.0-v20150123-0357?classifier=sources
+- pkg:maven/org.eclipse.xsd/org.eclipse.xsd@2.10.0-v20150123-0452
+- pkg:maven/org.eclipse.xsd/org.eclipse.xsd@2.10.0-v20150123-0452?classifier=sources
+- pkg:maven/org.eclipse.xsd/org.eclipse.xsd@2.10.0?classifier=sources
 - pkg:maven/org.eclipse.xsd/org.eclipse.xsd@2.7.0-v20110606-0949
 - pkg:maven/org.eclipse.xsd/org.eclipse.xsd@2.7.0-v20110606-0949?classifier=sources
 - pkg:maven/org.eclipse.xsd/org.eclipse.xsd@2.8.0-v20120319-0555

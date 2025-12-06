@@ -1,0 +1,2 @@
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-sdk-common@1.2.2
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-sdk-common@1.2.2?classifier=sources

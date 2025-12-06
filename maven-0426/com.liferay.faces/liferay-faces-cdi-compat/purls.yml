@@ -2,5 +2,11 @@
 - pkg:maven/com.liferay.faces/liferay-faces-cdi-compat@3.1.3-ga4?classifier=sources
 - pkg:maven/com.liferay.faces/liferay-faces-cdi-compat@3.1.4-ga5
 - pkg:maven/com.liferay.faces/liferay-faces-cdi-compat@3.1.4-ga5?classifier=sources
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-compat@3.1.5-ga6
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-compat@3.1.5-ga6?classifier=sources
 - pkg:maven/com.liferay.faces/liferay-faces-cdi-compat@3.2.4-ga5
 - pkg:maven/com.liferay.faces/liferay-faces-cdi-compat@3.2.4-ga5?classifier=sources
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-compat@3.2.5-ga6
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-compat@3.2.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-compat@4.2.5-ga6
+- pkg:maven/com.liferay.faces/liferay-faces-cdi-compat@4.2.5-ga6?classifier=sources

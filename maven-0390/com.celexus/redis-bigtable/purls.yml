@@ -1,0 +1,2 @@
+- pkg:maven/com.celexus/redis-bigtable@1.0.1
+- pkg:maven/com.celexus/redis-bigtable@1.0.1?classifier=sources

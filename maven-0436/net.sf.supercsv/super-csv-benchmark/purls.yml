@@ -1,2 +1,6 @@
 - pkg:maven/net.sf.supercsv/super-csv-benchmark@2.1.0
 - pkg:maven/net.sf.supercsv/super-csv-benchmark@2.2.0
+- pkg:maven/net.sf.supercsv/super-csv-benchmark@2.2.1
+- pkg:maven/net.sf.supercsv/super-csv-benchmark@2.3.0
+- pkg:maven/net.sf.supercsv/super-csv-benchmark@2.3.1
+- pkg:maven/net.sf.supercsv/super-csv-benchmark@2.4.0

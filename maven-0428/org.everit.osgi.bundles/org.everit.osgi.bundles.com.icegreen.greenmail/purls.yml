@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.osgi.bundles/org.everit.osgi.bundles.com.icegreen.greenmail@1.4.0
+- pkg:maven/org.everit.osgi.bundles/org.everit.osgi.bundles.com.icegreen.greenmail@1.4.0?classifier=sources

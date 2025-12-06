@@ -1,0 +1,6 @@
+- pkg:maven/com.faithcomesbyhearing/dbt@0.1?classifier=sources
+- pkg:maven/com.faithcomesbyhearing/dbt@0.1?type=aar
+- pkg:maven/com.faithcomesbyhearing/dbt@1.0.1?classifier=sources
+- pkg:maven/com.faithcomesbyhearing/dbt@1.0.1?type=aar
+- pkg:maven/com.faithcomesbyhearing/dbt@1.0?classifier=sources
+- pkg:maven/com.faithcomesbyhearing/dbt@1.0?type=aar

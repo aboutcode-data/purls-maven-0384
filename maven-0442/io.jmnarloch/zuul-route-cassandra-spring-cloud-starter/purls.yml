@@ -1,0 +1,2 @@
+- pkg:maven/io.jmnarloch/zuul-route-cassandra-spring-cloud-starter@1.0.0
+- pkg:maven/io.jmnarloch/zuul-route-cassandra-spring-cloud-starter@1.0.0?classifier=sources

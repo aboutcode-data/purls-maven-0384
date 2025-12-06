@@ -1,0 +1,4 @@
+- pkg:maven/io.jmnarloch/ribbon-discovery-filter-spring-cloud-starter@1.0.0
+- pkg:maven/io.jmnarloch/ribbon-discovery-filter-spring-cloud-starter@1.0.0?classifier=sources
+- pkg:maven/io.jmnarloch/ribbon-discovery-filter-spring-cloud-starter@2.0.0
+- pkg:maven/io.jmnarloch/ribbon-discovery-filter-spring-cloud-starter@2.0.0?classifier=sources

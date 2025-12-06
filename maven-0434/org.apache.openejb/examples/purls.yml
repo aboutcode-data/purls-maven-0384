@@ -16,3 +16,11 @@
 - pkg:maven/org.apache.openejb/examples@4.6.0.2?classifier=src&type=zip
 - pkg:maven/org.apache.openejb/examples@4.6.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.openejb/examples@4.6.0?classifier=src&type=zip
+- pkg:maven/org.apache.openejb/examples@4.7.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.openejb/examples@4.7.0?classifier=src&type=zip
+- pkg:maven/org.apache.openejb/examples@4.7.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.openejb/examples@4.7.1?classifier=src&type=zip
+- pkg:maven/org.apache.openejb/examples@4.7.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.openejb/examples@4.7.2?classifier=src&type=zip
+- pkg:maven/org.apache.openejb/examples@4.7.3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.openejb/examples@4.7.3?classifier=src&type=zip

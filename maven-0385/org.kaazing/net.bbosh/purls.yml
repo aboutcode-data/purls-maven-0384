@@ -1,0 +1,4 @@
+- pkg:maven/org.kaazing/net.bbosh@1.1.0.8
+- pkg:maven/org.kaazing/net.bbosh@1.1.0.8?classifier=sources
+- pkg:maven/org.kaazing/net.bbosh@1.1.0.9
+- pkg:maven/org.kaazing/net.bbosh@1.1.0.9?classifier=sources

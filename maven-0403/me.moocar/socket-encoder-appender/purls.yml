@@ -1,0 +1,2 @@
+- pkg:maven/me.moocar/socket-encoder-appender@0.1beta1
+- pkg:maven/me.moocar/socket-encoder-appender@0.1beta1?classifier=sources
