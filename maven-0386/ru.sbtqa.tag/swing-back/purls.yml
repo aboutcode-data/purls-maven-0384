@@ -1,0 +1,8 @@
+- pkg:maven/ru.sbtqa.tag/swing-back@1.0.0
+- pkg:maven/ru.sbtqa.tag/swing-back@1.0.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag/swing-back@1.0.1-alpha
+- pkg:maven/ru.sbtqa.tag/swing-back@1.0.1-alpha?classifier=sources
+- pkg:maven/ru.sbtqa.tag/swing-back@1.1.0
+- pkg:maven/ru.sbtqa.tag/swing-back@1.1.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag/swing-back@1.1.1
+- pkg:maven/ru.sbtqa.tag/swing-back@1.1.1?classifier=sources

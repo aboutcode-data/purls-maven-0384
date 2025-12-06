@@ -1,5 +1,7 @@
 - pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99
 - pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.1
+- pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.10
+- pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.10?classifier=sources
 - pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.1?classifier=sources
 - pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.2
 - pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.2?classifier=sources
@@ -7,4 +9,8 @@
 - pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.3?classifier=sources
 - pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.4
 - pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.4?classifier=sources
+- pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.5
+- pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.5?classifier=sources
+- pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.7
+- pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99.7?classifier=sources
 - pkg:maven/de.leanovate.swaggercheck/json-schema-jackson_2.11@0.99?classifier=sources

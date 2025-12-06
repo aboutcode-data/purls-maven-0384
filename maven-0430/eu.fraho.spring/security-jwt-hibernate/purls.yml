@@ -1,0 +1,4 @@
+- pkg:maven/eu.fraho.spring/security-jwt-hibernate@0.7.0
+- pkg:maven/eu.fraho.spring/security-jwt-hibernate@0.7.0?classifier=sources
+- pkg:maven/eu.fraho.spring/security-jwt-hibernate@0.8.0
+- pkg:maven/eu.fraho.spring/security-jwt-hibernate@0.8.0?classifier=sources

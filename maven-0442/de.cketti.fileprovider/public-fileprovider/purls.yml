@@ -1,0 +1,2 @@
+- pkg:maven/de.cketti.fileprovider/public-fileprovider@1.0.0?classifier=sources
+- pkg:maven/de.cketti.fileprovider/public-fileprovider@1.0.0?type=aar

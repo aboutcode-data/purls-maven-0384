@@ -1,0 +1,2 @@
+- pkg:maven/com.konmik.rxstate/rxstate2@0.1.0-beta1
+- pkg:maven/com.konmik.rxstate/rxstate2@0.1.0-beta1?classifier=sources

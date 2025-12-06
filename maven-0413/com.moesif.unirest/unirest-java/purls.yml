@@ -1,0 +1,2 @@
+- pkg:maven/com.moesif.unirest/unirest-java@1.0.2
+- pkg:maven/com.moesif.unirest/unirest-java@1.0.2?classifier=sources

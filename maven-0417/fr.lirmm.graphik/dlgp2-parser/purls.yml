@@ -1,2 +1,6 @@
 - pkg:maven/fr.lirmm.graphik/dlgp2-parser@1.0.0
 - pkg:maven/fr.lirmm.graphik/dlgp2-parser@1.0.0?classifier=sources
+- pkg:maven/fr.lirmm.graphik/dlgp2-parser@2.1.0
+- pkg:maven/fr.lirmm.graphik/dlgp2-parser@2.1.0?classifier=sources
+- pkg:maven/fr.lirmm.graphik/dlgp2-parser@2.1.1
+- pkg:maven/fr.lirmm.graphik/dlgp2-parser@2.1.1?classifier=sources

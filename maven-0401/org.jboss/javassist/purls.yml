@@ -1,0 +1,10 @@
+- pkg:maven/org.jboss/javassist@3.5.GA
+- pkg:maven/org.jboss/javassist@3.5.GA?classifier=sources
+- pkg:maven/org.jboss/javassist@3.6-beta
+- pkg:maven/org.jboss/javassist@3.6-beta?classifier=sources
+- pkg:maven/org.jboss/javassist@3.6.0.CR1
+- pkg:maven/org.jboss/javassist@3.6.0.CR1?classifier=sources
+- pkg:maven/org.jboss/javassist@3.6.0.GA
+- pkg:maven/org.jboss/javassist@3.6.0.GA?classifier=sources
+- pkg:maven/org.jboss/javassist@3.7.1.GA
+- pkg:maven/org.jboss/javassist@3.7.1.GA?classifier=sources

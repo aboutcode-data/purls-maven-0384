@@ -1,0 +1,2 @@
+- pkg:maven/org.owasp/dependency-check-plugin@1.4.5
+- pkg:maven/org.owasp/dependency-check-plugin@1.4.5?classifier=sources

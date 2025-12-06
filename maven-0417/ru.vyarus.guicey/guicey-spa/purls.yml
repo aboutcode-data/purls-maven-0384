@@ -1,0 +1,2 @@
+- pkg:maven/ru.vyarus.guicey/guicey-spa@0.3.0
+- pkg:maven/ru.vyarus.guicey/guicey-spa@0.3.0?classifier=sources

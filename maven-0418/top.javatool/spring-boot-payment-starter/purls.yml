@@ -1,0 +1,2 @@
+- pkg:maven/top.javatool/spring-boot-payment-starter@1.0
+- pkg:maven/top.javatool/spring-boot-payment-starter@1.0?classifier=sources

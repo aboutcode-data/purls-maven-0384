@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator@3.6.101
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator@3.6.101?classifier=sources

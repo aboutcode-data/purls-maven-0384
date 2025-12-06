@@ -1,0 +1,2 @@
+- pkg:maven/com.ccheptea.auto.value/auto-value-variant-runtime@1.2.0
+- pkg:maven/com.ccheptea.auto.value/auto-value-variant-runtime@1.2.0?classifier=sources

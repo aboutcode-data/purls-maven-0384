@@ -10,3 +10,7 @@
 - pkg:maven/cat.ereza/customactivityoncrash@1.4.0?type=aar
 - pkg:maven/cat.ereza/customactivityoncrash@1.5.0?classifier=sources
 - pkg:maven/cat.ereza/customactivityoncrash@1.5.0?type=aar
+- pkg:maven/cat.ereza/customactivityoncrash@2.0.0?classifier=sources
+- pkg:maven/cat.ereza/customactivityoncrash@2.0.0?type=aar
+- pkg:maven/cat.ereza/customactivityoncrash@2.1.0?classifier=sources
+- pkg:maven/cat.ereza/customactivityoncrash@2.1.0?type=aar

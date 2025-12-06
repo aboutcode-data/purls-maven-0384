@@ -44,3 +44,15 @@
 - pkg:maven/com.diffplug.gradle/goomph@3.2.1?classifier=sources
 - pkg:maven/com.diffplug.gradle/goomph@3.3.0
 - pkg:maven/com.diffplug.gradle/goomph@3.3.0?classifier=sources
+- pkg:maven/com.diffplug.gradle/goomph@3.4.0
+- pkg:maven/com.diffplug.gradle/goomph@3.4.0?classifier=sources
+- pkg:maven/com.diffplug.gradle/goomph@3.5.0
+- pkg:maven/com.diffplug.gradle/goomph@3.5.0?classifier=sources
+- pkg:maven/com.diffplug.gradle/goomph@3.6.0
+- pkg:maven/com.diffplug.gradle/goomph@3.6.0?classifier=sources
+- pkg:maven/com.diffplug.gradle/goomph@3.7.0
+- pkg:maven/com.diffplug.gradle/goomph@3.7.0?classifier=sources
+- pkg:maven/com.diffplug.gradle/goomph@3.7.1
+- pkg:maven/com.diffplug.gradle/goomph@3.7.1?classifier=sources
+- pkg:maven/com.diffplug.gradle/goomph@3.7.2
+- pkg:maven/com.diffplug.gradle/goomph@3.7.2?classifier=sources

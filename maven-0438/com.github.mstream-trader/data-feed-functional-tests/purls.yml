@@ -1,5 +1,16 @@
 - pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.10
+- pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.11
+- pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.12
+- pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.13
+- pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.14
+- pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.15
+- pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.16
+- pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.17
+- pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.18
+- pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.19
 - pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.2
+- pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.20
+- pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.21
 - pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.4
 - pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.5
 - pkg:maven/com.github.mstream-trader/data-feed-functional-tests@1.6

@@ -4,3 +4,5 @@
 - pkg:maven/net.qiujuer.genius/kit-reflect@2.0.0-beta6?type=aar
 - pkg:maven/net.qiujuer.genius/kit-reflect@2.0.0-beta9?classifier=sources
 - pkg:maven/net.qiujuer.genius/kit-reflect@2.0.0-beta9?type=aar
+- pkg:maven/net.qiujuer.genius/kit-reflect@2.0.0?classifier=sources
+- pkg:maven/net.qiujuer.genius/kit-reflect@2.0.0?type=aar

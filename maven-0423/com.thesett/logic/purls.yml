@@ -34,6 +34,8 @@
 - pkg:maven/com.thesett/logic@0.8.8?classifier=sources
 - pkg:maven/com.thesett/logic@0.8.9
 - pkg:maven/com.thesett/logic@0.8.9?classifier=sources
+- pkg:maven/com.thesett/logic@0.9.117
+- pkg:maven/com.thesett/logic@0.9.117?classifier=sources
 - pkg:maven/com.thesett/logic@0.9.77
 - pkg:maven/com.thesett/logic@0.9.77?classifier=sources
 - pkg:maven/com.thesett/logic@0.9.97

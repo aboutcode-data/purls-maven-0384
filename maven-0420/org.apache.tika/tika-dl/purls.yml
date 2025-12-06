@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tika/tika-dl@1.15
+- pkg:maven/org.apache.tika/tika-dl@1.15?classifier=sources

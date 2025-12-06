@@ -26,3 +26,5 @@
 - pkg:maven/com.gitblit.fathom/fathom-rest-swagger@0.9.1?classifier=sources
 - pkg:maven/com.gitblit.fathom/fathom-rest-swagger@0.9.2
 - pkg:maven/com.gitblit.fathom/fathom-rest-swagger@0.9.2?classifier=sources
+- pkg:maven/com.gitblit.fathom/fathom-rest-swagger@1.0.1
+- pkg:maven/com.gitblit.fathom/fathom-rest-swagger@1.0.1?classifier=sources

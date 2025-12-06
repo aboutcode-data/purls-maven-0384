@@ -1,0 +1,2 @@
+- pkg:maven/com.cyphercove.gdx/covetools@1.0
+- pkg:maven/com.cyphercove.gdx/covetools@1.0?classifier=sources

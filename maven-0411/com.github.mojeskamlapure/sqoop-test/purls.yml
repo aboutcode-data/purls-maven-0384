@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mojeskamlapure/sqoop-test@1.4.6-bandwidth-control
+- pkg:maven/com.github.mojeskamlapure/sqoop-test@1.4.6-bandwidth-control?classifier=sources

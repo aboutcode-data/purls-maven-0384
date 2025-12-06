@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.bower/react-select@1.0.0-beta12?classifier=sources
 - pkg:maven/org.webjars.bower/react-select@1.0.0-beta13
 - pkg:maven/org.webjars.bower/react-select@1.0.0-beta13?classifier=sources
+- pkg:maven/org.webjars.bower/react-select@1.0.0-rc.1
+- pkg:maven/org.webjars.bower/react-select@1.0.0-rc.1?classifier=sources

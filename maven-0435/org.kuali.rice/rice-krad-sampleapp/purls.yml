@@ -8,6 +8,8 @@
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.12?type=war
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.13?classifier=sources
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.13?type=war
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.14?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.14?type=war
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.1?classifier=sources
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.1?type=war
 - pkg:maven/org.kuali.rice/rice-krad-sampleapp@2.3.2?classifier=sources

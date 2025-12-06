@@ -1,0 +1,2 @@
+- pkg:maven/io.openmessaging/openmessaging-api-samples@0.1.0-alpha
+- pkg:maven/io.openmessaging/openmessaging-api-samples@0.1.0-alpha?classifier=sources

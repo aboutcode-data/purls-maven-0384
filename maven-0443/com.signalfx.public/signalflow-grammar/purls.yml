@@ -10,3 +10,13 @@
 - pkg:maven/com.signalfx.public/signalflow-grammar@2.4.0?classifier=sources
 - pkg:maven/com.signalfx.public/signalflow-grammar@2.5.0
 - pkg:maven/com.signalfx.public/signalflow-grammar@2.5.0?classifier=sources
+- pkg:maven/com.signalfx.public/signalflow-grammar@2.6.0
+- pkg:maven/com.signalfx.public/signalflow-grammar@2.6.0?classifier=sources
+- pkg:maven/com.signalfx.public/signalflow-grammar@2.7.0
+- pkg:maven/com.signalfx.public/signalflow-grammar@2.7.0?classifier=sources
+- pkg:maven/com.signalfx.public/signalflow-grammar@2.8.0
+- pkg:maven/com.signalfx.public/signalflow-grammar@2.8.0?classifier=sources
+- pkg:maven/com.signalfx.public/signalflow-grammar@2.8.1
+- pkg:maven/com.signalfx.public/signalflow-grammar@2.8.1?classifier=sources
+- pkg:maven/com.signalfx.public/signalflow-grammar@2.9.0
+- pkg:maven/com.signalfx.public/signalflow-grammar@2.9.0?classifier=sources

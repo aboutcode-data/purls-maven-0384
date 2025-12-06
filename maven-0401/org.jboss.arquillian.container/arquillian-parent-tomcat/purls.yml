@@ -1,1 +1,5 @@
+- pkg:maven/org.jboss.arquillian.container/arquillian-parent-tomcat@1.0.0.CR10?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.container/arquillian-parent-tomcat@1.0.0.CR7?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.container/arquillian-parent-tomcat@1.0.0.CR8?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.container/arquillian-parent-tomcat@1.0.0.CR9?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.container/arquillian-parent-tomcat@1.0.0?classifier=source-release&type=zip

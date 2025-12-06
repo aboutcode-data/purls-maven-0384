@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wmacevoy/kiss@1.0
+- pkg:maven/com.github.wmacevoy/kiss@1.0?classifier=sources

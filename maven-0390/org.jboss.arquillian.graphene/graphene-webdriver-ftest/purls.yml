@@ -21,3 +21,5 @@
 - pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-ftest@2.1.0.CR1
 - pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-ftest@2.1.0.CR2
 - pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-ftest@2.1.0.Final
+- pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-ftest@2.2.0
+- pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-ftest@2.2.1

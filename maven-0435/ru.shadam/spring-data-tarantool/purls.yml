@@ -1,0 +1,2 @@
+- pkg:maven/ru.shadam/spring-data-tarantool@0.1.0
+- pkg:maven/ru.shadam/spring-data-tarantool@0.1.0?classifier=sources

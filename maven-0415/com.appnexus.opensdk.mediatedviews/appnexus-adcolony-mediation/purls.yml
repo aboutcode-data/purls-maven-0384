@@ -4,6 +4,8 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@2.13-2.3.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@2.14-2.3.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@2.15-2.3.6?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@2.15.1-2.3.6?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@2.16-2.3.6?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@2.3.0-2.2.2?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@2.3.1-2.2.2?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@2.4-2.2.2?type=aar
@@ -14,3 +16,7 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@2.8-2.3.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@2.9-2.3.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@2.9.1-2.3.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@3.0-2.3.6?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@3.1-2.3.6?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@3.2-2.3.6?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-adcolony-mediation@3.3-2.3.6?type=aar

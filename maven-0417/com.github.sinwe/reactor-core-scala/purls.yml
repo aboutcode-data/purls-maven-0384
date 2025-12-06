@@ -1,0 +1,6 @@
+- pkg:maven/com.github.sinwe/reactor-core-scala@0.1.8
+- pkg:maven/com.github.sinwe/reactor-core-scala@0.1.8?classifier=sources
+- pkg:maven/com.github.sinwe/reactor-core-scala@0.1.9
+- pkg:maven/com.github.sinwe/reactor-core-scala@0.1.9?classifier=sources
+- pkg:maven/com.github.sinwe/reactor-core-scala@0.2.2
+- pkg:maven/com.github.sinwe/reactor-core-scala@0.2.2?classifier=sources

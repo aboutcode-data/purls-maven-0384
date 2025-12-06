@@ -1,2 +1,4 @@
 - pkg:maven/org.log4mongo/log4mongo-java@0.7.4
 - pkg:maven/org.log4mongo/log4mongo-java@0.7.4?classifier=sources
+- pkg:maven/org.log4mongo/log4mongo-java@0.9.0
+- pkg:maven/org.log4mongo/log4mongo-java@0.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.bmartel/iotf-library@0.3?classifier=sources
+- pkg:maven/fr.bmartel/iotf-library@0.3?type=aar

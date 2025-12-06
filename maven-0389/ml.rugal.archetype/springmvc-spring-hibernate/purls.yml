@@ -5,3 +5,4 @@
 - pkg:maven/ml.rugal.archetype/springmvc-spring-hibernate@0.5
 - pkg:maven/ml.rugal.archetype/springmvc-spring-hibernate@0.6
 - pkg:maven/ml.rugal.archetype/springmvc-spring-hibernate@0.7
+- pkg:maven/ml.rugal.archetype/springmvc-spring-hibernate@1.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.coreoz/plume-scheduler@1.0.0-rc3
+- pkg:maven/com.coreoz/plume-scheduler@1.0.0-rc3?classifier=sources

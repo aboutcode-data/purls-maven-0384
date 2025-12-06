@@ -4,3 +4,9 @@
 - pkg:maven/org.webjars.npm/protractor@2.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/protractor@2.5.1
 - pkg:maven/org.webjars.npm/protractor@2.5.1?classifier=sources
+- pkg:maven/org.webjars.npm/protractor@3.3.0
+- pkg:maven/org.webjars.npm/protractor@3.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/protractor@4.0.11
+- pkg:maven/org.webjars.npm/protractor@4.0.11?classifier=sources
+- pkg:maven/org.webjars.npm/protractor@5.1.1
+- pkg:maven/org.webjars.npm/protractor@5.1.1?classifier=sources

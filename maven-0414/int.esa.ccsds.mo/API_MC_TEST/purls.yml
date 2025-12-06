@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.ccsds.mo/API_MC_TEST@1.0
+- pkg:maven/int.esa.ccsds.mo/API_MC_TEST@1.0?classifier=sources

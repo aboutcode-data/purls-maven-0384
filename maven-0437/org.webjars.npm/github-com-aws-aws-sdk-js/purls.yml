@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-aws-aws-sdk-js@2.10.0
+- pkg:maven/org.webjars.npm/github-com-aws-aws-sdk-js@2.10.0?classifier=sources

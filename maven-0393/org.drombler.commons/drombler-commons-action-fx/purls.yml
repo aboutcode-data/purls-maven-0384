@@ -6,3 +6,5 @@
 - pkg:maven/org.drombler.commons/drombler-commons-action-fx@0.7?classifier=sources
 - pkg:maven/org.drombler.commons/drombler-commons-action-fx@0.8
 - pkg:maven/org.drombler.commons/drombler-commons-action-fx@0.8?classifier=sources
+- pkg:maven/org.drombler.commons/drombler-commons-action-fx@0.9
+- pkg:maven/org.drombler.commons/drombler-commons-action-fx@0.9?classifier=sources

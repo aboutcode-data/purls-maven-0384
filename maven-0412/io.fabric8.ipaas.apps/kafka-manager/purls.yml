@@ -1,0 +1,4 @@
+- pkg:maven/io.fabric8.ipaas.apps/kafka-manager@2.2.165
+- pkg:maven/io.fabric8.ipaas.apps/kafka-manager@2.2.166
+- pkg:maven/io.fabric8.ipaas.apps/kafka-manager@2.2.167
+- pkg:maven/io.fabric8.ipaas.apps/kafka-manager@2.2.168

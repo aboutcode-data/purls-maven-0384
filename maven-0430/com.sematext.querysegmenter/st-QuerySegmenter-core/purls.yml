@@ -1,0 +1,6 @@
+- pkg:maven/com.sematext.querysegmenter/st-QuerySegmenter-core@1.3.6.0.1
+- pkg:maven/com.sematext.querysegmenter/st-QuerySegmenter-core@1.3.6.0.1?classifier=sources
+- pkg:maven/com.sematext.querysegmenter/st-QuerySegmenter-core@1.3.6.3.0
+- pkg:maven/com.sematext.querysegmenter/st-QuerySegmenter-core@1.3.6.3.0?classifier=sources
+- pkg:maven/com.sematext.querysegmenter/st-QuerySegmenter-core@1.3.6.5.1
+- pkg:maven/com.sematext.querysegmenter/st-QuerySegmenter-core@1.3.6.5.1?classifier=sources

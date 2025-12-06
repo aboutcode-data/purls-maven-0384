@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/lovefield@2.1.10
+- pkg:maven/org.webjars.npm/lovefield@2.1.10?classifier=sources
+- pkg:maven/org.webjars.npm/lovefield@2.1.12
+- pkg:maven/org.webjars.npm/lovefield@2.1.12?classifier=sources

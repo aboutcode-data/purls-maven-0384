@@ -1,0 +1,4 @@
+- pkg:maven/com.agapsys/rcf-scanner-maven-plugin@0.1.0-20170322
+- pkg:maven/com.agapsys/rcf-scanner-maven-plugin@0.1.0-20170322?classifier=sources
+- pkg:maven/com.agapsys/rcf-scanner-maven-plugin@0.1.0-20170413
+- pkg:maven/com.agapsys/rcf-scanner-maven-plugin@0.1.0-20170413?classifier=sources

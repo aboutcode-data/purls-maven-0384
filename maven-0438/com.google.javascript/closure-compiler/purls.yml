@@ -90,3 +90,17 @@
 - pkg:maven/com.google.javascript/closure-compiler@v20160822?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler@v20160911
 - pkg:maven/com.google.javascript/closure-compiler@v20160911?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20161024
+- pkg:maven/com.google.javascript/closure-compiler@v20161024?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20161201
+- pkg:maven/com.google.javascript/closure-compiler@v20161201?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20170124
+- pkg:maven/com.google.javascript/closure-compiler@v20170124?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20170218
+- pkg:maven/com.google.javascript/closure-compiler@v20170218?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20170409
+- pkg:maven/com.google.javascript/closure-compiler@v20170409?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20170423
+- pkg:maven/com.google.javascript/closure-compiler@v20170423?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20170521
+- pkg:maven/com.google.javascript/closure-compiler@v20170521?classifier=sources

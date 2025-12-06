@@ -1,0 +1,2 @@
+- pkg:maven/lv.ctco.scm/publicci-test@1.0.0.6?classifier=sources
+- pkg:maven/lv.ctco.scm/publicci-test@1.0.0.7?classifier=sources

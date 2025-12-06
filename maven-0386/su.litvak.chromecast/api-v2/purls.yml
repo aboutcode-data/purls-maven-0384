@@ -12,6 +12,8 @@
 - pkg:maven/su.litvak.chromecast/api-v2@0.0.6?classifier=sources
 - pkg:maven/su.litvak.chromecast/api-v2@0.0.7
 - pkg:maven/su.litvak.chromecast/api-v2@0.0.7?classifier=sources
+- pkg:maven/su.litvak.chromecast/api-v2@0.10.0
+- pkg:maven/su.litvak.chromecast/api-v2@0.10.0?classifier=sources
 - pkg:maven/su.litvak.chromecast/api-v2@0.9.0
 - pkg:maven/su.litvak.chromecast/api-v2@0.9.0?classifier=sources
 - pkg:maven/su.litvak.chromecast/api-v2@0.9.1

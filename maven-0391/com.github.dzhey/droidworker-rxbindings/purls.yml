@@ -1,2 +1,4 @@
 - pkg:maven/com.github.dzhey/droidworker-rxbindings@0.3.0?classifier=sources
 - pkg:maven/com.github.dzhey/droidworker-rxbindings@0.3.0?type=aar
+- pkg:maven/com.github.dzhey/droidworker-rxbindings@0.3.1?classifier=sources
+- pkg:maven/com.github.dzhey/droidworker-rxbindings@0.3.1?type=aar

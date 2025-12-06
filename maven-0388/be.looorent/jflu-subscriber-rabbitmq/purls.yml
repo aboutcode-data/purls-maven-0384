@@ -1,0 +1,2 @@
+- pkg:maven/be.looorent/jflu-subscriber-rabbitmq@0.1
+- pkg:maven/be.looorent/jflu-subscriber-rabbitmq@0.1?classifier=sources

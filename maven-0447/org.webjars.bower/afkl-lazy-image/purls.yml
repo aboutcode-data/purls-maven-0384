@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/afkl-lazy-image@0.1.4
 - pkg:maven/org.webjars.bower/afkl-lazy-image@0.1.4?classifier=sources
+- pkg:maven/org.webjars.bower/afkl-lazy-image@0.3.4
+- pkg:maven/org.webjars.bower/afkl-lazy-image@0.3.4?classifier=sources

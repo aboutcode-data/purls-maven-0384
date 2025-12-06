@@ -1,0 +1,2 @@
+- pkg:maven/nz.co.senanque/madura-workflow-impl@2.2.0?classifier=sources
+- pkg:maven/nz.co.senanque/madura-workflow-impl@2.2.0?type=war

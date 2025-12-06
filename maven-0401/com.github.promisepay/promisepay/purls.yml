@@ -1,2 +1,4 @@
 - pkg:maven/com.github.promisepay/promisepay@0.1.1?classifier=sources
 - pkg:maven/com.github.promisepay/promisepay@0.1.1?type=aar
+- pkg:maven/com.github.promisepay/promisepay@0.2.1?classifier=sources
+- pkg:maven/com.github.promisepay/promisepay@0.2.1?type=aar

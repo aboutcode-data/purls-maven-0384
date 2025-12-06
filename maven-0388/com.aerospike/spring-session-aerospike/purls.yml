@@ -1,0 +1,2 @@
+- pkg:maven/com.aerospike/spring-session-aerospike@1.0.0.RELEASE
+- pkg:maven/com.aerospike/spring-session-aerospike@1.0.0.RELEASE?classifier=sources

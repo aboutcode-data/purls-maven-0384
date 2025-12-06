@@ -1,0 +1,4 @@
+- pkg:maven/com.parmet/mysql2h2-parser@0.2.0
+- pkg:maven/com.parmet/mysql2h2-parser@0.2.0?classifier=sources
+- pkg:maven/com.parmet/mysql2h2-parser@0.2.1
+- pkg:maven/com.parmet/mysql2h2-parser@0.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.melnichuk/pretty-configuration@0.26.0
+- pkg:maven/de.melnichuk/pretty-configuration@0.26.0?classifier=sources

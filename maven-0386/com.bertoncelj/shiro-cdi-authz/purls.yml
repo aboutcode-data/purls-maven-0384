@@ -1,0 +1,2 @@
+- pkg:maven/com.bertoncelj/shiro-cdi-authz@0.1.0
+- pkg:maven/com.bertoncelj/shiro-cdi-authz@0.1.0?classifier=sources

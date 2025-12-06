@@ -4,3 +4,11 @@
 - pkg:maven/org.jetbrains.spek/spek-api@1.0.77?classifier=sources
 - pkg:maven/org.jetbrains.spek/spek-api@1.0.89
 - pkg:maven/org.jetbrains.spek/spek-api@1.0.89?classifier=sources
+- pkg:maven/org.jetbrains.spek/spek-api@1.1.0
+- pkg:maven/org.jetbrains.spek/spek-api@1.1.0-beta2
+- pkg:maven/org.jetbrains.spek/spek-api@1.1.0-beta2?classifier=sources
+- pkg:maven/org.jetbrains.spek/spek-api@1.1.0?classifier=sources
+- pkg:maven/org.jetbrains.spek/spek-api@1.1.1
+- pkg:maven/org.jetbrains.spek/spek-api@1.1.1?classifier=sources
+- pkg:maven/org.jetbrains.spek/spek-api@1.1.2
+- pkg:maven/org.jetbrains.spek/spek-api@1.1.2?classifier=sources

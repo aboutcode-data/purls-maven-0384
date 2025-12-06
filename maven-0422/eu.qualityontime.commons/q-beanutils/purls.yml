@@ -1,0 +1,2 @@
+- pkg:maven/eu.qualityontime.commons/q-beanutils@0.8
+- pkg:maven/eu.qualityontime.commons/q-beanutils@0.8?classifier=sources

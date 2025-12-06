@@ -2,3 +2,6 @@
 - pkg:maven/nz.net.osnz.composite/composite-unit-test@4.2
 - pkg:maven/nz.net.osnz.composite/composite-unit-test@4.3
 - pkg:maven/nz.net.osnz.composite/composite-unit-test@5.1
+- pkg:maven/nz.net.osnz.composite/composite-unit-test@5.2
+- pkg:maven/nz.net.osnz.composite/composite-unit-test@5.3
+- pkg:maven/nz.net.osnz.composite/composite-unit-test@5.4

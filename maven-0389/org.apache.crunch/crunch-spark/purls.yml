@@ -14,6 +14,8 @@
 - pkg:maven/org.apache.crunch/crunch-spark@0.13.0?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-spark@0.14.0
 - pkg:maven/org.apache.crunch/crunch-spark@0.14.0?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-spark@0.15.0
+- pkg:maven/org.apache.crunch/crunch-spark@0.15.0?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-spark@0.8.2
 - pkg:maven/org.apache.crunch/crunch-spark@0.8.2-hadoop2
 - pkg:maven/org.apache.crunch/crunch-spark@0.8.2-hadoop2?classifier=sources

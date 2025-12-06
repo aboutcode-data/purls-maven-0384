@@ -1,0 +1,4 @@
+- pkg:maven/org.sessl/sessl-ssj@0.12
+- pkg:maven/org.sessl/sessl-ssj@0.12.1
+- pkg:maven/org.sessl/sessl-ssj@0.12.1?classifier=sources
+- pkg:maven/org.sessl/sessl-ssj@0.12?classifier=sources

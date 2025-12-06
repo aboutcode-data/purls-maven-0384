@@ -26,3 +26,5 @@
 - pkg:maven/com.threewks.thundr/thundr-http-ning@2.0.0-rc3
 - pkg:maven/com.threewks.thundr/thundr-http-ning@2.0.0-rc3?classifier=sources
 - pkg:maven/com.threewks.thundr/thundr-http-ning@2.0.0?classifier=sources
+- pkg:maven/com.threewks.thundr/thundr-http-ning@3.0.0
+- pkg:maven/com.threewks.thundr/thundr-http-ning@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.camunda.consulting.webapp.plugin/camunda-webapp-plugin-sso-autologin@7.6.0
+- pkg:maven/com.camunda.consulting.webapp.plugin/camunda-webapp-plugin-sso-autologin@7.6.0?classifier=sources

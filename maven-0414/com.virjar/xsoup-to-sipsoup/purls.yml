@@ -1,0 +1,4 @@
+- pkg:maven/com.virjar/xsoup-to-sipsoup@1.0
+- pkg:maven/com.virjar/xsoup-to-sipsoup@1.0?classifier=sources
+- pkg:maven/com.virjar/xsoup-to-sipsoup@1.1
+- pkg:maven/com.virjar/xsoup-to-sipsoup@1.1?classifier=sources

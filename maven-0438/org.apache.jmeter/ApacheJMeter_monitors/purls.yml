@@ -7,3 +7,4 @@
 - pkg:maven/org.apache.jmeter/ApacheJMeter_monitors@2.8
 - pkg:maven/org.apache.jmeter/ApacheJMeter_monitors@2.9
 - pkg:maven/org.apache.jmeter/ApacheJMeter_monitors@3.0
+- pkg:maven/org.apache.jmeter/ApacheJMeter_monitors@3.1

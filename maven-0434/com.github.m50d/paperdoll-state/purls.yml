@@ -1,0 +1,2 @@
+- pkg:maven/com.github.m50d/paperdoll-state@0.4
+- pkg:maven/com.github.m50d/paperdoll-state@0.4?classifier=sources

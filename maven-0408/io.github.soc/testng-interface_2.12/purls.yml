@@ -1,0 +1,2 @@
+- pkg:maven/io.github.soc/testng-interface_2.12@4.0.0-M3
+- pkg:maven/io.github.soc/testng-interface_2.12@4.0.0-M3?classifier=sources

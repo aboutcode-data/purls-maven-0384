@@ -1,2 +1,6 @@
 - pkg:maven/org.n52.sensorweb/52n-xml-gco-v20120713@2.1.0
 - pkg:maven/org.n52.sensorweb/52n-xml-gco-v20120713@2.1.0?classifier=sources
+- pkg:maven/org.n52.sensorweb/52n-xml-gco-v20120713@2.2.0
+- pkg:maven/org.n52.sensorweb/52n-xml-gco-v20120713@2.2.0?classifier=sources
+- pkg:maven/org.n52.sensorweb/52n-xml-gco-v20120713@2.3.0
+- pkg:maven/org.n52.sensorweb/52n-xml-gco-v20120713@2.3.0?classifier=sources

@@ -78,3 +78,5 @@
 - pkg:maven/com.google.gwt/gwt-servlet@2.8.0-rc3
 - pkg:maven/com.google.gwt/gwt-servlet@2.8.0-rc3?classifier=sources
 - pkg:maven/com.google.gwt/gwt-servlet@2.8.0?classifier=sources
+- pkg:maven/com.google.gwt/gwt-servlet@2.8.1
+- pkg:maven/com.google.gwt/gwt-servlet@2.8.1?classifier=sources

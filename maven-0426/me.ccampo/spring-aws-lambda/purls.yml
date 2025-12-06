@@ -1,2 +1,4 @@
 - pkg:maven/me.ccampo/spring-aws-lambda@1.0.0
 - pkg:maven/me.ccampo/spring-aws-lambda@1.0.0?classifier=sources
+- pkg:maven/me.ccampo/spring-aws-lambda@1.1.0
+- pkg:maven/me.ccampo/spring-aws-lambda@1.1.0?classifier=sources

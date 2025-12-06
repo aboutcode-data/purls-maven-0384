@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jpuddle/com.io7m.jpuddle.checkstyle@0.4.0
+- pkg:maven/com.io7m.jpuddle/com.io7m.jpuddle.checkstyle@0.4.0?classifier=sources

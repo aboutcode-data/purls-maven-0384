@@ -1,0 +1,2 @@
+- pkg:maven/edu.mines.csci370.sjp/app1@1.1
+- pkg:maven/edu.mines.csci370.sjp/app1@1.1?classifier=sources

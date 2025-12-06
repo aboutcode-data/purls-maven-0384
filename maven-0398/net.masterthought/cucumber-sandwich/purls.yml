@@ -19,3 +19,17 @@
 - pkg:maven/net.masterthought/cucumber-sandwich@3.0.0?classifier=sources
 - pkg:maven/net.masterthought/cucumber-sandwich@3.1.0
 - pkg:maven/net.masterthought/cucumber-sandwich@3.1.0?classifier=sources
+- pkg:maven/net.masterthought/cucumber-sandwich@3.2.0
+- pkg:maven/net.masterthought/cucumber-sandwich@3.2.0?classifier=sources
+- pkg:maven/net.masterthought/cucumber-sandwich@3.3.0
+- pkg:maven/net.masterthought/cucumber-sandwich@3.3.0?classifier=sources
+- pkg:maven/net.masterthought/cucumber-sandwich@3.4.0
+- pkg:maven/net.masterthought/cucumber-sandwich@3.4.0?classifier=sources
+- pkg:maven/net.masterthought/cucumber-sandwich@3.5.0
+- pkg:maven/net.masterthought/cucumber-sandwich@3.5.0?classifier=sources
+- pkg:maven/net.masterthought/cucumber-sandwich@3.6.0
+- pkg:maven/net.masterthought/cucumber-sandwich@3.6.0?classifier=sources
+- pkg:maven/net.masterthought/cucumber-sandwich@3.7.0
+- pkg:maven/net.masterthought/cucumber-sandwich@3.7.0?classifier=sources
+- pkg:maven/net.masterthought/cucumber-sandwich@3.8.0
+- pkg:maven/net.masterthought/cucumber-sandwich@3.8.0?classifier=sources

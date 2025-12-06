@@ -1,0 +1,6 @@
+- pkg:maven/de.verygame.surface/gdx-surface@0.1a
+- pkg:maven/de.verygame.surface/gdx-surface@0.1a?classifier=sources
+- pkg:maven/de.verygame.surface/gdx-surface@0.2a
+- pkg:maven/de.verygame.surface/gdx-surface@0.2a?classifier=sources
+- pkg:maven/de.verygame.surface/gdx-surface@0.3a
+- pkg:maven/de.verygame.surface/gdx-surface@0.3a?classifier=sources

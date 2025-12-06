@@ -36,3 +36,6 @@
 - pkg:maven/io.vertigo/vertigo-studio@0.9.2?classifier=sources
 - pkg:maven/io.vertigo/vertigo-studio@0.9.3
 - pkg:maven/io.vertigo/vertigo-studio@0.9.3?classifier=sources
+- pkg:maven/io.vertigo/vertigo-studio@0.9.4?classifier=sources
+- pkg:maven/io.vertigo/vertigo-studio@0.9.4a
+- pkg:maven/io.vertigo/vertigo-studio@0.9.4a?classifier=sources

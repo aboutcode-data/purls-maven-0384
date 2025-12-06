@@ -1,0 +1,4 @@
+- pkg:maven/de.joshuaschnabel/jsConfig@0.1.3
+- pkg:maven/de.joshuaschnabel/jsConfig@0.1.3-dev.0.uncommitted%2B8be1af9
+- pkg:maven/de.joshuaschnabel/jsConfig@0.1.3-dev.0.uncommitted%2B8be1af9?classifier=sources
+- pkg:maven/de.joshuaschnabel/jsConfig@0.1.3?classifier=sources

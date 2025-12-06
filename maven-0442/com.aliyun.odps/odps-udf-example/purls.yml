@@ -1,2 +1,10 @@
 - pkg:maven/com.aliyun.odps/odps-udf-example@0.23.3-public
 - pkg:maven/com.aliyun.odps/odps-udf-example@0.23.3-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-udf-example@0.24.0-public
+- pkg:maven/com.aliyun.odps/odps-udf-example@0.24.0-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-udf-example@0.26.2-public
+- pkg:maven/com.aliyun.odps/odps-udf-example@0.26.2-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-udf-example@0.26.5-public
+- pkg:maven/com.aliyun.odps/odps-udf-example@0.26.5-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-udf-example@0.26.6-public
+- pkg:maven/com.aliyun.odps/odps-udf-example@0.26.6-public?classifier=sources

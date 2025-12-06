@@ -1,0 +1,2 @@
+- pkg:maven/info.novatec.testit/webtester-support-testng@1.2.0
+- pkg:maven/info.novatec.testit/webtester-support-testng@1.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.state@4.1.0
+- pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.state@4.1.0?classifier=sources
+- pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.state@4.1.1
+- pkg:maven/org.apache.karaf.scr/org.apache.karaf.scr.state@4.1.1?classifier=sources

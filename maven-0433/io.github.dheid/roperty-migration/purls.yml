@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dheid/roperty-migration@1.0
+- pkg:maven/io.github.dheid/roperty-migration@1.0?classifier=sources

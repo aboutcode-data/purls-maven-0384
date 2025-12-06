@@ -10,3 +10,7 @@
 - pkg:maven/eu.michael-simons/java-syndication@0.2.2?classifier=sources
 - pkg:maven/eu.michael-simons/java-syndication@0.2.3
 - pkg:maven/eu.michael-simons/java-syndication@0.2.3?classifier=sources
+- pkg:maven/eu.michael-simons/java-syndication@0.2.4
+- pkg:maven/eu.michael-simons/java-syndication@0.2.4?classifier=sources
+- pkg:maven/eu.michael-simons/java-syndication@0.2.5
+- pkg:maven/eu.michael-simons/java-syndication@0.2.5?classifier=sources

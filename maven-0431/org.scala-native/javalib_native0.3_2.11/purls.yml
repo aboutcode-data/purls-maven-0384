@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-native/javalib_native0.3_2.11@0.3.0
+- pkg:maven/org.scala-native/javalib_native0.3_2.11@0.3.0?classifier=sources

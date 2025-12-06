@@ -1,0 +1,2 @@
+- pkg:maven/com.github.npetzall.testcontainers.junit/generic@0.0.4
+- pkg:maven/com.github.npetzall.testcontainers.junit/generic@0.0.4?classifier=sources

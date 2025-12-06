@@ -24,6 +24,12 @@
 - pkg:maven/fr.wseduc/web-utils@1.15.0?classifier=sources
 - pkg:maven/fr.wseduc/web-utils@1.15.1
 - pkg:maven/fr.wseduc/web-utils@1.15.1?classifier=sources
+- pkg:maven/fr.wseduc/web-utils@1.16.0
+- pkg:maven/fr.wseduc/web-utils@1.16.0?classifier=sources
+- pkg:maven/fr.wseduc/web-utils@1.16.1
+- pkg:maven/fr.wseduc/web-utils@1.16.1?classifier=sources
+- pkg:maven/fr.wseduc/web-utils@1.17.0
+- pkg:maven/fr.wseduc/web-utils@1.17.0?classifier=sources
 - pkg:maven/fr.wseduc/web-utils@1.8.0
 - pkg:maven/fr.wseduc/web-utils@1.8.0?classifier=sources
 - pkg:maven/fr.wseduc/web-utils@1.9.0

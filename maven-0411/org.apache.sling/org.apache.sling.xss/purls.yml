@@ -7,6 +7,12 @@
 - pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.14
 - pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.14?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.14?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.16
+- pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.16?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.16?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.18
+- pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.18?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.18?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.2
 - pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.2?classifier=sources
@@ -19,3 +25,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.8
 - pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.xss@1.0.8?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.xss@2.0.0
+- pkg:maven/org.apache.sling/org.apache.sling.xss@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.xss@2.0.0?classifier=sources

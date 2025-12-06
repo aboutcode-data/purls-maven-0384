@@ -1,0 +1,2 @@
+- pkg:maven/co.cask.cdap/cdap-data-pipeline2_2.11@4.2.0
+- pkg:maven/co.cask.cdap/cdap-data-pipeline2_2.11@4.2.0?classifier=sources

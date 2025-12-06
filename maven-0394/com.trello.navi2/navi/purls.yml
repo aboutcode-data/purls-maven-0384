@@ -1,0 +1,2 @@
+- pkg:maven/com.trello.navi2/navi@2.0?classifier=sources
+- pkg:maven/com.trello.navi2/navi@2.0?type=aar

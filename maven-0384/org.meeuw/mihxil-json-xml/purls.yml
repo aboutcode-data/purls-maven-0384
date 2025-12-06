@@ -1,0 +1,2 @@
+- pkg:maven/org.meeuw/mihxil-json-xml@0.9
+- pkg:maven/org.meeuw/mihxil-json-xml@0.9?classifier=sources

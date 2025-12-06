@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/useragent@2.1.13
+- pkg:maven/org.webjars.npm/useragent@2.1.13?classifier=sources
 - pkg:maven/org.webjars.npm/useragent@2.1.6
 - pkg:maven/org.webjars.npm/useragent@2.1.6?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.testobject/testobject-appium-java-api@0.0.23?classifier=sources
 - pkg:maven/org.testobject/testobject-appium-java-api@0.0.24
 - pkg:maven/org.testobject/testobject-appium-java-api@0.0.24?classifier=sources
+- pkg:maven/org.testobject/testobject-appium-java-api@0.0.26
+- pkg:maven/org.testobject/testobject-appium-java-api@0.0.26?classifier=sources

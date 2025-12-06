@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yin.cli/java-cli-flags@0.3.0
+- pkg:maven/com.github.yin.cli/java-cli-flags@0.3.0?classifier=sources

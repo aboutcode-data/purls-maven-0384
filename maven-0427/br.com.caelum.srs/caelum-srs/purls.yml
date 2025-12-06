@@ -1,0 +1,2 @@
+- pkg:maven/br.com.caelum.srs/caelum-srs@0.1
+- pkg:maven/br.com.caelum.srs/caelum-srs@0.1?classifier=sources

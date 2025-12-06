@@ -4,3 +4,7 @@
 - pkg:maven/li.allan/easycache@0.6-pre3
 - pkg:maven/li.allan/easycache@0.6-pre3?classifier=sources
 - pkg:maven/li.allan/easycache@0.6?classifier=sources
+- pkg:maven/li.allan/easycache@0.7-pre1
+- pkg:maven/li.allan/easycache@0.7-pre1?classifier=sources
+- pkg:maven/li.allan/easycache@0.7-pre2
+- pkg:maven/li.allan/easycache@0.7-pre2?classifier=sources

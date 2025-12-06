@@ -1,0 +1,6 @@
+- pkg:maven/org.sistcoop/openfact-pe-admin-client@1.0.RC5
+- pkg:maven/org.sistcoop/openfact-pe-admin-client@1.0.RC5?classifier=sources
+- pkg:maven/org.sistcoop/openfact-pe-admin-client@1.0.RC6
+- pkg:maven/org.sistcoop/openfact-pe-admin-client@1.0.RC6?classifier=sources
+- pkg:maven/org.sistcoop/openfact-pe-admin-client@1.0.RC7
+- pkg:maven/org.sistcoop/openfact-pe-admin-client@1.0.RC7?classifier=sources

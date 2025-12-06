@@ -4,3 +4,5 @@
 - pkg:maven/org.joda/joda-beans-maven-plugin@0.7.3?classifier=sources
 - pkg:maven/org.joda/joda-beans-maven-plugin@1.0
 - pkg:maven/org.joda/joda-beans-maven-plugin@1.0?classifier=sources
+- pkg:maven/org.joda/joda-beans-maven-plugin@1.1
+- pkg:maven/org.joda/joda-beans-maven-plugin@1.1?classifier=sources

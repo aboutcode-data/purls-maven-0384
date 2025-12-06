@@ -1,2 +1,14 @@
 - pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.0.2
 - pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.0.2?classifier=sources
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.10
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.10?classifier=sources
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.11
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.11?classifier=sources
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.12
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.12?classifier=sources
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.13
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.13?classifier=sources
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.14
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.14?classifier=sources
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.9
+- pkg:maven/de.opal-project/abstract-interpretation-framework_2.11@0.8.9?classifier=sources

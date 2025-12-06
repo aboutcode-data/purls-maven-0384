@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.ecf/org.apache.hadoop.zookeeper@3.3.3.v201105210832
+- pkg:maven/org.eclipse.ecf/org.apache.hadoop.zookeeper@3.3.3.v201105210832?classifier=sources

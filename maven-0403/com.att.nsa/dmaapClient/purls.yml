@@ -1,0 +1,2 @@
+- pkg:maven/com.att.nsa/dmaapClient@0.2.12
+- pkg:maven/com.att.nsa/dmaapClient@0.2.12?classifier=sources

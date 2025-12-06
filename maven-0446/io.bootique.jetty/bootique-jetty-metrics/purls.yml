@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.jetty/bootique-jetty-metrics@0.20
+- pkg:maven/io.bootique.jetty/bootique-jetty-metrics@0.20?classifier=sources

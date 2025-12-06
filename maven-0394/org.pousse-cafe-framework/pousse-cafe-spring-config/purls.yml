@@ -1,0 +1,2 @@
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-spring-config@0.0.1
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-spring-config@0.0.1?classifier=sources

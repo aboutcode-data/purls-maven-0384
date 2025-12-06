@@ -1,0 +1,2 @@
+- pkg:maven/eu.freme-project/epublib-core@0.5
+- pkg:maven/eu.freme-project/epublib-core@0.5?classifier=sources

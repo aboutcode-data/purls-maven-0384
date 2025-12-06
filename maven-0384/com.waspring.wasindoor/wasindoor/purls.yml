@@ -1,0 +1,2 @@
+- pkg:maven/com.waspring.wasindoor/wasindoor@v0.0.1
+- pkg:maven/com.waspring.wasindoor/wasindoor@v0.0.1?classifier=sources

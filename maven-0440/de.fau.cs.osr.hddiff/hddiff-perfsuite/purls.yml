@@ -2,3 +2,5 @@
 - pkg:maven/de.fau.cs.osr.hddiff/hddiff-perfsuite@1.0.0?classifier=sources
 - pkg:maven/de.fau.cs.osr.hddiff/hddiff-perfsuite@1.1.0
 - pkg:maven/de.fau.cs.osr.hddiff/hddiff-perfsuite@1.1.0?classifier=sources
+- pkg:maven/de.fau.cs.osr.hddiff/hddiff-perfsuite@2.0.4
+- pkg:maven/de.fau.cs.osr.hddiff/hddiff-perfsuite@2.0.4?classifier=sources

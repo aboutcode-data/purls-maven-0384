@@ -1,0 +1,2 @@
+- pkg:maven/com.stormpath.shiro/samples-jaxrs@0.8.0-RC1?classifier=sources
+- pkg:maven/com.stormpath.shiro/samples-jaxrs@0.8.0-RC1?type=war

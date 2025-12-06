@@ -1,0 +1,2 @@
+- pkg:maven/net.vectorpublish/IO@0.9.26
+- pkg:maven/net.vectorpublish/IO@0.9.26?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/com.rajivprab/sava@0.10.0
+- pkg:maven/com.rajivprab/sava@0.10.0?classifier=sources
+- pkg:maven/com.rajivprab/sava@0.11.0
+- pkg:maven/com.rajivprab/sava@0.11.0?classifier=sources
+- pkg:maven/com.rajivprab/sava@0.12.0
+- pkg:maven/com.rajivprab/sava@0.12.0?classifier=sources
+- pkg:maven/com.rajivprab/sava@0.13.0
+- pkg:maven/com.rajivprab/sava@0.13.0?classifier=sources
+- pkg:maven/com.rajivprab/sava@0.9.0
+- pkg:maven/com.rajivprab/sava@0.9.0?classifier=sources
+- pkg:maven/com.rajivprab/sava@1.0.0
+- pkg:maven/com.rajivprab/sava@1.0.0?classifier=sources
+- pkg:maven/com.rajivprab/sava@1.1.0
+- pkg:maven/com.rajivprab/sava@1.1.0?classifier=sources
+- pkg:maven/com.rajivprab/sava@1.2.0
+- pkg:maven/com.rajivprab/sava@1.2.0?classifier=sources

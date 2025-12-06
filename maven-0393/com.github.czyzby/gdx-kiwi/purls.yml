@@ -42,5 +42,7 @@
 - pkg:maven/com.github.czyzby/gdx-kiwi@1.8.1.9.4-b1
 - pkg:maven/com.github.czyzby/gdx-kiwi@1.8.1.9.4-b1?classifier=sources
 - pkg:maven/com.github.czyzby/gdx-kiwi@1.8.1.9.4?classifier=sources
+- pkg:maven/com.github.czyzby/gdx-kiwi@1.9.1.9.6
+- pkg:maven/com.github.czyzby/gdx-kiwi@1.9.1.9.6?classifier=sources
 - pkg:maven/com.github.czyzby/gdx-kiwi@unspecified
 - pkg:maven/com.github.czyzby/gdx-kiwi@unspecified?classifier=sources

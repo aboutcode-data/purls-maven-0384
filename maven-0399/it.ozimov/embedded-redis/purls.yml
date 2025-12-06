@@ -1,0 +1,4 @@
+- pkg:maven/it.ozimov/embedded-redis@0.7.0
+- pkg:maven/it.ozimov/embedded-redis@0.7.0?classifier=sources
+- pkg:maven/it.ozimov/embedded-redis@0.7.1
+- pkg:maven/it.ozimov/embedded-redis@0.7.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.github.developframework/wechat-pay-spring@0.0.4?classifier=sources
 - pkg:maven/com.github.developframework/wechat-pay-spring@1.0.0
 - pkg:maven/com.github.developframework/wechat-pay-spring@1.0.0?classifier=sources
+- pkg:maven/com.github.developframework/wechat-pay-spring@1.0.1
+- pkg:maven/com.github.developframework/wechat-pay-spring@1.0.1?classifier=sources

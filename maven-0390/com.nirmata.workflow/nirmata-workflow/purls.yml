@@ -20,3 +20,5 @@
 - pkg:maven/com.nirmata.workflow/nirmata-workflow@0.7.2?classifier=sources
 - pkg:maven/com.nirmata.workflow/nirmata-workflow@0.8.0
 - pkg:maven/com.nirmata.workflow/nirmata-workflow@0.8.0?classifier=sources
+- pkg:maven/com.nirmata.workflow/nirmata-workflow@0.9.0
+- pkg:maven/com.nirmata.workflow/nirmata-workflow@0.9.0?classifier=sources

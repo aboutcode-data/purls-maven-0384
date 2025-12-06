@@ -6,3 +6,5 @@
 - pkg:maven/org.concordion/concordion-timing-extension@0.3.0?classifier=sources
 - pkg:maven/org.concordion/concordion-timing-extension@1.0.0
 - pkg:maven/org.concordion/concordion-timing-extension@1.0.0?classifier=sources
+- pkg:maven/org.concordion/concordion-timing-extension@1.1.0
+- pkg:maven/org.concordion/concordion-timing-extension@1.1.0?classifier=sources

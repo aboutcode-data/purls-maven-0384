@@ -1,2 +1,4 @@
 - pkg:maven/org.flowcomputing.commons/commons-resgc@0.8.12
 - pkg:maven/org.flowcomputing.commons/commons-resgc@0.8.12?classifier=sources
+- pkg:maven/org.flowcomputing.commons/commons-resgc@0.8.13
+- pkg:maven/org.flowcomputing.commons/commons-resgc@0.8.13?classifier=sources

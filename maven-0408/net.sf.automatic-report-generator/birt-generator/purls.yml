@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.automatic-report-generator/birt-generator@v1.0
+- pkg:maven/net.sf.automatic-report-generator/birt-generator@v1.0?classifier=sources
+- pkg:maven/net.sf.automatic-report-generator/birt-generator@v1.1
+- pkg:maven/net.sf.automatic-report-generator/birt-generator@v1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.ecf/org.apache.httpcomponents.httpcore@4.4.6.v20170210-0925
+- pkg:maven/org.eclipse.ecf/org.apache.httpcomponents.httpcore@4.4.6.v20170210-0925?classifier=sources

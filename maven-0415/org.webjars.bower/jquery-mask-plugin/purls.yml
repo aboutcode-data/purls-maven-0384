@@ -2,3 +2,13 @@
 - pkg:maven/org.webjars.bower/jquery-mask-plugin@1.10.13?classifier=sources
 - pkg:maven/org.webjars.bower/jquery-mask-plugin@1.13.4
 - pkg:maven/org.webjars.bower/jquery-mask-plugin@1.13.4?classifier=sources
+- pkg:maven/org.webjars.bower/jquery-mask-plugin@1.13.5
+- pkg:maven/org.webjars.bower/jquery-mask-plugin@1.13.5?classifier=sources
+- pkg:maven/org.webjars.bower/jquery-mask-plugin@1.13.9
+- pkg:maven/org.webjars.bower/jquery-mask-plugin@1.13.9?classifier=sources
+- pkg:maven/org.webjars.bower/jquery-mask-plugin@1.14.0
+- pkg:maven/org.webjars.bower/jquery-mask-plugin@1.14.0?classifier=sources
+- pkg:maven/org.webjars.bower/jquery-mask-plugin@1.14.10
+- pkg:maven/org.webjars.bower/jquery-mask-plugin@1.14.10?classifier=sources
+- pkg:maven/org.webjars.bower/jquery-mask-plugin@1.14.9
+- pkg:maven/org.webjars.bower/jquery-mask-plugin@1.14.9?classifier=sources

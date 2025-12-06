@@ -1,0 +1,6 @@
+- pkg:maven/nz.bradcampbell/paperparcel-api@2.0.0
+- pkg:maven/nz.bradcampbell/paperparcel-api@2.0.0-beta2
+- pkg:maven/nz.bradcampbell/paperparcel-api@2.0.0-beta2?classifier=sources
+- pkg:maven/nz.bradcampbell/paperparcel-api@2.0.0?classifier=sources
+- pkg:maven/nz.bradcampbell/paperparcel-api@2.0.1
+- pkg:maven/nz.bradcampbell/paperparcel-api@2.0.1?classifier=sources

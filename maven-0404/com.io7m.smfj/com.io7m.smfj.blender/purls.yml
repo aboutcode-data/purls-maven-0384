@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.smfj/com.io7m.smfj.blender@0.10.0?classifier=sources
+- pkg:maven/com.io7m.smfj/com.io7m.smfj.blender@0.11.0?classifier=sources

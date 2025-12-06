@@ -1,0 +1,2 @@
+- pkg:maven/it.unife.endif.ml/edge@3.2
+- pkg:maven/it.unife.endif.ml/edge@3.2?classifier=sources

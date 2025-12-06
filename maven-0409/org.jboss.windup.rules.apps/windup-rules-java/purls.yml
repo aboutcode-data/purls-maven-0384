@@ -11,3 +11,9 @@
 - pkg:maven/org.jboss.windup.rules.apps/windup-rules-java@2.5.0.Final
 - pkg:maven/org.jboss.windup.rules.apps/windup-rules-java@2.6.0.Final
 - pkg:maven/org.jboss.windup.rules.apps/windup-rules-java@2.7.0.Final
+- pkg:maven/org.jboss.windup.rules.apps/windup-rules-java@3.0.0.Alpha1
+- pkg:maven/org.jboss.windup.rules.apps/windup-rules-java@3.0.0.CR1
+- pkg:maven/org.jboss.windup.rules.apps/windup-rules-java@3.0.0.Final
+- pkg:maven/org.jboss.windup.rules.apps/windup-rules-java@4.0.0.Beta1
+- pkg:maven/org.jboss.windup.rules.apps/windup-rules-java@4.0.0.Beta2
+- pkg:maven/org.jboss.windup.rules.apps/windup-rules-java@4.0.0.Beta2.1

@@ -1,0 +1,6 @@
+- pkg:maven/us.parr/parrtlib@0.1
+- pkg:maven/us.parr/parrtlib@0.1?classifier=sources
+- pkg:maven/us.parr/parrtlib@0.2
+- pkg:maven/us.parr/parrtlib@0.2?classifier=sources
+- pkg:maven/us.parr/parrtlib@0.4
+- pkg:maven/us.parr/parrtlib@0.4?classifier=sources

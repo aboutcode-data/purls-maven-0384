@@ -1,0 +1,4 @@
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.11@0.5.0
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.11@0.5.0-M2
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.11@0.5.0-M2?classifier=sources
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.11@0.5.0?classifier=sources

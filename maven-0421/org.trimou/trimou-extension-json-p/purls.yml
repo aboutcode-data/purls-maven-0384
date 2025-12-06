@@ -4,3 +4,5 @@
 - pkg:maven/org.trimou/trimou-extension-json-p@2.0.1.Final?classifier=sources
 - pkg:maven/org.trimou/trimou-extension-json-p@2.1.0.Final
 - pkg:maven/org.trimou/trimou-extension-json-p@2.1.0.Final?classifier=sources
+- pkg:maven/org.trimou/trimou-extension-json-p@2.2.0.Final
+- pkg:maven/org.trimou/trimou-extension-json-p@2.2.0.Final?classifier=sources
