@@ -1,0 +1,2 @@
+- pkg:maven/io.airbrake/log4javabrake2@0.1.2
+- pkg:maven/io.airbrake/log4javabrake2@0.1.2?classifier=sources

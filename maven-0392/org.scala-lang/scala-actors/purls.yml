@@ -54,6 +54,8 @@
 - pkg:maven/org.scala-lang/scala-actors@2.10.5?classifier=sources
 - pkg:maven/org.scala-lang/scala-actors@2.10.6
 - pkg:maven/org.scala-lang/scala-actors@2.10.6?classifier=sources
+- pkg:maven/org.scala-lang/scala-actors@2.10.7
+- pkg:maven/org.scala-lang/scala-actors@2.10.7?classifier=sources
 - pkg:maven/org.scala-lang/scala-actors@2.11.0
 - pkg:maven/org.scala-lang/scala-actors@2.11.0-M1
 - pkg:maven/org.scala-lang/scala-actors@2.11.0-M1?classifier=sources
@@ -83,6 +85,8 @@
 - pkg:maven/org.scala-lang/scala-actors@2.11.10?classifier=sources
 - pkg:maven/org.scala-lang/scala-actors@2.11.11
 - pkg:maven/org.scala-lang/scala-actors@2.11.11?classifier=sources
+- pkg:maven/org.scala-lang/scala-actors@2.11.12
+- pkg:maven/org.scala-lang/scala-actors@2.11.12?classifier=sources
 - pkg:maven/org.scala-lang/scala-actors@2.11.1?classifier=sources
 - pkg:maven/org.scala-lang/scala-actors@2.11.2
 - pkg:maven/org.scala-lang/scala-actors@2.11.2?classifier=sources

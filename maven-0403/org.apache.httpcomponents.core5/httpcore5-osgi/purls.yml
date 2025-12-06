@@ -4,3 +4,7 @@
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-osgi@5.0-alpha2?classifier=sources
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-osgi@5.0-alpha3
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-osgi@5.0-alpha3?classifier=sources
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-osgi@5.0-alpha4
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-osgi@5.0-alpha4?classifier=sources
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-osgi@5.0-beta1
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-osgi@5.0-beta1?classifier=sources

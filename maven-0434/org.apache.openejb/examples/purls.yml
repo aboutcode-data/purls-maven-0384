@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.openejb/examples@4.7.3?classifier=src&type=zip
 - pkg:maven/org.apache.openejb/examples@4.7.4?classifier=src&type=tar.gz
 - pkg:maven/org.apache.openejb/examples@4.7.4?classifier=src&type=zip
+- pkg:maven/org.apache.openejb/examples@4.7.5?classifier=src&type=tar.gz
+- pkg:maven/org.apache.openejb/examples@4.7.5?classifier=src&type=zip

@@ -1,2 +1,4 @@
 - pkg:maven/io.druid.extensions.contrib/scan-query@0.10.0
 - pkg:maven/io.druid.extensions.contrib/scan-query@0.10.0?classifier=sources
+- pkg:maven/io.druid.extensions.contrib/scan-query@0.10.1
+- pkg:maven/io.druid.extensions.contrib/scan-query@0.10.1?classifier=sources

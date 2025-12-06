@@ -1,2 +1,6 @@
 - pkg:maven/io.bootique.job/bootique-job-instrumented@0.14
 - pkg:maven/io.bootique.job/bootique-job-instrumented@0.14?classifier=sources
+- pkg:maven/io.bootique.job/bootique-job-instrumented@0.15
+- pkg:maven/io.bootique.job/bootique-job-instrumented@0.15?classifier=sources
+- pkg:maven/io.bootique.job/bootique-job-instrumented@0.24
+- pkg:maven/io.bootique.job/bootique-job-instrumented@0.24?classifier=sources

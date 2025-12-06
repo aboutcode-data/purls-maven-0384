@@ -62,3 +62,5 @@
 - pkg:maven/org.jasig.portlet/jasig-widget-portlets@2.2.6?type=war
 - pkg:maven/org.jasig.portlet/jasig-widget-portlets@2.2.7?classifier=sources
 - pkg:maven/org.jasig.portlet/jasig-widget-portlets@2.2.7?type=war
+- pkg:maven/org.jasig.portlet/jasig-widget-portlets@2.3.0?classifier=sources
+- pkg:maven/org.jasig.portlet/jasig-widget-portlets@2.3.0?type=war

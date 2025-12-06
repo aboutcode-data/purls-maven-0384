@@ -34,3 +34,5 @@
 - pkg:maven/org.restcomm.cluster/timers@3.0.0.8?classifier=sources
 - pkg:maven/org.restcomm.cluster/timers@3.0.0.9
 - pkg:maven/org.restcomm.cluster/timers@3.0.0.9?classifier=sources
+- pkg:maven/org.restcomm.cluster/timers@7.0.0.16
+- pkg:maven/org.restcomm.cluster/timers@7.0.0.16?classifier=sources

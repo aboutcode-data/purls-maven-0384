@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/play-googleauth_2.12@0.7.0
+- pkg:maven/com.gu/play-googleauth_2.12@0.7.0?classifier=sources

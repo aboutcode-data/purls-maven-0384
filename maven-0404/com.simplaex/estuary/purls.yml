@@ -1,0 +1,2 @@
+- pkg:maven/com.simplaex/estuary@2017.12.07
+- pkg:maven/com.simplaex/estuary@2017.12.07?classifier=sources

@@ -11,4 +11,8 @@
 - pkg:maven/com.github.pires/hazelcast-kubernetes-bootstrapper@3.8
 - pkg:maven/com.github.pires/hazelcast-kubernetes-bootstrapper@3.8.2
 - pkg:maven/com.github.pires/hazelcast-kubernetes-bootstrapper@3.8.2?classifier=sources
+- pkg:maven/com.github.pires/hazelcast-kubernetes-bootstrapper@3.8.3
+- pkg:maven/com.github.pires/hazelcast-kubernetes-bootstrapper@3.8.3?classifier=sources
+- pkg:maven/com.github.pires/hazelcast-kubernetes-bootstrapper@3.8.6
+- pkg:maven/com.github.pires/hazelcast-kubernetes-bootstrapper@3.8.6?classifier=sources
 - pkg:maven/com.github.pires/hazelcast-kubernetes-bootstrapper@3.8?classifier=sources

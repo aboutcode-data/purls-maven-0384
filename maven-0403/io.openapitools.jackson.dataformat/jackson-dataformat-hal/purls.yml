@@ -1,0 +1,2 @@
+- pkg:maven/io.openapitools.jackson.dataformat/jackson-dataformat-hal@1.0.4
+- pkg:maven/io.openapitools.jackson.dataformat/jackson-dataformat-hal@1.0.4?classifier=sources

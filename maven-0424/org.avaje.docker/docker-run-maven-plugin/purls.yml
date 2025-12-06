@@ -1,0 +1,6 @@
+- pkg:maven/org.avaje.docker/docker-run-maven-plugin@0.9.1
+- pkg:maven/org.avaje.docker/docker-run-maven-plugin@0.9.1?classifier=sources
+- pkg:maven/org.avaje.docker/docker-run-maven-plugin@0.9.3
+- pkg:maven/org.avaje.docker/docker-run-maven-plugin@0.9.3?classifier=sources
+- pkg:maven/org.avaje.docker/docker-run-maven-plugin@1.2.1
+- pkg:maven/org.avaje.docker/docker-run-maven-plugin@1.2.1?classifier=sources

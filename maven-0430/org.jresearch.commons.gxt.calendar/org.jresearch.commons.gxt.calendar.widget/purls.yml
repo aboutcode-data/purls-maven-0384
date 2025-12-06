@@ -15,6 +15,12 @@
 - pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.113?classifier=sources
 - pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.114
 - pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.114?classifier=sources
+- pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.115
+- pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.115?classifier=sources
+- pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.116
+- pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.116?classifier=sources
+- pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.117
+- pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.117?classifier=sources
 - pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.11?classifier=sources
 - pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.12
 - pkg:maven/org.jresearch.commons.gxt.calendar/org.jresearch.commons.gxt.calendar.widget@1.0.12?classifier=sources

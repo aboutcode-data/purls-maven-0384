@@ -13,3 +13,4 @@
 - pkg:maven/org.apache.maven.wagon/wagon@2.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.wagon/wagon@2.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.wagon/wagon@2.9?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.wagon/wagon@3.0.0?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lpezet.antiope/antiope-core@0.0.2
+- pkg:maven/com.github.lpezet.antiope/antiope-core@0.0.2?classifier=sources

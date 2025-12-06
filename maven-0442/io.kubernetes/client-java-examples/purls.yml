@@ -1,0 +1,4 @@
+- pkg:maven/io.kubernetes/client-java-examples@0.2
+- pkg:maven/io.kubernetes/client-java-examples@0.2?classifier=sources
+- pkg:maven/io.kubernetes/client-java-examples@1.0.0-beta1
+- pkg:maven/io.kubernetes/client-java-examples@1.0.0-beta1?classifier=sources

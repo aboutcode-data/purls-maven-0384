@@ -1,0 +1,2 @@
+- pkg:maven/com.okta.spring.examples/okta-spring-boot-redirect-code-flow-example@0.2.0
+- pkg:maven/com.okta.spring.examples/okta-spring-boot-redirect-code-flow-example@0.2.0?classifier=sources

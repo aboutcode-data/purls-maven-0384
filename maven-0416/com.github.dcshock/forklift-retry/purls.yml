@@ -22,3 +22,9 @@
 - pkg:maven/com.github.dcshock/forklift-retry@1.0?classifier=sources
 - pkg:maven/com.github.dcshock/forklift-retry@2.0
 - pkg:maven/com.github.dcshock/forklift-retry@2.0?classifier=sources
+- pkg:maven/com.github.dcshock/forklift-retry@2.2
+- pkg:maven/com.github.dcshock/forklift-retry@2.2?classifier=sources
+- pkg:maven/com.github.dcshock/forklift-retry@2.3
+- pkg:maven/com.github.dcshock/forklift-retry@2.3?classifier=sources
+- pkg:maven/com.github.dcshock/forklift-retry@3.0
+- pkg:maven/com.github.dcshock/forklift-retry@3.0?classifier=sources

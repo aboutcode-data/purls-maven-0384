@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/react-color@1.2.1
 - pkg:maven/org.webjars.npm/react-color@1.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/react-color@2.13.8
+- pkg:maven/org.webjars.npm/react-color@2.13.8?classifier=sources
 - pkg:maven/org.webjars.npm/react-color@2.3.2
 - pkg:maven/org.webjars.npm/react-color@2.3.2?classifier=sources

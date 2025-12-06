@@ -1,2 +1,4 @@
 - pkg:maven/com.malliina/logstreams-client_2.11@0.0.6
 - pkg:maven/com.malliina/logstreams-client_2.11@0.0.6?classifier=sources
+- pkg:maven/com.malliina/logstreams-client_2.11@0.0.9
+- pkg:maven/com.malliina/logstreams-client_2.11@0.0.9?classifier=sources

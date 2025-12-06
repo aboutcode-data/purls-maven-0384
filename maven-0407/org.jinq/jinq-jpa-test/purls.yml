@@ -6,3 +6,7 @@
 - pkg:maven/org.jinq/jinq-jpa-test@1.8.19?classifier=sources
 - pkg:maven/org.jinq/jinq-jpa-test@1.8.20
 - pkg:maven/org.jinq/jinq-jpa-test@1.8.20?classifier=sources
+- pkg:maven/org.jinq/jinq-jpa-test@1.8.21
+- pkg:maven/org.jinq/jinq-jpa-test@1.8.21?classifier=sources
+- pkg:maven/org.jinq/jinq-jpa-test@1.8.22
+- pkg:maven/org.jinq/jinq-jpa-test@1.8.22?classifier=sources

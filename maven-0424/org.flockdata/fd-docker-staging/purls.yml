@@ -1,2 +1,4 @@
 - pkg:maven/org.flockdata/fd-docker-staging@0.98.6
 - pkg:maven/org.flockdata/fd-docker-staging@0.98.7
+- pkg:maven/org.flockdata/fd-docker-staging@0.98.8
+- pkg:maven/org.flockdata/fd-docker-staging@0.98.9

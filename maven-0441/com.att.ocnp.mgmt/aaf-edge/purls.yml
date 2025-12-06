@@ -1,0 +1,2 @@
+- pkg:maven/com.att.ocnp.mgmt/aaf-edge@0.0.36-oss
+- pkg:maven/com.att.ocnp.mgmt/aaf-edge@0.0.36-oss?classifier=sources

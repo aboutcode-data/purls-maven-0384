@@ -26,3 +26,5 @@
 - pkg:maven/com.cra.figaro/figaro_2.11@4.0.0.0?classifier=sources
 - pkg:maven/com.cra.figaro/figaro_2.11@4.1.0.0
 - pkg:maven/com.cra.figaro/figaro_2.11@4.1.0.0?classifier=sources
+- pkg:maven/com.cra.figaro/figaro_2.11@5.0.0.0
+- pkg:maven/com.cra.figaro/figaro_2.11@5.0.0.0?classifier=sources

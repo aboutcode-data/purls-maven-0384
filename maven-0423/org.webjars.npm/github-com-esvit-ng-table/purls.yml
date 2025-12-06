@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-esvit-ng-table@0.0.0-semantic-release
+- pkg:maven/org.webjars.npm/github-com-esvit-ng-table@0.0.0-semantic-release?classifier=sources

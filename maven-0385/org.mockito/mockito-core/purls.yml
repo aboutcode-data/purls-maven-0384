@@ -297,6 +297,14 @@
 - pkg:maven/org.mockito/mockito-core@2.1.0-beta.126
 - pkg:maven/org.mockito/mockito-core@2.1.0-beta.126?classifier=sources
 - pkg:maven/org.mockito/mockito-core@2.1.0?classifier=sources
+- pkg:maven/org.mockito/mockito-core@2.10.0
+- pkg:maven/org.mockito/mockito-core@2.10.0?classifier=sources
+- pkg:maven/org.mockito/mockito-core@2.11.0
+- pkg:maven/org.mockito/mockito-core@2.11.0?classifier=sources
+- pkg:maven/org.mockito/mockito-core@2.12.0
+- pkg:maven/org.mockito/mockito-core@2.12.0?classifier=sources
+- pkg:maven/org.mockito/mockito-core@2.13.0
+- pkg:maven/org.mockito/mockito-core@2.13.0?classifier=sources
 - pkg:maven/org.mockito/mockito-core@2.2.0
 - pkg:maven/org.mockito/mockito-core@2.2.0-beta.1
 - pkg:maven/org.mockito/mockito-core@2.2.0-beta.1?classifier=sources
@@ -477,3 +485,5 @@
 - pkg:maven/org.mockito/mockito-core@2.8.47?classifier=sources
 - pkg:maven/org.mockito/mockito-core@2.8.9
 - pkg:maven/org.mockito/mockito-core@2.8.9?classifier=sources
+- pkg:maven/org.mockito/mockito-core@2.9.0
+- pkg:maven/org.mockito/mockito-core@2.9.0?classifier=sources

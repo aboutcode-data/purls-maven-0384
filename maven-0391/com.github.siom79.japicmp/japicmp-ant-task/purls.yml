@@ -1,0 +1,2 @@
+- pkg:maven/com.github.siom79.japicmp/japicmp-ant-task@0.11.0
+- pkg:maven/com.github.siom79.japicmp/japicmp-ant-task@0.11.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.adeptj/adeptj-modules-data-jpa@1.0.0.Final
+- pkg:maven/com.adeptj/adeptj-modules-data-jpa@1.0.0.Final?classifier=sources
+- pkg:maven/com.adeptj/adeptj-modules-data-jpa@1.0.1.Final
+- pkg:maven/com.adeptj/adeptj-modules-data-jpa@1.0.1.Final?classifier=sources
+- pkg:maven/com.adeptj/adeptj-modules-data-jpa@1.0.2.Final
+- pkg:maven/com.adeptj/adeptj-modules-data-jpa@1.0.2.Final?classifier=sources
+- pkg:maven/com.adeptj/adeptj-modules-data-jpa@1.0.3.Final
+- pkg:maven/com.adeptj/adeptj-modules-data-jpa@1.0.3.Final?classifier=sources
+- pkg:maven/com.adeptj/adeptj-modules-data-jpa@1.0.4.Final
+- pkg:maven/com.adeptj/adeptj-modules-data-jpa@1.0.4.Final?classifier=sources

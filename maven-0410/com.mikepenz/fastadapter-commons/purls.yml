@@ -10,3 +10,15 @@
 - pkg:maven/com.mikepenz/fastadapter-commons@2.5.3?type=aar
 - pkg:maven/com.mikepenz/fastadapter-commons@2.6.0?classifier=sources
 - pkg:maven/com.mikepenz/fastadapter-commons@2.6.0?type=aar
+- pkg:maven/com.mikepenz/fastadapter-commons@2.6.3?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter-commons@2.6.3?type=aar
+- pkg:maven/com.mikepenz/fastadapter-commons@3.0.0?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter-commons@3.0.0?type=aar
+- pkg:maven/com.mikepenz/fastadapter-commons@3.0.1?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter-commons@3.0.1?type=aar
+- pkg:maven/com.mikepenz/fastadapter-commons@3.0.2?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter-commons@3.0.2?type=aar
+- pkg:maven/com.mikepenz/fastadapter-commons@3.0.3?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter-commons@3.0.3?type=aar
+- pkg:maven/com.mikepenz/fastadapter-commons@3.0.5?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter-commons@3.0.5?type=aar

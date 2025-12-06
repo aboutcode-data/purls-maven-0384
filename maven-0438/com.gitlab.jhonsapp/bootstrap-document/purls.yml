@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.jhonsapp/bootstrap-document@0.0.1
+- pkg:maven/com.gitlab.jhonsapp/bootstrap-document@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.att.ajsc/CatalogAPI@1.0.0-oss
+- pkg:maven/com.att.ajsc/CatalogAPI@1.0.0-oss?classifier=sources

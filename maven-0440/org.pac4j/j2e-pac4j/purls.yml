@@ -34,3 +34,5 @@
 - pkg:maven/org.pac4j/j2e-pac4j@2.0.0?classifier=sources
 - pkg:maven/org.pac4j/j2e-pac4j@2.1.0
 - pkg:maven/org.pac4j/j2e-pac4j@2.1.0?classifier=sources
+- pkg:maven/org.pac4j/j2e-pac4j@3.0.0
+- pkg:maven/org.pac4j/j2e-pac4j@3.0.0?classifier=sources

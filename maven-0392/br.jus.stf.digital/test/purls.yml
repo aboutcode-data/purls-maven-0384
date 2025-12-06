@@ -6,3 +6,7 @@
 - pkg:maven/br.jus.stf.digital/test@1.0.1?classifier=sources
 - pkg:maven/br.jus.stf.digital/test@1.0.2
 - pkg:maven/br.jus.stf.digital/test@1.0.2?classifier=sources
+- pkg:maven/br.jus.stf.digital/test@1.0.3
+- pkg:maven/br.jus.stf.digital/test@1.0.3?classifier=sources
+- pkg:maven/br.jus.stf.digital/test@1.1.0
+- pkg:maven/br.jus.stf.digital/test@1.1.0?classifier=sources

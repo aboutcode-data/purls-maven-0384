@@ -1,0 +1,6 @@
+- pkg:maven/org.springframework.boot.experimental/spring-boot-thin-tools-converter@1.0.7.RELEASE
+- pkg:maven/org.springframework.boot.experimental/spring-boot-thin-tools-converter@1.0.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot.experimental/spring-boot-thin-tools-converter@1.0.8.RELEASE
+- pkg:maven/org.springframework.boot.experimental/spring-boot-thin-tools-converter@1.0.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot.experimental/spring-boot-thin-tools-converter@1.0.9.RELEASE
+- pkg:maven/org.springframework.boot.experimental/spring-boot-thin-tools-converter@1.0.9.RELEASE?classifier=sources

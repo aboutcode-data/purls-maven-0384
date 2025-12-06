@@ -4,3 +4,5 @@
 - pkg:maven/com.github.patjlm/mustache-ant@0.4?classifier=sources
 - pkg:maven/com.github.patjlm/mustache-ant@1.0.0
 - pkg:maven/com.github.patjlm/mustache-ant@1.0.0?classifier=sources
+- pkg:maven/com.github.patjlm/mustache-ant@1.1.0
+- pkg:maven/com.github.patjlm/mustache-ant@1.1.0?classifier=sources

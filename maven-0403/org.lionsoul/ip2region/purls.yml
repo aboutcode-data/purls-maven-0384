@@ -1,0 +1,2 @@
+- pkg:maven/org.lionsoul/ip2region@1.4
+- pkg:maven/org.lionsoul/ip2region@1.4?classifier=sources

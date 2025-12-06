@@ -1,0 +1,4 @@
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.skins/maven-paper-skin@1.0
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.skins/maven-paper-skin@1.1
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.skins/maven-paper-skin@1.2
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.skins/maven-paper-skin@1.2?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.github.wangjiegulu/rapidorm-compiler@2.1.1-rc01?classifier=sources
 - pkg:maven/com.github.wangjiegulu/rapidorm-compiler@2.1.1-rc02
 - pkg:maven/com.github.wangjiegulu/rapidorm-compiler@2.1.1-rc02?classifier=sources
+- pkg:maven/com.github.wangjiegulu/rapidorm-compiler@2.2.0
+- pkg:maven/com.github.wangjiegulu/rapidorm-compiler@2.2.0?classifier=sources

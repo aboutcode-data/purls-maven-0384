@@ -1,1 +1,2 @@
 - pkg:maven/org.dd4t/dd4t-web8-archetype@1.0?classifier=sources
+- pkg:maven/org.dd4t/dd4t-web8-archetype@1.1?classifier=sources

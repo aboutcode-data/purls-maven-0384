@@ -1,4 +1,6 @@
 - pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.10
+- pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.10.2
+- pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.10.2?classifier=sources
 - pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.10?classifier=sources
 - pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.8
 - pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.8.1

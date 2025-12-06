@@ -1,0 +1,5 @@
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.42?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.43?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.44?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.4.19?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.4.20?classifier=source-release&type=zip

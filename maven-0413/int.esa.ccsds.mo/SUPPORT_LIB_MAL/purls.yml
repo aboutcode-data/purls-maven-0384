@@ -8,3 +8,5 @@
 - pkg:maven/int.esa.ccsds.mo/SUPPORT_LIB_MAL@1.0.4
 - pkg:maven/int.esa.ccsds.mo/SUPPORT_LIB_MAL@1.0.4?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/SUPPORT_LIB_MAL@1.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/SUPPORT_LIB_MAL@1.7
+- pkg:maven/int.esa.ccsds.mo/SUPPORT_LIB_MAL@1.7?classifier=sources

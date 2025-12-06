@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/github-com-ng-bootstrap-ng-bootstrap@1.0.0-alpha.14?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-ng-bootstrap-ng-bootstrap@1.0.0-alpha.18
 - pkg:maven/org.webjars.npm/github-com-ng-bootstrap-ng-bootstrap@1.0.0-alpha.18?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-ng-bootstrap-ng-bootstrap@1.0.0-beta.5
+- pkg:maven/org.webjars.npm/github-com-ng-bootstrap-ng-bootstrap@1.0.0-beta.5?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-ng-bootstrap-ng-bootstrap@1.0.0-beta.7
+- pkg:maven/org.webjars.npm/github-com-ng-bootstrap-ng-bootstrap@1.0.0-beta.7?classifier=sources

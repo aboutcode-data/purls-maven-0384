@@ -2,10 +2,16 @@
 - pkg:maven/org.webjars.npm/babel-polyfill@6.0.16?classifier=sources
 - pkg:maven/org.webjars.npm/babel-polyfill@6.13.0
 - pkg:maven/org.webjars.npm/babel-polyfill@6.13.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-polyfill@6.22.0
+- pkg:maven/org.webjars.npm/babel-polyfill@6.22.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-polyfill@6.23.0
 - pkg:maven/org.webjars.npm/babel-polyfill@6.23.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-polyfill@6.26.0
+- pkg:maven/org.webjars.npm/babel-polyfill@6.26.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-polyfill@6.3.13
 - pkg:maven/org.webjars.npm/babel-polyfill@6.3.13?classifier=sources
+- pkg:maven/org.webjars.npm/babel-polyfill@6.5.0
+- pkg:maven/org.webjars.npm/babel-polyfill@6.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-polyfill@6.7.4
 - pkg:maven/org.webjars.npm/babel-polyfill@6.7.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel-polyfill@6.8.0

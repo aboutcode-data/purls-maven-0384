@@ -1,0 +1,2 @@
+- pkg:maven/net.dontdrinkandroot/wicket.example@0.5.2
+- pkg:maven/net.dontdrinkandroot/wicket.example@0.5.2?classifier=sources

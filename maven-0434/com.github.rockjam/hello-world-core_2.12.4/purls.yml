@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rockjam/hello-world-core_2.12.4@0.0.19
+- pkg:maven/com.github.rockjam/hello-world-core_2.12.4@0.0.19?classifier=sources

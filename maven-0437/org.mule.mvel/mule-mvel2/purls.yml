@@ -18,3 +18,7 @@
 - pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-011?classifier=sources
 - pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-012
 - pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-012?classifier=sources
+- pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-013
+- pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-013?classifier=sources
+- pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-014
+- pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-014?classifier=sources

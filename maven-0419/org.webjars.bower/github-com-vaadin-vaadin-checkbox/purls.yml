@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-checkbox@v1.0.0
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-checkbox@v1.0.0-alpha6
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-checkbox@v1.0.0-alpha6?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-checkbox@v1.0.0?classifier=sources

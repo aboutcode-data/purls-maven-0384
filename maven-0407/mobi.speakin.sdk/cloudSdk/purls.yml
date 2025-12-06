@@ -1,0 +1,2 @@
+- pkg:maven/mobi.speakin.sdk/cloudSdk@1.0
+- pkg:maven/mobi.speakin.sdk/cloudSdk@1.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.automateitapp/automateit.plugin.sdk@1.0.2?type=aar
 - pkg:maven/com.automateitapp/automateit.plugin.sdk@1.0.3?classifier=sources
 - pkg:maven/com.automateitapp/automateit.plugin.sdk@1.0.3?type=aar
+- pkg:maven/com.automateitapp/automateit.plugin.sdk@1.0.4?classifier=sources
+- pkg:maven/com.automateitapp/automateit.plugin.sdk@1.0.4?type=aar

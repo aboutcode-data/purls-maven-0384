@@ -6,4 +6,7 @@
 - pkg:maven/org.controlsfx/controlsfx-samples@8.40.10?classifier=sources
 - pkg:maven/org.controlsfx/controlsfx-samples@8.40.11?classifier=sources
 - pkg:maven/org.controlsfx/controlsfx-samples@8.40.12?classifier=sources
+- pkg:maven/org.controlsfx/controlsfx-samples@8.40.13?classifier=sources
+- pkg:maven/org.controlsfx/controlsfx-samples@8.40.14?classifier=sources
 - pkg:maven/org.controlsfx/controlsfx-samples@8.40.9?classifier=sources
+- pkg:maven/org.controlsfx/controlsfx-samples@9.0.0?classifier=sources

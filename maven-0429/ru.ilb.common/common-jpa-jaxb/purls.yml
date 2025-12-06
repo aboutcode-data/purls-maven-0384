@@ -1,0 +1,6 @@
+- pkg:maven/ru.ilb.common/common-jpa-jaxb@1.17
+- pkg:maven/ru.ilb.common/common-jpa-jaxb@1.17?classifier=sources
+- pkg:maven/ru.ilb.common/common-jpa-jaxb@1.18
+- pkg:maven/ru.ilb.common/common-jpa-jaxb@1.18?classifier=sources
+- pkg:maven/ru.ilb.common/common-jpa-jaxb@1.19
+- pkg:maven/ru.ilb.common/common-jpa-jaxb@1.19?classifier=sources

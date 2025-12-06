@@ -1,0 +1,2 @@
+- pkg:maven/de.softwareforge/dumbster@2.0.0
+- pkg:maven/de.softwareforge/dumbster@2.0.0?classifier=sources

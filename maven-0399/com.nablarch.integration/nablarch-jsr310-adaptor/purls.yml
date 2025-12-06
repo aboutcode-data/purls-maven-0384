@@ -1,0 +1,2 @@
+- pkg:maven/com.nablarch.integration/nablarch-jsr310-adaptor@1.0.0
+- pkg:maven/com.nablarch.integration/nablarch-jsr310-adaptor@1.0.0?classifier=sources

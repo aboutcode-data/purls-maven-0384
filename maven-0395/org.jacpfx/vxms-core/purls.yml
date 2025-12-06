@@ -1,2 +1,8 @@
+- pkg:maven/org.jacpfx/vxms-core@1.0
 - pkg:maven/org.jacpfx/vxms-core@1.0-RC2
 - pkg:maven/org.jacpfx/vxms-core@1.0-RC2?classifier=sources
+- pkg:maven/org.jacpfx/vxms-core@1.0-RC3
+- pkg:maven/org.jacpfx/vxms-core@1.0-RC3?classifier=sources
+- pkg:maven/org.jacpfx/vxms-core@1.0?classifier=sources
+- pkg:maven/org.jacpfx/vxms-core@1.1-RC1
+- pkg:maven/org.jacpfx/vxms-core@1.1-RC1?classifier=sources

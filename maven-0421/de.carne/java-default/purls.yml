@@ -1,2 +1,6 @@
 - pkg:maven/de.carne/java-default@3
 - pkg:maven/de.carne/java-default@3?classifier=sources
+- pkg:maven/de.carne/java-default@4
+- pkg:maven/de.carne/java-default@4?classifier=sources
+- pkg:maven/de.carne/java-default@5
+- pkg:maven/de.carne/java-default@5?classifier=sources

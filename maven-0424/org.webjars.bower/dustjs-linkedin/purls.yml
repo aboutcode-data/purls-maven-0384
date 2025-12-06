@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/dustjs-linkedin@2.7.2
 - pkg:maven/org.webjars.bower/dustjs-linkedin@2.7.2?classifier=sources
+- pkg:maven/org.webjars.bower/dustjs-linkedin@2.7.5
+- pkg:maven/org.webjars.bower/dustjs-linkedin@2.7.5?classifier=sources

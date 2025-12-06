@@ -1,3 +1,17 @@
+- pkg:maven/com.groupbyinc/common-joda@102
+- pkg:maven/com.groupbyinc/common-joda@102?classifier=sources
+- pkg:maven/com.groupbyinc/common-joda@103
+- pkg:maven/com.groupbyinc/common-joda@103?classifier=sources
+- pkg:maven/com.groupbyinc/common-joda@104
+- pkg:maven/com.groupbyinc/common-joda@104?classifier=sources
+- pkg:maven/com.groupbyinc/common-joda@105
+- pkg:maven/com.groupbyinc/common-joda@105?classifier=sources
+- pkg:maven/com.groupbyinc/common-joda@106
+- pkg:maven/com.groupbyinc/common-joda@106?classifier=sources
+- pkg:maven/com.groupbyinc/common-joda@107
+- pkg:maven/com.groupbyinc/common-joda@107?classifier=sources
+- pkg:maven/com.groupbyinc/common-joda@108
+- pkg:maven/com.groupbyinc/common-joda@108?classifier=sources
 - pkg:maven/com.groupbyinc/common-joda@55
 - pkg:maven/com.groupbyinc/common-joda@55?classifier=sources
 - pkg:maven/com.groupbyinc/common-joda@56
@@ -82,3 +96,9 @@
 - pkg:maven/com.groupbyinc/common-joda@95?classifier=sources
 - pkg:maven/com.groupbyinc/common-joda@96
 - pkg:maven/com.groupbyinc/common-joda@96?classifier=sources
+- pkg:maven/com.groupbyinc/common-joda@97
+- pkg:maven/com.groupbyinc/common-joda@97?classifier=sources
+- pkg:maven/com.groupbyinc/common-joda@98
+- pkg:maven/com.groupbyinc/common-joda@98?classifier=sources
+- pkg:maven/com.groupbyinc/common-joda@99
+- pkg:maven/com.groupbyinc/common-joda@99?classifier=sources

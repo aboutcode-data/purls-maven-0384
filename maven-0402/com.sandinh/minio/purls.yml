@@ -1,0 +1,2 @@
+- pkg:maven/com.sandinh/minio@3.0.7
+- pkg:maven/com.sandinh/minio@3.0.7?classifier=sources

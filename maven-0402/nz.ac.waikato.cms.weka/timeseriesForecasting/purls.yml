@@ -8,5 +8,7 @@
 - pkg:maven/nz.ac.waikato.cms.weka/timeseriesForecasting@1.0.23?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/timeseriesForecasting@1.0.24
 - pkg:maven/nz.ac.waikato.cms.weka/timeseriesForecasting@1.0.24?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.weka/timeseriesForecasting@1.0.25
+- pkg:maven/nz.ac.waikato.cms.weka/timeseriesForecasting@1.0.25?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/timeseriesForecasting@1.1.25
 - pkg:maven/nz.ac.waikato.cms.weka/timeseriesForecasting@1.1.25?classifier=sources

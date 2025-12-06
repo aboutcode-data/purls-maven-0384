@@ -14,5 +14,13 @@
 - pkg:maven/com.sentenial/nuapay-rest-client@1.0.16.RELEASE?classifier=sources
 - pkg:maven/com.sentenial/nuapay-rest-client@1.0.17.RELEASE
 - pkg:maven/com.sentenial/nuapay-rest-client@1.0.17.RELEASE?classifier=sources
+- pkg:maven/com.sentenial/nuapay-rest-client@1.0.18.RELEASE
+- pkg:maven/com.sentenial/nuapay-rest-client@1.0.18.RELEASE?classifier=sources
+- pkg:maven/com.sentenial/nuapay-rest-client@1.0.19.RELEASE
+- pkg:maven/com.sentenial/nuapay-rest-client@1.0.19.RELEASE?classifier=sources
+- pkg:maven/com.sentenial/nuapay-rest-client@1.0.20.RELEASE
+- pkg:maven/com.sentenial/nuapay-rest-client@1.0.20.RELEASE?classifier=sources
+- pkg:maven/com.sentenial/nuapay-rest-client@1.0.21.RELEASE
+- pkg:maven/com.sentenial/nuapay-rest-client@1.0.21.RELEASE?classifier=sources
 - pkg:maven/com.sentenial/nuapay-rest-client@1.0.9.RELEASE
 - pkg:maven/com.sentenial/nuapay-rest-client@1.0.9.RELEASE?classifier=sources

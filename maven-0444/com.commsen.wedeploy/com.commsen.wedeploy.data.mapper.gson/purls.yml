@@ -1,0 +1,4 @@
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.data.mapper.gson@0.1.0
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.data.mapper.gson@0.1.0?classifier=sources
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.data.mapper.gson@1.0.0
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.data.mapper.gson@1.0.0?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.bower/github-com-PolymerElements-app-layout@0.9.1
 - pkg:maven/org.webjars.bower/github-com-PolymerElements-app-layout@0.9.1?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-app-layout@2.0.0
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-app-layout@2.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-app-layout@2.0.4
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-app-layout@2.0.4?classifier=sources

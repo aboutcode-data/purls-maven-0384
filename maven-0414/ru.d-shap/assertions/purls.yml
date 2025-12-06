@@ -1,0 +1,4 @@
+- pkg:maven/ru.d-shap/assertions@1.0
+- pkg:maven/ru.d-shap/assertions@1.0?classifier=sources
+- pkg:maven/ru.d-shap/assertions@1.1
+- pkg:maven/ru.d-shap/assertions@1.1?classifier=sources

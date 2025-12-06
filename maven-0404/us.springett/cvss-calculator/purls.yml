@@ -1,2 +1,4 @@
 - pkg:maven/us.springett/cvss-calculator@1.0.0
 - pkg:maven/us.springett/cvss-calculator@1.0.0?classifier=sources
+- pkg:maven/us.springett/cvss-calculator@1.1.0
+- pkg:maven/us.springett/cvss-calculator@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.commercetools.sdk.jvm.core/mirror-subclass-plugin@1.25.0
+- pkg:maven/com.commercetools.sdk.jvm.core/mirror-subclass-plugin@1.25.0?classifier=sources

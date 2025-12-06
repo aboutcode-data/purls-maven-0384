@@ -1,0 +1,2 @@
+- pkg:maven/online.ipop/easy-cache-test@0.0.1-RELEASE
+- pkg:maven/online.ipop/easy-cache-test@0.0.1-RELEASE?classifier=sources

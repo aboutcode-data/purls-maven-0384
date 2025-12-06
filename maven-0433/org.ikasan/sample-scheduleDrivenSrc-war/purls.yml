@@ -35,3 +35,5 @@
 - pkg:maven/org.ikasan/sample-scheduleDrivenSrc-war@1.4.1?type=war
 - pkg:maven/org.ikasan/sample-scheduleDrivenSrc-war@1.4.2?type=war
 - pkg:maven/org.ikasan/sample-scheduleDrivenSrc-war@1.4.3?type=war
+- pkg:maven/org.ikasan/sample-scheduleDrivenSrc-war@1.5.0?type=war
+- pkg:maven/org.ikasan/sample-scheduleDrivenSrc-war@1.5.1?type=war

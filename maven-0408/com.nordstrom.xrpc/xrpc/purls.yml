@@ -1,0 +1,4 @@
+- pkg:maven/com.nordstrom.xrpc/xrpc@0.1.0
+- pkg:maven/com.nordstrom.xrpc/xrpc@0.1.0?classifier=sources
+- pkg:maven/com.nordstrom.xrpc/xrpc@0.1.4
+- pkg:maven/com.nordstrom.xrpc/xrpc@0.1.4?classifier=sources

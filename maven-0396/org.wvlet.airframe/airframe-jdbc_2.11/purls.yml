@@ -1,0 +1,4 @@
+- pkg:maven/org.wvlet.airframe/airframe-jdbc_2.11@0.33
+- pkg:maven/org.wvlet.airframe/airframe-jdbc_2.11@0.33?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-jdbc_2.11@0.35
+- pkg:maven/org.wvlet.airframe/airframe-jdbc_2.11@0.35?classifier=sources

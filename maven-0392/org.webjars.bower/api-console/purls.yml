@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/api-console@4.0.0
+- pkg:maven/org.webjars.bower/api-console@4.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/api-console@4.1.0
+- pkg:maven/org.webjars.bower/api-console@4.1.0?classifier=sources

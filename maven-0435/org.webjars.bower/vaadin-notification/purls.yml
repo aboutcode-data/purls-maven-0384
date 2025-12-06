@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/vaadin-notification@1.0.0-alpha3
+- pkg:maven/org.webjars.bower/vaadin-notification@1.0.0-alpha3?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-notification@1.0.0-alpha4
+- pkg:maven/org.webjars.bower/vaadin-notification@1.0.0-alpha4?classifier=sources

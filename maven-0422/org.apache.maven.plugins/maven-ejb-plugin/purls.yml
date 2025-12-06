@@ -23,3 +23,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@2.5.1?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@2.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@2.5?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@3.0.0
+- pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@3.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-ejb-plugin@3.0.0?classifier=sources

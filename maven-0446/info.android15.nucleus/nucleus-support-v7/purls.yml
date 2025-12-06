@@ -52,3 +52,5 @@
 - pkg:maven/info.android15.nucleus/nucleus-support-v7@3.0.1?type=aar
 - pkg:maven/info.android15.nucleus/nucleus-support-v7@4.0.0?classifier=sources
 - pkg:maven/info.android15.nucleus/nucleus-support-v7@4.0.0?type=aar
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@6.0.0?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@6.0.0?type=aar

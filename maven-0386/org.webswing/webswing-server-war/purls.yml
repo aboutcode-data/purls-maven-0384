@@ -1,0 +1,2 @@
+- pkg:maven/org.webswing/webswing-server-war@2.5?classifier=sources
+- pkg:maven/org.webswing/webswing-server-war@2.5?type=war

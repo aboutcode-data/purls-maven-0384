@@ -28,3 +28,5 @@
 - pkg:maven/website.automate/waml-io@0.7.0?classifier=sources
 - pkg:maven/website.automate/waml-io@1.0.0
 - pkg:maven/website.automate/waml-io@1.0.0?classifier=sources
+- pkg:maven/website.automate/waml-io@1.1.0
+- pkg:maven/website.automate/waml-io@1.1.0?classifier=sources

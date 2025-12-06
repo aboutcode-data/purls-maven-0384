@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-grpc-processors@1.4.0
+- pkg:maven/org.apache.nifi/nifi-grpc-processors@1.4.0?classifier=sources

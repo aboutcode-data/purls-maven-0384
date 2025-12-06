@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-vaadin-vaadin-upload@1.1.4
+- pkg:maven/org.webjars.npm/github-com-vaadin-vaadin-upload@1.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-vaadin-vaadin-upload@2.1.2
+- pkg:maven/org.webjars.npm/github-com-vaadin-vaadin-upload@2.1.2?classifier=sources

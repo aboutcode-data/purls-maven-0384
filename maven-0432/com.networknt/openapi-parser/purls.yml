@@ -1,0 +1,10 @@
+- pkg:maven/com.networknt/openapi-parser@0.1.0
+- pkg:maven/com.networknt/openapi-parser@0.1.0?classifier=sources
+- pkg:maven/com.networknt/openapi-parser@0.1.1
+- pkg:maven/com.networknt/openapi-parser@0.1.1?classifier=sources
+- pkg:maven/com.networknt/openapi-parser@1.5.4
+- pkg:maven/com.networknt/openapi-parser@1.5.4?classifier=sources
+- pkg:maven/com.networknt/openapi-parser@1.5.5
+- pkg:maven/com.networknt/openapi-parser@1.5.5?classifier=sources
+- pkg:maven/com.networknt/openapi-parser@1.5.6
+- pkg:maven/com.networknt/openapi-parser@1.5.6?classifier=sources

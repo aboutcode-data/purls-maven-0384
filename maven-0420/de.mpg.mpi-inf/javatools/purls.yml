@@ -1,0 +1,4 @@
+- pkg:maven/de.mpg.mpi-inf/javatools@1.0
+- pkg:maven/de.mpg.mpi-inf/javatools@1.0?classifier=sources
+- pkg:maven/de.mpg.mpi-inf/javatools@2017-06-28
+- pkg:maven/de.mpg.mpi-inf/javatools@2017-06-28?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.brouillard.oss.jee/portable-mpft-jee-impl@0.3.0-fallback
+- pkg:maven/fr.brouillard.oss.jee/portable-mpft-jee-impl@0.3.0-fallback?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.google.errorprone/javac-shaded@9%2B181-r4173-1
+- pkg:maven/com.google.errorprone/javac-shaded@9%2B181-r4173-1?classifier=sources
+- pkg:maven/com.google.errorprone/javac-shaded@9-dev-r4023-3
+- pkg:maven/com.google.errorprone/javac-shaded@9-dev-r4023-3?classifier=sources

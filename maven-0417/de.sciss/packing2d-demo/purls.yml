@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/packing2d-demo@0.1.0
+- pkg:maven/de.sciss/packing2d-demo@0.1.0?classifier=sources

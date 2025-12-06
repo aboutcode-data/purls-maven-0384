@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lafa.pdfbox/fontbox@1.0.1
+- pkg:maven/com.github.lafa.pdfbox/fontbox@1.0.1?classifier=sources

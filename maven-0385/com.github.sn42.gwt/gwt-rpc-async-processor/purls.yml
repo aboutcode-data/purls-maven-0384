@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sn42.gwt/gwt-rpc-async-processor@0.1
+- pkg:maven/com.github.sn42.gwt/gwt-rpc-async-processor@0.1?classifier=sources

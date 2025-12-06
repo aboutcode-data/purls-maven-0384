@@ -1,0 +1,4 @@
+- pkg:maven/com.liumapp.pattern/socket-pattern@v1.0.0
+- pkg:maven/com.liumapp.pattern/socket-pattern@v1.0.0?classifier=sources
+- pkg:maven/com.liumapp.pattern/socket-pattern@v1.1.5
+- pkg:maven/com.liumapp.pattern/socket-pattern@v1.1.5?classifier=sources

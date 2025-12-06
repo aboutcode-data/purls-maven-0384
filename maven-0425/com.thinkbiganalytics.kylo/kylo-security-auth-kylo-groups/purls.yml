@@ -1,0 +1,4 @@
+- pkg:maven/com.thinkbiganalytics.kylo/kylo-security-auth-kylo-groups@0.8.4
+- pkg:maven/com.thinkbiganalytics.kylo/kylo-security-auth-kylo-groups@0.8.4.1
+- pkg:maven/com.thinkbiganalytics.kylo/kylo-security-auth-kylo-groups@0.8.4.1?classifier=sources
+- pkg:maven/com.thinkbiganalytics.kylo/kylo-security-auth-kylo-groups@0.8.4?classifier=sources

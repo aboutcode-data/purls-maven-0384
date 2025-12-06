@@ -1,0 +1,2 @@
+- pkg:maven/fr.iscpif.gridscale/dirac_2.12@2.0
+- pkg:maven/fr.iscpif.gridscale/dirac_2.12@2.0?classifier=sources

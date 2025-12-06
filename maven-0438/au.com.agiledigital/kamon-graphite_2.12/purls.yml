@@ -1,0 +1,2 @@
+- pkg:maven/au.com.agiledigital/kamon-graphite_2.12@0.0.7
+- pkg:maven/au.com.agiledigital/kamon-graphite_2.12@0.0.7?classifier=sources

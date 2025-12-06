@@ -1,0 +1,2 @@
+- pkg:maven/com.carrotgarden.maven/maven-plugin-tools-annotations@1.0.20171214023519
+- pkg:maven/com.carrotgarden.maven/maven-plugin-tools-annotations@1.0.20171214023519?classifier=sources

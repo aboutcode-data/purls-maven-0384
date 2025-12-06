@@ -1,2 +1,4 @@
 - pkg:maven/de.julielab/julielab-neo4j-plugins-aho-corasick@1.5.0
 - pkg:maven/de.julielab/julielab-neo4j-plugins-aho-corasick@1.5.0?classifier=sources
+- pkg:maven/de.julielab/julielab-neo4j-plugins-aho-corasick@1.6.0
+- pkg:maven/de.julielab/julielab-neo4j-plugins-aho-corasick@1.6.0?classifier=sources

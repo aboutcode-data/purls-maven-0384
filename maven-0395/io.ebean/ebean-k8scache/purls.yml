@@ -1,0 +1,2 @@
+- pkg:maven/io.ebean/ebean-k8scache@11.7.1
+- pkg:maven/io.ebean/ebean-k8scache@11.7.1?classifier=sources

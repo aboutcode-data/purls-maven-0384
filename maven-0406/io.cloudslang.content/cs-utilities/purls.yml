@@ -1,2 +1,4 @@
 - pkg:maven/io.cloudslang.content/cs-utilities@0.0.8
 - pkg:maven/io.cloudslang.content/cs-utilities@0.0.8?classifier=sources
+- pkg:maven/io.cloudslang.content/cs-utilities@0.1.0
+- pkg:maven/io.cloudslang.content/cs-utilities@0.1.0?classifier=sources

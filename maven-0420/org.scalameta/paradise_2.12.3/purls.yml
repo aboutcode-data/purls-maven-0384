@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/paradise_2.12.3@3.0.0-M10
+- pkg:maven/org.scalameta/paradise_2.12.3@3.0.0-M10?classifier=sources

@@ -2,8 +2,10 @@
 - pkg:maven/com.github.gwtmaterialdesign/gwt-material-archetype@1.5.1
 - pkg:maven/com.github.gwtmaterialdesign/gwt-material-archetype@1.5.2
 - pkg:maven/com.github.gwtmaterialdesign/gwt-material-archetype@1.6.0
+- pkg:maven/com.github.gwtmaterialdesign/gwt-material-archetype@2.0
 - pkg:maven/com.github.gwtmaterialdesign/gwt-material-archetype@2.0-rc1
 - pkg:maven/com.github.gwtmaterialdesign/gwt-material-archetype@2.0-rc2
 - pkg:maven/com.github.gwtmaterialdesign/gwt-material-archetype@2.0-rc3
 - pkg:maven/com.github.gwtmaterialdesign/gwt-material-archetype@2.0-rc4
 - pkg:maven/com.github.gwtmaterialdesign/gwt-material-archetype@2.0-rc5
+- pkg:maven/com.github.gwtmaterialdesign/gwt-material-archetype@2.0-rc6

@@ -1,0 +1,2 @@
+- pkg:maven/com.malliina/util-html_2.12@4.5.1
+- pkg:maven/com.malliina/util-html_2.12@4.5.1?classifier=sources

@@ -53,6 +53,12 @@
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.1.1
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.1.1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.1.1?classifier=sources
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.10.0
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.10.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.10.0?classifier=sources
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.11.0
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.11.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.11.0?classifier=sources
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.1?classifier=sources
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.2.0
@@ -76,3 +82,9 @@
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.6.1
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.6.1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.6.1?classifier=sources
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.7.0
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.7.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.7.0?classifier=sources
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.9.4
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.9.4?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.addon/wildfly-swarm@2017.9.4?classifier=sources

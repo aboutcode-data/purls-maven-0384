@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/spring-data-azure-cosmosdb-documentdb@0.1.1
+- pkg:maven/com.microsoft.azure/spring-data-azure-cosmosdb-documentdb@0.1.1?classifier=sources

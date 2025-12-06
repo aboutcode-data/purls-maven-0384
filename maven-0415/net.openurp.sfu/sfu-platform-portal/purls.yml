@@ -1,0 +1,2 @@
+- pkg:maven/net.openurp.sfu/sfu-platform-portal@0.0.2?classifier=sources
+- pkg:maven/net.openurp.sfu/sfu-platform-portal@0.0.2?type=war

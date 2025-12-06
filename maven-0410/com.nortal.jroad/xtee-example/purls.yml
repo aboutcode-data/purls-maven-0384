@@ -1,2 +1,4 @@
 - pkg:maven/com.nortal.jroad/xtee-example@4.2.0?classifier=sources
 - pkg:maven/com.nortal.jroad/xtee-example@4.2.0?type=war
+- pkg:maven/com.nortal.jroad/xtee-example@4.2.2?classifier=sources
+- pkg:maven/com.nortal.jroad/xtee-example@4.2.2?type=war

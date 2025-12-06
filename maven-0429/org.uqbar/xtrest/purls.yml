@@ -4,3 +4,5 @@
 - pkg:maven/org.uqbar/xtrest@0.1.4?classifier=sources
 - pkg:maven/org.uqbar/xtrest@0.1.6
 - pkg:maven/org.uqbar/xtrest@0.1.6?classifier=sources
+- pkg:maven/org.uqbar/xtrest@1.0.0
+- pkg:maven/org.uqbar/xtrest@1.0.0?classifier=sources

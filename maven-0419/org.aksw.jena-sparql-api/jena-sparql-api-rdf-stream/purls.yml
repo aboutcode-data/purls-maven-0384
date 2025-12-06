@@ -1,0 +1,5 @@
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-rdf-stream@3.3.0-1
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-rdf-stream@3.3.0-3
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-rdf-stream@3.4.0-1
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-rdf-stream@3.5.0-1
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-rdf-stream@3.5.0-2

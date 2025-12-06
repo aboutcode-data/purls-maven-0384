@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hbase/hbase-http@2.0.0-alpha4
+- pkg:maven/org.apache.hbase/hbase-http@2.0.0-alpha4?classifier=sources

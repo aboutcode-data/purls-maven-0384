@@ -1,0 +1,2 @@
+- pkg:maven/de.rototor.jeuclid/jeuclid-core@3.1.11
+- pkg:maven/de.rototor.jeuclid/jeuclid-core@3.1.11?classifier=sources

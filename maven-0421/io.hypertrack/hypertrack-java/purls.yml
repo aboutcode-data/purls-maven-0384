@@ -16,3 +16,5 @@
 - pkg:maven/io.hypertrack/hypertrack-java@0.1.8?classifier=sources
 - pkg:maven/io.hypertrack/hypertrack-java@1.0.0
 - pkg:maven/io.hypertrack/hypertrack-java@1.0.0?classifier=sources
+- pkg:maven/io.hypertrack/hypertrack-java@1.0.1
+- pkg:maven/io.hypertrack/hypertrack-java@1.0.1?classifier=sources

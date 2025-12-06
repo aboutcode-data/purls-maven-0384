@@ -1,0 +1,2 @@
+- pkg:maven/com.workday/elasticrypt_2.10@1.7.0?classifier=sources
+- pkg:maven/com.workday/elasticrypt_2.10@1.7.0?type=zip

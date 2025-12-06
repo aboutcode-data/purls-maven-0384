@@ -12,3 +12,5 @@
 - pkg:maven/io.mraa/mraa@1.6.1?classifier=sources
 - pkg:maven/io.mraa/mraa@1.7.0
 - pkg:maven/io.mraa/mraa@1.7.0?classifier=sources
+- pkg:maven/io.mraa/mraa@1.8.0
+- pkg:maven/io.mraa/mraa@1.8.0?classifier=sources
