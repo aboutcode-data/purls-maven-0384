@@ -1,0 +1,14 @@
+- pkg:maven/org.wildfly.swarm/spi@1.0.10.Final
+- pkg:maven/org.wildfly.swarm/spi@1.0.10.Final?classifier=sources
+- pkg:maven/org.wildfly.swarm/spi@1.0.11.Final
+- pkg:maven/org.wildfly.swarm/spi@1.0.11.Final?classifier=sources
+- pkg:maven/org.wildfly.swarm/spi@1.0.7.Final
+- pkg:maven/org.wildfly.swarm/spi@1.0.7.Final?classifier=sources
+- pkg:maven/org.wildfly.swarm/spi@1.0.8.Final
+- pkg:maven/org.wildfly.swarm/spi@1.0.8.Final?classifier=sources
+- pkg:maven/org.wildfly.swarm/spi@1.0.9.Final
+- pkg:maven/org.wildfly.swarm/spi@1.0.9.Final?classifier=sources
+- pkg:maven/org.wildfly.swarm/spi@2016.10.0
+- pkg:maven/org.wildfly.swarm/spi@2016.10.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/spi@2016.9
+- pkg:maven/org.wildfly.swarm/spi@2016.9?classifier=sources

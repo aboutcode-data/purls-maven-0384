@@ -1,0 +1,2 @@
+- pkg:maven/org.uniknow.agiledev.docMockRest/example-swagger-annotated@0.0.2
+- pkg:maven/org.uniknow.agiledev.docMockRest/example-swagger-annotated@0.0.2?classifier=sources

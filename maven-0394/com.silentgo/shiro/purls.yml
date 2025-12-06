@@ -1,0 +1,2 @@
+- pkg:maven/com.silentgo/shiro@0.0.1
+- pkg:maven/com.silentgo/shiro@0.0.1?classifier=sources

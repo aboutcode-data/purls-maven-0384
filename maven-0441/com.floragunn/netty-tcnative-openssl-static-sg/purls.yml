@@ -1,0 +1,2 @@
+- pkg:maven/com.floragunn/netty-tcnative-openssl-static-sg@1.1.33.Fork19
+- pkg:maven/com.floragunn/netty-tcnative-openssl-static-sg@1.1.33.Fork19?classifier=sources

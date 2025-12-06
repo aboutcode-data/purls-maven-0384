@@ -1,0 +1,2 @@
+- pkg:maven/org.jlibsedml/org.jlibsedml@2.2.2
+- pkg:maven/org.jlibsedml/org.jlibsedml@2.2.2?classifier=sources

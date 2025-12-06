@@ -38,3 +38,17 @@
 - pkg:maven/info.android15.nucleus/nucleus-support-v7@2.0.3?type=aar
 - pkg:maven/info.android15.nucleus/nucleus-support-v7@2.0.4?classifier=sources
 - pkg:maven/info.android15.nucleus/nucleus-support-v7@2.0.4?type=aar
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@2.0.5?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@2.0.5?type=aar
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@2.0.5beta?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@2.0.5beta?type=aar
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@2.0.6?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@2.0.6?type=aar
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@3.0.0-beta?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@3.0.0-beta?type=aar
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@3.0.0?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@3.0.0?type=aar
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@3.0.1?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@3.0.1?type=aar
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@4.0.0?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus-support-v7@4.0.0?type=aar

@@ -1,0 +1,3 @@
+- pkg:maven/com.gitblit.ohmdb/ohmdb@1.0.1
+- pkg:maven/com.gitblit.ohmdb/ohmdb@1.0.2
+- pkg:maven/com.gitblit.ohmdb/ohmdb@1.0.2?classifier=sources

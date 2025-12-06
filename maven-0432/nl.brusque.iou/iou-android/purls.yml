@@ -1,0 +1,3 @@
+- pkg:maven/nl.brusque.iou/iou-android@1.0.0-beta-01?classifier=sources
+- pkg:maven/nl.brusque.iou/iou-android@1.0.0-beta-02?classifier=sources
+- pkg:maven/nl.brusque.iou/iou-android@1.0.0-beta-02?type=aar

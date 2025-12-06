@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.malleusconsulting.magnolia.ui.api.availability/site-config-availability-rule@1.0.0
+- pkg:maven/uk.co.malleusconsulting.magnolia.ui.api.availability/site-config-availability-rule@1.0.0?classifier=sources

@@ -9,3 +9,7 @@
 - pkg:maven/org.jboss.arquillian.graphene/graphene-parent@2.1.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.graphene/graphene-parent@2.1.0.Alpha2?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.graphene/graphene-parent@2.1.0.Alpha3?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.graphene/graphene-parent@2.1.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.graphene/graphene-parent@2.1.0.CR1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.graphene/graphene-parent@2.1.0.CR2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.graphene/graphene-parent@2.1.0.Final?classifier=source-release&type=zip

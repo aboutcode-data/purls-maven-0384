@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dnvriend/akka-persistence-query-writer_2.11@0.0.2
+- pkg:maven/com.github.dnvriend/akka-persistence-query-writer_2.11@0.0.2?classifier=sources

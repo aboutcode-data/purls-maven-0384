@@ -1,2 +1,6 @@
 - pkg:maven/org.everit.expression/org.everit.expression.jexl@1.0.0
 - pkg:maven/org.everit.expression/org.everit.expression.jexl@1.0.0?classifier=sources
+- pkg:maven/org.everit.expression/org.everit.expression.jexl@1.1.0
+- pkg:maven/org.everit.expression/org.everit.expression.jexl@1.1.0?classifier=sources
+- pkg:maven/org.everit.expression/org.everit.expression.jexl@2.0.0
+- pkg:maven/org.everit.expression/org.everit.expression.jexl@2.0.0?classifier=sources

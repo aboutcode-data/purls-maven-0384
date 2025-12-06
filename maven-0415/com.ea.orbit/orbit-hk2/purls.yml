@@ -1,0 +1,2 @@
+- pkg:maven/com.ea.orbit/orbit-hk2@0.8.0-preview2
+- pkg:maven/com.ea.orbit/orbit-hk2@0.8.0-preview2?classifier=sources

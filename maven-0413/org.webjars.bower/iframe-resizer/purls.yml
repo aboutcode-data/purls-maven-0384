@@ -6,3 +6,7 @@
 - pkg:maven/org.webjars.bower/iframe-resizer@3.4.2?classifier=sources
 - pkg:maven/org.webjars.bower/iframe-resizer@3.5.1
 - pkg:maven/org.webjars.bower/iframe-resizer@3.5.1?classifier=sources
+- pkg:maven/org.webjars.bower/iframe-resizer@3.5.3
+- pkg:maven/org.webjars.bower/iframe-resizer@3.5.3?classifier=sources
+- pkg:maven/org.webjars.bower/iframe-resizer@3.5.5
+- pkg:maven/org.webjars.bower/iframe-resizer@3.5.5?classifier=sources

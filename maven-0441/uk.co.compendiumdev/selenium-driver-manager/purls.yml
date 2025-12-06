@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.compendiumdev/selenium-driver-manager@3.0.1
+- pkg:maven/uk.co.compendiumdev/selenium-driver-manager@3.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.qantium/uisteps-serenity@2.22
+- pkg:maven/com.qantium/uisteps-serenity@2.22?classifier=sources
+- pkg:maven/com.qantium/uisteps-serenity@2.23
+- pkg:maven/com.qantium/uisteps-serenity@2.23?classifier=sources
+- pkg:maven/com.qantium/uisteps-serenity@2.25
+- pkg:maven/com.qantium/uisteps-serenity@2.25?classifier=sources

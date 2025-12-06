@@ -1,1 +1,9 @@
 - pkg:maven/com.canoo.dolphin-platform/todo-example-server-javaee@0.6.1?type=war
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-javaee@0.7.0
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-javaee@0.7.0?classifier=sources
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-javaee@0.7.2
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-javaee@0.7.2?classifier=sources
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-javaee@0.8.0
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-javaee@0.8.0?classifier=sources
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-javaee@0.8.4?classifier=sources
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-javaee@0.8.4?type=war

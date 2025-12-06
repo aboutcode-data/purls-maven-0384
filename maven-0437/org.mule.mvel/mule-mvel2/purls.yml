@@ -10,3 +10,7 @@
 - pkg:maven/org.mule.mvel/mule-mvel2@2.1.8.Final-MULE-002?classifier=sources
 - pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-008
 - pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-008?classifier=sources
+- pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-009
+- pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-009?classifier=sources
+- pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-010
+- pkg:maven/org.mule.mvel/mule-mvel2@2.1.9-MULE-010?classifier=sources

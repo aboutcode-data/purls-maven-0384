@@ -1,0 +1,12 @@
+- pkg:maven/ai.x/diff_2.11@1.0
+- pkg:maven/ai.x/diff_2.11@1.0.1
+- pkg:maven/ai.x/diff_2.11@1.0.1?classifier=sources
+- pkg:maven/ai.x/diff_2.11@1.0.2
+- pkg:maven/ai.x/diff_2.11@1.0.2?classifier=sources
+- pkg:maven/ai.x/diff_2.11@1.0?classifier=sources
+- pkg:maven/ai.x/diff_2.11@1.1.0
+- pkg:maven/ai.x/diff_2.11@1.1.0?classifier=sources
+- pkg:maven/ai.x/diff_2.11@1.2.0
+- pkg:maven/ai.x/diff_2.11@1.2.0-get-simple-name-fix
+- pkg:maven/ai.x/diff_2.11@1.2.0-get-simple-name-fix?classifier=sources
+- pkg:maven/ai.x/diff_2.11@1.2.0?classifier=sources

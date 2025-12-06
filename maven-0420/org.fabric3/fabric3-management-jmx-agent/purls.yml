@@ -6,3 +6,5 @@
 - pkg:maven/org.fabric3/fabric3-management-jmx-agent@2.5.2?classifier=sources
 - pkg:maven/org.fabric3/fabric3-management-jmx-agent@2.5.3
 - pkg:maven/org.fabric3/fabric3-management-jmx-agent@2.5.3?classifier=sources
+- pkg:maven/org.fabric3/fabric3-management-jmx-agent@3.0.0
+- pkg:maven/org.fabric3/fabric3-management-jmx-agent@3.0.0?classifier=sources

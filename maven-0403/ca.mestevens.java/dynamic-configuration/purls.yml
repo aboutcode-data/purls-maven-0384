@@ -1,0 +1,4 @@
+- pkg:maven/ca.mestevens.java/dynamic-configuration@0.5
+- pkg:maven/ca.mestevens.java/dynamic-configuration@0.5?classifier=sources
+- pkg:maven/ca.mestevens.java/dynamic-configuration@0.6
+- pkg:maven/ca.mestevens.java/dynamic-configuration@0.6?classifier=sources

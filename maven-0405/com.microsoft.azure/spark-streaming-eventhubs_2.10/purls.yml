@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/spark-streaming-eventhubs_2.10@1.6.0
+- pkg:maven/com.microsoft.azure/spark-streaming-eventhubs_2.10@1.6.0?classifier=sources

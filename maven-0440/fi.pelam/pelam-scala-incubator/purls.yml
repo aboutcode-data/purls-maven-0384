@@ -1,0 +1,2 @@
+- pkg:maven/fi.pelam/pelam-scala-incubator@0.1
+- pkg:maven/fi.pelam/pelam-scala-incubator@0.1?classifier=sources

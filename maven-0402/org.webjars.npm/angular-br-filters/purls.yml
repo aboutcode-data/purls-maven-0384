@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular-br-filters@0.6.0
+- pkg:maven/org.webjars.npm/angular-br-filters@0.6.0?classifier=sources

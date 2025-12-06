@@ -17,3 +17,4 @@
 - pkg:maven/org.jvnet.hudson.plugins/clover@3.2.0?classifier=sources
 - pkg:maven/org.jvnet.hudson.plugins/clover@3.3.0?classifier=sources
 - pkg:maven/org.jvnet.hudson.plugins/clover@4.0.0?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/clover@4.1.0?classifier=sources

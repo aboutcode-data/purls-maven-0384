@@ -1,0 +1,2 @@
+- pkg:maven/com.sandinh/ws-core-deps_2.11@2.5.3
+- pkg:maven/com.sandinh/ws-core-deps_2.11@2.5.3?classifier=sources

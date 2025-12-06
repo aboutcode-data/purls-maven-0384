@@ -1,0 +1,4 @@
+- pkg:maven/de.sekmi.histream/histream-js@0.8
+- pkg:maven/de.sekmi.histream/histream-js@0.8?classifier=sources
+- pkg:maven/de.sekmi.histream/histream-js@0.9
+- pkg:maven/de.sekmi.histream/histream-js@0.9?classifier=sources

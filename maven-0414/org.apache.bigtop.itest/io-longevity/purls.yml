@@ -1,2 +1,3 @@
 - pkg:maven/org.apache.bigtop.itest/io-longevity@0.8.0
 - pkg:maven/org.apache.bigtop.itest/io-longevity@1.0.0
+- pkg:maven/org.apache.bigtop.itest/io-longevity@1.1.0

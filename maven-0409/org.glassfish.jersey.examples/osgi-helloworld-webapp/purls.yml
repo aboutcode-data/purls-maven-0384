@@ -18,7 +18,13 @@
 - pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.21.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.21?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.22.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.22.2?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.22.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.22?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.23.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.23.2?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.23?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.24?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.2?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.3.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.3?classifier=project-src&type=zip

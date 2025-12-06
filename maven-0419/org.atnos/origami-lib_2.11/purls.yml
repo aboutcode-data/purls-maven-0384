@@ -1,0 +1,2 @@
+- pkg:maven/org.atnos/origami-lib_2.11@2.0.0-20160813102620-cc1f404
+- pkg:maven/org.atnos/origami-lib_2.11@2.0.0-20160813102620-cc1f404?classifier=sources

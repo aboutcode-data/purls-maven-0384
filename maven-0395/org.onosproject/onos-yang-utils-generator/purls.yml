@@ -1,0 +1,2 @@
+- pkg:maven/org.onosproject/onos-yang-utils-generator@1.9
+- pkg:maven/org.onosproject/onos-yang-utils-generator@1.9?classifier=sources

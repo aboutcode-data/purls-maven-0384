@@ -1,0 +1,10 @@
+- pkg:maven/org.webjars.npm/bulma@0.0.8
+- pkg:maven/org.webjars.npm/bulma@0.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/bulma@0.0.9
+- pkg:maven/org.webjars.npm/bulma@0.0.9?classifier=sources
+- pkg:maven/org.webjars.npm/bulma@0.1.2
+- pkg:maven/org.webjars.npm/bulma@0.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/bulma@0.2.1
+- pkg:maven/org.webjars.npm/bulma@0.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/bulma@0.2.3
+- pkg:maven/org.webjars.npm/bulma@0.2.3?classifier=sources

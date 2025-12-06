@@ -13,3 +13,8 @@
 - pkg:maven/org.kantega.reststop/reststop-springmvc-plugin@1.9
 - pkg:maven/org.kantega.reststop/reststop-springmvc-plugin@2.0
 - pkg:maven/org.kantega.reststop/reststop-springmvc-plugin@2.1
+- pkg:maven/org.kantega.reststop/reststop-springmvc-plugin@2.2
+- pkg:maven/org.kantega.reststop/reststop-springmvc-plugin@2.3
+- pkg:maven/org.kantega.reststop/reststop-springmvc-plugin@2.4
+- pkg:maven/org.kantega.reststop/reststop-springmvc-plugin@2.5
+- pkg:maven/org.kantega.reststop/reststop-springmvc-plugin@2.6

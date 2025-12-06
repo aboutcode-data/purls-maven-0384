@@ -4,3 +4,5 @@
 - pkg:maven/org.tiogasolutions.runners/tioga-runners-spring-grizzly@1.0.2?classifier=sources
 - pkg:maven/org.tiogasolutions.runners/tioga-runners-spring-grizzly@1.0.3
 - pkg:maven/org.tiogasolutions.runners/tioga-runners-spring-grizzly@1.0.3?classifier=sources
+- pkg:maven/org.tiogasolutions.runners/tioga-runners-spring-grizzly@1.0.4
+- pkg:maven/org.tiogasolutions.runners/tioga-runners-spring-grizzly@1.0.4?classifier=sources

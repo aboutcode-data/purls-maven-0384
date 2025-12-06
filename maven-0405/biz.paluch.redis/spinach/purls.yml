@@ -4,3 +4,5 @@
 - pkg:maven/biz.paluch.redis/spinach@0.1?classifier=sources
 - pkg:maven/biz.paluch.redis/spinach@0.2
 - pkg:maven/biz.paluch.redis/spinach@0.2?classifier=sources
+- pkg:maven/biz.paluch.redis/spinach@0.3
+- pkg:maven/biz.paluch.redis/spinach@0.3?classifier=sources

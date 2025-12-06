@@ -1,4 +1,8 @@
 - pkg:maven/link.jfire/jfire-sql@1.0
 - pkg:maven/link.jfire/jfire-sql@1.0.1
 - pkg:maven/link.jfire/jfire-sql@1.0.1?classifier=sources
+- pkg:maven/link.jfire/jfire-sql@1.0.3
+- pkg:maven/link.jfire/jfire-sql@1.0.3?classifier=sources
+- pkg:maven/link.jfire/jfire-sql@1.0.4
+- pkg:maven/link.jfire/jfire-sql@1.0.4?classifier=sources
 - pkg:maven/link.jfire/jfire-sql@1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars/hoganjs@2.0.0
 - pkg:maven/org.webjars/hoganjs@3.0.2
+- pkg:maven/org.webjars/hoganjs@3.0.2-1
+- pkg:maven/org.webjars/hoganjs@3.0.2-1?classifier=sources

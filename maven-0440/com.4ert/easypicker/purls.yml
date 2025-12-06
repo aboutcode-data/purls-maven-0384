@@ -6,3 +6,5 @@
 - pkg:maven/com.4ert/easypicker@0.2.3?type=aar
 - pkg:maven/com.4ert/easypicker@0.2.4?classifier=sources
 - pkg:maven/com.4ert/easypicker@0.2.4?type=aar
+- pkg:maven/com.4ert/easypicker@0.2.8?classifier=sources
+- pkg:maven/com.4ert/easypicker@0.2.8?type=aar

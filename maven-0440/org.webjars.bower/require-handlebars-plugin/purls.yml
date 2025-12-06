@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/require-handlebars-plugin@0.11.3
 - pkg:maven/org.webjars.bower/require-handlebars-plugin@0.11.3?classifier=sources
+- pkg:maven/org.webjars.bower/require-handlebars-plugin@1.0.0
+- pkg:maven/org.webjars.bower/require-handlebars-plugin@1.0.0?classifier=sources

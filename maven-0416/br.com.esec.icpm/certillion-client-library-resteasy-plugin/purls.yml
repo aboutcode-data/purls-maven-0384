@@ -1,0 +1,4 @@
+- pkg:maven/br.com.esec.icpm/certillion-client-library-resteasy-plugin@1.1.10
+- pkg:maven/br.com.esec.icpm/certillion-client-library-resteasy-plugin@1.1.10?classifier=sources
+- pkg:maven/br.com.esec.icpm/certillion-client-library-resteasy-plugin@1.1.9
+- pkg:maven/br.com.esec.icpm/certillion-client-library-resteasy-plugin@1.1.9?classifier=sources

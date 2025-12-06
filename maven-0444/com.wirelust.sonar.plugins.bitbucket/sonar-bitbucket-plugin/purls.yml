@@ -1,0 +1,1 @@
+- pkg:maven/com.wirelust.sonar.plugins.bitbucket/sonar-bitbucket-plugin@1.0?classifier=sources

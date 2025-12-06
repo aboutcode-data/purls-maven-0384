@@ -8,3 +8,9 @@
 - pkg:maven/dk.tbsalling/aismessages@2.1.0-jdk7-backport
 - pkg:maven/dk.tbsalling/aismessages@2.1.0-jdk7-backport?classifier=sources
 - pkg:maven/dk.tbsalling/aismessages@2.1.0?classifier=sources
+- pkg:maven/dk.tbsalling/aismessages@2.2.0-jdk7-backport
+- pkg:maven/dk.tbsalling/aismessages@2.2.0-jdk7-backport?classifier=sources
+- pkg:maven/dk.tbsalling/aismessages@2.2.1
+- pkg:maven/dk.tbsalling/aismessages@2.2.1-jdk7-backport
+- pkg:maven/dk.tbsalling/aismessages@2.2.1-jdk7-backport?classifier=sources
+- pkg:maven/dk.tbsalling/aismessages@2.2.1?classifier=sources

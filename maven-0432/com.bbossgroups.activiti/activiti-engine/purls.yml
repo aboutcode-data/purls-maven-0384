@@ -1,0 +1,2 @@
+- pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12
+- pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12?classifier=sources

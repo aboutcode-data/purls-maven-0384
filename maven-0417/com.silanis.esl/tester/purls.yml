@@ -1,5 +1,6 @@
 - pkg:maven/com.silanis.esl/tester@10.10
 - pkg:maven/com.silanis.esl/tester@10.10.1
+- pkg:maven/com.silanis.esl/tester@10.13
 - pkg:maven/com.silanis.esl/tester@10.4.2
 - pkg:maven/com.silanis.esl/tester@10.4.2.1
 - pkg:maven/com.silanis.esl/tester@10.4.2.2
@@ -13,3 +14,4 @@
 - pkg:maven/com.silanis.esl/tester@10.8.3
 - pkg:maven/com.silanis.esl/tester@10.9
 - pkg:maven/com.silanis.esl/tester@10.9.1
+- pkg:maven/com.silanis.esl/tester@11.0

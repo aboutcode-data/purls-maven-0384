@@ -1,2 +1,4 @@
 - pkg:maven/com.taobao.diamond/diamond-client@3.7.0-sopen
 - pkg:maven/com.taobao.diamond/diamond-client@3.7.0-sopen?classifier=sources
+- pkg:maven/com.taobao.diamond/diamond-client@edas-3.7.3
+- pkg:maven/com.taobao.diamond/diamond-client@edas-3.7.3?classifier=sources

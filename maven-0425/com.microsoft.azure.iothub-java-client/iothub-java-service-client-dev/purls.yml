@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.iothub-java-client/iothub-java-service-client-dev@1.0.2
+- pkg:maven/com.microsoft.azure.iothub-java-client/iothub-java-service-client-dev@1.0.2?classifier=sources

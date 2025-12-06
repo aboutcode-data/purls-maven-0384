@@ -1,0 +1,2 @@
+- pkg:maven/org.appdapter/ext.bundle.jena_all_2_13_0@1.2.4
+- pkg:maven/org.appdapter/ext.bundle.jena_all_2_13_0@1.2.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.systemml/systemml@0.10.0-incubating?classifier=sources
+- pkg:maven/org.apache.systemml/systemml@0.10.0-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.systemml/systemml@0.10.0-incubating?classifier=src&type=zip
+- pkg:maven/org.apache.systemml/systemml@0.9.0-incubating?classifier=sources
+- pkg:maven/org.apache.systemml/systemml@0.9.0-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.systemml/systemml@0.9.0-incubating?classifier=src&type=zip

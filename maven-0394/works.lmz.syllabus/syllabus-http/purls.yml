@@ -1,0 +1,2 @@
+- pkg:maven/works.lmz.syllabus/syllabus-http@1.1
+- pkg:maven/works.lmz.syllabus/syllabus-http@1.1?classifier=sources

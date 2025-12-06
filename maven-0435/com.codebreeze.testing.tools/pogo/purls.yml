@@ -1,0 +1,2 @@
+- pkg:maven/com.codebreeze.testing.tools/pogo@0.1
+- pkg:maven/com.codebreeze.testing.tools/pogo@0.1?classifier=sources

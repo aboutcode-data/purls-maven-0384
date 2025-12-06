@@ -1,0 +1,2 @@
+- pkg:maven/com.whisk/docker-it-scala-core_2.11@0.5.4
+- pkg:maven/com.whisk/docker-it-scala-core_2.11@0.5.4?classifier=sources

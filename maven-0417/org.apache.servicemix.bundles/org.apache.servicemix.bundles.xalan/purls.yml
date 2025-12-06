@@ -24,3 +24,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.2_2?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.2_2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.2_2?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.2_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.2_3?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.2_3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xalan@2.7.2_3?classifier=src&type=zip

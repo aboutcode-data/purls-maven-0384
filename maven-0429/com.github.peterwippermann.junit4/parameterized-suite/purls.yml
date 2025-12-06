@@ -1,0 +1,2 @@
+- pkg:maven/com.github.peterwippermann.junit4/parameterized-suite@1.0.0
+- pkg:maven/com.github.peterwippermann.junit4/parameterized-suite@1.0.0?classifier=sources

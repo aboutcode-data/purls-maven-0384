@@ -4,3 +4,5 @@
 - pkg:maven/org.daisy.pipeline.modules.braille/css-core@1.2.0?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules.braille/css-core@2.0.0
 - pkg:maven/org.daisy.pipeline.modules.braille/css-core@2.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/css-core@3.0.0
+- pkg:maven/org.daisy.pipeline.modules.braille/css-core@3.0.0?classifier=sources

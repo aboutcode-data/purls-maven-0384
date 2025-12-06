@@ -1,0 +1,2 @@
+- pkg:maven/org.rogueware.mojo/ssh-exec-maven-plugin@1.0
+- pkg:maven/org.rogueware.mojo/ssh-exec-maven-plugin@1.0?classifier=sources

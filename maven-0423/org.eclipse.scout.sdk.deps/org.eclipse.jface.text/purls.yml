@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jface.text@3.10.0.v20150603-1752
 - pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jface.text@3.10.0.v20150603-1752?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jface.text@3.11.0.v20160505-1301
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jface.text@3.11.0.v20160505-1301?classifier=sources

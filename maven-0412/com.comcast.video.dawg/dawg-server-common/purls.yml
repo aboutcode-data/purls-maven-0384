@@ -1,0 +1,2 @@
+- pkg:maven/com.comcast.video.dawg/dawg-server-common@2.0.1
+- pkg:maven/com.comcast.video.dawg/dawg-server-common@2.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.3scale/3scale-api@3.0.2
+- pkg:maven/net.3scale/3scale-api@3.0.2?classifier=sources

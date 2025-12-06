@@ -1,0 +1,2 @@
+- pkg:maven/tech.aroma/aroma-authentication-service@1.2
+- pkg:maven/tech.aroma/aroma-authentication-service@1.2?classifier=sources

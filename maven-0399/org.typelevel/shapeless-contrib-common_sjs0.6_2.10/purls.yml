@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/shapeless-contrib-common_sjs0.6_2.10@0.5
+- pkg:maven/org.typelevel/shapeless-contrib-common_sjs0.6_2.10@0.5?classifier=sources

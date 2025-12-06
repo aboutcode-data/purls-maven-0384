@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.malleusconsulting.magnolia.dependencies.extended/extended-dependencies-module@1.1.1
+- pkg:maven/uk.co.malleusconsulting.magnolia.dependencies.extended/extended-dependencies-module@1.1.1?classifier=sources

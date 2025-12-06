@@ -10,4 +10,5 @@
 - pkg:maven/org.nhind/dns@1.4.1?classifier=sources
 - pkg:maven/org.nhind/dns@1.4?classifier=sources
 - pkg:maven/org.nhind/dns@1.5.1?classifier=sources
+- pkg:maven/org.nhind/dns@1.5.2?classifier=sources
 - pkg:maven/org.nhind/dns@1.5?classifier=sources

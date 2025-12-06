@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mike10004/twitter4j-core@4.0.4p1
+- pkg:maven/com.github.mike10004/twitter4j-core@4.0.4p1?classifier=sources

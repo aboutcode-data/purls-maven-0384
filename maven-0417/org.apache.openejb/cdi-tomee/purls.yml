@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.openejb/cdi-tomee@4.7.2?classifier=sources
 - pkg:maven/org.apache.openejb/cdi-tomee@4.7.3
 - pkg:maven/org.apache.openejb/cdi-tomee@4.7.3?classifier=sources
+- pkg:maven/org.apache.openejb/cdi-tomee@4.7.4
+- pkg:maven/org.apache.openejb/cdi-tomee@4.7.4?classifier=sources

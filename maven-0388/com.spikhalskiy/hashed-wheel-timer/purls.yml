@@ -1,0 +1,6 @@
+- pkg:maven/com.spikhalskiy/hashed-wheel-timer@0.1.0
+- pkg:maven/com.spikhalskiy/hashed-wheel-timer@0.1.0?classifier=sources
+- pkg:maven/com.spikhalskiy/hashed-wheel-timer@0.2.0
+- pkg:maven/com.spikhalskiy/hashed-wheel-timer@0.2.0?classifier=sources
+- pkg:maven/com.spikhalskiy/hashed-wheel-timer@0.3.0-RC1
+- pkg:maven/com.spikhalskiy/hashed-wheel-timer@0.3.0-RC1?classifier=sources

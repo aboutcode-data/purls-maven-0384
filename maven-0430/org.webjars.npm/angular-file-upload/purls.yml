@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/angular-file-upload@1.6.4
 - pkg:maven/org.webjars.npm/angular-file-upload@1.6.4?classifier=sources
+- pkg:maven/org.webjars.npm/angular-file-upload@2.3.3
+- pkg:maven/org.webjars.npm/angular-file-upload@2.3.3?classifier=sources

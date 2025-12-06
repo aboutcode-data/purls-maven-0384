@@ -1,0 +1,8 @@
+- pkg:maven/com.agapsys.libs/web-app-toolkit-test@0.1.0
+- pkg:maven/com.agapsys.libs/web-app-toolkit-test@0.1.0?classifier=sources
+- pkg:maven/com.agapsys.libs/web-app-toolkit-test@0.2.0
+- pkg:maven/com.agapsys.libs/web-app-toolkit-test@0.2.0?classifier=sources
+- pkg:maven/com.agapsys.libs/web-app-toolkit-test@1.0.0
+- pkg:maven/com.agapsys.libs/web-app-toolkit-test@1.0.0?classifier=sources
+- pkg:maven/com.agapsys.libs/web-app-toolkit-test@2.0.0
+- pkg:maven/com.agapsys.libs/web-app-toolkit-test@2.0.0?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/org.jboss.aerogear/aerogear-android-store-test@2.0.0-alpha.1?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-android-store-test@3.0.0?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-android-store-test@3.0.1?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-android-store-test@3.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kurento/kurento-jsonrpc-client-jetty@6.6.1
+- pkg:maven/org.kurento/kurento-jsonrpc-client-jetty@6.6.1?classifier=sources

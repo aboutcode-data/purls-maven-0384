@@ -184,3 +184,7 @@
 - pkg:maven/com.h2database/h2@1.4.189?classifier=sources
 - pkg:maven/com.h2database/h2@1.4.190
 - pkg:maven/com.h2database/h2@1.4.190?classifier=sources
+- pkg:maven/com.h2database/h2@1.4.191
+- pkg:maven/com.h2database/h2@1.4.191?classifier=sources
+- pkg:maven/com.h2database/h2@1.4.192
+- pkg:maven/com.h2database/h2@1.4.192?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/asia.redact.bracket.properties/pcompiler-maven-plugin@1.0.0
+- pkg:maven/asia.redact.bracket.properties/pcompiler-maven-plugin@1.0.0?classifier=sources

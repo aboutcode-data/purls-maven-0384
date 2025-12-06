@@ -1,0 +1,2 @@
+- pkg:maven/de.mirkosertic.cdicron/cdi-cron-api@1.0
+- pkg:maven/de.mirkosertic.cdicron/cdi-cron-api@1.0?classifier=sources

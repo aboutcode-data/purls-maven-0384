@@ -1,0 +1,4 @@
+- pkg:maven/science.raketen.voodoo/VoodooDI@0.0.2
+- pkg:maven/science.raketen.voodoo/VoodooDI@0.0.2?classifier=sources
+- pkg:maven/science.raketen.voodoo/VoodooDI@0.0.3
+- pkg:maven/science.raketen.voodoo/VoodooDI@0.0.3?classifier=sources

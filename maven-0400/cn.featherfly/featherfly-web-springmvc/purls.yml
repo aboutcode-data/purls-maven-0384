@@ -4,3 +4,7 @@
 - pkg:maven/cn.featherfly/featherfly-web-springmvc@0.1.7?classifier=sources
 - pkg:maven/cn.featherfly/featherfly-web-springmvc@0.1.8
 - pkg:maven/cn.featherfly/featherfly-web-springmvc@0.1.8?classifier=sources
+- pkg:maven/cn.featherfly/featherfly-web-springmvc@0.2.0
+- pkg:maven/cn.featherfly/featherfly-web-springmvc@0.2.0?classifier=sources
+- pkg:maven/cn.featherfly/featherfly-web-springmvc@0.3.0
+- pkg:maven/cn.featherfly/featherfly-web-springmvc@0.3.0?classifier=sources

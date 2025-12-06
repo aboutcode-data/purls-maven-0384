@@ -16,3 +16,9 @@
 - pkg:maven/io.sphere.sdk.jvm/sphere-scala-models_2.11@1.0.0-M22?classifier=sources
 - pkg:maven/io.sphere.sdk.jvm/sphere-scala-models_2.11@1.0.0-M23
 - pkg:maven/io.sphere.sdk.jvm/sphere-scala-models_2.11@1.0.0-M23?classifier=sources
+- pkg:maven/io.sphere.sdk.jvm/sphere-scala-models_2.11@1.0.0-M24
+- pkg:maven/io.sphere.sdk.jvm/sphere-scala-models_2.11@1.0.0-M24?classifier=sources
+- pkg:maven/io.sphere.sdk.jvm/sphere-scala-models_2.11@1.0.0-M25
+- pkg:maven/io.sphere.sdk.jvm/sphere-scala-models_2.11@1.0.0-M25?classifier=sources
+- pkg:maven/io.sphere.sdk.jvm/sphere-scala-models_2.11@1.0.0-M26
+- pkg:maven/io.sphere.sdk.jvm/sphere-scala-models_2.11@1.0.0-M26?classifier=sources

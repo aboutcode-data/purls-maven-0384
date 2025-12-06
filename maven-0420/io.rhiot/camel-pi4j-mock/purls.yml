@@ -1,0 +1,2 @@
+- pkg:maven/io.rhiot/camel-pi4j-mock@0.1.4
+- pkg:maven/io.rhiot/camel-pi4j-mock@0.1.4?classifier=sources

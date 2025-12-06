@@ -1,2 +1,6 @@
 - pkg:maven/com.data-artisans/cascading-flink@0.1
 - pkg:maven/com.data-artisans/cascading-flink@0.1?classifier=sources
+- pkg:maven/com.data-artisans/cascading-flink@0.2
+- pkg:maven/com.data-artisans/cascading-flink@0.2?classifier=sources
+- pkg:maven/com.data-artisans/cascading-flink@0.3.0
+- pkg:maven/com.data-artisans/cascading-flink@0.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/be.avhconsult/solr-scala-client_2.11@0.0.13
+- pkg:maven/be.avhconsult/solr-scala-client_2.11@0.0.13?classifier=sources

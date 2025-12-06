@@ -11,6 +11,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.0.6
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.0.7
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.0.8
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.0.9
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.1.0
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.1.1
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.1.2
@@ -36,6 +37,12 @@
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.2.6?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.2.7
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.2.7?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.2.8
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.2.8?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.2.9
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.2.9?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.3.0
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@3.3.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.0.0
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.0.1
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.0.1?classifier=sources
@@ -61,3 +68,15 @@
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.2.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.2.4
 - pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.2.4?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.2.5
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.2.5?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.2.6
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.2.6?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.2.7
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.2.7?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.2.8
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.2.8?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.3.0
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.3.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.4.0
+- pkg:maven/org.ops4j.pax.web.samples/helloworld-jsp-noclasses@4.4.0?classifier=sources

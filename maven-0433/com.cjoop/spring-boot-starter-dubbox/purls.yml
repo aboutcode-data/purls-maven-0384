@@ -1,0 +1,2 @@
+- pkg:maven/com.cjoop/spring-boot-starter-dubbox@0.0.1
+- pkg:maven/com.cjoop/spring-boot-starter-dubbox@0.0.1?classifier=sources

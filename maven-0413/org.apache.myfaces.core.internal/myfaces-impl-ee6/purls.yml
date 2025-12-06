@@ -26,6 +26,8 @@
 - pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-ee6@2.0.22?classifier=sources
 - pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-ee6@2.0.23
 - pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-ee6@2.0.23?classifier=sources
+- pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-ee6@2.0.24
+- pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-ee6@2.0.24?classifier=sources
 - pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-ee6@2.0.8
 - pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-ee6@2.0.8?classifier=sources
 - pkg:maven/org.apache.myfaces.core.internal/myfaces-impl-ee6@2.0.9

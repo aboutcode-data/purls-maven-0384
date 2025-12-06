@@ -1,0 +1,4 @@
+- pkg:maven/org.kevoree.mwg.plugins/model.dsl@6
+- pkg:maven/org.kevoree.mwg.plugins/model.dsl@6?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/model.dsl@7
+- pkg:maven/org.kevoree.mwg.plugins/model.dsl@7?classifier=sources

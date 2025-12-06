@@ -10,3 +10,7 @@
 - pkg:maven/com.io7m.jpra/io7m-jpra-documentation@0.3.2?type=zip
 - pkg:maven/com.io7m.jpra/io7m-jpra-documentation@0.4.0?classifier=sources
 - pkg:maven/com.io7m.jpra/io7m-jpra-documentation@0.4.0?type=zip
+- pkg:maven/com.io7m.jpra/io7m-jpra-documentation@0.4.1?classifier=sources
+- pkg:maven/com.io7m.jpra/io7m-jpra-documentation@0.4.1?type=zip
+- pkg:maven/com.io7m.jpra/io7m-jpra-documentation@0.5.0?classifier=sources
+- pkg:maven/com.io7m.jpra/io7m-jpra-documentation@0.5.0?type=zip

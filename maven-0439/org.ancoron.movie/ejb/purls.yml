@@ -1,0 +1,2 @@
+- pkg:maven/org.ancoron.movie/ejb@1.0.0
+- pkg:maven/org.ancoron.movie/ejb@1.0.0?classifier=sources

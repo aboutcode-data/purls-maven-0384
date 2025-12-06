@@ -1,0 +1,8 @@
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.oauth@1.0.1
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.oauth@1.1
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.oauth@1.1.10
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.oauth@1.1.11
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.oauth@1.1.9
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.oauth@1.2.12
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.oauth@1.2.13
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.oauth@1.2.14

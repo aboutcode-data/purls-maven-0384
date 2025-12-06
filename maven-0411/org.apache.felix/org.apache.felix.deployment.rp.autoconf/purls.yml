@@ -4,3 +4,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.deployment.rp.autoconf@0.1.4?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.deployment.rp.autoconf@0.1.5
 - pkg:maven/org.apache.felix/org.apache.felix.deployment.rp.autoconf@0.1.5?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.deployment.rp.autoconf@0.1.8
+- pkg:maven/org.apache.felix/org.apache.felix.deployment.rp.autoconf@0.1.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.deployment.rp.autoconf@0.1.8?classifier=sources

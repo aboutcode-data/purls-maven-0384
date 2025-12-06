@@ -1,0 +1,2 @@
+- pkg:maven/com.redshepherd/RedPay@1.0.0.dev1
+- pkg:maven/com.redshepherd/RedPay@1.0.0.dev1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/gl-line3d@1.1.0
+- pkg:maven/org.webjars.npm/gl-line3d@1.1.0?classifier=sources

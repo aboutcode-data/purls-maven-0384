@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.waikato.cms.weka.thirdparty/bounce@0.18
+- pkg:maven/nz.ac.waikato.cms.weka.thirdparty/bounce@0.18?classifier=sources

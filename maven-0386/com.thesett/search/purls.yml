@@ -34,3 +34,7 @@
 - pkg:maven/com.thesett/search@0.8.8?classifier=sources
 - pkg:maven/com.thesett/search@0.8.9
 - pkg:maven/com.thesett/search@0.8.9?classifier=sources
+- pkg:maven/com.thesett/search@0.9.77
+- pkg:maven/com.thesett/search@0.9.77?classifier=sources
+- pkg:maven/com.thesett/search@0.9.97
+- pkg:maven/com.thesett/search@0.9.97?classifier=sources

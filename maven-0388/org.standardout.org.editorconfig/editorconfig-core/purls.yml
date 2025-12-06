@@ -1,0 +1,2 @@
+- pkg:maven/org.standardout.org.editorconfig/editorconfig-core@0.12.1.Final
+- pkg:maven/org.standardout.org.editorconfig/editorconfig-core@0.12.1.Final?classifier=sources

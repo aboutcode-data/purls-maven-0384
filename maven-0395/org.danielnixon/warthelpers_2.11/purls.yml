@@ -1,0 +1,2 @@
+- pkg:maven/org.danielnixon/warthelpers_2.11@0.1
+- pkg:maven/org.danielnixon/warthelpers_2.11@0.1?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.11.10
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.11.10?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.11.11
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.11.11?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.11.12
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.11.12?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.11.13
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.11.13?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.11.14
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.11.14?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.12-RC0
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.12-RC0?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.12-RC1
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.12-RC1?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.12-RC2
+- pkg:maven/org.reactivemongo/reactivemongo-iteratees_2.10@0.12-RC2?classifier=sources

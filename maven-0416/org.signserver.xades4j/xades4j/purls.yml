@@ -1,0 +1,2 @@
+- pkg:maven/org.signserver.xades4j/xades4j@1.3.2-signserver4
+- pkg:maven/org.signserver.xades4j/xades4j@1.3.2-signserver4?classifier=sources

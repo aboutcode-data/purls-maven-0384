@@ -1,0 +1,3 @@
+- pkg:maven/org.ferris/ferris-memorymanager-memoryvault@0.0.1
+- pkg:maven/org.ferris/ferris-memorymanager-memoryvault@0.0.2
+- pkg:maven/org.ferris/ferris-memorymanager-memoryvault@0.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.faendir.lightninglauncher/scriptlib@2.2?classifier=sources
+- pkg:maven/com.faendir.lightninglauncher/scriptlib@2.2?type=aar

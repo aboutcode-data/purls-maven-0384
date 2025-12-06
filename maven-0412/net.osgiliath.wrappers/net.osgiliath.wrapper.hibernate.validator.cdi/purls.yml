@@ -1,0 +1,6 @@
+- pkg:maven/net.osgiliath.wrappers/net.osgiliath.wrapper.hibernate.validator.cdi@0.3.1
+- pkg:maven/net.osgiliath.wrappers/net.osgiliath.wrapper.hibernate.validator.cdi@0.3.2
+- pkg:maven/net.osgiliath.wrappers/net.osgiliath.wrapper.hibernate.validator.cdi@0.3.3
+- pkg:maven/net.osgiliath.wrappers/net.osgiliath.wrapper.hibernate.validator.cdi@0.3.4
+- pkg:maven/net.osgiliath.wrappers/net.osgiliath.wrapper.hibernate.validator.cdi@0.3.6
+- pkg:maven/net.osgiliath.wrappers/net.osgiliath.wrapper.hibernate.validator.cdi@0.3.7

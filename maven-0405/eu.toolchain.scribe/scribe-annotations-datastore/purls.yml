@@ -1,0 +1,2 @@
+- pkg:maven/eu.toolchain.scribe/scribe-annotations-datastore@0.2.0
+- pkg:maven/eu.toolchain.scribe/scribe-annotations-datastore@0.2.0?classifier=sources

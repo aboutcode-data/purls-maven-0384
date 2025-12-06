@@ -6,6 +6,7 @@
 - pkg:maven/org.nuiton/nuiton-config@2.6.12?classifier=sources
 - pkg:maven/org.nuiton/nuiton-config@2.7
 - pkg:maven/org.nuiton/nuiton-config@2.7?classifier=sources
+- pkg:maven/org.nuiton/nuiton-config@3.0
 - pkg:maven/org.nuiton/nuiton-config@3.0-alpha-1
 - pkg:maven/org.nuiton/nuiton-config@3.0-alpha-1?classifier=sources
 - pkg:maven/org.nuiton/nuiton-config@3.0-alpha-2
@@ -18,3 +19,9 @@
 - pkg:maven/org.nuiton/nuiton-config@3.0-rc-1?classifier=sources
 - pkg:maven/org.nuiton/nuiton-config@3.0-rc-2
 - pkg:maven/org.nuiton/nuiton-config@3.0-rc-2?classifier=sources
+- pkg:maven/org.nuiton/nuiton-config@3.0-rc-3
+- pkg:maven/org.nuiton/nuiton-config@3.0-rc-3?classifier=sources
+- pkg:maven/org.nuiton/nuiton-config@3.0-rc-4
+- pkg:maven/org.nuiton/nuiton-config@3.0?classifier=sources
+- pkg:maven/org.nuiton/nuiton-config@3.1
+- pkg:maven/org.nuiton/nuiton-config@3.1?classifier=sources

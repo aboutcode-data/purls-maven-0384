@@ -8,3 +8,5 @@
 - pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.4.4?classifier=sources
 - pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.5.0
 - pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.5.0?classifier=sources
+- pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.6.4
+- pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.6.4?classifier=sources

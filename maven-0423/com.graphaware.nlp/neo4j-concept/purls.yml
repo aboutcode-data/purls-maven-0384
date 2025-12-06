@@ -1,0 +1,2 @@
+- pkg:maven/com.graphaware.nlp/neo4j-concept@0.9
+- pkg:maven/com.graphaware.nlp/neo4j-concept@0.9?classifier=sources

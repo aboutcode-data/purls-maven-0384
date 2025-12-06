@@ -1,0 +1,2 @@
+- pkg:maven/com.massisframework.sweethome3d/sh3d-metadata-plugin@1.1
+- pkg:maven/com.massisframework.sweethome3d/sh3d-metadata-plugin@1.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.jetbrains.spek/spek-api@1.0.0-test-deploy
+- pkg:maven/org.jetbrains.spek/spek-api@1.0.0-test-deploy?classifier=sources
+- pkg:maven/org.jetbrains.spek/spek-api@1.0.77
+- pkg:maven/org.jetbrains.spek/spek-api@1.0.77?classifier=sources
+- pkg:maven/org.jetbrains.spek/spek-api@1.0.89
+- pkg:maven/org.jetbrains.spek/spek-api@1.0.89?classifier=sources

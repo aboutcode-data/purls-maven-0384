@@ -1,0 +1,2 @@
+- pkg:maven/com.github.michaelahlers/play-json-zipper_2.10@1.2.0.23.0
+- pkg:maven/com.github.michaelahlers/play-json-zipper_2.10@1.2.0.23.0?classifier=sources

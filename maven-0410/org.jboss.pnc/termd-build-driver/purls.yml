@@ -1,0 +1,6 @@
+- pkg:maven/org.jboss.pnc/termd-build-driver@0.10.1?classifier=sources
+- pkg:maven/org.jboss.pnc/termd-build-driver@0.10.1?type=war
+- pkg:maven/org.jboss.pnc/termd-build-driver@0.10?classifier=sources
+- pkg:maven/org.jboss.pnc/termd-build-driver@0.10?type=war
+- pkg:maven/org.jboss.pnc/termd-build-driver@0.9?classifier=sources
+- pkg:maven/org.jboss.pnc/termd-build-driver@0.9?type=war

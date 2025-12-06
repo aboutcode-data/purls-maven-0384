@@ -1,0 +1,2 @@
+- pkg:maven/org.icepdf.os/icepdf-core@6.1.2
+- pkg:maven/org.icepdf.os/icepdf-core@6.1.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.gillius/jalleg-rt-win32-x86-64@0.1
+- pkg:maven/org.gillius/jalleg-rt-win32-x86-64@0.1?classifier=sources
+- pkg:maven/org.gillius/jalleg-rt-win32-x86-64@5.2.1
+- pkg:maven/org.gillius/jalleg-rt-win32-x86-64@5.2.1?classifier=sources

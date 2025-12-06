@@ -10,3 +10,13 @@
 - pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@2.0.0?classifier=sources
 - pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@2.1.0
 - pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@2.1.0?classifier=sources
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@4.2.0
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@4.2.0?classifier=sources
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@4.2.1
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@4.2.1?classifier=sources
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@5.0.0
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@5.0.0?classifier=sources
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@5.0.1
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@5.0.1?classifier=sources
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@5.0.2
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-http@5.0.2?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.frege-lang/frege@3.23.370-g898bc8c
 - pkg:maven/org.frege-lang/frege@3.23.401-g7c45277
 - pkg:maven/org.frege-lang/frege@3.23.422-ga05a487
+- pkg:maven/org.frege-lang/frege@3.24-7.100
+- pkg:maven/org.frege-lang/frege@3.24-7.30

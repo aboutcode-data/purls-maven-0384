@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/skrollr@0.6.29
 - pkg:maven/org.webjars.bower/skrollr@0.6.29?classifier=sources
+- pkg:maven/org.webjars.bower/skrollr@0.6.30
+- pkg:maven/org.webjars.bower/skrollr@0.6.30?classifier=sources

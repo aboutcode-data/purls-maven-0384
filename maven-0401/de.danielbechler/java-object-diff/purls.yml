@@ -25,4 +25,10 @@
 - pkg:maven/de.danielbechler/java-object-diff@0.92.1?classifier=sources
 - pkg:maven/de.danielbechler/java-object-diff@0.92?classifier=sources
 - pkg:maven/de.danielbechler/java-object-diff@0.93
+- pkg:maven/de.danielbechler/java-object-diff@0.93.1
+- pkg:maven/de.danielbechler/java-object-diff@0.93.1?classifier=sources
+- pkg:maven/de.danielbechler/java-object-diff@0.93.2
+- pkg:maven/de.danielbechler/java-object-diff@0.93.2?classifier=sources
 - pkg:maven/de.danielbechler/java-object-diff@0.93?classifier=sources
+- pkg:maven/de.danielbechler/java-object-diff@0.94
+- pkg:maven/de.danielbechler/java-object-diff@0.94?classifier=sources

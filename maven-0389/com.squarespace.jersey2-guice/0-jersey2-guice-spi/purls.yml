@@ -1,0 +1,2 @@
+- pkg:maven/com.squarespace.jersey2-guice/0-jersey2-guice-spi@1.0.6
+- pkg:maven/com.squarespace.jersey2-guice/0-jersey2-guice-spi@1.0.6?classifier=sources

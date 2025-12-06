@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/dns-zonefile@0.1.10
+- pkg:maven/org.webjars.npm/dns-zonefile@0.1.10?classifier=sources
+- pkg:maven/org.webjars.npm/dns-zonefile@0.1.18
+- pkg:maven/org.webjars.npm/dns-zonefile@0.1.18?classifier=sources

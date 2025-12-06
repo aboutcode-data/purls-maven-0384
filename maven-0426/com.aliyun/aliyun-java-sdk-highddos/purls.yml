@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-highddos@2.1.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-highddos@2.1.0?classifier=sources

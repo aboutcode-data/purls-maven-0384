@@ -1,0 +1,2 @@
+- pkg:maven/com.movile/creditcardguide@1.2-beta?classifier=sources
+- pkg:maven/com.movile/creditcardguide@1.2-beta?type=aar

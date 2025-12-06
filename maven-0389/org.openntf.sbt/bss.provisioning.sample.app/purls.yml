@@ -1,0 +1,2 @@
+- pkg:maven/org.openntf.sbt/bss.provisioning.sample.app@1.5.0.20160704-1200
+- pkg:maven/org.openntf.sbt/bss.provisioning.sample.app@1.5.0.20160704-1200?classifier=sources

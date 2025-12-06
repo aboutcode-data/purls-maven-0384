@@ -1,0 +1,4 @@
+- pkg:maven/net.i2p.android/helper@0.8?classifier=sources
+- pkg:maven/net.i2p.android/helper@0.8?type=aar
+- pkg:maven/net.i2p.android/helper@0.9?classifier=sources
+- pkg:maven/net.i2p.android/helper@0.9?type=aar

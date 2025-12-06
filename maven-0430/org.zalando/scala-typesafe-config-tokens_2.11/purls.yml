@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando/scala-typesafe-config-tokens_2.11@0.1.1
+- pkg:maven/org.zalando/scala-typesafe-config-tokens_2.11@0.1.1?classifier=sources

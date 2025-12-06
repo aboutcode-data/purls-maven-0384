@@ -6,3 +6,5 @@
 - pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.21?classifier=sources
 - pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.22
 - pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.22?classifier=sources
+- pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.23
+- pkg:maven/net.ripe.commons/commons-ip-math-gwt@1.23?classifier=sources

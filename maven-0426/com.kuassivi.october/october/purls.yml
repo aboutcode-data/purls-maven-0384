@@ -1,0 +1,4 @@
+- pkg:maven/com.kuassivi.october/october@0.5.38?classifier=sources
+- pkg:maven/com.kuassivi.october/october@0.5.38?type=aar
+- pkg:maven/com.kuassivi.october/october@0.5.40?classifier=sources
+- pkg:maven/com.kuassivi.october/october@0.5.40?type=aar

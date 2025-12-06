@@ -1,0 +1,2 @@
+- pkg:maven/de.ppi.dbunit.datasetbuilder/dbunit-datasetbuilder@1.4
+- pkg:maven/de.ppi.dbunit.datasetbuilder/dbunit-datasetbuilder@1.4?classifier=sources

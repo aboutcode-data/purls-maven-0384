@@ -1,0 +1,4 @@
+- pkg:maven/uk.org.retep/retep-compiler-plugin@8.7.29
+- pkg:maven/uk.org.retep/retep-compiler-plugin@8.7.29?classifier=sources
+- pkg:maven/uk.org.retep/retep-compiler-plugin@8.8
+- pkg:maven/uk.org.retep/retep-compiler-plugin@8.8?classifier=sources

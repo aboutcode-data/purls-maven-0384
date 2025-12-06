@@ -1,2 +1,4 @@
 - pkg:maven/org.gnu.gettext/libintl@0.18.2
 - pkg:maven/org.gnu.gettext/libintl@0.18.2?classifier=sources
+- pkg:maven/org.gnu.gettext/libintl@0.18.3
+- pkg:maven/org.gnu.gettext/libintl@0.18.3?classifier=sources

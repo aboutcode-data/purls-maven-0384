@@ -1,2 +1,4 @@
 - pkg:maven/com.ganyo/gcm-server@1.0.2
 - pkg:maven/com.ganyo/gcm-server@1.0.2?classifier=sources
+- pkg:maven/com.ganyo/gcm-server@1.1.0
+- pkg:maven/com.ganyo/gcm-server@1.1.0?classifier=sources

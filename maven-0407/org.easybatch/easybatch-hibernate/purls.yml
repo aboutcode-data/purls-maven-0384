@@ -2,3 +2,13 @@
 - pkg:maven/org.easybatch/easybatch-hibernate@3.1.0?classifier=sources
 - pkg:maven/org.easybatch/easybatch-hibernate@4.0.0
 - pkg:maven/org.easybatch/easybatch-hibernate@4.0.0?classifier=sources
+- pkg:maven/org.easybatch/easybatch-hibernate@4.1.0
+- pkg:maven/org.easybatch/easybatch-hibernate@4.1.0?classifier=sources
+- pkg:maven/org.easybatch/easybatch-hibernate@4.2.0
+- pkg:maven/org.easybatch/easybatch-hibernate@4.2.0?classifier=sources
+- pkg:maven/org.easybatch/easybatch-hibernate@5.0.0
+- pkg:maven/org.easybatch/easybatch-hibernate@5.0.0-RC1
+- pkg:maven/org.easybatch/easybatch-hibernate@5.0.0-RC1?classifier=sources
+- pkg:maven/org.easybatch/easybatch-hibernate@5.0.0-RC2
+- pkg:maven/org.easybatch/easybatch-hibernate@5.0.0-RC2?classifier=sources
+- pkg:maven/org.easybatch/easybatch-hibernate@5.0.0?classifier=sources

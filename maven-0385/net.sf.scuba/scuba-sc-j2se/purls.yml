@@ -1,2 +1,4 @@
+- pkg:maven/net.sf.scuba/scuba-sc-j2se@0.0.10
+- pkg:maven/net.sf.scuba/scuba-sc-j2se@0.0.10?classifier=sources
 - pkg:maven/net.sf.scuba/scuba-sc-j2se@0.0.8
 - pkg:maven/net.sf.scuba/scuba-sc-j2se@0.0.8?classifier=sources

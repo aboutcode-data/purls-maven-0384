@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/vertx-zookeeper@3.3.3
+- pkg:maven/io.vertx/vertx-zookeeper@3.3.3?classifier=sources

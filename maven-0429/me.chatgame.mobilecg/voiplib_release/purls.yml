@@ -1,0 +1,4 @@
+- pkg:maven/me.chatgame.mobilecg/voiplib_release@1.3.26.4-1?classifier=sources
+- pkg:maven/me.chatgame.mobilecg/voiplib_release@1.3.26.4-1?type=aar
+- pkg:maven/me.chatgame.mobilecg/voiplib_release@1.3.26.4?classifier=sources
+- pkg:maven/me.chatgame.mobilecg/voiplib_release@1.3.26.4?type=aar

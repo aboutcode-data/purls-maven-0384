@@ -1,0 +1,2 @@
+- pkg:maven/org.jfxtras/jfxtras-gauge-linear@8.0-r5
+- pkg:maven/org.jfxtras/jfxtras-gauge-linear@8.0-r5?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/net.qiujuer.genius/kit-reflect@2.0.0-beta2?classifier=sources
+- pkg:maven/net.qiujuer.genius/kit-reflect@2.0.0-beta2?type=aar
+- pkg:maven/net.qiujuer.genius/kit-reflect@2.0.0-beta6?classifier=sources
+- pkg:maven/net.qiujuer.genius/kit-reflect@2.0.0-beta6?type=aar
+- pkg:maven/net.qiujuer.genius/kit-reflect@2.0.0-beta9?classifier=sources
+- pkg:maven/net.qiujuer.genius/kit-reflect@2.0.0-beta9?type=aar

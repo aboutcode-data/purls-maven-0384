@@ -1,0 +1,2 @@
+- pkg:maven/org.cstamas.vertx.sisu/vertx-sisu-remote@1.0.0?classifier=sources
+- pkg:maven/org.cstamas.vertx.sisu/vertx-sisu-remote@1.0.1?classifier=sources

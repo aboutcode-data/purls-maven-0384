@@ -1,0 +1,2 @@
+- pkg:maven/jalopy/jalopy-console@0.1-1.5rc2
+- pkg:maven/jalopy/jalopy-console@0.1-1.5rc2?classifier=sources

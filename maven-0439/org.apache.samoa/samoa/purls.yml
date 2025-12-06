@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.samoa/samoa@0.3.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.samoa/samoa@0.4.0-incubating?classifier=source-release&type=zip

@@ -1,0 +1,6 @@
+- pkg:maven/com.google.code.google-collections/google-collect@snapshot-20071022
+- pkg:maven/com.google.code.google-collections/google-collect@snapshot-20071022?classifier=sources
+- pkg:maven/com.google.code.google-collections/google-collect@snapshot-20080321
+- pkg:maven/com.google.code.google-collections/google-collect@snapshot-20080321?classifier=sources
+- pkg:maven/com.google.code.google-collections/google-collect@snapshot-20080530
+- pkg:maven/com.google.code.google-collections/google-collect@snapshot-20080530?classifier=sources

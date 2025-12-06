@@ -4,6 +4,8 @@
 - pkg:maven/net.jangaroo/jooflash-core@2.0.13?classifier=sources
 - pkg:maven/net.jangaroo/jooflash-core@2.0.14?classifier=sources
 - pkg:maven/net.jangaroo/jooflash-core@2.0.15?classifier=sources
+- pkg:maven/net.jangaroo/jooflash-core@2.0.16?classifier=sources
+- pkg:maven/net.jangaroo/jooflash-core@2.0.17?classifier=sources
 - pkg:maven/net.jangaroo/jooflash-core@2.0.8?classifier=sources
 - pkg:maven/net.jangaroo/jooflash-core@2.0.9?classifier=sources
 - pkg:maven/net.jangaroo/jooflash-core@3-preview-1?classifier=sources

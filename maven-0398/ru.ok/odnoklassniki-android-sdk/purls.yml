@@ -1,0 +1,4 @@
+- pkg:maven/ru.ok/odnoklassniki-android-sdk@2.0.2?classifier=sources
+- pkg:maven/ru.ok/odnoklassniki-android-sdk@2.0.2?type=aar
+- pkg:maven/ru.ok/odnoklassniki-android-sdk@2.0.3?classifier=sources
+- pkg:maven/ru.ok/odnoklassniki-android-sdk@2.0.3?type=aar

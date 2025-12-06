@@ -4,3 +4,7 @@
 - pkg:maven/org.kaazing/netx@0.2?classifier=sources
 - pkg:maven/org.kaazing/netx@0.3
 - pkg:maven/org.kaazing/netx@0.3?classifier=sources
+- pkg:maven/org.kaazing/netx@0.4.0
+- pkg:maven/org.kaazing/netx@0.4.0-RC001
+- pkg:maven/org.kaazing/netx@0.4.0-RC001?classifier=sources
+- pkg:maven/org.kaazing/netx@0.4.0?classifier=sources
