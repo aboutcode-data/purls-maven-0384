@@ -1,0 +1,4 @@
+- pkg:maven/top.hmtools/spring-boot-starter-request-logger@0.0.1.beta-20180114a
+- pkg:maven/top.hmtools/spring-boot-starter-request-logger@0.0.1.beta-20180114a?classifier=sources
+- pkg:maven/top.hmtools/spring-boot-starter-request-logger@0.0.1.beta-20180114b
+- pkg:maven/top.hmtools/spring-boot-starter-request-logger@0.0.1.beta-20180114b?classifier=sources

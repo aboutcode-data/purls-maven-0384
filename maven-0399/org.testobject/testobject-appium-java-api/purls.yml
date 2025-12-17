@@ -18,3 +18,11 @@
 - pkg:maven/org.testobject/testobject-appium-java-api@0.0.26?classifier=sources
 - pkg:maven/org.testobject/testobject-appium-java-api@0.1.0
 - pkg:maven/org.testobject/testobject-appium-java-api@0.1.0?classifier=sources
+- pkg:maven/org.testobject/testobject-appium-java-api@0.1.11
+- pkg:maven/org.testobject/testobject-appium-java-api@0.1.11?classifier=sources
+- pkg:maven/org.testobject/testobject-appium-java-api@0.1.14
+- pkg:maven/org.testobject/testobject-appium-java-api@0.1.14?classifier=sources
+- pkg:maven/org.testobject/testobject-appium-java-api@0.2.1
+- pkg:maven/org.testobject/testobject-appium-java-api@0.2.1?classifier=sources
+- pkg:maven/org.testobject/testobject-appium-java-api@0.2.7
+- pkg:maven/org.testobject/testobject-appium-java-api@0.2.7?classifier=sources

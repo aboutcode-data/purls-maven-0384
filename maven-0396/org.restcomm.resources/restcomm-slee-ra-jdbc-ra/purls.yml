@@ -1,3 +1,5 @@
+- pkg:maven/org.restcomm.resources/restcomm-slee-ra-jdbc-ra@2.10.0-111
+- pkg:maven/org.restcomm.resources/restcomm-slee-ra-jdbc-ra@2.10.0-111?classifier=sources
 - pkg:maven/org.restcomm.resources/restcomm-slee-ra-jdbc-ra@3.0.1
 - pkg:maven/org.restcomm.resources/restcomm-slee-ra-jdbc-ra@3.0.10
 - pkg:maven/org.restcomm.resources/restcomm-slee-ra-jdbc-ra@3.0.10?classifier=sources
@@ -28,3 +30,5 @@
 - pkg:maven/org.restcomm.resources/restcomm-slee-ra-jdbc-ra@7.1.14?classifier=sources
 - pkg:maven/org.restcomm.resources/restcomm-slee-ra-jdbc-ra@7.1.15
 - pkg:maven/org.restcomm.resources/restcomm-slee-ra-jdbc-ra@7.1.15?classifier=sources
+- pkg:maven/org.restcomm.resources/restcomm-slee-ra-jdbc-ra@7.2.0-113
+- pkg:maven/org.restcomm.resources/restcomm-slee-ra-jdbc-ra@7.2.0-113?classifier=sources

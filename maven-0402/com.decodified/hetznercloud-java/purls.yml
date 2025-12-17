@@ -1,0 +1,2 @@
+- pkg:maven/com.decodified/hetznercloud-java@1.1.2a
+- pkg:maven/com.decodified/hetznercloud-java@1.1.2a?classifier=sources

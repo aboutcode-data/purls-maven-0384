@@ -1,0 +1,4 @@
+- pkg:maven/net.argius/minestra@1.0.0
+- pkg:maven/net.argius/minestra@1.0.0-beta3
+- pkg:maven/net.argius/minestra@1.0.0-beta3?classifier=sources
+- pkg:maven/net.argius/minestra@1.0.0?classifier=sources

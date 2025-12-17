@@ -22,3 +22,9 @@
 - pkg:maven/io.leonard/play-json-traits_2.11@1.3.6?classifier=sources
 - pkg:maven/io.leonard/play-json-traits_2.11@1.4.0
 - pkg:maven/io.leonard/play-json-traits_2.11@1.4.0?classifier=sources
+- pkg:maven/io.leonard/play-json-traits_2.11@1.4.2
+- pkg:maven/io.leonard/play-json-traits_2.11@1.4.2?classifier=sources
+- pkg:maven/io.leonard/play-json-traits_2.11@1.4.3
+- pkg:maven/io.leonard/play-json-traits_2.11@1.4.3?classifier=sources
+- pkg:maven/io.leonard/play-json-traits_2.11@1.4.4
+- pkg:maven/io.leonard/play-json-traits_2.11@1.4.4?classifier=sources

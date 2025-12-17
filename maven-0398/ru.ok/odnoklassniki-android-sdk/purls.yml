@@ -18,3 +18,5 @@
 - pkg:maven/ru.ok/odnoklassniki-android-sdk@2.1.2?type=aar
 - pkg:maven/ru.ok/odnoklassniki-android-sdk@2.1.4?classifier=sources
 - pkg:maven/ru.ok/odnoklassniki-android-sdk@2.1.4?type=aar
+- pkg:maven/ru.ok/odnoklassniki-android-sdk@2.1.5?classifier=sources
+- pkg:maven/ru.ok/odnoklassniki-android-sdk@2.1.5?type=aar

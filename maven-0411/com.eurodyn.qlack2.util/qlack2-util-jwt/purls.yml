@@ -1,0 +1,4 @@
+- pkg:maven/com.eurodyn.qlack2.util/qlack2-util-jwt@2.3.3
+- pkg:maven/com.eurodyn.qlack2.util/qlack2-util-jwt@2.3.3?classifier=sources
+- pkg:maven/com.eurodyn.qlack2.util/qlack2-util-jwt@2.3.4
+- pkg:maven/com.eurodyn.qlack2.util/qlack2-util-jwt@2.3.4?classifier=sources

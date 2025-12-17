@@ -1,5 +1,15 @@
 - pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.42?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.43?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.44?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.45?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.46?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.47?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.48?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.49?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.50?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.51?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.52?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.2.53?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.4.19?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.4.20?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.appmgt/carbon-appmgt@1.4.21?classifier=source-release&type=zip

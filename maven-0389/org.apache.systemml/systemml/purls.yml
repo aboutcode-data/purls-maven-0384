@@ -19,3 +19,6 @@
 - pkg:maven/org.apache.systemml/systemml@1.0.0
 - pkg:maven/org.apache.systemml/systemml@1.0.0?classifier=sources
 - pkg:maven/org.apache.systemml/systemml@1.0.0?classifier=src&type=zip
+- pkg:maven/org.apache.systemml/systemml@1.1.0
+- pkg:maven/org.apache.systemml/systemml@1.1.0?classifier=sources
+- pkg:maven/org.apache.systemml/systemml@1.1.0?classifier=src&type=zip

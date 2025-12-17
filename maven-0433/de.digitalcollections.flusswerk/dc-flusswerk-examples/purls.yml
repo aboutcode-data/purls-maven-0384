@@ -1,0 +1,14 @@
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@1.0.0
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@1.0.0?classifier=sources
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@1.1.0
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@1.1.0?classifier=sources
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@2.0.0
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@2.0.0?classifier=sources
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@2.0.1
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@2.0.1?classifier=sources
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@2.0.2
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@2.0.2?classifier=sources
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@2.1.0
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@2.1.0?classifier=sources
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@2.1.1
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-examples@2.1.1?classifier=sources

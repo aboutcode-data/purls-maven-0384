@@ -6,3 +6,9 @@
 - pkg:maven/com.linkedin.pegasus/r2-disruptor@11.0.17?classifier=sources
 - pkg:maven/com.linkedin.pegasus/r2-disruptor@17.0.4
 - pkg:maven/com.linkedin.pegasus/r2-disruptor@17.0.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-disruptor@19.0.3
+- pkg:maven/com.linkedin.pegasus/r2-disruptor@19.0.3?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-disruptor@20.0.4
+- pkg:maven/com.linkedin.pegasus/r2-disruptor@20.0.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-disruptor@21.0.0
+- pkg:maven/com.linkedin.pegasus/r2-disruptor@21.0.0?classifier=sources

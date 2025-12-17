@@ -1,0 +1,2 @@
+- pkg:maven/com.airbnb.android/paris-annotations@1.0.0
+- pkg:maven/com.airbnb.android/paris-annotations@1.0.0?classifier=sources

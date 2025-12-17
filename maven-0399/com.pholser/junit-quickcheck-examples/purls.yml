@@ -1,0 +1,2 @@
+- pkg:maven/com.pholser/junit-quickcheck-examples@0.8.1
+- pkg:maven/com.pholser/junit-quickcheck-examples@0.8.1?classifier=sources

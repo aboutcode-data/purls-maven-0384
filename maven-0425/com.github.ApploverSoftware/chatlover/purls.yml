@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ApploverSoftware/chatlover@0.13.1?classifier=sources
+- pkg:maven/com.github.ApploverSoftware/chatlover@0.13.1?type=aar

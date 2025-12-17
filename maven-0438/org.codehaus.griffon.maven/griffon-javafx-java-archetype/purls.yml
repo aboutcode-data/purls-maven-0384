@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.griffon.maven/griffon-javafx-java-archetype@2.15.0
+- pkg:maven/org.codehaus.griffon.maven/griffon-javafx-java-archetype@2.15.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/zone.dragon.dropwizard/dropwizard-configuration-jtwig@1.0.1-db2632
+- pkg:maven/zone.dragon.dropwizard/dropwizard-configuration-jtwig@1.0.1-db2632?classifier=sources
+- pkg:maven/zone.dragon.dropwizard/dropwizard-configuration-jtwig@1.1.4-b6fb6b
+- pkg:maven/zone.dragon.dropwizard/dropwizard-configuration-jtwig@1.1.4-b6fb6b?classifier=sources

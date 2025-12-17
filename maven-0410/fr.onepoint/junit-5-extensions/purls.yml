@@ -1,0 +1,2 @@
+- pkg:maven/fr.onepoint/junit-5-extensions@1.0
+- pkg:maven/fr.onepoint/junit-5-extensions@1.0?classifier=sources

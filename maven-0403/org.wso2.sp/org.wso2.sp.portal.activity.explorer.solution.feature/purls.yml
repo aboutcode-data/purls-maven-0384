@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.sp/org.wso2.sp.portal.activity.explorer.solution.feature@4.2.0-alpha?classifier=sources
+- pkg:maven/org.wso2.sp/org.wso2.sp.portal.activity.explorer.solution.feature@4.2.0-beta?classifier=sources

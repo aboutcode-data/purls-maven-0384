@@ -1,0 +1,2 @@
+- pkg:maven/com.appsflyer/segment-android-integration-beta@1.13?classifier=sources
+- pkg:maven/com.appsflyer/segment-android-integration-beta@1.13?type=aar

@@ -31,3 +31,5 @@
 - pkg:maven/org.nuiton/nuiton-config@3.2?classifier=sources
 - pkg:maven/org.nuiton/nuiton-config@3.3
 - pkg:maven/org.nuiton/nuiton-config@3.3?classifier=sources
+- pkg:maven/org.nuiton/nuiton-config@3.4
+- pkg:maven/org.nuiton/nuiton-config@3.4?classifier=sources

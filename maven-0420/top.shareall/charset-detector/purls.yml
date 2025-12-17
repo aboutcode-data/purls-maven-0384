@@ -1,0 +1,2 @@
+- pkg:maven/top.shareall/charset-detector@1.0-pre
+- pkg:maven/top.shareall/charset-detector@1.0-pre?classifier=sources

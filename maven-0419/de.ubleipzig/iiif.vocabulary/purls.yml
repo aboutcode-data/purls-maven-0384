@@ -1,0 +1,4 @@
+- pkg:maven/de.ubleipzig/iiif.vocabulary@0.1.0
+- pkg:maven/de.ubleipzig/iiif.vocabulary@0.1.0?classifier=sources
+- pkg:maven/de.ubleipzig/iiif.vocabulary@0.1.1
+- pkg:maven/de.ubleipzig/iiif.vocabulary@0.1.1?classifier=sources

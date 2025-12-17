@@ -1,0 +1,2 @@
+- pkg:maven/org.dellroad/hl7lib@1.2.0
+- pkg:maven/org.dellroad/hl7lib@1.2.0?classifier=sources

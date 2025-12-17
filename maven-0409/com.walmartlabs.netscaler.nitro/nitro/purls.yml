@@ -1,0 +1,2 @@
+- pkg:maven/com.walmartlabs.netscaler.nitro/nitro@11.0
+- pkg:maven/com.walmartlabs.netscaler.nitro/nitro@11.0?classifier=sources

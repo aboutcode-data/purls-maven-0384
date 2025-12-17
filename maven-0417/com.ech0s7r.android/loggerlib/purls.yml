@@ -1,0 +1,4 @@
+- pkg:maven/com.ech0s7r.android/loggerlib@1.2.11?classifier=sources
+- pkg:maven/com.ech0s7r.android/loggerlib@1.2.11?type=aar
+- pkg:maven/com.ech0s7r.android/loggerlib@1.2.12?classifier=sources
+- pkg:maven/com.ech0s7r.android/loggerlib@1.2.12?type=aar

@@ -2,3 +2,5 @@
 - pkg:maven/gov.nih.nlm.ncbi/ngs-java@1.2.2?classifier=sources
 - pkg:maven/gov.nih.nlm.ncbi/ngs-java@1.2.4
 - pkg:maven/gov.nih.nlm.ncbi/ngs-java@1.2.4?classifier=sources
+- pkg:maven/gov.nih.nlm.ncbi/ngs-java@2.9.0
+- pkg:maven/gov.nih.nlm.ncbi/ngs-java@2.9.0?classifier=sources

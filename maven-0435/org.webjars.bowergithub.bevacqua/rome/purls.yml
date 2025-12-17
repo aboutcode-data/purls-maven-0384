@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.bevacqua/rome@2.1.22
+- pkg:maven/org.webjars.bowergithub.bevacqua/rome@2.1.22?classifier=sources

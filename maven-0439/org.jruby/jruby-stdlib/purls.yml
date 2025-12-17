@@ -128,6 +128,10 @@
 - pkg:maven/org.jruby/jruby-stdlib@9.1.14.0?classifier=sources
 - pkg:maven/org.jruby/jruby-stdlib@9.1.15.0
 - pkg:maven/org.jruby/jruby-stdlib@9.1.15.0?classifier=sources
+- pkg:maven/org.jruby/jruby-stdlib@9.1.16.0
+- pkg:maven/org.jruby/jruby-stdlib@9.1.16.0?classifier=sources
+- pkg:maven/org.jruby/jruby-stdlib@9.1.17.0
+- pkg:maven/org.jruby/jruby-stdlib@9.1.17.0?classifier=sources
 - pkg:maven/org.jruby/jruby-stdlib@9.1.2.0
 - pkg:maven/org.jruby/jruby-stdlib@9.1.2.0?classifier=sources
 - pkg:maven/org.jruby/jruby-stdlib@9.1.3.0
@@ -144,3 +148,5 @@
 - pkg:maven/org.jruby/jruby-stdlib@9.1.8.0?classifier=sources
 - pkg:maven/org.jruby/jruby-stdlib@9.1.9.0
 - pkg:maven/org.jruby/jruby-stdlib@9.1.9.0?classifier=sources
+- pkg:maven/org.jruby/jruby-stdlib@9.2.0.0
+- pkg:maven/org.jruby/jruby-stdlib@9.2.0.0?classifier=sources

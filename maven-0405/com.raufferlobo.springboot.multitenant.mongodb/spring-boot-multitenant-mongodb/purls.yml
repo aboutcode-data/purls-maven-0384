@@ -1,0 +1,2 @@
+- pkg:maven/com.raufferlobo.springboot.multitenant.mongodb/spring-boot-multitenant-mongodb@1.0.2
+- pkg:maven/com.raufferlobo.springboot.multitenant.mongodb/spring-boot-multitenant-mongodb@1.0.2?classifier=sources

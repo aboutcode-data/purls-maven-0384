@@ -1,0 +1,4 @@
+- pkg:maven/com.github.qiyueW/JWeb@1.0
+- pkg:maven/com.github.qiyueW/JWeb@1.0?classifier=sources
+- pkg:maven/com.github.qiyueW/JWeb@2.0
+- pkg:maven/com.github.qiyueW/JWeb@2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/uppy@0.23.0
+- pkg:maven/org.webjars.npm/uppy@0.23.0?classifier=sources
+- pkg:maven/org.webjars.npm/uppy@0.23.1
+- pkg:maven/org.webjars.npm/uppy@0.23.1?classifier=sources

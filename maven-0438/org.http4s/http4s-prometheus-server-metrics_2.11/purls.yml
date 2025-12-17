@@ -1,0 +1,10 @@
+- pkg:maven/org.http4s/http4s-prometheus-server-metrics_2.11@0.18.10
+- pkg:maven/org.http4s/http4s-prometheus-server-metrics_2.11@0.18.10?classifier=sources
+- pkg:maven/org.http4s/http4s-prometheus-server-metrics_2.11@0.18.11
+- pkg:maven/org.http4s/http4s-prometheus-server-metrics_2.11@0.18.11?classifier=sources
+- pkg:maven/org.http4s/http4s-prometheus-server-metrics_2.11@0.18.12
+- pkg:maven/org.http4s/http4s-prometheus-server-metrics_2.11@0.18.12?classifier=sources
+- pkg:maven/org.http4s/http4s-prometheus-server-metrics_2.11@0.18.8
+- pkg:maven/org.http4s/http4s-prometheus-server-metrics_2.11@0.18.8?classifier=sources
+- pkg:maven/org.http4s/http4s-prometheus-server-metrics_2.11@0.18.9
+- pkg:maven/org.http4s/http4s-prometheus-server-metrics_2.11@0.18.9?classifier=sources

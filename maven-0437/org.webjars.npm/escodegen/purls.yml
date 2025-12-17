@@ -1,6 +1,10 @@
+- pkg:maven/org.webjars.npm/escodegen@0.0.21
+- pkg:maven/org.webjars.npm/escodegen@0.0.21?classifier=sources
 - pkg:maven/org.webjars.npm/escodegen@1.3.2
 - pkg:maven/org.webjars.npm/escodegen@1.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/escodegen@1.7.0
 - pkg:maven/org.webjars.npm/escodegen@1.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/escodegen@1.9.0
 - pkg:maven/org.webjars.npm/escodegen@1.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/escodegen@1.9.1
+- pkg:maven/org.webjars.npm/escodegen@1.9.1?classifier=sources

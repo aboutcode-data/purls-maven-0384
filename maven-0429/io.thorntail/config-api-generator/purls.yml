@@ -1,0 +1,2 @@
+- pkg:maven/io.thorntail/config-api-generator@1.4.0
+- pkg:maven/io.thorntail/config-api-generator@1.4.0?classifier=sources

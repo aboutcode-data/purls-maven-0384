@@ -1,0 +1,6 @@
+- pkg:maven/com.segmentify.sdk/android@1.0.0?classifier=sources
+- pkg:maven/com.segmentify.sdk/android@1.0.0?type=aar
+- pkg:maven/com.segmentify.sdk/android@1.0.1?classifier=sources
+- pkg:maven/com.segmentify.sdk/android@1.0.1?type=aar
+- pkg:maven/com.segmentify.sdk/android@SNAPSHOT-1.0.0?classifier=sources
+- pkg:maven/com.segmentify.sdk/android@SNAPSHOT-1.0.0?type=aar

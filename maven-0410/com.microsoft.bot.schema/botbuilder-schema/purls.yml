@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.bot.schema/botbuilder-schema@4.0.0-a0
+- pkg:maven/com.microsoft.bot.schema/botbuilder-schema@4.0.0-a0?classifier=sources
+- pkg:maven/com.microsoft.bot.schema/botbuilder-schema@4.0.0-a1
+- pkg:maven/com.microsoft.bot.schema/botbuilder-schema@4.0.0-a1?classifier=sources

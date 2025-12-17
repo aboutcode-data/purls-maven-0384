@@ -7,6 +7,14 @@
 - pkg:maven/com.evolvedbinary.j8fu/j8fu@1.11?classifier=sources
 - pkg:maven/com.evolvedbinary.j8fu/j8fu@1.12
 - pkg:maven/com.evolvedbinary.j8fu/j8fu@1.12?classifier=sources
+- pkg:maven/com.evolvedbinary.j8fu/j8fu@1.13
+- pkg:maven/com.evolvedbinary.j8fu/j8fu@1.13?classifier=sources
+- pkg:maven/com.evolvedbinary.j8fu/j8fu@1.14
+- pkg:maven/com.evolvedbinary.j8fu/j8fu@1.14?classifier=sources
+- pkg:maven/com.evolvedbinary.j8fu/j8fu@1.15
+- pkg:maven/com.evolvedbinary.j8fu/j8fu@1.15?classifier=sources
+- pkg:maven/com.evolvedbinary.j8fu/j8fu@1.16
+- pkg:maven/com.evolvedbinary.j8fu/j8fu@1.16?classifier=sources
 - pkg:maven/com.evolvedbinary.j8fu/j8fu@1.1?classifier=sources
 - pkg:maven/com.evolvedbinary.j8fu/j8fu@1.2
 - pkg:maven/com.evolvedbinary.j8fu/j8fu@1.2?classifier=sources

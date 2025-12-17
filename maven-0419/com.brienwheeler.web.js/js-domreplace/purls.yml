@@ -8,3 +8,4 @@
 - pkg:maven/com.brienwheeler.web.js/js-domreplace@1.07?classifier=sources
 - pkg:maven/com.brienwheeler.web.js/js-domreplace@1.08?classifier=sources
 - pkg:maven/com.brienwheeler.web.js/js-domreplace@1.09?classifier=sources
+- pkg:maven/com.brienwheeler.web.js/js-domreplace@1.10?classifier=sources

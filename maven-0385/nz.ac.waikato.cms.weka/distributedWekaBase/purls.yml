@@ -8,6 +8,8 @@
 - pkg:maven/nz.ac.waikato.cms.weka/distributedWekaBase@1.0.13?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/distributedWekaBase@1.0.15
 - pkg:maven/nz.ac.waikato.cms.weka/distributedWekaBase@1.0.15?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.weka/distributedWekaBase@1.0.17
+- pkg:maven/nz.ac.waikato.cms.weka/distributedWekaBase@1.0.17?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/distributedWekaBase@1.0.2
 - pkg:maven/nz.ac.waikato.cms.weka/distributedWekaBase@1.0.2?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/distributedWekaBase@1.0.3

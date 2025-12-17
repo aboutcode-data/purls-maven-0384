@@ -1,0 +1,2 @@
+- pkg:maven/com.hadoop.compression/hadoop-gpl-compression@0.1.0
+- pkg:maven/com.hadoop.compression/hadoop-gpl-compression@0.1.0?classifier=sources

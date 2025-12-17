@@ -6,3 +6,4 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.oauth@1.4.17
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.oauth@1.4.18
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.oauth@1.4.19
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.oauth@1.4.20

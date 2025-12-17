@@ -4,5 +4,9 @@
 - pkg:maven/top.arkstack/shine-web@1.0.3?classifier=sources
 - pkg:maven/top.arkstack/shine-web@1.0.4
 - pkg:maven/top.arkstack/shine-web@1.0.4?classifier=sources
+- pkg:maven/top.arkstack/shine-web@1.0.5
 - pkg:maven/top.arkstack/shine-web@1.0.5-SHAPSHOT
 - pkg:maven/top.arkstack/shine-web@1.0.5-SHAPSHOT?classifier=sources
+- pkg:maven/top.arkstack/shine-web@1.0.5?classifier=sources
+- pkg:maven/top.arkstack/shine-web@1.0.6
+- pkg:maven/top.arkstack/shine-web@1.0.6?classifier=sources

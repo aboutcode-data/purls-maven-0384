@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.bundles/beangle-bundles-pdfjs@1.9.426
+- pkg:maven/org.beangle.bundles/beangle-bundles-pdfjs@1.9.426?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/io.qameta.allure/allure-junit5@2.0-BETA20?classifier=sources
 - pkg:maven/io.qameta.allure/allure-junit5@2.0-BETA21
 - pkg:maven/io.qameta.allure/allure-junit5@2.0-BETA21?classifier=sources
+- pkg:maven/io.qameta.allure/allure-junit5@2.0-BETA22
+- pkg:maven/io.qameta.allure/allure-junit5@2.0-BETA22?classifier=sources
 - pkg:maven/io.qameta.allure/allure-junit5@2.0-BETA4
 - pkg:maven/io.qameta.allure/allure-junit5@2.0-BETA4?classifier=sources
 - pkg:maven/io.qameta.allure/allure-junit5@2.0-BETA5
@@ -34,3 +36,5 @@
 - pkg:maven/io.qameta.allure/allure-junit5@2.0-BETA8?classifier=sources
 - pkg:maven/io.qameta.allure/allure-junit5@2.0-BETA9
 - pkg:maven/io.qameta.allure/allure-junit5@2.0-BETA9?classifier=sources
+- pkg:maven/io.qameta.allure/allure-junit5@2.6.0
+- pkg:maven/io.qameta.allure/allure-junit5@2.6.0?classifier=sources

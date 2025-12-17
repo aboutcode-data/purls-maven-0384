@@ -1,0 +1,1 @@
+- pkg:maven/org.teiid.arche-types/udf-archetype@10.0.0?classifier=sources

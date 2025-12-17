@@ -1,0 +1,2 @@
+- pkg:maven/tech.barbero.http-messages-signing/http-messages-signing-okhttp3@1.0.0
+- pkg:maven/tech.barbero.http-messages-signing/http-messages-signing-okhttp3@1.0.0?classifier=sources

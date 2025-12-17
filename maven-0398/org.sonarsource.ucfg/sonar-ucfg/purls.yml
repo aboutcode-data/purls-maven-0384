@@ -1,0 +1,4 @@
+- pkg:maven/org.sonarsource.ucfg/sonar-ucfg@1.0.0.29
+- pkg:maven/org.sonarsource.ucfg/sonar-ucfg@1.0.0.29?classifier=sources
+- pkg:maven/org.sonarsource.ucfg/sonar-ucfg@1.1.0.55
+- pkg:maven/org.sonarsource.ucfg/sonar-ucfg@1.1.0.55?classifier=sources

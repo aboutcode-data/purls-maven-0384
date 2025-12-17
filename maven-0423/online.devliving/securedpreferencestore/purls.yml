@@ -22,3 +22,9 @@
 - pkg:maven/online.devliving/securedpreferencestore@0.4.1?type=aar
 - pkg:maven/online.devliving/securedpreferencestore@0.5.0?classifier=sources
 - pkg:maven/online.devliving/securedpreferencestore@0.5.0?type=aar
+- pkg:maven/online.devliving/securedpreferencestore@0.5.1?classifier=sources
+- pkg:maven/online.devliving/securedpreferencestore@0.5.1?type=aar
+- pkg:maven/online.devliving/securedpreferencestore@0.6.0?classifier=sources
+- pkg:maven/online.devliving/securedpreferencestore@0.6.0?type=aar
+- pkg:maven/online.devliving/securedpreferencestore@0.6.1?classifier=sources
+- pkg:maven/online.devliving/securedpreferencestore@0.6.1?type=aar

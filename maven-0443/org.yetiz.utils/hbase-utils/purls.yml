@@ -14,3 +14,7 @@
 - pkg:maven/org.yetiz.utils/hbase-utils@2.1.0.0.1-cdh5.5.1
 - pkg:maven/org.yetiz.utils/hbase-utils@2.1.0.0.1-cdh5.5.1?classifier=sources
 - pkg:maven/org.yetiz.utils/hbase-utils@2.1.0.0.1?classifier=sources
+- pkg:maven/org.yetiz.utils/hbase-utils@2.1.0.0.2
+- pkg:maven/org.yetiz.utils/hbase-utils@2.1.0.0.2?classifier=sources
+- pkg:maven/org.yetiz.utils/hbase-utils@2.1.0.0.3
+- pkg:maven/org.yetiz.utils/hbase-utils@2.1.0.0.3?classifier=sources

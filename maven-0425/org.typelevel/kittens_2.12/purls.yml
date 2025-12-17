@@ -1,3 +1,4 @@
+- pkg:maven/org.typelevel/kittens_2.12@1.0.0
 - pkg:maven/org.typelevel/kittens_2.12@1.0.0-M10
 - pkg:maven/org.typelevel/kittens_2.12@1.0.0-M10?classifier=sources
 - pkg:maven/org.typelevel/kittens_2.12@1.0.0-M11
@@ -12,3 +13,6 @@
 - pkg:maven/org.typelevel/kittens_2.12@1.0.0-RC1?classifier=sources
 - pkg:maven/org.typelevel/kittens_2.12@1.0.0-RC2
 - pkg:maven/org.typelevel/kittens_2.12@1.0.0-RC2?classifier=sources
+- pkg:maven/org.typelevel/kittens_2.12@1.0.0-RC3
+- pkg:maven/org.typelevel/kittens_2.12@1.0.0-RC3?classifier=sources
+- pkg:maven/org.typelevel/kittens_2.12@1.0.0?classifier=sources

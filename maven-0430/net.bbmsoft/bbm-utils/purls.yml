@@ -1,0 +1,2 @@
+- pkg:maven/net.bbmsoft/bbm-utils@3.0.0
+- pkg:maven/net.bbmsoft/bbm-utils@3.0.0?classifier=sources

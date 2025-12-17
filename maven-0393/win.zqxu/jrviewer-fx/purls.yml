@@ -1,0 +1,4 @@
+- pkg:maven/win.zqxu/jrviewer-fx@0.1.0
+- pkg:maven/win.zqxu/jrviewer-fx@0.1.0?classifier=sources
+- pkg:maven/win.zqxu/jrviewer-fx@0.1.1
+- pkg:maven/win.zqxu/jrviewer-fx@0.1.1?classifier=sources

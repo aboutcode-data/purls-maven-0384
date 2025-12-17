@@ -1,0 +1,2 @@
+- pkg:maven/app.artyomd.injector/injector@0.3
+- pkg:maven/app.artyomd.injector/injector@0.3?classifier=sources

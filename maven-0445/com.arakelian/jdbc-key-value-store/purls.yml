@@ -1,0 +1,2 @@
+- pkg:maven/com.arakelian/jdbc-key-value-store@1.0.2
+- pkg:maven/com.arakelian/jdbc-key-value-store@1.0.2?classifier=sources

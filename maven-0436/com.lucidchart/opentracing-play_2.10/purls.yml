@@ -1,5 +1,9 @@
 - pkg:maven/com.lucidchart/opentracing-play_2.10@0.1-2.3
 - pkg:maven/com.lucidchart/opentracing-play_2.10@0.1-2.3?classifier=sources
+- pkg:maven/com.lucidchart/opentracing-play_2.10@0.10-2.3
+- pkg:maven/com.lucidchart/opentracing-play_2.10@0.10-2.3?classifier=sources
+- pkg:maven/com.lucidchart/opentracing-play_2.10@0.11-2.3
+- pkg:maven/com.lucidchart/opentracing-play_2.10@0.11-2.3?classifier=sources
 - pkg:maven/com.lucidchart/opentracing-play_2.10@0.2-2.3
 - pkg:maven/com.lucidchart/opentracing-play_2.10@0.2-2.3?classifier=sources
 - pkg:maven/com.lucidchart/opentracing-play_2.10@0.3-2.3

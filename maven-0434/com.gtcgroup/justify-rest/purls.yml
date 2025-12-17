@@ -1,0 +1,6 @@
+- pkg:maven/com.gtcgroup/justify-rest@8.5.0-alpha2
+- pkg:maven/com.gtcgroup/justify-rest@8.5.0-alpha2?classifier=sources
+- pkg:maven/com.gtcgroup/justify-rest@8.5.0-alpha4
+- pkg:maven/com.gtcgroup/justify-rest@8.5.0-alpha4?classifier=sources
+- pkg:maven/com.gtcgroup/justify-rest@8.5.0-alpha5
+- pkg:maven/com.gtcgroup/justify-rest@8.5.0-alpha5?classifier=sources

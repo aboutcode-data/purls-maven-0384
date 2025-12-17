@@ -32,3 +32,9 @@
 - pkg:maven/org.atnos/origami-lib_2.11@4.0.7?classifier=sources
 - pkg:maven/org.atnos/origami-lib_2.11@4.0.9
 - pkg:maven/org.atnos/origami-lib_2.11@4.0.9?classifier=sources
+- pkg:maven/org.atnos/origami-lib_2.11@5.0.0
+- pkg:maven/org.atnos/origami-lib_2.11@5.0.0-20180125131615-de1f0e6
+- pkg:maven/org.atnos/origami-lib_2.11@5.0.0-20180125131615-de1f0e6?classifier=sources
+- pkg:maven/org.atnos/origami-lib_2.11@5.0.0?classifier=sources
+- pkg:maven/org.atnos/origami-lib_2.11@5.0.1
+- pkg:maven/org.atnos/origami-lib_2.11@5.0.1?classifier=sources

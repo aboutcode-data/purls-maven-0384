@@ -27,3 +27,6 @@
 - pkg:maven/com.englishtown.vertx/vertx-cassandra@3.5.0
 - pkg:maven/com.englishtown.vertx/vertx-cassandra@3.5.0?classifier=sources
 - pkg:maven/com.englishtown.vertx/vertx-cassandra@3.6.0
+- pkg:maven/com.englishtown.vertx/vertx-cassandra@3.6.0?classifier=sources
+- pkg:maven/com.englishtown.vertx/vertx-cassandra@3.6.1
+- pkg:maven/com.englishtown.vertx/vertx-cassandra@3.6.1?classifier=sources

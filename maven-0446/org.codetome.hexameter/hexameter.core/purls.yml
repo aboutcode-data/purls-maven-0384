@@ -1,2 +1,4 @@
 - pkg:maven/org.codetome.hexameter/hexameter.core@2017.1.0
 - pkg:maven/org.codetome.hexameter/hexameter.core@2017.1.0?classifier=sources
+- pkg:maven/org.codetome.hexameter/hexameter.core@2018.1.0
+- pkg:maven/org.codetome.hexameter/hexameter.core@2018.1.0?classifier=sources

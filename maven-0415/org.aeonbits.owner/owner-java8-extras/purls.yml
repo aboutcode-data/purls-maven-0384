@@ -1,0 +1,2 @@
+- pkg:maven/org.aeonbits.owner/owner-java8-extras@1.0.10
+- pkg:maven/org.aeonbits.owner/owner-java8-extras@1.0.10?classifier=sources

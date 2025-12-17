@@ -1,0 +1,2 @@
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-client-swing@1.0.0.CR5
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-client-swing@1.0.0.CR5?classifier=sources

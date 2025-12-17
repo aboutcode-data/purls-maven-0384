@@ -40,6 +40,8 @@
 - pkg:maven/org.jodd/jodd-swingspy@3.6.3
 - pkg:maven/org.jodd/jodd-swingspy@3.6.3?classifier=sources
 - pkg:maven/org.jodd/jodd-swingspy@3.6.4
+- pkg:maven/org.jodd/jodd-swingspy@3.6.4-liferay
+- pkg:maven/org.jodd/jodd-swingspy@3.6.4-liferay?classifier=sources
 - pkg:maven/org.jodd/jodd-swingspy@3.6.4?classifier=sources
 - pkg:maven/org.jodd/jodd-swingspy@3.6.5
 - pkg:maven/org.jodd/jodd-swingspy@3.6.5-BETA1
@@ -49,6 +51,8 @@
 - pkg:maven/org.jodd/jodd-swingspy@3.6.6?classifier=sources
 - pkg:maven/org.jodd/jodd-swingspy@3.6.7
 - pkg:maven/org.jodd/jodd-swingspy@3.6.7?classifier=sources
+- pkg:maven/org.jodd/jodd-swingspy@3.6.8
+- pkg:maven/org.jodd/jodd-swingspy@3.6.8?classifier=sources
 - pkg:maven/org.jodd/jodd-swingspy@3.6?classifier=sources
 - pkg:maven/org.jodd/jodd-swingspy@3.7
 - pkg:maven/org.jodd/jodd-swingspy@3.7.1

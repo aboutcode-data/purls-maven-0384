@@ -1,2 +1,4 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-wlp-remote-8.5@1.0.0.Beta2
 - pkg:maven/org.jboss.arquillian.container/arquillian-wlp-remote-8.5@1.0.0.Beta2?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-wlp-remote-8.5@1.0.0.CR1
+- pkg:maven/org.jboss.arquillian.container/arquillian-wlp-remote-8.5@1.0.0.CR1?classifier=sources

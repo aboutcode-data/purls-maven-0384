@@ -1,0 +1,2 @@
+- pkg:maven/com.notronix/Deadbolt@1.0.001
+- pkg:maven/com.notronix/Deadbolt@1.0.001?classifier=sources

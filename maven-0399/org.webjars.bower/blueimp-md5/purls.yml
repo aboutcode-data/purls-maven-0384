@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/blueimp-md5@2.10.0
+- pkg:maven/org.webjars.bower/blueimp-md5@2.10.0?classifier=sources

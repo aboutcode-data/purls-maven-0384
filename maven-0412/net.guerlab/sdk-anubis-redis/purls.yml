@@ -1,0 +1,2 @@
+- pkg:maven/net.guerlab/sdk-anubis-redis@1.2.3
+- pkg:maven/net.guerlab/sdk-anubis-redis@1.2.3?classifier=sources

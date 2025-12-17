@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/react-dropzone-component@0.8.1?classifier=sources
 - pkg:maven/org.webjars.npm/react-dropzone-component@1.0.4
 - pkg:maven/org.webjars.npm/react-dropzone-component@1.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/react-dropzone-component@3.1.2
+- pkg:maven/org.webjars.npm/react-dropzone-component@3.1.2?classifier=sources

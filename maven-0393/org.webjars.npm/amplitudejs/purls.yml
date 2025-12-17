@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/amplitudejs@3.2.3
+- pkg:maven/org.webjars.npm/amplitudejs@3.2.3?classifier=sources

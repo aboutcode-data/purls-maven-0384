@@ -1,0 +1,2 @@
+- pkg:maven/me.wuwenbin/template-modules-validation@1.11.0.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-validation@1.11.0.RELEASE?classifier=sources

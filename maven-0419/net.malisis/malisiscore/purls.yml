@@ -58,6 +58,12 @@
 - pkg:maven/net.malisis/malisiscore@1.12.2-6.1.7?classifier=sources
 - pkg:maven/net.malisis/malisiscore@1.12.2-6.3.0
 - pkg:maven/net.malisis/malisiscore@1.12.2-6.3.0?classifier=sources
+- pkg:maven/net.malisis/malisiscore@1.12.2-6.3.1
+- pkg:maven/net.malisis/malisiscore@1.12.2-6.3.1?classifier=sources
+- pkg:maven/net.malisis/malisiscore@1.12.2-6.3.2
+- pkg:maven/net.malisis/malisiscore@1.12.2-6.3.2?classifier=sources
+- pkg:maven/net.malisis/malisiscore@1.12.2-6.4.0
+- pkg:maven/net.malisis/malisiscore@1.12.2-6.4.0?classifier=sources
 - pkg:maven/net.malisis/malisiscore@1.7.10-0.10.1
 - pkg:maven/net.malisis/malisiscore@1.7.10-0.10.1?classifier=sources
 - pkg:maven/net.malisis/malisiscore@1.7.10-0.10.2

@@ -1,2 +1,4 @@
 - pkg:maven/de.hhu.stups/ltl-dsl@0.1.0
 - pkg:maven/de.hhu.stups/ltl-dsl@0.1.0?classifier=sources
+- pkg:maven/de.hhu.stups/ltl-dsl@0.1.1
+- pkg:maven/de.hhu.stups/ltl-dsl@0.1.1?classifier=sources

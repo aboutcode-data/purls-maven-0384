@@ -1,0 +1,2 @@
+- pkg:maven/tec.uom.domain/uom-mp-metrics-java8@0.9
+- pkg:maven/tec.uom.domain/uom-mp-metrics-java8@0.9?classifier=sources

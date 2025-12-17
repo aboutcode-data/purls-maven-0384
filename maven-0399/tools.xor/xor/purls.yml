@@ -6,6 +6,8 @@
 - pkg:maven/tools.xor/xor@1.2.12?classifier=sources
 - pkg:maven/tools.xor/xor@1.2.13
 - pkg:maven/tools.xor/xor@1.2.13?classifier=sources
+- pkg:maven/tools.xor/xor@1.2.14
+- pkg:maven/tools.xor/xor@1.2.14?classifier=sources
 - pkg:maven/tools.xor/xor@1.2.4
 - pkg:maven/tools.xor/xor@1.2.4?classifier=sources
 - pkg:maven/tools.xor/xor@1.2.5
@@ -99,6 +101,12 @@
 - pkg:maven/tools.xor/xor@1.7.23?classifier=sources
 - pkg:maven/tools.xor/xor@1.7.24
 - pkg:maven/tools.xor/xor@1.7.24?classifier=sources
+- pkg:maven/tools.xor/xor@1.7.25
+- pkg:maven/tools.xor/xor@1.7.25?classifier=sources
+- pkg:maven/tools.xor/xor@1.7.26
+- pkg:maven/tools.xor/xor@1.7.26?classifier=sources
+- pkg:maven/tools.xor/xor@1.7.27
+- pkg:maven/tools.xor/xor@1.7.27?classifier=sources
 - pkg:maven/tools.xor/xor@1.7.2?classifier=sources
 - pkg:maven/tools.xor/xor@1.7.3
 - pkg:maven/tools.xor/xor@1.7.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.knightsoft-net/gwt-seo@0.2
+- pkg:maven/de.knightsoft-net/gwt-seo@0.2?classifier=sources

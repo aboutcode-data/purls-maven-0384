@@ -4,3 +4,5 @@
 - pkg:maven/org.scalamock/scalamock_2.10@3.6.0?classifier=sources
 - pkg:maven/org.scalamock/scalamock_2.10@4.0.0
 - pkg:maven/org.scalamock/scalamock_2.10@4.0.0?classifier=sources
+- pkg:maven/org.scalamock/scalamock_2.10@4.1.0
+- pkg:maven/org.scalamock/scalamock_2.10@4.1.0?classifier=sources

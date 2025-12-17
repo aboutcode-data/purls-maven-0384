@@ -7,3 +7,4 @@
 - pkg:maven/io.provis/provisio-jenkins-launcher@0.1.48?classifier=sources
 - pkg:maven/io.provis/provisio-jenkins-launcher@0.1.49?classifier=sources
 - pkg:maven/io.provis/provisio-jenkins-launcher@0.1.50?classifier=sources
+- pkg:maven/io.provis/provisio-jenkins-launcher@0.1.51?classifier=sources
