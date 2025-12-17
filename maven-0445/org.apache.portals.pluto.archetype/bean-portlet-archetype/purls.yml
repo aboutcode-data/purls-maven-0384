@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.portals.pluto.archetype/bean-portlet-archetype@3.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.portals.pluto.archetype/bean-portlet-archetype@3.0.0?classifier=sources
+- pkg:maven/org.apache.portals.pluto.archetype/bean-portlet-archetype@3.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.pluto.archetype/bean-portlet-archetype@3.0.1?classifier=sources

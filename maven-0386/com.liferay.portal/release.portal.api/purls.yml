@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay.portal/release.portal.api@7.1.1
+- pkg:maven/com.liferay.portal/release.portal.api@7.1.1?classifier=sources

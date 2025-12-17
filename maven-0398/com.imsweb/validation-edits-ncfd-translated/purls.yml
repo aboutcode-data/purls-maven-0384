@@ -1,2 +1,8 @@
 - pkg:maven/com.imsweb/validation-edits-ncfd-translated@001-01
 - pkg:maven/com.imsweb/validation-edits-ncfd-translated@001-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-ncfd-translated@002-01
+- pkg:maven/com.imsweb/validation-edits-ncfd-translated@002-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-ncfd-translated@003-01
+- pkg:maven/com.imsweb/validation-edits-ncfd-translated@003-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-ncfd-translated@004-01
+- pkg:maven/com.imsweb/validation-edits-ncfd-translated@004-01?classifier=sources

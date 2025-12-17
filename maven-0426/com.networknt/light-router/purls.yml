@@ -1,0 +1,8 @@
+- pkg:maven/com.networknt/light-router@1.5.17
+- pkg:maven/com.networknt/light-router@1.5.17?classifier=sources
+- pkg:maven/com.networknt/light-router@1.5.20
+- pkg:maven/com.networknt/light-router@1.5.20?classifier=sources
+- pkg:maven/com.networknt/light-router@1.5.21
+- pkg:maven/com.networknt/light-router@1.5.21?classifier=sources
+- pkg:maven/com.networknt/light-router@1.5.22
+- pkg:maven/com.networknt/light-router@1.5.22?classifier=sources

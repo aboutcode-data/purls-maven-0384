@@ -10,3 +10,11 @@
 - pkg:maven/org.neo4j/graph-algorithms-tests@3.3.5.0?classifier=sources
 - pkg:maven/org.neo4j/graph-algorithms-tests@3.4.0.0
 - pkg:maven/org.neo4j/graph-algorithms-tests@3.4.0.0?classifier=sources
+- pkg:maven/org.neo4j/graph-algorithms-tests@3.4.4.0
+- pkg:maven/org.neo4j/graph-algorithms-tests@3.4.4.0?classifier=sources
+- pkg:maven/org.neo4j/graph-algorithms-tests@3.4.7.0
+- pkg:maven/org.neo4j/graph-algorithms-tests@3.4.7.0?classifier=sources
+- pkg:maven/org.neo4j/graph-algorithms-tests@3.4.8.0
+- pkg:maven/org.neo4j/graph-algorithms-tests@3.4.8.0?classifier=sources
+- pkg:maven/org.neo4j/graph-algorithms-tests@3.5.0.0
+- pkg:maven/org.neo4j/graph-algorithms-tests@3.5.0.0?classifier=sources

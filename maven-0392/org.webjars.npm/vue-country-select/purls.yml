@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vue-country-select@0.2.2
+- pkg:maven/org.webjars.npm/vue-country-select@0.2.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cloud.cirrusup/cloudwatch-async-batch-metrics-publisher@1.0.0
+- pkg:maven/cloud.cirrusup/cloudwatch-async-batch-metrics-publisher@1.0.0?classifier=sources
+- pkg:maven/cloud.cirrusup/cloudwatch-async-batch-metrics-publisher@1.1.0
+- pkg:maven/cloud.cirrusup/cloudwatch-async-batch-metrics-publisher@1.1.0?classifier=sources

@@ -9,3 +9,6 @@
 - pkg:maven/sqlline/sqlline@1.4.0
 - pkg:maven/sqlline/sqlline@1.4.0?classifier=source-release&type=zip
 - pkg:maven/sqlline/sqlline@1.4.0?classifier=sources
+- pkg:maven/sqlline/sqlline@1.5.0
+- pkg:maven/sqlline/sqlline@1.5.0?classifier=source-release&type=zip
+- pkg:maven/sqlline/sqlline@1.5.0?classifier=sources

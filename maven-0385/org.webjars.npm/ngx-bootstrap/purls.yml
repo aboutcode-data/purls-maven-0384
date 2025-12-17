@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/ngx-bootstrap@1.6.6?classifier=sources
 - pkg:maven/org.webjars.npm/ngx-bootstrap@2.0.2
 - pkg:maven/org.webjars.npm/ngx-bootstrap@2.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/ngx-bootstrap@3.0.1
+- pkg:maven/org.webjars.npm/ngx-bootstrap@3.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.coldrye.junit/enum-test-base@1.0.0
+- pkg:maven/eu.coldrye.junit/enum-test-base@1.0.0?classifier=sources

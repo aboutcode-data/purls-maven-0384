@@ -26,3 +26,6 @@
 - pkg:maven/io.rollout.rox/rox-android@2.0.1?type=aar
 - pkg:maven/io.rollout.rox/rox-android@2.0.2?type=aar
 - pkg:maven/io.rollout.rox/rox-android@3.0.0?type=aar
+- pkg:maven/io.rollout.rox/rox-android@4.0.0?type=aar
+- pkg:maven/io.rollout.rox/rox-android@4.1.0?type=aar
+- pkg:maven/io.rollout.rox/rox-android@4.2.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.xpertss/xdbcp@2.4
+- pkg:maven/org.xpertss/xdbcp@2.4?classifier=sources

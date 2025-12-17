@@ -8,3 +8,6 @@
 - pkg:maven/me.xdrop/jrand@0.2.4-alpha?classifier=sources
 - pkg:maven/me.xdrop/jrand@0.2.5-alpha
 - pkg:maven/me.xdrop/jrand@0.2.5-alpha?classifier=sources
+- pkg:maven/me.xdrop/jrand@0.2.6-alpha
+- pkg:maven/me.xdrop/jrand@0.2.7-alpha
+- pkg:maven/me.xdrop/jrand@0.2.7-alpha?classifier=sources

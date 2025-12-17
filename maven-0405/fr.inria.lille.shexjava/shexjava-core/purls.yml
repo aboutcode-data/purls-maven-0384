@@ -1,2 +1,6 @@
 - pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.0
 - pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.0?classifier=sources
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.1a
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.1a?classifier=sources
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.1b
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.1b?classifier=sources

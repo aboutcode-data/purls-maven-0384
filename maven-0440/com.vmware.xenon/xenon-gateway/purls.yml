@@ -60,3 +60,5 @@
 - pkg:maven/com.vmware.xenon/xenon-gateway@1.5.4?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-gateway@1.5.4_8
 - pkg:maven/com.vmware.xenon/xenon-gateway@1.5.4_8?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-gateway@1.5.4_9
+- pkg:maven/com.vmware.xenon/xenon-gateway@1.5.4_9?classifier=sources

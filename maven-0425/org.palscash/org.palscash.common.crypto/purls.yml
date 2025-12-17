@@ -1,0 +1,2 @@
+- pkg:maven/org.palscash/org.palscash.common.crypto@2.10
+- pkg:maven/org.palscash/org.palscash.common.crypto@2.10?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-jgraph-mxgraph@3.9.8
+- pkg:maven/org.webjars.npm/github-com-jgraph-mxgraph@3.9.8?classifier=sources

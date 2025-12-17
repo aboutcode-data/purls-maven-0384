@@ -1,0 +1,2 @@
+- pkg:maven/com.github.andy2003/sma-reader@1.0.0
+- pkg:maven/com.github.andy2003/sma-reader@1.0.0?classifier=sources

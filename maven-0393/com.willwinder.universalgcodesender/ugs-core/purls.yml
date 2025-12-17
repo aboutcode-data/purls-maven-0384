@@ -1,0 +1,4 @@
+- pkg:maven/com.willwinder.universalgcodesender/ugs-core@2.0-JUL-26-2018
+- pkg:maven/com.willwinder.universalgcodesender/ugs-core@2.0-JUL-26-2018?classifier=sources
+- pkg:maven/com.willwinder.universalgcodesender/ugs-core@2.0-JUL-27-2018
+- pkg:maven/com.willwinder.universalgcodesender/ugs-core@2.0-JUL-27-2018?classifier=sources

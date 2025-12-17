@@ -1,0 +1,4 @@
+- pkg:maven/org.tomitribe/churchkey@0.6
+- pkg:maven/org.tomitribe/churchkey@0.6?classifier=sources
+- pkg:maven/org.tomitribe/churchkey@0.7
+- pkg:maven/org.tomitribe/churchkey@0.7?classifier=sources

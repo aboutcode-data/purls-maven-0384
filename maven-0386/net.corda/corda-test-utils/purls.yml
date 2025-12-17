@@ -8,5 +8,9 @@
 - pkg:maven/net.corda/corda-test-utils@2.0.0?classifier=sources
 - pkg:maven/net.corda/corda-test-utils@3.1-corda
 - pkg:maven/net.corda/corda-test-utils@3.1-corda?classifier=sources
+- pkg:maven/net.corda/corda-test-utils@3.2-corda
+- pkg:maven/net.corda/corda-test-utils@3.2-corda?classifier=sources
+- pkg:maven/net.corda/corda-test-utils@3.3-corda
+- pkg:maven/net.corda/corda-test-utils@3.3-corda?classifier=sources
 - pkg:maven/net.corda/corda-test-utils@corda-3.0
 - pkg:maven/net.corda/corda-test-utils@corda-3.0?classifier=sources

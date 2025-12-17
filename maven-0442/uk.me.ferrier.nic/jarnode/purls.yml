@@ -13,6 +13,12 @@
 - pkg:maven/uk.me.ferrier.nic/jarnode@1.0.16?classifier=sources
 - pkg:maven/uk.me.ferrier.nic/jarnode@1.0.1?classifier=sources
 - pkg:maven/uk.me.ferrier.nic/jarnode@1.0.2
+- pkg:maven/uk.me.ferrier.nic/jarnode@1.0.25
+- pkg:maven/uk.me.ferrier.nic/jarnode@1.0.25?classifier=sources
+- pkg:maven/uk.me.ferrier.nic/jarnode@1.0.26
+- pkg:maven/uk.me.ferrier.nic/jarnode@1.0.26?classifier=sources
+- pkg:maven/uk.me.ferrier.nic/jarnode@1.0.27
+- pkg:maven/uk.me.ferrier.nic/jarnode@1.0.27?classifier=sources
 - pkg:maven/uk.me.ferrier.nic/jarnode@1.0.2?classifier=sources
 - pkg:maven/uk.me.ferrier.nic/jarnode@1.0.3
 - pkg:maven/uk.me.ferrier.nic/jarnode@1.0.3?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-development-mode-detector@1.0.3
 - pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-development-mode-detector@1.0.3?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-development-mode-detector@2.0.0
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-development-mode-detector@2.0.0?classifier=sources
 - pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-development-mode-detector@v1.0.2
 - pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-development-mode-detector@v1.0.2?classifier=sources

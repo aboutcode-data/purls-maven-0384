@@ -12,3 +12,7 @@
 - pkg:maven/com.hotels/housekeeping@1.0.3?classifier=sources
 - pkg:maven/com.hotels/housekeeping@1.0.4
 - pkg:maven/com.hotels/housekeeping@1.0.4?classifier=sources
+- pkg:maven/com.hotels/housekeeping@2.0.0
+- pkg:maven/com.hotels/housekeeping@2.0.0?classifier=sources
+- pkg:maven/com.hotels/housekeeping@2.1.0
+- pkg:maven/com.hotels/housekeeping@2.1.0?classifier=sources

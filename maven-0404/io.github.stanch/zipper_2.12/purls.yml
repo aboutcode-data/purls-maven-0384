@@ -1,0 +1,2 @@
+- pkg:maven/io.github.stanch/zipper_2.12@0.5.2
+- pkg:maven/io.github.stanch/zipper_2.12@0.5.2?classifier=sources

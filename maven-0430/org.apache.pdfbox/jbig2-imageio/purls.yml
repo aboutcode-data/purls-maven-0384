@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.pdfbox/jbig2-imageio@3.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.pdfbox/jbig2-imageio@3.0.1?classifier=sources
 - pkg:maven/org.apache.pdfbox/jbig2-imageio@3.0.1?classifier=src&type=zip
+- pkg:maven/org.apache.pdfbox/jbig2-imageio@3.0.2
+- pkg:maven/org.apache.pdfbox/jbig2-imageio@3.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.pdfbox/jbig2-imageio@3.0.2?classifier=sources
+- pkg:maven/org.apache.pdfbox/jbig2-imageio@3.0.2?classifier=src&type=zip

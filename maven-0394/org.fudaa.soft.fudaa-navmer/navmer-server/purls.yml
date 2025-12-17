@@ -1,0 +1,2 @@
+- pkg:maven/org.fudaa.soft.fudaa-navmer/navmer-server@1.0
+- pkg:maven/org.fudaa.soft.fudaa-navmer/navmer-server@1.0?classifier=sources

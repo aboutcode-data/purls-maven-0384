@@ -6,3 +6,17 @@
 - pkg:maven/com.2oi7/mysql-table-helper@0.0.3?classifier=sources
 - pkg:maven/com.2oi7/mysql-table-helper@0.0.4
 - pkg:maven/com.2oi7/mysql-table-helper@0.0.4?classifier=sources
+- pkg:maven/com.2oi7/mysql-table-helper@0.0.5
+- pkg:maven/com.2oi7/mysql-table-helper@0.0.5?classifier=sources
+- pkg:maven/com.2oi7/mysql-table-helper@0.0.6
+- pkg:maven/com.2oi7/mysql-table-helper@0.0.6?classifier=sources
+- pkg:maven/com.2oi7/mysql-table-helper@0.0.7
+- pkg:maven/com.2oi7/mysql-table-helper@0.0.7?classifier=sources
+- pkg:maven/com.2oi7/mysql-table-helper@1.0.0
+- pkg:maven/com.2oi7/mysql-table-helper@1.0.0?classifier=sources
+- pkg:maven/com.2oi7/mysql-table-helper@1.0.1
+- pkg:maven/com.2oi7/mysql-table-helper@1.0.1?classifier=sources
+- pkg:maven/com.2oi7/mysql-table-helper@1.0.2
+- pkg:maven/com.2oi7/mysql-table-helper@1.0.2?classifier=sources
+- pkg:maven/com.2oi7/mysql-table-helper@2.0.0
+- pkg:maven/com.2oi7/mysql-table-helper@2.0.0?classifier=sources

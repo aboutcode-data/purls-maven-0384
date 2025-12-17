@@ -1,0 +1,11 @@
+- pkg:maven/com.ibasco.ucgdisplay/ucg-display@0.1-alpha?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucg-display@0.2-alpha?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucg-display@0.3-alpha?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucg-display@0.4-alpha?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucg-display@1.0-alpha?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucg-display@1.0.1-alpha?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucg-display@1.0.2-alpha?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucg-display@1.1.0-alpha?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucg-display@1.2.0-alpha?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucg-display@1.2.1-alpha?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucg-display@1.2.2-alpha?classifier=sources

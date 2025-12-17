@@ -1,0 +1,2 @@
+- pkg:maven/co.exabit.prime/prime-cache@1.0.5
+- pkg:maven/co.exabit.prime/prime-cache@1.0.5?classifier=sources

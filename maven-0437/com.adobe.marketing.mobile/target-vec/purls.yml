@@ -1,0 +1,6 @@
+- pkg:maven/com.adobe.marketing.mobile/target-vec@0.2.2-beta?classifier=sources
+- pkg:maven/com.adobe.marketing.mobile/target-vec@0.2.2-beta?type=aar
+- pkg:maven/com.adobe.marketing.mobile/target-vec@0.2.3-beta?classifier=sources
+- pkg:maven/com.adobe.marketing.mobile/target-vec@0.2.3-beta?type=aar
+- pkg:maven/com.adobe.marketing.mobile/target-vec@0.2.4-beta?classifier=sources
+- pkg:maven/com.adobe.marketing.mobile/target-vec@0.2.4-beta?type=aar

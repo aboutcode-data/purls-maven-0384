@@ -10,3 +10,5 @@
 - pkg:maven/com.vimeo.stag/stag-library-compiler@2.5.0?classifier=sources
 - pkg:maven/com.vimeo.stag/stag-library-compiler@2.5.1
 - pkg:maven/com.vimeo.stag/stag-library-compiler@2.5.1?classifier=sources
+- pkg:maven/com.vimeo.stag/stag-library-compiler@2.6.0
+- pkg:maven/com.vimeo.stag/stag-library-compiler@2.6.0?classifier=sources

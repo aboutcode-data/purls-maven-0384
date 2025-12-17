@@ -6,3 +6,5 @@
 - pkg:maven/com.fangcloud/fangcloud-java-sdk@2.2.2?type=zip
 - pkg:maven/com.fangcloud/fangcloud-java-sdk@2.2.3?classifier=sources
 - pkg:maven/com.fangcloud/fangcloud-java-sdk@2.2.3?type=zip
+- pkg:maven/com.fangcloud/fangcloud-java-sdk@2.2.4?classifier=sources
+- pkg:maven/com.fangcloud/fangcloud-java-sdk@2.2.4?type=zip

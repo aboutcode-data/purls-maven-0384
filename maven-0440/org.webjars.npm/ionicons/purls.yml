@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/ionicons@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/ionicons@4.0.0-9
 - pkg:maven/org.webjars.npm/ionicons@4.0.0-9?classifier=sources
+- pkg:maven/org.webjars.npm/ionicons@4.2.4
+- pkg:maven/org.webjars.npm/ionicons@4.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/ionicons@4.4.6
+- pkg:maven/org.webjars.npm/ionicons@4.4.6?classifier=sources

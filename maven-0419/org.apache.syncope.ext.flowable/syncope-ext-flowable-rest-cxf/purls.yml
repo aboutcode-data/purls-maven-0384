@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.syncope.ext.flowable/syncope-ext-flowable-rest-cxf@2.1.2
+- pkg:maven/org.apache.syncope.ext.flowable/syncope-ext-flowable-rest-cxf@2.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ch.timo-schmid/sbt-i18n_2.12@0.0.1
+- pkg:maven/ch.timo-schmid/sbt-i18n_2.12@0.0.1?classifier=sources

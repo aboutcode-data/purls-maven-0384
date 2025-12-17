@@ -1,0 +1,4 @@
+- pkg:maven/net.sealake/binance-api-client@1.0.0
+- pkg:maven/net.sealake/binance-api-client@1.0.0.RELEASE
+- pkg:maven/net.sealake/binance-api-client@1.0.0.RELEASE?classifier=sources
+- pkg:maven/net.sealake/binance-api-client@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/top.potens.jnet/jnet@1.0
+- pkg:maven/top.potens.jnet/jnet@1.0?classifier=sources

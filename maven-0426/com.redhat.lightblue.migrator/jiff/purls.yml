@@ -90,6 +90,10 @@
 - pkg:maven/com.redhat.lightblue.migrator/jiff@2.54.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.migrator/jiff@2.55.0
 - pkg:maven/com.redhat.lightblue.migrator/jiff@2.55.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.56.0
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.56.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.56.1
+- pkg:maven/com.redhat.lightblue.migrator/jiff@2.56.1?classifier=sources
 - pkg:maven/com.redhat.lightblue.migrator/jiff@2.8.0
 - pkg:maven/com.redhat.lightblue.migrator/jiff@2.8.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.migrator/jiff@2.8.1

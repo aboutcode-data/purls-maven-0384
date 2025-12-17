@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco.javacpp-presets/tensorrt-platform@4.0-1.4.2
+- pkg:maven/org.bytedeco.javacpp-presets/tensorrt-platform@5.0-1.4.3

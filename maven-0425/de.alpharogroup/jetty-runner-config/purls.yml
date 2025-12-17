@@ -8,6 +8,8 @@
 - pkg:maven/de.alpharogroup/jetty-runner-config@3.14.0?classifier=sources
 - pkg:maven/de.alpharogroup/jetty-runner-config@3.15.0
 - pkg:maven/de.alpharogroup/jetty-runner-config@3.15.0?classifier=sources
+- pkg:maven/de.alpharogroup/jetty-runner-config@3.16
+- pkg:maven/de.alpharogroup/jetty-runner-config@3.16?classifier=sources
 - pkg:maven/de.alpharogroup/jetty-runner-config@3.3.0
 - pkg:maven/de.alpharogroup/jetty-runner-config@3.3.0?classifier=sources
 - pkg:maven/de.alpharogroup/jetty-runner-config@3.4.0

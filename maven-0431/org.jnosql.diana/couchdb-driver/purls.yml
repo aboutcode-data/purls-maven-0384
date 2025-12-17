@@ -1,0 +1,2 @@
+- pkg:maven/org.jnosql.diana/couchdb-driver@0.0.7
+- pkg:maven/org.jnosql.diana/couchdb-driver@0.0.7?classifier=sources

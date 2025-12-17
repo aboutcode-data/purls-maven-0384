@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/stylehacks@2.2.0
 - pkg:maven/org.webjars.npm/stylehacks@2.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/stylehacks@4.0.0
+- pkg:maven/org.webjars.npm/stylehacks@4.0.0-rc.2
+- pkg:maven/org.webjars.npm/stylehacks@4.0.0-rc.2?classifier=sources
+- pkg:maven/org.webjars.npm/stylehacks@4.0.0?classifier=sources

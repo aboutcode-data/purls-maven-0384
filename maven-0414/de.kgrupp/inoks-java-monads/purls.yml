@@ -1,0 +1,4 @@
+- pkg:maven/de.kgrupp/inoks-java-monads@0.5.2.13
+- pkg:maven/de.kgrupp/inoks-java-monads@0.5.2.13?classifier=sources
+- pkg:maven/de.kgrupp/inoks-java-monads@0.6.0.1
+- pkg:maven/de.kgrupp/inoks-java-monads@0.6.0.1?classifier=sources

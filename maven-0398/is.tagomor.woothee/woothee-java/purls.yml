@@ -16,3 +16,5 @@
 - pkg:maven/is.tagomor.woothee/woothee-java@1.5.1?classifier=sources
 - pkg:maven/is.tagomor.woothee/woothee-java@1.7.0
 - pkg:maven/is.tagomor.woothee/woothee-java@1.7.0?classifier=sources
+- pkg:maven/is.tagomor.woothee/woothee-java@1.8.0
+- pkg:maven/is.tagomor.woothee/woothee-java@1.8.0?classifier=sources

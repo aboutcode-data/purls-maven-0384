@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.optional.junit@3.3.200
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.optional.junit@3.3.300

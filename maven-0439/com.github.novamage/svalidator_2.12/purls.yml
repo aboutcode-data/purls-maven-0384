@@ -22,3 +22,11 @@
 - pkg:maven/com.github.novamage/svalidator_2.12@0.9.8?classifier=sources
 - pkg:maven/com.github.novamage/svalidator_2.12@0.9.9
 - pkg:maven/com.github.novamage/svalidator_2.12@0.9.9?classifier=sources
+- pkg:maven/com.github.novamage/svalidator_2.12@1.0.0
+- pkg:maven/com.github.novamage/svalidator_2.12@1.0.0?classifier=sources
+- pkg:maven/com.github.novamage/svalidator_2.12@1.0.1
+- pkg:maven/com.github.novamage/svalidator_2.12@1.0.1?classifier=sources
+- pkg:maven/com.github.novamage/svalidator_2.12@2.0.0
+- pkg:maven/com.github.novamage/svalidator_2.12@2.0.0?classifier=sources
+- pkg:maven/com.github.novamage/svalidator_2.12@2.0.1
+- pkg:maven/com.github.novamage/svalidator_2.12@2.0.1?classifier=sources

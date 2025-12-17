@@ -1,0 +1,4 @@
+- pkg:maven/info.picocli/picocli-shell-jline2@3.7.0
+- pkg:maven/info.picocli/picocli-shell-jline2@3.7.0?classifier=sources
+- pkg:maven/info.picocli/picocli-shell-jline2@3.8.0
+- pkg:maven/info.picocli/picocli-shell-jline2@3.8.0?classifier=sources

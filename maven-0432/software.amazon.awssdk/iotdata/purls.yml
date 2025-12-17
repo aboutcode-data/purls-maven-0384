@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awssdk/iotdata@2.0.0-preview-11
+- pkg:maven/software.amazon.awssdk/iotdata@2.0.0-preview-11?classifier=sources

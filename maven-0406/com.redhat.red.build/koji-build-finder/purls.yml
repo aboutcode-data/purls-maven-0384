@@ -2,3 +2,5 @@
 - pkg:maven/com.redhat.red.build/koji-build-finder@1.0.0?classifier=sources
 - pkg:maven/com.redhat.red.build/koji-build-finder@1.1.0
 - pkg:maven/com.redhat.red.build/koji-build-finder@1.1.0?classifier=sources
+- pkg:maven/com.redhat.red.build/koji-build-finder@1.2.0
+- pkg:maven/com.redhat.red.build/koji-build-finder@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.okapi/okapi-application-tikal@0.36
+- pkg:maven/net.sf.okapi/okapi-application-tikal@0.36?classifier=sources

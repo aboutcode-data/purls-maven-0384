@@ -18,3 +18,7 @@
 - pkg:maven/com.statful.client/aspects@1.3.2?classifier=sources
 - pkg:maven/com.statful.client/aspects@2.0.0
 - pkg:maven/com.statful.client/aspects@2.0.0?classifier=sources
+- pkg:maven/com.statful.client/aspects@2.1.0
+- pkg:maven/com.statful.client/aspects@2.1.0?classifier=sources
+- pkg:maven/com.statful.client/aspects@2.1.1
+- pkg:maven/com.statful.client/aspects@2.1.1?classifier=sources

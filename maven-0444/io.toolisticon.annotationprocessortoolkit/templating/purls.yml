@@ -2,6 +2,10 @@
 - pkg:maven/io.toolisticon.annotationprocessortoolkit/templating@0.10.0?classifier=sources
 - pkg:maven/io.toolisticon.annotationprocessortoolkit/templating@0.10.1
 - pkg:maven/io.toolisticon.annotationprocessortoolkit/templating@0.10.1?classifier=sources
+- pkg:maven/io.toolisticon.annotationprocessortoolkit/templating@0.11.0
+- pkg:maven/io.toolisticon.annotationprocessortoolkit/templating@0.11.0?classifier=sources
+- pkg:maven/io.toolisticon.annotationprocessortoolkit/templating@0.11.1
+- pkg:maven/io.toolisticon.annotationprocessortoolkit/templating@0.11.1?classifier=sources
 - pkg:maven/io.toolisticon.annotationprocessortoolkit/templating@0.7.0
 - pkg:maven/io.toolisticon.annotationprocessortoolkit/templating@0.7.0?classifier=sources
 - pkg:maven/io.toolisticon.annotationprocessortoolkit/templating@0.8.0

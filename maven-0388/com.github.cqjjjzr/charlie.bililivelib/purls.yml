@@ -1,2 +1,6 @@
 - pkg:maven/com.github.cqjjjzr/charlie.bililivelib@rv1-release
 - pkg:maven/com.github.cqjjjzr/charlie.bililivelib@rv1-release?classifier=sources
+- pkg:maven/com.github.cqjjjzr/charlie.bililivelib@rv3
+- pkg:maven/com.github.cqjjjzr/charlie.bililivelib@rv3?classifier=sources
+- pkg:maven/com.github.cqjjjzr/charlie.bililivelib@rv4
+- pkg:maven/com.github.cqjjjzr/charlie.bililivelib@rv4?classifier=sources

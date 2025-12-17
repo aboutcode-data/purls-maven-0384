@@ -1,0 +1,2 @@
+- pkg:maven/org.decembrist/kotlin2js-reflection-core@0.1.0-beta-1
+- pkg:maven/org.decembrist/kotlin2js-reflection-core@0.1.0-beta-1?classifier=sources

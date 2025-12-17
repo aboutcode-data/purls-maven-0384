@@ -16,3 +16,7 @@
 - pkg:maven/org.webjars.npm/recompose@0.24.0?classifier=sources
 - pkg:maven/org.webjars.npm/recompose@0.26.0
 - pkg:maven/org.webjars.npm/recompose@0.26.0?classifier=sources
+- pkg:maven/org.webjars.npm/recompose@0.28.2
+- pkg:maven/org.webjars.npm/recompose@0.28.2?classifier=sources
+- pkg:maven/org.webjars.npm/recompose@0.30.0
+- pkg:maven/org.webjars.npm/recompose@0.30.0?classifier=sources

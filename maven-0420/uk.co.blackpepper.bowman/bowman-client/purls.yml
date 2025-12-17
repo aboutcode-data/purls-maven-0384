@@ -18,3 +18,5 @@
 - pkg:maven/uk.co.blackpepper.bowman/bowman-client@0.5.0-RELEASE2?classifier=sources
 - pkg:maven/uk.co.blackpepper.bowman/bowman-client@0.5.1
 - pkg:maven/uk.co.blackpepper.bowman/bowman-client@0.5.1?classifier=sources
+- pkg:maven/uk.co.blackpepper.bowman/bowman-client@0.6.0
+- pkg:maven/uk.co.blackpepper.bowman/bowman-client@0.6.0?classifier=sources

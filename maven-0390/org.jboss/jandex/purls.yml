@@ -62,3 +62,5 @@
 - pkg:maven/org.jboss/jandex@2.0.4.Final?classifier=sources
 - pkg:maven/org.jboss/jandex@2.0.5.Final
 - pkg:maven/org.jboss/jandex@2.0.5.Final?classifier=sources
+- pkg:maven/org.jboss/jandex@2.1.0.Beta1
+- pkg:maven/org.jboss/jandex@2.1.0.Beta1?classifier=sources

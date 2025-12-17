@@ -158,6 +158,8 @@
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.0-01?type=war
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.1-01?type=war
+- pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.10-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.10-01?type=war
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.2-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.2-01?type=war
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.3-02?classifier=sources
@@ -174,6 +176,8 @@
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.7-01?type=war
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.8-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.8-01?type=war
+- pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.9-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-webapp@2.14.9-01?type=war
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.1?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.1?type=war
 - pkg:maven/org.sonatype.nexus/nexus-webapp@2.2-01?classifier=sources

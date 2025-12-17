@@ -20,3 +20,5 @@
 - pkg:maven/com.offbytwo.jenkins/jenkins-client@0.3.6?classifier=sources
 - pkg:maven/com.offbytwo.jenkins/jenkins-client@0.3.7
 - pkg:maven/com.offbytwo.jenkins/jenkins-client@0.3.7?classifier=sources
+- pkg:maven/com.offbytwo.jenkins/jenkins-client@0.3.8
+- pkg:maven/com.offbytwo.jenkins/jenkins-client@0.3.8?classifier=sources

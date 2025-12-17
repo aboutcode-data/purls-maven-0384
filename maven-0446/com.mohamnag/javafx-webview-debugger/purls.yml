@@ -1,0 +1,2 @@
+- pkg:maven/com.mohamnag/javafx-webview-debugger@0.0.1
+- pkg:maven/com.mohamnag/javafx-webview-debugger@0.0.1?classifier=sources

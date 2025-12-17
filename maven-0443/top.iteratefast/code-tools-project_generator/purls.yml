@@ -1,0 +1,2 @@
+- pkg:maven/top.iteratefast/code-tools-project_generator@1.0.0
+- pkg:maven/top.iteratefast/code-tools-project_generator@1.0.0?classifier=sources

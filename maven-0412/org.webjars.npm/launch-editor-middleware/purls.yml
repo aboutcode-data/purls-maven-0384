@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/launch-editor-middleware@2.2.1
+- pkg:maven/org.webjars.npm/launch-editor-middleware@2.2.1?classifier=sources

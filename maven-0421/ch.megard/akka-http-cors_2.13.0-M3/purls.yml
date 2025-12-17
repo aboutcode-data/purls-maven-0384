@@ -1,2 +1,4 @@
 - pkg:maven/ch.megard/akka-http-cors_2.13.0-M3@0.3.0
 - pkg:maven/ch.megard/akka-http-cors_2.13.0-M3@0.3.0?classifier=sources
+- pkg:maven/ch.megard/akka-http-cors_2.13.0-M3@0.3.1
+- pkg:maven/ch.megard/akka-http-cors_2.13.0-M3@0.3.1?classifier=sources

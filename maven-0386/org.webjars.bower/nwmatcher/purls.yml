@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/nwmatcher@1.4.2
+- pkg:maven/org.webjars.bower/nwmatcher@1.4.2?classifier=sources

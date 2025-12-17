@@ -1,0 +1,2 @@
+- pkg:maven/no.sysco.middleware.kafka/kafka-interceptor-config@0.1.1
+- pkg:maven/no.sysco.middleware.kafka/kafka-interceptor-config@0.1.1?classifier=sources

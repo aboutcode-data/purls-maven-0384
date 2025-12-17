@@ -1,0 +1,2 @@
+- pkg:maven/com.oliphantllc/jtidy@2.2.12
+- pkg:maven/com.oliphantllc/jtidy@2.2.12?classifier=sources

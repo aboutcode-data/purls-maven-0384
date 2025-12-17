@@ -1,0 +1,2 @@
+- pkg:maven/it.rebase/rebot-weather-plugin@0.2
+- pkg:maven/it.rebase/rebot-weather-plugin@0.2?classifier=sources

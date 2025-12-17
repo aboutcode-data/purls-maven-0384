@@ -1,0 +1,4 @@
+- pkg:maven/me.tatarka.shard/shard-nav@1.0.0-alpha01?classifier=sources
+- pkg:maven/me.tatarka.shard/shard-nav@1.0.0-alpha01?type=aar
+- pkg:maven/me.tatarka.shard/shard-nav@1.0.0-alpha02?classifier=sources
+- pkg:maven/me.tatarka.shard/shard-nav@1.0.0-alpha02?type=aar

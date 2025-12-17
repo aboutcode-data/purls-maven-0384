@@ -1,0 +1,10 @@
+- pkg:maven/io.github.ma1uta.matrix/client-api@0.4.1
+- pkg:maven/io.github.ma1uta.matrix/client-api@0.4.1?classifier=sources
+- pkg:maven/io.github.ma1uta.matrix/client-api@r0.4.0-1
+- pkg:maven/io.github.ma1uta.matrix/client-api@r0.4.0-1?classifier=sources
+- pkg:maven/io.github.ma1uta.matrix/client-api@r0.4.0-2
+- pkg:maven/io.github.ma1uta.matrix/client-api@r0.4.0-2?classifier=sources
+- pkg:maven/io.github.ma1uta.matrix/client-api@r0.4.0-3-beta1
+- pkg:maven/io.github.ma1uta.matrix/client-api@r0.4.0-3-beta1?classifier=sources
+- pkg:maven/io.github.ma1uta.matrix/client-api@r0.4.0-3-beta2
+- pkg:maven/io.github.ma1uta.matrix/client-api@r0.4.0-3-beta2?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/rc-upload@2.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/rc-upload@2.4.4
 - pkg:maven/org.webjars.npm/rc-upload@2.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/rc-upload@2.5.1
+- pkg:maven/org.webjars.npm/rc-upload@2.5.1?classifier=sources

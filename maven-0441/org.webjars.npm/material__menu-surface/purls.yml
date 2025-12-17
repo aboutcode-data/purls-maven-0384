@@ -1,0 +1,12 @@
+- pkg:maven/org.webjars.npm/material__menu-surface@0.39.0
+- pkg:maven/org.webjars.npm/material__menu-surface@0.39.0-0
+- pkg:maven/org.webjars.npm/material__menu-surface@0.39.0-0?classifier=sources
+- pkg:maven/org.webjars.npm/material__menu-surface@0.39.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__menu-surface@0.39.1
+- pkg:maven/org.webjars.npm/material__menu-surface@0.39.1?classifier=sources
+- pkg:maven/org.webjars.npm/material__menu-surface@0.40.0
+- pkg:maven/org.webjars.npm/material__menu-surface@0.40.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__menu-surface@0.40.1
+- pkg:maven/org.webjars.npm/material__menu-surface@0.40.1?classifier=sources
+- pkg:maven/org.webjars.npm/material__menu-surface@0.41.0
+- pkg:maven/org.webjars.npm/material__menu-surface@0.41.0?classifier=sources

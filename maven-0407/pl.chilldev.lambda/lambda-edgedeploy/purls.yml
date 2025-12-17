@@ -1,0 +1,2 @@
+- pkg:maven/pl.chilldev.lambda/lambda-edgedeploy@0.0.2
+- pkg:maven/pl.chilldev.lambda/lambda-edgedeploy@0.0.2?classifier=sources

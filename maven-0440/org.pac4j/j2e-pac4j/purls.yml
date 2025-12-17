@@ -42,3 +42,5 @@
 - pkg:maven/org.pac4j/j2e-pac4j@4.0.0-RC2
 - pkg:maven/org.pac4j/j2e-pac4j@4.0.0-RC2?classifier=sources
 - pkg:maven/org.pac4j/j2e-pac4j@4.0.0?classifier=sources
+- pkg:maven/org.pac4j/j2e-pac4j@4.1.0
+- pkg:maven/org.pac4j/j2e-pac4j@4.1.0?classifier=sources

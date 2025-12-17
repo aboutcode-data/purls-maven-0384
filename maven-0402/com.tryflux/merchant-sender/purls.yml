@@ -1,0 +1,4 @@
+- pkg:maven/com.tryflux/merchant-sender@2018.08.24
+- pkg:maven/com.tryflux/merchant-sender@2018.08.24?classifier=sources
+- pkg:maven/com.tryflux/merchant-sender@2018.08.29
+- pkg:maven/com.tryflux/merchant-sender@2018.08.29?classifier=sources

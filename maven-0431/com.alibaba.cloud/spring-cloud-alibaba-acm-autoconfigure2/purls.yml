@@ -1,2 +1,4 @@
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-acm-autoconfigure2@1.0.7
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-acm-autoconfigure2@1.0.7?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-acm-autoconfigure2@1.0.8-RC1
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-acm-autoconfigure2@1.0.8-RC1?classifier=sources

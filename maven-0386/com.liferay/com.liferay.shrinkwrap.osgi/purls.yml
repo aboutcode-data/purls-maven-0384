@@ -1,2 +1,5 @@
 - pkg:maven/com.liferay/com.liferay.shrinkwrap.osgi@1.0.0
 - pkg:maven/com.liferay/com.liferay.shrinkwrap.osgi@1.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.shrinkwrap.osgi@2.0.0
+- pkg:maven/com.liferay/com.liferay.shrinkwrap.osgi@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.shrinkwrap.osgi@2.0.0?classifier=sources-commercial

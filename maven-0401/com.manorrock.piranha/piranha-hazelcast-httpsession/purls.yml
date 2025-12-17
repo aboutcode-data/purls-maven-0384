@@ -1,0 +1,2 @@
+- pkg:maven/com.manorrock.piranha/piranha-hazelcast-httpsession@4.0.5.0
+- pkg:maven/com.manorrock.piranha/piranha-hazelcast-httpsession@4.0.5.0?classifier=sources

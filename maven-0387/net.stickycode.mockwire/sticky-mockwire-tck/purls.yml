@@ -1,3 +1,5 @@
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@10.1
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@10.1?classifier=sources
 - pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@5.5
 - pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@5.5?classifier=sources
 - pkg:maven/net.stickycode.mockwire/sticky-mockwire-tck@6.2

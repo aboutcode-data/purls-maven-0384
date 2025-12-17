@@ -11,6 +11,8 @@
 - pkg:maven/ro.derbederos.hamcrest/lambdamatchers@0.15?classifier=sources
 - pkg:maven/ro.derbederos.hamcrest/lambdamatchers@0.16
 - pkg:maven/ro.derbederos.hamcrest/lambdamatchers@0.16?classifier=sources
+- pkg:maven/ro.derbederos.hamcrest/lambdamatchers@0.17
+- pkg:maven/ro.derbederos.hamcrest/lambdamatchers@0.17?classifier=sources
 - pkg:maven/ro.derbederos.hamcrest/lambdamatchers@0.1?classifier=sources
 - pkg:maven/ro.derbederos.hamcrest/lambdamatchers@0.2
 - pkg:maven/ro.derbederos.hamcrest/lambdamatchers@0.2?classifier=sources

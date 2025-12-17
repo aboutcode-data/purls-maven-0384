@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-dollarshaveclub-shave@2.2.2
+- pkg:maven/org.webjars.npm/github-com-dollarshaveclub-shave@2.2.2?classifier=sources

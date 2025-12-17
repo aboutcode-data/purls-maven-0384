@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ing8ar.metrics-common-tags/metrics-common-tags-autoconfigure@0.1.0
+- pkg:maven/io.github.ing8ar.metrics-common-tags/metrics-common-tags-autoconfigure@0.1.0?classifier=sources

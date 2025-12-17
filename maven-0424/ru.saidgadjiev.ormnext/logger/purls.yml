@@ -1,0 +1,4 @@
+- pkg:maven/ru.saidgadjiev.ormnext/logger@1.16
+- pkg:maven/ru.saidgadjiev.ormnext/logger@1.16?classifier=sources
+- pkg:maven/ru.saidgadjiev.ormnext/logger@1.17
+- pkg:maven/ru.saidgadjiev.ormnext/logger@1.17?classifier=sources
