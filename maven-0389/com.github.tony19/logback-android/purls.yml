@@ -44,3 +44,7 @@
 - pkg:maven/com.github.tony19/logback-android@1.3.0-1?type=aar
 - pkg:maven/com.github.tony19/logback-android@1.3.0-2?classifier=sources
 - pkg:maven/com.github.tony19/logback-android@1.3.0-2?type=aar
+- pkg:maven/com.github.tony19/logback-android@1.3.0-3?classifier=sources
+- pkg:maven/com.github.tony19/logback-android@1.3.0-3?type=aar
+- pkg:maven/com.github.tony19/logback-android@2.0.0?classifier=sources
+- pkg:maven/com.github.tony19/logback-android@2.0.0?type=aar

@@ -1,4 +1,10 @@
 - pkg:maven/net.wasdev.wlp.tracer/liberty-opentracing-zipkintracer@1.0
 - pkg:maven/net.wasdev.wlp.tracer/liberty-opentracing-zipkintracer@1.0?classifier=sources
 - pkg:maven/net.wasdev.wlp.tracer/liberty-opentracing-zipkintracer@1.1
+- pkg:maven/net.wasdev.wlp.tracer/liberty-opentracing-zipkintracer@1.1.1
+- pkg:maven/net.wasdev.wlp.tracer/liberty-opentracing-zipkintracer@1.1.1?classifier=sources
+- pkg:maven/net.wasdev.wlp.tracer/liberty-opentracing-zipkintracer@1.1.2
+- pkg:maven/net.wasdev.wlp.tracer/liberty-opentracing-zipkintracer@1.1.2?classifier=sources
 - pkg:maven/net.wasdev.wlp.tracer/liberty-opentracing-zipkintracer@1.1?classifier=sources
+- pkg:maven/net.wasdev.wlp.tracer/liberty-opentracing-zipkintracer@1.2
+- pkg:maven/net.wasdev.wlp.tracer/liberty-opentracing-zipkintracer@1.2?classifier=sources

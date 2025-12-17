@@ -1,0 +1,8 @@
+- pkg:maven/com.cognitect.aws/gamelift@668.2.364.0
+- pkg:maven/com.cognitect.aws/gamelift@668.2.364.0?classifier=sources
+- pkg:maven/com.cognitect.aws/gamelift@697.2.391.0
+- pkg:maven/com.cognitect.aws/gamelift@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/gamelift@704.2.399.0
+- pkg:maven/com.cognitect.aws/gamelift@704.2.399.0?classifier=sources
+- pkg:maven/com.cognitect.aws/gamelift@712.2.417.0
+- pkg:maven/com.cognitect.aws/gamelift@712.2.417.0?classifier=sources

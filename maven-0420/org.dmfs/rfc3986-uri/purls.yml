@@ -25,4 +25,6 @@
 - pkg:maven/org.dmfs/rfc3986-uri@0.7
 - pkg:maven/org.dmfs/rfc3986-uri@0.7?classifier=sources
 - pkg:maven/org.dmfs/rfc3986-uri@0.8
+- pkg:maven/org.dmfs/rfc3986-uri@0.8.1
+- pkg:maven/org.dmfs/rfc3986-uri@0.8.1?classifier=sources
 - pkg:maven/org.dmfs/rfc3986-uri@0.8?classifier=sources

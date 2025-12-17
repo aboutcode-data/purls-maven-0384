@@ -68,6 +68,7 @@
 - pkg:maven/de.halfbit/magnet-kotlin@2.8-RC9
 - pkg:maven/de.halfbit/magnet-kotlin@2.8-RC9?classifier=sources
 - pkg:maven/de.halfbit/magnet-kotlin@2.8?classifier=sources
+- pkg:maven/de.halfbit/magnet-kotlin@3.0
 - pkg:maven/de.halfbit/magnet-kotlin@3.0-alpha1
 - pkg:maven/de.halfbit/magnet-kotlin@3.0-alpha1?classifier=sources
 - pkg:maven/de.halfbit/magnet-kotlin@3.0-alpha2
@@ -90,3 +91,12 @@
 - pkg:maven/de.halfbit/magnet-kotlin@3.0-beta1?classifier=sources
 - pkg:maven/de.halfbit/magnet-kotlin@3.0-beta2
 - pkg:maven/de.halfbit/magnet-kotlin@3.0-beta2?classifier=sources
+- pkg:maven/de.halfbit/magnet-kotlin@3.0-beta3
+- pkg:maven/de.halfbit/magnet-kotlin@3.0-beta3?classifier=sources
+- pkg:maven/de.halfbit/magnet-kotlin@3.0-beta4
+- pkg:maven/de.halfbit/magnet-kotlin@3.0-beta4?classifier=sources
+- pkg:maven/de.halfbit/magnet-kotlin@3.0-rc1
+- pkg:maven/de.halfbit/magnet-kotlin@3.0-rc1?classifier=sources
+- pkg:maven/de.halfbit/magnet-kotlin@3.0?classifier=sources
+- pkg:maven/de.halfbit/magnet-kotlin@3.1-alpha1
+- pkg:maven/de.halfbit/magnet-kotlin@3.1-alpha1?classifier=sources

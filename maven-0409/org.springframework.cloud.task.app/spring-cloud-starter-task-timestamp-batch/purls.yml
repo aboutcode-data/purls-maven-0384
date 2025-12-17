@@ -2,3 +2,5 @@
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-starter-task-timestamp-batch@1.0.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-starter-task-timestamp-batch@2.0.0.RELEASE
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-starter-task-timestamp-batch@2.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.task.app/spring-cloud-starter-task-timestamp-batch@2.1.0.RELEASE
+- pkg:maven/org.springframework.cloud.task.app/spring-cloud-starter-task-timestamp-batch@2.1.0.RELEASE?classifier=sources

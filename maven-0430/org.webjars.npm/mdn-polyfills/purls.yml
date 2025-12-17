@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/mdn-polyfills@5.16.0
+- pkg:maven/org.webjars.npm/mdn-polyfills@5.16.0?classifier=sources
 - pkg:maven/org.webjars.npm/mdn-polyfills@5.8.0
 - pkg:maven/org.webjars.npm/mdn-polyfills@5.8.0?classifier=sources

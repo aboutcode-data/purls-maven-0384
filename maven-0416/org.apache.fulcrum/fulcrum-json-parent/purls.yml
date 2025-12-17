@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.fulcrum/fulcrum-json-parent@1.1.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.fulcrum/fulcrum-json-parent@1.1.1?classifier=src&type=zip
+- pkg:maven/org.apache.fulcrum/fulcrum-json-parent@2.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.fulcrum/fulcrum-json-parent@2.0.0?classifier=src&type=zip

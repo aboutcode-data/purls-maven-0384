@@ -1,2 +1,4 @@
 - pkg:maven/com.liferay.poshi.runner.resources/portal-ee-6.1.x@20180516095228-87f131d
 - pkg:maven/com.liferay.poshi.runner.resources/portal-ee-6.1.x@20180823155837-4cedd9e
+- pkg:maven/com.liferay.poshi.runner.resources/portal-ee-6.1.x@20190110114651-2943909
+- pkg:maven/com.liferay.poshi.runner.resources/portal-ee-6.1.x@20190325111923-20a286f

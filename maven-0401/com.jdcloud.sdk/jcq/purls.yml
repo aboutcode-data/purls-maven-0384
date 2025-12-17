@@ -1,0 +1,2 @@
+- pkg:maven/com.jdcloud.sdk/jcq@1.0.1
+- pkg:maven/com.jdcloud.sdk/jcq@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/scala-chart_2.13.0-M5@0.7.0
+- pkg:maven/de.sciss/scala-chart_2.13.0-M5@0.7.0?classifier=sources

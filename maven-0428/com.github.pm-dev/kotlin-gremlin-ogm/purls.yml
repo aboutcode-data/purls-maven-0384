@@ -12,4 +12,6 @@
 - pkg:maven/com.github.pm-dev/kotlin-gremlin-ogm@0.16.0?classifier=sources
 - pkg:maven/com.github.pm-dev/kotlin-gremlin-ogm@0.17.0?classifier=sources
 - pkg:maven/com.github.pm-dev/kotlin-gremlin-ogm@0.18.0?classifier=sources
+- pkg:maven/com.github.pm-dev/kotlin-gremlin-ogm@0.20.0?classifier=sources
+- pkg:maven/com.github.pm-dev/kotlin-gremlin-ogm@0.21.0?classifier=sources
 - pkg:maven/com.github.pm-dev/kotlin-gremlin-ogm@0.9.6?classifier=sources

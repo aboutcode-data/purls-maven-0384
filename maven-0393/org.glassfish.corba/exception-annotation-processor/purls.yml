@@ -44,6 +44,7 @@
 - pkg:maven/org.glassfish.corba/exception-annotation-processor@4.1.0?classifier=sources
 - pkg:maven/org.glassfish.corba/exception-annotation-processor@4.1.1-b001
 - pkg:maven/org.glassfish.corba/exception-annotation-processor@4.1.1-b001?classifier=sources
+- pkg:maven/org.glassfish.corba/exception-annotation-processor@4.2.0
 - pkg:maven/org.glassfish.corba/exception-annotation-processor@4.2.0-b001
 - pkg:maven/org.glassfish.corba/exception-annotation-processor@4.2.0-b001?classifier=sources
 - pkg:maven/org.glassfish.corba/exception-annotation-processor@4.2.0-b002
@@ -52,3 +53,4 @@
 - pkg:maven/org.glassfish.corba/exception-annotation-processor@4.2.0-b003?classifier=sources
 - pkg:maven/org.glassfish.corba/exception-annotation-processor@4.2.0-b004
 - pkg:maven/org.glassfish.corba/exception-annotation-processor@4.2.0-b004?classifier=sources
+- pkg:maven/org.glassfish.corba/exception-annotation-processor@4.2.0?classifier=sources

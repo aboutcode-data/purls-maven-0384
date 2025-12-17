@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.schedule4j/schedule4j-cron@1.0.0
+- pkg:maven/io.gitlab.schedule4j/schedule4j-cron@1.0.0?classifier=sources

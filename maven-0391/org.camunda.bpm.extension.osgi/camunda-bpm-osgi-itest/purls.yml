@@ -2,3 +2,5 @@
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi-itest@3.0.0
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi-itest@4.0.0
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi-itest@4.1.0
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi-itest@5.0.0
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi-itest@5.1.0

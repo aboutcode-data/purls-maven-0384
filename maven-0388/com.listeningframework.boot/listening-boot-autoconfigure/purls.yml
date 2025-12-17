@@ -14,3 +14,5 @@
 - pkg:maven/com.listeningframework.boot/listening-boot-autoconfigure@1.5.9.2?classifier=sources
 - pkg:maven/com.listeningframework.boot/listening-boot-autoconfigure@1.5.9.3
 - pkg:maven/com.listeningframework.boot/listening-boot-autoconfigure@1.5.9.3?classifier=sources
+- pkg:maven/com.listeningframework.boot/listening-boot-autoconfigure@2.0.4.0
+- pkg:maven/com.listeningframework.boot/listening-boot-autoconfigure@2.0.4.0?classifier=sources

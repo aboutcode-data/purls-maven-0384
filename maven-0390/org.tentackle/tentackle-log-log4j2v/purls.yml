@@ -1,0 +1,6 @@
+- pkg:maven/org.tentackle/tentackle-log-log4j2v@11.2.3.0
+- pkg:maven/org.tentackle/tentackle-log-log4j2v@11.2.3.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-log-log4j2v@11.3.0.0
+- pkg:maven/org.tentackle/tentackle-log-log4j2v@11.3.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-log-log4j2v@2.2.0
+- pkg:maven/org.tentackle/tentackle-log-log4j2v@2.2.0?classifier=sources

@@ -2,6 +2,10 @@
 - pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.10.2
 - pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.10.2?classifier=sources
 - pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.10?classifier=sources
+- pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.11.2
+- pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.11.2?classifier=sources
+- pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.12.0
+- pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.12.0?classifier=sources
 - pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.8
 - pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.8.1
 - pkg:maven/org.daisy.maven/xproc-engine-daisy-pipeline@1.8.1?classifier=sources

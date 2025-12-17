@@ -1,2 +1,4 @@
 - pkg:maven/org.jnosql.diana/couchdb-driver@0.0.7
 - pkg:maven/org.jnosql.diana/couchdb-driver@0.0.7?classifier=sources
+- pkg:maven/org.jnosql.diana/couchdb-driver@0.0.8
+- pkg:maven/org.jnosql.diana/couchdb-driver@0.0.8?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/com.prezi.haxe/gradle-haxe-plugin@5.0?classifier=sources
 - pkg:maven/com.prezi.haxe/gradle-haxe-plugin@5.1
 - pkg:maven/com.prezi.haxe/gradle-haxe-plugin@5.1?classifier=sources
+- pkg:maven/com.prezi.haxe/gradle-haxe-plugin@7.0
+- pkg:maven/com.prezi.haxe/gradle-haxe-plugin@7.0?classifier=sources

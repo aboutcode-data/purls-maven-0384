@@ -2,3 +2,5 @@
 - pkg:maven/com.mageddo/spring-hawtio@2.0.2?classifier=sources
 - pkg:maven/com.mageddo/spring-hawtio@2.0.2_1.1.0
 - pkg:maven/com.mageddo/spring-hawtio@2.0.2_1.1.0?classifier=sources
+- pkg:maven/com.mageddo/spring-hawtio@2.3.0_1.2.0
+- pkg:maven/com.mageddo/spring-hawtio@2.3.0_1.2.0?classifier=sources

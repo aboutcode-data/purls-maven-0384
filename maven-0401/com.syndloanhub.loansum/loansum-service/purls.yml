@@ -1,0 +1,4 @@
+- pkg:maven/com.syndloanhub.loansum/loansum-service@0.1.0-beta?classifier=sources
+- pkg:maven/com.syndloanhub.loansum/loansum-service@0.1.0-beta?type=war
+- pkg:maven/com.syndloanhub.loansum/loansum-service@0.1.1-beta?classifier=sources
+- pkg:maven/com.syndloanhub.loansum/loansum-service@0.1.1-beta?type=war

@@ -26,3 +26,5 @@
 - pkg:maven/org.spire-math/kind-projector_2.10@0.9.7?classifier=sources
 - pkg:maven/org.spire-math/kind-projector_2.10@0.9.8
 - pkg:maven/org.spire-math/kind-projector_2.10@0.9.8?classifier=sources
+- pkg:maven/org.spire-math/kind-projector_2.10@0.9.9
+- pkg:maven/org.spire-math/kind-projector_2.10@0.9.9?classifier=sources

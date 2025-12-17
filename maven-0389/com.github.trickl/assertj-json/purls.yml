@@ -1,0 +1,6 @@
+- pkg:maven/com.github.trickl/assertj-json@0.2.8
+- pkg:maven/com.github.trickl/assertj-json@0.2.8?classifier=sources
+- pkg:maven/com.github.trickl/assertj-json@untagged-29d09ff2ecdfc1159030
+- pkg:maven/com.github.trickl/assertj-json@untagged-29d09ff2ecdfc1159030?classifier=sources
+- pkg:maven/com.github.trickl/assertj-json@untagged-b0d6f44b3faaef7d769a
+- pkg:maven/com.github.trickl/assertj-json@untagged-b0d6f44b3faaef7d769a?classifier=sources

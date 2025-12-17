@@ -4,3 +4,5 @@
 - pkg:maven/pl.kaszaq.howfastyouaregoing/howfastyouaregoing-core@0.4?classifier=sources
 - pkg:maven/pl.kaszaq.howfastyouaregoing/howfastyouaregoing-core@0.5
 - pkg:maven/pl.kaszaq.howfastyouaregoing/howfastyouaregoing-core@0.5?classifier=sources
+- pkg:maven/pl.kaszaq.howfastyouaregoing/howfastyouaregoing-core@0.6
+- pkg:maven/pl.kaszaq.howfastyouaregoing/howfastyouaregoing-core@0.6?classifier=sources

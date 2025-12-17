@@ -1,0 +1,4 @@
+- pkg:maven/com.webank/weidentity-contract-java@1.0.0
+- pkg:maven/com.webank/weidentity-contract-java@1.0.0?classifier=sources
+- pkg:maven/com.webank/weidentity-contract-java@1.1.0
+- pkg:maven/com.webank/weidentity-contract-java@1.1.0?classifier=sources

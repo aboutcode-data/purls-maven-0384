@@ -2,3 +2,7 @@
 - pkg:maven/wf.bitcoin/bitcoinj-core@0.15-cm01?classifier=sources
 - pkg:maven/wf.bitcoin/bitcoinj-core@0.15-cm04
 - pkg:maven/wf.bitcoin/bitcoinj-core@0.15-cm04?classifier=sources
+- pkg:maven/wf.bitcoin/bitcoinj-core@0.15-cm05
+- pkg:maven/wf.bitcoin/bitcoinj-core@0.15-cm05?classifier=sources
+- pkg:maven/wf.bitcoin/bitcoinj-core@0.15-cm06
+- pkg:maven/wf.bitcoin/bitcoinj-core@0.15-cm06?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.qvantel/jsonapi-scala-akka_2.12@8.2.0
+- pkg:maven/com.qvantel/jsonapi-scala-akka_2.12@8.2.0?classifier=sources

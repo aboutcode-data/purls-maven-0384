@@ -20,3 +20,5 @@
 - pkg:maven/com.pojosontheweb/selenium-utils-groovy@1.4.9
 - pkg:maven/com.pojosontheweb/selenium-utils-groovy@1.4.9?classifier=sources
 - pkg:maven/com.pojosontheweb/selenium-utils-groovy@1.4?classifier=sources
+- pkg:maven/com.pojosontheweb/selenium-utils-groovy@2.0-rc1
+- pkg:maven/com.pojosontheweb/selenium-utils-groovy@2.0-rc1?classifier=sources

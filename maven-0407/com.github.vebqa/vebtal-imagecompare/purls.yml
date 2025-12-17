@@ -1,0 +1,8 @@
+- pkg:maven/com.github.vebqa/vebtal-imagecompare@0.9.4
+- pkg:maven/com.github.vebqa/vebtal-imagecompare@0.9.4?classifier=sources
+- pkg:maven/com.github.vebqa/vebtal-imagecompare@0.9.6
+- pkg:maven/com.github.vebqa/vebtal-imagecompare@0.9.6?classifier=sources
+- pkg:maven/com.github.vebqa/vebtal-imagecompare@0.9.7
+- pkg:maven/com.github.vebqa/vebtal-imagecompare@0.9.7?classifier=sources
+- pkg:maven/com.github.vebqa/vebtal-imagecompare@0.9.8
+- pkg:maven/com.github.vebqa/vebtal-imagecompare@0.9.8?classifier=sources

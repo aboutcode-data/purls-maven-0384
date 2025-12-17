@@ -1,1 +1,2 @@
 - pkg:maven/org.wikidata.query.rdf/gui@0.3.0
+- pkg:maven/org.wikidata.query.rdf/gui@0.3.1

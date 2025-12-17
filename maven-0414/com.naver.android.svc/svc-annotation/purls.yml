@@ -1,0 +1,2 @@
+- pkg:maven/com.naver.android.svc/svc-annotation@1.0.0-beta32
+- pkg:maven/com.naver.android.svc/svc-annotation@1.0.0-beta32?classifier=sources

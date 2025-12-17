@@ -1,0 +1,4 @@
+- pkg:maven/com.github.fracpete/serialized-model-viewer-weka-package@2019.1.27
+- pkg:maven/com.github.fracpete/serialized-model-viewer-weka-package@2019.1.27?classifier=sources
+- pkg:maven/com.github.fracpete/serialized-model-viewer-weka-package@2019.2.14
+- pkg:maven/com.github.fracpete/serialized-model-viewer-weka-package@2019.2.14?classifier=sources

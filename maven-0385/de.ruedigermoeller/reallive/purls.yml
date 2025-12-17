@@ -124,3 +124,13 @@
 - pkg:maven/de.ruedigermoeller/reallive@4.26.2
 - pkg:maven/de.ruedigermoeller/reallive@4.26.2?classifier=sources
 - pkg:maven/de.ruedigermoeller/reallive@4.26?classifier=sources
+- pkg:maven/de.ruedigermoeller/reallive@4.27
+- pkg:maven/de.ruedigermoeller/reallive@4.27.1
+- pkg:maven/de.ruedigermoeller/reallive@4.27.1?classifier=sources
+- pkg:maven/de.ruedigermoeller/reallive@4.27.2
+- pkg:maven/de.ruedigermoeller/reallive@4.27.2?classifier=sources
+- pkg:maven/de.ruedigermoeller/reallive@4.27?classifier=sources
+- pkg:maven/de.ruedigermoeller/reallive@4.28
+- pkg:maven/de.ruedigermoeller/reallive@4.28.1
+- pkg:maven/de.ruedigermoeller/reallive@4.28.1?classifier=sources
+- pkg:maven/de.ruedigermoeller/reallive@4.28?classifier=sources

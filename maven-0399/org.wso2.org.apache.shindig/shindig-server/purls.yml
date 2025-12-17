@@ -10,3 +10,7 @@
 - pkg:maven/org.wso2.org.apache.shindig/shindig-server@2.5.2-wso2v5?type=war
 - pkg:maven/org.wso2.org.apache.shindig/shindig-server@2.5.2-wso2v6?classifier=sources
 - pkg:maven/org.wso2.org.apache.shindig/shindig-server@2.5.2-wso2v6?type=war
+- pkg:maven/org.wso2.org.apache.shindig/shindig-server@2.5.2-wso2v7?classifier=sources
+- pkg:maven/org.wso2.org.apache.shindig/shindig-server@2.5.2-wso2v7?type=war
+- pkg:maven/org.wso2.org.apache.shindig/shindig-server@2.5.2-wso2v8?classifier=sources
+- pkg:maven/org.wso2.org.apache.shindig/shindig-server@2.5.2-wso2v8?type=war

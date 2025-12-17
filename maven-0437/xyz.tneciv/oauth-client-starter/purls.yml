@@ -1,2 +1,4 @@
 - pkg:maven/xyz.tneciv/oauth-client-starter@1.0.0
 - pkg:maven/xyz.tneciv/oauth-client-starter@1.0.0?classifier=sources
+- pkg:maven/xyz.tneciv/oauth-client-starter@2.0.0
+- pkg:maven/xyz.tneciv/oauth-client-starter@2.0.0?classifier=sources

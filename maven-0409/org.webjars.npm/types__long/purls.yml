@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__long@3.0.32
 - pkg:maven/org.webjars.npm/types__long@3.0.32?classifier=sources
+- pkg:maven/org.webjars.npm/types__long@4.0.0
+- pkg:maven/org.webjars.npm/types__long@4.0.0?classifier=sources

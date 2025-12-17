@@ -34,3 +34,7 @@
 - pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper@2.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper@2.0.9
 - pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper@2.0.9?classifier=sources
+- pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper@2.1.0
+- pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper@2.1.0?classifier=sources
+- pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper@2.1.1
+- pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.zookeeper@2.1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/ee.sk.mid/mid-rest-java-client@1.0
+- pkg:maven/ee.sk.mid/mid-rest-java-client@1.0?classifier=sources
+- pkg:maven/ee.sk.mid/mid-rest-java-client@1.1
+- pkg:maven/ee.sk.mid/mid-rest-java-client@1.1?classifier=sources

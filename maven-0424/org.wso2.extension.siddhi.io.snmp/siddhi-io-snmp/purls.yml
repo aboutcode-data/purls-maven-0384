@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.extension.siddhi.io.snmp/siddhi-io-snmp@1.0.0
+- pkg:maven/org.wso2.extension.siddhi.io.snmp/siddhi-io-snmp@1.0.0?classifier=sources

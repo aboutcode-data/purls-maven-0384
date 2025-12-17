@@ -1,0 +1,2 @@
+- pkg:maven/br.ufsc.bridge/soap-api@0.0.7
+- pkg:maven/br.ufsc.bridge/soap-api@0.0.7?classifier=sources

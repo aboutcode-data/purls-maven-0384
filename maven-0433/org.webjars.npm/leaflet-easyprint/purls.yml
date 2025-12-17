@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/leaflet-easyprint@2.1.9
+- pkg:maven/org.webjars.npm/leaflet-easyprint@2.1.9?classifier=sources

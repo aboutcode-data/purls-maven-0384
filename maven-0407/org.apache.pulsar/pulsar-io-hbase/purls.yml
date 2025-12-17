@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pulsar/pulsar-io-hbase@2.3.0
+- pkg:maven/org.apache.pulsar/pulsar-io-hbase@2.3.0?classifier=sources

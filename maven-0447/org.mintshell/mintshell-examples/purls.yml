@@ -1,1 +1,3 @@
 - pkg:maven/org.mintshell/mintshell-examples@0.1.0?classifier=sources
+- pkg:maven/org.mintshell/mintshell-examples@0.2.0?classifier=sources
+- pkg:maven/org.mintshell/mintshell-examples@0.3.0?classifier=sources

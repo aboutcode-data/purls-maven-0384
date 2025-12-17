@@ -4,3 +4,5 @@
 - pkg:maven/com.fusioncharts.fusionexport/fusionexport@1.0.0-rc
 - pkg:maven/com.fusioncharts.fusionexport/fusionexport@1.0.0-rc?classifier=sources
 - pkg:maven/com.fusioncharts.fusionexport/fusionexport@1.0.0?classifier=sources
+- pkg:maven/com.fusioncharts.fusionexport/fusionexport@1.1.0
+- pkg:maven/com.fusioncharts.fusionexport/fusionexport@1.1.0?classifier=sources

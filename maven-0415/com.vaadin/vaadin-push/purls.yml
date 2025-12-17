@@ -104,6 +104,8 @@
 - pkg:maven/com.vaadin/vaadin-push@7.7.13
 - pkg:maven/com.vaadin/vaadin-push@7.7.14
 - pkg:maven/com.vaadin/vaadin-push@7.7.15
+- pkg:maven/com.vaadin/vaadin-push@7.7.16
+- pkg:maven/com.vaadin/vaadin-push@7.7.17
 - pkg:maven/com.vaadin/vaadin-push@7.7.2
 - pkg:maven/com.vaadin/vaadin-push@7.7.3
 - pkg:maven/com.vaadin/vaadin-push@7.7.4
@@ -172,3 +174,15 @@
 - pkg:maven/com.vaadin/vaadin-push@8.6.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-push@8.6.1
 - pkg:maven/com.vaadin/vaadin-push@8.6.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-push@8.6.2
+- pkg:maven/com.vaadin/vaadin-push@8.6.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-push@8.6.3
+- pkg:maven/com.vaadin/vaadin-push@8.6.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-push@8.6.4
+- pkg:maven/com.vaadin/vaadin-push@8.6.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-push@8.7.0
+- pkg:maven/com.vaadin/vaadin-push@8.7.0.beta1
+- pkg:maven/com.vaadin/vaadin-push@8.7.0.beta1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-push@8.7.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-push@8.7.1
+- pkg:maven/com.vaadin/vaadin-push@8.7.1?classifier=sources

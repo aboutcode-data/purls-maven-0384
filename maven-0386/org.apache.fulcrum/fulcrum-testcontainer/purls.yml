@@ -4,3 +4,7 @@
 - pkg:maven/org.apache.fulcrum/fulcrum-testcontainer@1.0.6?classifier=src&type=zip
 - pkg:maven/org.apache.fulcrum/fulcrum-testcontainer@1.0.7
 - pkg:maven/org.apache.fulcrum/fulcrum-testcontainer@1.0.7?classifier=sources
+- pkg:maven/org.apache.fulcrum/fulcrum-testcontainer@1.0.8
+- pkg:maven/org.apache.fulcrum/fulcrum-testcontainer@1.0.8?classifier=sources
+- pkg:maven/org.apache.fulcrum/fulcrum-testcontainer@1.0.8?classifier=src&type=tar.gz
+- pkg:maven/org.apache.fulcrum/fulcrum-testcontainer@1.0.8?classifier=src&type=zip

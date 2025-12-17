@@ -4,3 +4,13 @@
 - pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.13.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.14.0.Final
 - pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.14.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.15.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.15.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.16.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.16.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.17.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.17.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.18.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.18.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.19.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-guided-decision-table-adapter@7.19.0.Final?classifier=sources

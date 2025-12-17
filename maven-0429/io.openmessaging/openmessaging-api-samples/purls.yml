@@ -8,3 +8,5 @@
 - pkg:maven/io.openmessaging/openmessaging-api-samples@0.3.0-alpha?classifier=sources
 - pkg:maven/io.openmessaging/openmessaging-api-samples@0.3.1-alpha
 - pkg:maven/io.openmessaging/openmessaging-api-samples@0.3.1-alpha?classifier=sources
+- pkg:maven/io.openmessaging/openmessaging-api-samples@1.0.0-alpha
+- pkg:maven/io.openmessaging/openmessaging-api-samples@1.0.0-alpha?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.amygdalum/testrecorder-annotations@0.10.0
+- pkg:maven/net.amygdalum/testrecorder-annotations@0.10.0?classifier=sources
+- pkg:maven/net.amygdalum/testrecorder-annotations@0.10.1
+- pkg:maven/net.amygdalum/testrecorder-annotations@0.10.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.github.ffmmjj/spark-test-assertions_2.11@0.1.0
+- pkg:maven/com.github.ffmmjj/spark-test-assertions_2.11@0.1.0?classifier=sources
+- pkg:maven/com.github.ffmmjj/spark-test-assertions_2.11@0.3.0
+- pkg:maven/com.github.ffmmjj/spark-test-assertions_2.11@0.3.0?classifier=sources
+- pkg:maven/com.github.ffmmjj/spark-test-assertions_2.11@0.3.2
+- pkg:maven/com.github.ffmmjj/spark-test-assertions_2.11@0.3.2?classifier=sources

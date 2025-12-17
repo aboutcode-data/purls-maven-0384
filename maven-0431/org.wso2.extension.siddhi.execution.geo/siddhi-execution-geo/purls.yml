@@ -16,6 +16,10 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.17?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.18
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.19
+- pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.19?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.20
+- pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.20?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.3
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.4
@@ -30,3 +34,5 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.9
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.0.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.1.0
+- pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@4.1.0?classifier=source-release&type=zip

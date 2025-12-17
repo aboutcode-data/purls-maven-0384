@@ -1,0 +1,8 @@
+- pkg:maven/com.exec8/com.xianghy.itextpdf@%24%257Bcascader.version%257D
+- pkg:maven/com.exec8/com.xianghy.itextpdf@%24%257Bcascader.version%257D?classifier=sources
+- pkg:maven/com.exec8/com.xianghy.itextpdf@1.0.4
+- pkg:maven/com.exec8/com.xianghy.itextpdf@1.0.4?classifier=sources
+- pkg:maven/com.exec8/com.xianghy.itextpdf@1.0.5
+- pkg:maven/com.exec8/com.xianghy.itextpdf@1.0.5?classifier=sources
+- pkg:maven/com.exec8/com.xianghy.itextpdf@1.7
+- pkg:maven/com.exec8/com.xianghy.itextpdf@1.7?classifier=sources

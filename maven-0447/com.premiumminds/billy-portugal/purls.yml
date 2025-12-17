@@ -4,3 +4,7 @@
 - pkg:maven/com.premiumminds/billy-portugal@2.0.0?classifier=sources
 - pkg:maven/com.premiumminds/billy-portugal@3.0.0
 - pkg:maven/com.premiumminds/billy-portugal@3.0.0?classifier=sources
+- pkg:maven/com.premiumminds/billy-portugal@3.1.0
+- pkg:maven/com.premiumminds/billy-portugal@3.1.0?classifier=sources
+- pkg:maven/com.premiumminds/billy-portugal@3.1.1
+- pkg:maven/com.premiumminds/billy-portugal@3.1.1?classifier=sources

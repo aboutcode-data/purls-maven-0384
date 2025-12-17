@@ -20,3 +20,7 @@
 - pkg:maven/io.openvidu/openvidu-java-client@2.4.0?classifier=sources
 - pkg:maven/io.openvidu/openvidu-java-client@2.5.0
 - pkg:maven/io.openvidu/openvidu-java-client@2.5.0?classifier=sources
+- pkg:maven/io.openvidu/openvidu-java-client@2.8.0
+- pkg:maven/io.openvidu/openvidu-java-client@2.8.0?classifier=sources
+- pkg:maven/io.openvidu/openvidu-java-client@2.8.1
+- pkg:maven/io.openvidu/openvidu-java-client@2.8.1?classifier=sources

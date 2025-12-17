@@ -1,0 +1,5 @@
+- pkg:maven/io.skysail/stage-autoconfig@0.0.14?classifier=sources
+- pkg:maven/io.skysail/stage-autoconfig@0.0.15?classifier=sources
+- pkg:maven/io.skysail/stage-autoconfig@0.0.16?classifier=sources
+- pkg:maven/io.skysail/stage-autoconfig@0.0.17?classifier=sources
+- pkg:maven/io.skysail/stage-autoconfig@0.0.28?classifier=sources

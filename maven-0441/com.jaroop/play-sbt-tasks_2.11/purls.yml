@@ -1,2 +1,4 @@
 - pkg:maven/com.jaroop/play-sbt-tasks_2.11@1.0.3
 - pkg:maven/com.jaroop/play-sbt-tasks_2.11@1.0.3?classifier=sources
+- pkg:maven/com.jaroop/play-sbt-tasks_2.11@2.0.0
+- pkg:maven/com.jaroop/play-sbt-tasks_2.11@2.0.0?classifier=sources

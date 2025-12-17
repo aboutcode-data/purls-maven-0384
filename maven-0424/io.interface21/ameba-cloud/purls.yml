@@ -1,0 +1,2 @@
+- pkg:maven/io.interface21/ameba-cloud@2.0
+- pkg:maven/io.interface21/ameba-cloud@2.0?classifier=sources

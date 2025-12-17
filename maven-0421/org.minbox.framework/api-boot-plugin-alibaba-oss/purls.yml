@@ -1,0 +1,8 @@
+- pkg:maven/org.minbox.framework/api-boot-plugin-alibaba-oss@1.0.1.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-alibaba-oss@1.0.1.RELEASE?classifier=sources
+- pkg:maven/org.minbox.framework/api-boot-plugin-alibaba-oss@1.0.2.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-alibaba-oss@1.0.2.RELEASE?classifier=sources
+- pkg:maven/org.minbox.framework/api-boot-plugin-alibaba-oss@2.0.1.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-alibaba-oss@2.0.1.RELEASE?classifier=sources
+- pkg:maven/org.minbox.framework/api-boot-plugin-alibaba-oss@2.0.2.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-alibaba-oss@2.0.2.RELEASE?classifier=sources

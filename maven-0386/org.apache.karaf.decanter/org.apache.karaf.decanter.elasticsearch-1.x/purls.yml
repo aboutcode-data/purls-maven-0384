@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.karaf.decanter/org.apache.karaf.decanter.elasticsearch-1.x@1.4.0?classifier=sources
 - pkg:maven/org.apache.karaf.decanter/org.apache.karaf.decanter.elasticsearch-1.x@2.0.0?classifier=sources
 - pkg:maven/org.apache.karaf.decanter/org.apache.karaf.decanter.elasticsearch-1.x@2.1.0?classifier=sources
+- pkg:maven/org.apache.karaf.decanter/org.apache.karaf.decanter.elasticsearch-1.x@2.2.0?classifier=sources

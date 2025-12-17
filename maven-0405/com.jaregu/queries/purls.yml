@@ -1,2 +1,6 @@
 - pkg:maven/com.jaregu/queries@0.9.0
 - pkg:maven/com.jaregu/queries@0.9.0?classifier=sources
+- pkg:maven/com.jaregu/queries@1.0.0
+- pkg:maven/com.jaregu/queries@1.0.0?classifier=sources
+- pkg:maven/com.jaregu/queries@1.1.0
+- pkg:maven/com.jaregu/queries@1.1.0?classifier=sources

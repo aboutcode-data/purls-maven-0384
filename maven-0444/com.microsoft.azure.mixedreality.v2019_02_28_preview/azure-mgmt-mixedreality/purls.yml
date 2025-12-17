@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.mixedreality.v2019_02_28_preview/azure-mgmt-mixedreality@1.0.0-beta
+- pkg:maven/com.microsoft.azure.mixedreality.v2019_02_28_preview/azure-mgmt-mixedreality@1.0.0-beta?classifier=sources

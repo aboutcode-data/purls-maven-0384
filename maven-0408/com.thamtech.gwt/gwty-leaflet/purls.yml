@@ -1,0 +1,2 @@
+- pkg:maven/com.thamtech.gwt/gwty-leaflet@1.0.0?classifier=sources
+- pkg:maven/com.thamtech.gwt/gwty-leaflet@1.1.0?classifier=sources

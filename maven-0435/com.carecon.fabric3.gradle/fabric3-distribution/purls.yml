@@ -1,2 +1,4 @@
 - pkg:maven/com.carecon.fabric3.gradle/fabric3-distribution@3.0.0sp1
 - pkg:maven/com.carecon.fabric3.gradle/fabric3-distribution@3.0.0sp1?classifier=sources
+- pkg:maven/com.carecon.fabric3.gradle/fabric3-distribution@3.1.0
+- pkg:maven/com.carecon.fabric3.gradle/fabric3-distribution@3.1.0?classifier=sources

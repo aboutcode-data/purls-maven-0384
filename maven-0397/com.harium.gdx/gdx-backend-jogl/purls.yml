@@ -1,2 +1,6 @@
 - pkg:maven/com.harium.gdx/gdx-backend-jogl@1.9.7
 - pkg:maven/com.harium.gdx/gdx-backend-jogl@1.9.7?classifier=sources
+- pkg:maven/com.harium.gdx/gdx-backend-jogl@1.9.8
+- pkg:maven/com.harium.gdx/gdx-backend-jogl@1.9.8?classifier=sources
+- pkg:maven/com.harium.gdx/gdx-backend-jogl@1.9.9
+- pkg:maven/com.harium.gdx/gdx-backend-jogl@1.9.9?classifier=sources

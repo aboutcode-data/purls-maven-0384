@@ -1,0 +1,3 @@
+- pkg:maven/org.jbpm.contrib/docker-workitem@7.17.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/docker-workitem@7.18.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/docker-workitem@7.19.0.Final?classifier=sources

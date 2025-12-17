@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.security.jacc/jakarta.security.jacc-api@1.6.1
+- pkg:maven/jakarta.security.jacc/jakarta.security.jacc-api@1.6.1?classifier=sources

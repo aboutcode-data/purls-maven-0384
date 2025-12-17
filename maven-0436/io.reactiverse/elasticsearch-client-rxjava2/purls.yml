@@ -1,0 +1,4 @@
+- pkg:maven/io.reactiverse/elasticsearch-client-rxjava2@0.0-ec6.5.4
+- pkg:maven/io.reactiverse/elasticsearch-client-rxjava2@0.0-ec6.5.4?classifier=sources
+- pkg:maven/io.reactiverse/elasticsearch-client-rxjava2@0.1-ec6.6.0
+- pkg:maven/io.reactiverse/elasticsearch-client-rxjava2@0.1-ec6.6.0?classifier=sources

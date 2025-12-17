@@ -12,6 +12,8 @@
 - pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.15?type=war
 - pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.16?classifier=sources
 - pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.16?type=war
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.17?classifier=sources
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.17?type=war
 - pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.8?classifier=sources
 - pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.8?type=war
 - pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.9?classifier=sources

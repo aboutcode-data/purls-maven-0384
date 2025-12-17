@@ -6,6 +6,8 @@
 - pkg:maven/de.uni-rostock.sbi/xmlutils@0.6.12?classifier=sources
 - pkg:maven/de.uni-rostock.sbi/xmlutils@0.6.13
 - pkg:maven/de.uni-rostock.sbi/xmlutils@0.6.13?classifier=sources
+- pkg:maven/de.uni-rostock.sbi/xmlutils@0.6.14
+- pkg:maven/de.uni-rostock.sbi/xmlutils@0.6.14?classifier=sources
 - pkg:maven/de.uni-rostock.sbi/xmlutils@0.6.7
 - pkg:maven/de.uni-rostock.sbi/xmlutils@0.6.7?classifier=sources
 - pkg:maven/de.uni-rostock.sbi/xmlutils@0.6.8

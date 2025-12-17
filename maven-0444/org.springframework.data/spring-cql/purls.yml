@@ -80,6 +80,10 @@
 - pkg:maven/org.springframework.data/spring-cql@1.5.15.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-cql@1.5.16.RELEASE
 - pkg:maven/org.springframework.data/spring-cql@1.5.16.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-cql@1.5.17.RELEASE
+- pkg:maven/org.springframework.data/spring-cql@1.5.17.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-cql@1.5.18.RELEASE
+- pkg:maven/org.springframework.data/spring-cql@1.5.18.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-cql@1.5.2.RELEASE
 - pkg:maven/org.springframework.data/spring-cql@1.5.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-cql@1.5.3.RELEASE

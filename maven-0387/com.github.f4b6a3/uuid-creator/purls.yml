@@ -1,0 +1,2 @@
+- pkg:maven/com.github.f4b6a3/uuid-creator@0.9.0
+- pkg:maven/com.github.f4b6a3/uuid-creator@0.9.0?classifier=sources

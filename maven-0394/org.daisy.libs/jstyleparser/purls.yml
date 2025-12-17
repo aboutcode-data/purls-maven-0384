@@ -5,6 +5,8 @@
 - pkg:maven/org.daisy.libs/jstyleparser@1.20-p10?classifier=sources
 - pkg:maven/org.daisy.libs/jstyleparser@1.20-p11
 - pkg:maven/org.daisy.libs/jstyleparser@1.20-p11?classifier=sources
+- pkg:maven/org.daisy.libs/jstyleparser@1.20-p12
+- pkg:maven/org.daisy.libs/jstyleparser@1.20-p12?classifier=sources
 - pkg:maven/org.daisy.libs/jstyleparser@1.20-p1?classifier=sources
 - pkg:maven/org.daisy.libs/jstyleparser@1.20-p2
 - pkg:maven/org.daisy.libs/jstyleparser@1.20-p2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.prestosql.benchto/benchto-service@0.7
+- pkg:maven/io.prestosql.benchto/benchto-service@0.7?classifier=sources

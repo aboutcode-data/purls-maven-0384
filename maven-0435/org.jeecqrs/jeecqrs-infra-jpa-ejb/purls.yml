@@ -1,0 +1,5 @@
+- pkg:maven/org.jeecqrs/jeecqrs-infra-jpa-ejb@1.1?classifier=sources
+- pkg:maven/org.jeecqrs/jeecqrs-infra-jpa-ejb@1.2.1?classifier=sources
+- pkg:maven/org.jeecqrs/jeecqrs-infra-jpa-ejb@1.2.2?classifier=sources
+- pkg:maven/org.jeecqrs/jeecqrs-infra-jpa-ejb@1.2.3?classifier=sources
+- pkg:maven/org.jeecqrs/jeecqrs-infra-jpa-ejb@1.2?classifier=sources

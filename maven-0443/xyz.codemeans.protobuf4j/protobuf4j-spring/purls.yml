@@ -1,0 +1,4 @@
+- pkg:maven/xyz.codemeans.protobuf4j/protobuf4j-spring@0.9.0.alpha
+- pkg:maven/xyz.codemeans.protobuf4j/protobuf4j-spring@0.9.0.alpha?classifier=sources
+- pkg:maven/xyz.codemeans.protobuf4j/protobuf4j-spring@0.9.3.alpha
+- pkg:maven/xyz.codemeans.protobuf4j/protobuf4j-spring@0.9.3.alpha?classifier=sources

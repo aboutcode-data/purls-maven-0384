@@ -1,0 +1,6 @@
+- pkg:maven/org.clapper/grizzled-scala_2.13.0-M5@4.7.0
+- pkg:maven/org.clapper/grizzled-scala_2.13.0-M5@4.7.0?classifier=sources
+- pkg:maven/org.clapper/grizzled-scala_2.13.0-M5@4.8.0
+- pkg:maven/org.clapper/grizzled-scala_2.13.0-M5@4.8.0?classifier=sources
+- pkg:maven/org.clapper/grizzled-scala_2.13.0-M5@4.9.0
+- pkg:maven/org.clapper/grizzled-scala_2.13.0-M5@4.9.0?classifier=sources

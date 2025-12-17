@@ -1,0 +1,4 @@
+- pkg:maven/uk.ac.ed.cyphsem/cyphsem@0.4.2
+- pkg:maven/uk.ac.ed.cyphsem/cyphsem@0.4.2?classifier=sources
+- pkg:maven/uk.ac.ed.cyphsem/cyphsem@0.4.3
+- pkg:maven/uk.ac.ed.cyphsem/cyphsem@0.4.3?classifier=sources

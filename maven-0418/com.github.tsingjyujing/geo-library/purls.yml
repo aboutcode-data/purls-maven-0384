@@ -14,3 +14,9 @@
 - pkg:maven/com.github.tsingjyujing/geo-library@2.8.7-2.10?classifier=sources
 - pkg:maven/com.github.tsingjyujing/geo-library@2.8.8-2.10
 - pkg:maven/com.github.tsingjyujing/geo-library@2.8.8-2.10?classifier=sources
+- pkg:maven/com.github.tsingjyujing/geo-library@2.8.8-2.11
+- pkg:maven/com.github.tsingjyujing/geo-library@2.8.8-2.11?classifier=sources
+- pkg:maven/com.github.tsingjyujing/geo-library@2.8.9-2.10
+- pkg:maven/com.github.tsingjyujing/geo-library@2.8.9-2.10?classifier=sources
+- pkg:maven/com.github.tsingjyujing/geo-library@2.8.9-2.11
+- pkg:maven/com.github.tsingjyujing/geo-library@2.8.9-2.11?classifier=sources

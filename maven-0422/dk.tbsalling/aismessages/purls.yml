@@ -18,3 +18,5 @@
 - pkg:maven/dk.tbsalling/aismessages@2.2.2?classifier=sources
 - pkg:maven/dk.tbsalling/aismessages@2.2.3
 - pkg:maven/dk.tbsalling/aismessages@2.2.3?classifier=sources
+- pkg:maven/dk.tbsalling/aismessages@3.0.2
+- pkg:maven/dk.tbsalling/aismessages@3.0.2?classifier=sources

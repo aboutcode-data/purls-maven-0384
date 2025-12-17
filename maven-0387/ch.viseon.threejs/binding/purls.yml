@@ -1,0 +1,12 @@
+- pkg:maven/ch.viseon.threejs/binding@100.0.0
+- pkg:maven/ch.viseon.threejs/binding@100.0.0?classifier=sources
+- pkg:maven/ch.viseon.threejs/binding@101.0.0
+- pkg:maven/ch.viseon.threejs/binding@101.0.0?classifier=sources
+- pkg:maven/ch.viseon.threejs/binding@102.0.0
+- pkg:maven/ch.viseon.threejs/binding@102.0.0?classifier=sources
+- pkg:maven/ch.viseon.threejs/binding@98.0.1
+- pkg:maven/ch.viseon.threejs/binding@98.0.1?classifier=sources
+- pkg:maven/ch.viseon.threejs/binding@98.0.2
+- pkg:maven/ch.viseon.threejs/binding@98.0.2?classifier=sources
+- pkg:maven/ch.viseon.threejs/binding@98.0.3
+- pkg:maven/ch.viseon.threejs/binding@98.0.3?classifier=sources

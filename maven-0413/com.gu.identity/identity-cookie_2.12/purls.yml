@@ -116,6 +116,8 @@
 - pkg:maven/com.gu.identity/identity-cookie_2.12@3.172?classifier=sources
 - pkg:maven/com.gu.identity/identity-cookie_2.12@3.173
 - pkg:maven/com.gu.identity/identity-cookie_2.12@3.173?classifier=sources
+- pkg:maven/com.gu.identity/identity-cookie_2.12@3.174
+- pkg:maven/com.gu.identity/identity-cookie_2.12@3.174?classifier=sources
 - pkg:maven/com.gu.identity/identity-cookie_2.12@3.84
 - pkg:maven/com.gu.identity/identity-cookie_2.12@3.84?classifier=sources
 - pkg:maven/com.gu.identity/identity-cookie_2.12@3.86

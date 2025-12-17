@@ -1,3 +1,5 @@
+- pkg:maven/li.allan/easycache@0.1.2
+- pkg:maven/li.allan/easycache@0.1.2?classifier=sources
 - pkg:maven/li.allan/easycache@0.6
 - pkg:maven/li.allan/easycache@0.6-pre2
 - pkg:maven/li.allan/easycache@0.6-pre2?classifier=sources
