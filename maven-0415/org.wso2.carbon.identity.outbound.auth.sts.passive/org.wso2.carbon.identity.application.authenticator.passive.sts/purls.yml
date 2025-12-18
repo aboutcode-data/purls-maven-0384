@@ -14,3 +14,5 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.sts.passive/org.wso2.carbon.identity.application.authenticator.passive.sts@5.4.3?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.sts.passive/org.wso2.carbon.identity.application.authenticator.passive.sts@5.4.4
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.sts.passive/org.wso2.carbon.identity.application.authenticator.passive.sts@5.4.4?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.sts.passive/org.wso2.carbon.identity.application.authenticator.passive.sts@5.4.5
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.sts.passive/org.wso2.carbon.identity.application.authenticator.passive.sts@5.4.5?classifier=sources

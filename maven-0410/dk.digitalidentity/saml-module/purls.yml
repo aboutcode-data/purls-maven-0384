@@ -53,3 +53,4 @@
 - pkg:maven/dk.digitalidentity/saml-module@1.3.5?classifier=sources
 - pkg:maven/dk.digitalidentity/saml-module@1.4.0?classifier=sources
 - pkg:maven/dk.digitalidentity/saml-module@1.4.1?classifier=sources
+- pkg:maven/dk.digitalidentity/saml-module@1.4.2?classifier=sources

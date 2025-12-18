@@ -2,3 +2,4 @@
 - pkg:maven/io.github.bmob/android-sdk@3.8.2?type=aar
 - pkg:maven/io.github.bmob/android-sdk@3.8.3?type=aar
 - pkg:maven/io.github.bmob/android-sdk@3.8.4?type=aar
+- pkg:maven/io.github.bmob/android-sdk@3.8.5?type=aar

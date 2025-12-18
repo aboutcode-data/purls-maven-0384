@@ -1,0 +1,2 @@
+- pkg:maven/me.gv7.woodpecker/woodpecker-tools@0.1.0.beta1
+- pkg:maven/me.gv7.woodpecker/woodpecker-tools@0.1.0.beta1?classifier=sources

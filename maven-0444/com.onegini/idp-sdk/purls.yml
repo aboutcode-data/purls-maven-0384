@@ -58,3 +58,11 @@
 - pkg:maven/com.onegini/idp-sdk@5.60?classifier=sources
 - pkg:maven/com.onegini/idp-sdk@5.61.0
 - pkg:maven/com.onegini/idp-sdk@5.61.0?classifier=sources
+- pkg:maven/com.onegini/idp-sdk@5.62.0
+- pkg:maven/com.onegini/idp-sdk@5.62.0?classifier=sources
+- pkg:maven/com.onegini/idp-sdk@5.63.0
+- pkg:maven/com.onegini/idp-sdk@5.63.0?classifier=sources
+- pkg:maven/com.onegini/idp-sdk@5.64.0
+- pkg:maven/com.onegini/idp-sdk@5.64.0?classifier=sources
+- pkg:maven/com.onegini/idp-sdk@5.65.0
+- pkg:maven/com.onegini/idp-sdk@5.65.0?classifier=sources

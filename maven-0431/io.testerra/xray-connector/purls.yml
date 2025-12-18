@@ -1,1 +1,4 @@
+- pkg:maven/io.testerra/xray-connector@1.0?classifier=sources
 - pkg:maven/io.testerra/xray-connector@2.0-RC-2?classifier=sources
+- pkg:maven/io.testerra/xray-connector@2.0-RC-3?classifier=sources
+- pkg:maven/io.testerra/xray-connector@2.0-RC-4?classifier=sources

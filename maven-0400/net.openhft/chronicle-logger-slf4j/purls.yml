@@ -32,3 +32,7 @@
 - pkg:maven/net.openhft/chronicle-logger-slf4j@4.21ea1?classifier=sources
 - pkg:maven/net.openhft/chronicle-logger-slf4j@4.21ea40
 - pkg:maven/net.openhft/chronicle-logger-slf4j@4.21ea40?classifier=sources
+- pkg:maven/net.openhft/chronicle-logger-slf4j@4.21ea60
+- pkg:maven/net.openhft/chronicle-logger-slf4j@4.21ea60?classifier=sources
+- pkg:maven/net.openhft/chronicle-logger-slf4j@4.21ea80
+- pkg:maven/net.openhft/chronicle-logger-slf4j@4.21ea80?classifier=sources

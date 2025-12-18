@@ -8,7 +8,11 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j@1.0.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j@1.0.5.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j@1.0.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j@1.0.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j@1.0.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j@2.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j@2.0.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j@2.0.1
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j@2.0.1?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j@2.0.2
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j@2.0.2?classifier=sources

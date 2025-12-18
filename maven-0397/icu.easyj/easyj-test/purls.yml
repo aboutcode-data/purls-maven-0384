@@ -1,0 +1,2 @@
+- pkg:maven/icu.easyj/easyj-test@0.1.2
+- pkg:maven/icu.easyj/easyj-test@0.1.2?classifier=sources

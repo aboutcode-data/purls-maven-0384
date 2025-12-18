@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cafapi.correlation/caf-correlation-dropwizard@1.0.0-80
+- pkg:maven/com.github.cafapi.correlation/caf-correlation-dropwizard@1.0.0-80?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.jresearch.gwt.tool.emu.apt/org.jresearch.gwt.tool.emu.apt.processor@1.0.0
 - pkg:maven/org.jresearch.gwt.tool.emu.apt/org.jresearch.gwt.tool.emu.apt.processor@1.0.0?classifier=sources
+- pkg:maven/org.jresearch.gwt.tool.emu.apt/org.jresearch.gwt.tool.emu.apt.processor@1.0.2
+- pkg:maven/org.jresearch.gwt.tool.emu.apt/org.jresearch.gwt.tool.emu.apt.processor@1.0.2?classifier=sources

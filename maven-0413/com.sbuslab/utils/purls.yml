@@ -131,6 +131,8 @@
 - pkg:maven/com.sbuslab/utils@1.2.62?classifier=sources
 - pkg:maven/com.sbuslab/utils@1.2.6?classifier=sources
 - pkg:maven/com.sbuslab/utils@1.2.7
+- pkg:maven/com.sbuslab/utils@1.2.70
+- pkg:maven/com.sbuslab/utils@1.2.70?classifier=sources
 - pkg:maven/com.sbuslab/utils@1.2.7?classifier=sources
 - pkg:maven/com.sbuslab/utils@1.2.8
 - pkg:maven/com.sbuslab/utils@1.2.8?classifier=sources

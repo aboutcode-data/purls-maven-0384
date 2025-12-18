@@ -1,2 +1,4 @@
+- pkg:maven/me.vican.jorge/jsonrpc4s_2.12@0.1.0
+- pkg:maven/me.vican.jorge/jsonrpc4s_2.12@0.1.0?classifier=sources
 - pkg:maven/me.vican.jorge/jsonrpc4s_2.12@1.0.0%2B23-a0cabe67
 - pkg:maven/me.vican.jorge/jsonrpc4s_2.12@1.0.0%2B23-a0cabe67?classifier=sources

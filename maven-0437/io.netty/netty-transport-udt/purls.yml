@@ -292,6 +292,8 @@
 - pkg:maven/io.netty/netty-transport-udt@4.1.63.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-udt@4.1.64.Final
 - pkg:maven/io.netty/netty-transport-udt@4.1.64.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-udt@4.1.65.Final
+- pkg:maven/io.netty/netty-transport-udt@4.1.65.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-udt@4.1.7.Final
 - pkg:maven/io.netty/netty-transport-udt@4.1.7.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-udt@4.1.8.Final

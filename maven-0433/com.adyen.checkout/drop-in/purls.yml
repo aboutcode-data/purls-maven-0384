@@ -25,5 +25,8 @@
 - pkg:maven/com.adyen.checkout/drop-in@3.8.0?type=aar
 - pkg:maven/com.adyen.checkout/drop-in@3.8.1?type=aar
 - pkg:maven/com.adyen.checkout/drop-in@3.8.2?type=aar
+- pkg:maven/com.adyen.checkout/drop-in@3.8.3?classifier=sources
+- pkg:maven/com.adyen.checkout/drop-in@3.8.3?type=aar
 - pkg:maven/com.adyen.checkout/drop-in@4.0.0-alpha01?type=aar
 - pkg:maven/com.adyen.checkout/drop-in@4.0.0-beta02?type=aar
+- pkg:maven/com.adyen.checkout/drop-in@4.0.0-beta03?classifier=sources

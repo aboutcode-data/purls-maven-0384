@@ -32,6 +32,8 @@
 - pkg:maven/org.apache.calcite/calcite-piglet@1.25.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-piglet@1.26.0
 - pkg:maven/org.apache.calcite/calcite-piglet@1.26.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-piglet@1.27.0
+- pkg:maven/org.apache.calcite/calcite-piglet@1.27.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-piglet@1.5.0
 - pkg:maven/org.apache.calcite/calcite-piglet@1.5.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-piglet@1.6.0

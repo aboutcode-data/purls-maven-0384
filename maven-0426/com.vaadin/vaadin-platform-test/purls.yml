@@ -8,6 +8,7 @@
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.16?type=war
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.17?type=war
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.18?type=war
+- pkg:maven/com.vaadin/vaadin-platform-test@10.0.19?type=war
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.1?type=war
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.2?type=war
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.3?type=war

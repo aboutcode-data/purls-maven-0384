@@ -28,3 +28,7 @@
 - pkg:maven/com.salesforce.mirus/mirus@0.4.1?classifier=sources
 - pkg:maven/com.salesforce.mirus/mirus@0.5.0
 - pkg:maven/com.salesforce.mirus/mirus@0.5.0?classifier=sources
+- pkg:maven/com.salesforce.mirus/mirus@0.6.3
+- pkg:maven/com.salesforce.mirus/mirus@0.6.3?classifier=sources
+- pkg:maven/com.salesforce.mirus/mirus@0.6.4
+- pkg:maven/com.salesforce.mirus/mirus@0.6.4?classifier=sources

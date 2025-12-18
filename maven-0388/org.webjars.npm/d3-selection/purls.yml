@@ -32,3 +32,5 @@
 - pkg:maven/org.webjars.npm/d3-selection@2.0.0-rc.5
 - pkg:maven/org.webjars.npm/d3-selection@2.0.0-rc.5?classifier=sources
 - pkg:maven/org.webjars.npm/d3-selection@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/d3-selection@3.0.0
+- pkg:maven/org.webjars.npm/d3-selection@3.0.0?classifier=sources

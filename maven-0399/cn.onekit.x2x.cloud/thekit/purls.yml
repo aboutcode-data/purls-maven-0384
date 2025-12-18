@@ -34,3 +34,5 @@
 - pkg:maven/cn.onekit.x2x.cloud/thekit@4.1.0?classifier=sources
 - pkg:maven/cn.onekit.x2x.cloud/thekit@4.2.0
 - pkg:maven/cn.onekit.x2x.cloud/thekit@4.2.0?classifier=sources
+- pkg:maven/cn.onekit.x2x.cloud/thekit@5.3.0
+- pkg:maven/cn.onekit.x2x.cloud/thekit@5.3.0?classifier=sources

@@ -21,3 +21,6 @@
 - pkg:maven/com.github.yaoguoh/common-spring-cloud@2.4.3
 - pkg:maven/com.github.yaoguoh/common-spring-cloud@2.4.4
 - pkg:maven/com.github.yaoguoh/common-spring-cloud@2.4.5
+- pkg:maven/com.github.yaoguoh/common-spring-cloud@2.4.6
+- pkg:maven/com.github.yaoguoh/common-spring-cloud@2.5.0
+- pkg:maven/com.github.yaoguoh/common-spring-cloud@2.5.2

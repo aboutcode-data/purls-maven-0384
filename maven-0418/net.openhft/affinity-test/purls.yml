@@ -12,3 +12,11 @@
 - pkg:maven/net.openhft/affinity-test@3.21ea0?classifier=sources
 - pkg:maven/net.openhft/affinity-test@3.21ea1
 - pkg:maven/net.openhft/affinity-test@3.21ea1?classifier=sources
+- pkg:maven/net.openhft/affinity-test@3.21ea2
+- pkg:maven/net.openhft/affinity-test@3.21ea2?classifier=sources
+- pkg:maven/net.openhft/affinity-test@3.21ea3
+- pkg:maven/net.openhft/affinity-test@3.21ea3?classifier=sources
+- pkg:maven/net.openhft/affinity-test@3.21ea4
+- pkg:maven/net.openhft/affinity-test@3.21ea4?classifier=sources
+- pkg:maven/net.openhft/affinity-test@3.21ea5
+- pkg:maven/net.openhft/affinity-test@3.21ea5?classifier=sources

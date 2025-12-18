@@ -1,0 +1,2 @@
+- pkg:maven/net.odoframework/odo-sql@0.0.4
+- pkg:maven/net.odoframework/odo-sql@0.0.4?classifier=sources

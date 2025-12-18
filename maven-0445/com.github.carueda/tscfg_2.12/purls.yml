@@ -40,5 +40,7 @@
 - pkg:maven/com.github.carueda/tscfg_2.12@0.9.984?classifier=sources
 - pkg:maven/com.github.carueda/tscfg_2.12@0.9.985
 - pkg:maven/com.github.carueda/tscfg_2.12@0.9.985?classifier=sources
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.986
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.986?classifier=sources
 - pkg:maven/com.github.carueda/tscfg_2.12@0.9.98?classifier=sources
 - pkg:maven/com.github.carueda/tscfg_2.12@0.9.9?classifier=sources

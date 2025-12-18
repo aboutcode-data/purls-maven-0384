@@ -1,0 +1,4 @@
+- pkg:maven/io.zeebe/zeebe-worker-java-testutils@0.0.2
+- pkg:maven/io.zeebe/zeebe-worker-java-testutils@0.0.2?classifier=sources
+- pkg:maven/io.zeebe/zeebe-worker-java-testutils@1.0.1
+- pkg:maven/io.zeebe/zeebe-worker-java-testutils@1.0.1?classifier=sources

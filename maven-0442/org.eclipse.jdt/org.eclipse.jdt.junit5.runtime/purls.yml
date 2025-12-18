@@ -9,6 +9,8 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit5.runtime@1.0.1100?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit5.runtime@1.0.1200
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit5.runtime@1.0.1200?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit5.runtime@1.0.1300
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit5.runtime@1.0.1300?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit5.runtime@1.0.1?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit5.runtime@1.0.200
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit5.runtime@1.0.200?classifier=sources

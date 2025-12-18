@@ -92,3 +92,5 @@
 - pkg:maven/com.imsweb/algorithms@3.2?classifier=sources
 - pkg:maven/com.imsweb/algorithms@3.3
 - pkg:maven/com.imsweb/algorithms@3.3?classifier=sources
+- pkg:maven/com.imsweb/algorithms@3.4
+- pkg:maven/com.imsweb/algorithms@3.4?classifier=sources

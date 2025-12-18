@@ -1,0 +1,2 @@
+- pkg:maven/com.nervepoint/identity4j-aws@1.2.0
+- pkg:maven/com.nervepoint/identity4j-aws@1.2.0?classifier=sources

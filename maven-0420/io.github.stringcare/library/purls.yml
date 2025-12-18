@@ -1,0 +1,2 @@
+- pkg:maven/io.github.stringcare/library@4.0.6?classifier=sources
+- pkg:maven/io.github.stringcare/library@4.2.1?classifier=sources

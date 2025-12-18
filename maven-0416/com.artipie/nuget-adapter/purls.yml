@@ -14,3 +14,11 @@
 - pkg:maven/com.artipie/nuget-adapter@0.4?classifier=sources
 - pkg:maven/com.artipie/nuget-adapter@0.5
 - pkg:maven/com.artipie/nuget-adapter@0.5?classifier=sources
+- pkg:maven/com.artipie/nuget-adapter@0.6
+- pkg:maven/com.artipie/nuget-adapter@0.6?classifier=sources
+- pkg:maven/com.artipie/nuget-adapter@0.7
+- pkg:maven/com.artipie/nuget-adapter@0.7.1
+- pkg:maven/com.artipie/nuget-adapter@0.7.1?classifier=sources
+- pkg:maven/com.artipie/nuget-adapter@0.7?classifier=sources
+- pkg:maven/com.artipie/nuget-adapter@1.0
+- pkg:maven/com.artipie/nuget-adapter@1.0?classifier=sources

@@ -293,6 +293,12 @@
 - pkg:maven/ru.mail/libverify-controls@0.1.186-firebase-support-notify-support-v193-sdk-26?type=aar
 - pkg:maven/ru.mail/libverify-controls@0.1.186-firebase-support-notify-support-v194-sdk-26?type=aar
 - pkg:maven/ru.mail/libverify-controls@0.1.186-firebase-support-notify-support-v195-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-firebase-support-notify-support-v196-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-firebase-support-notify-support-v197-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-firebase-support-notify-support-v198-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-firebase-support-notify-support-v199-fa0-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-firebase-support-notify-support-v200-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-firebase-support-notify-support-v201-sdk-26?type=aar
 - pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-direct-push-notify-support-v170-sdk-26?type=aar
 - pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-direct-push-notify-support-v171-sdk-26?type=aar
 - pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-direct-push-notify-support-v172-sdk-26?type=aar
@@ -330,6 +336,12 @@
 - pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-notify-support-v193-sdk-26?type=aar
 - pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-notify-support-v194-sdk-26?type=aar
 - pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-notify-support-v195-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-notify-support-v196-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-notify-support-v197-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-notify-support-v198-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-notify-support-v199-fa0-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-notify-support-v200-sdk-26?type=aar
+- pkg:maven/ru.mail/libverify-controls@0.1.186-huawei-notify-support-v201-sdk-26?type=aar
 - pkg:maven/ru.mail/libverify-controls@0.1.187-alpha?type=aar
 - pkg:maven/ru.mail/libverify-controls@0.1.187-firebase-support-alpha?type=aar
 - pkg:maven/ru.mail/libverify-controls@0.1.188-alpha?type=aar

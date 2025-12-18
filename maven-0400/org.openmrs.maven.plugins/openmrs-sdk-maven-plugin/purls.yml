@@ -71,3 +71,5 @@
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@3.9.0?classifier=sources
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@4.0.0
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@4.0.0?classifier=sources
+- pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@4.0.1
+- pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@4.0.1?classifier=sources

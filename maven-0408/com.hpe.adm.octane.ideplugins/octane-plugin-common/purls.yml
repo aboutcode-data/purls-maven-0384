@@ -33,4 +33,6 @@
 - pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.6.6-signing-test
 - pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.6.6-signing-test?classifier=sources
 - pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.6.6?classifier=sources
+- pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.6.7
+- pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.6.7?classifier=sources
 - pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.6?classifier=sources

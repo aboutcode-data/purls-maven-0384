@@ -1,1 +1,2 @@
 - pkg:maven/com.robertlevonyan.components/Picker@2.1.0?classifier=sources
+- pkg:maven/com.robertlevonyan.components/Picker@2.1.1?classifier=sources

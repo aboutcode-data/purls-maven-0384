@@ -1,0 +1,2 @@
+- pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark@8.8.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark@8.8.0.Final?classifier=sources

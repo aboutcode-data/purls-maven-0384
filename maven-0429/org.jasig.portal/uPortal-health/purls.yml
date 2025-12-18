@@ -1,3 +1,5 @@
+- pkg:maven/org.jasig.portal/uPortal-health@5.10.0
+- pkg:maven/org.jasig.portal/uPortal-health@5.10.0?classifier=sources
 - pkg:maven/org.jasig.portal/uPortal-health@5.3.0
 - pkg:maven/org.jasig.portal/uPortal-health@5.3.0?classifier=sources
 - pkg:maven/org.jasig.portal/uPortal-health@5.3.1

@@ -1,0 +1,2 @@
+- pkg:maven/icu.easyj/easyj-captcha@0.1.2
+- pkg:maven/icu.easyj/easyj-captcha@0.1.2?classifier=sources

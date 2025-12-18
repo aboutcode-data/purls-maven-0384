@@ -1,0 +1,2 @@
+- pkg:maven/com.fancydsp/ad-ifly@1.4.4?classifier=sources
+- pkg:maven/com.fancydsp/ad-ifly@1.4.4?type=aar

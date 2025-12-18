@@ -1,1 +1,2 @@
 - pkg:maven/com.hbb20/android-country-picker@0.0.2?classifier=sources
+- pkg:maven/com.hbb20/android-country-picker@0.0.3?classifier=sources

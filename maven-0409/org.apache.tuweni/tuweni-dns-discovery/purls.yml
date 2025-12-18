@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.tuweni/tuweni-dns-discovery@0.9.0?classifier=sources
 - pkg:maven/org.apache.tuweni/tuweni-dns-discovery@1.0.0?classifier=sources
 - pkg:maven/org.apache.tuweni/tuweni-dns-discovery@1.1.0?classifier=sources
+- pkg:maven/org.apache.tuweni/tuweni-dns-discovery@2.0.0?classifier=sources

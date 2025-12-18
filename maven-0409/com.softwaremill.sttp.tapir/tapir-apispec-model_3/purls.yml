@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-apispec-model_3@0.18.0-M17
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-apispec-model_3@0.18.0-M17?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-apispec-model_3@0.18.0-M18
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-apispec-model_3@0.18.0-M18?classifier=sources

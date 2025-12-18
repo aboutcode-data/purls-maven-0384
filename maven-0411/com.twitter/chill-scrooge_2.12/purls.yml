@@ -1,3 +1,5 @@
+- pkg:maven/com.twitter/chill-scrooge_2.12@0.10.0
+- pkg:maven/com.twitter/chill-scrooge_2.12@0.10.0?classifier=sources
 - pkg:maven/com.twitter/chill-scrooge_2.12@0.7.7
 - pkg:maven/com.twitter/chill-scrooge_2.12@0.7.7?classifier=sources
 - pkg:maven/com.twitter/chill-scrooge_2.12@0.8.4

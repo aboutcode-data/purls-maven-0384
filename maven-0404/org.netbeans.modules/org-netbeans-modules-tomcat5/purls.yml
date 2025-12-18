@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE124?classifier=sources

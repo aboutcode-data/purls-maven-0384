@@ -6,3 +6,7 @@
 - pkg:maven/cn.taketoday/today-web@2.3.6.RELEASE?classifier=sources
 - pkg:maven/cn.taketoday/today-web@3.0.0.RELEASE
 - pkg:maven/cn.taketoday/today-web@3.0.0.RELEASE?classifier=sources
+- pkg:maven/cn.taketoday/today-web@3.0.1.RELEASE
+- pkg:maven/cn.taketoday/today-web@3.0.1.RELEASE?classifier=sources
+- pkg:maven/cn.taketoday/today-web@3.0.2.RELEASE
+- pkg:maven/cn.taketoday/today-web@3.0.2.RELEASE?classifier=sources

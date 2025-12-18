@@ -14,3 +14,9 @@
 - pkg:maven/dk.acto/dispatcher-client@1.1.78.30935eb?classifier=sources
 - pkg:maven/dk.acto/dispatcher-client@1.1.79.22c58d8
 - pkg:maven/dk.acto/dispatcher-client@1.1.79.22c58d8?classifier=sources
+- pkg:maven/dk.acto/dispatcher-client@1.1.80.42cc5a0
+- pkg:maven/dk.acto/dispatcher-client@1.1.80.42cc5a0?classifier=sources
+- pkg:maven/dk.acto/dispatcher-client@1.1.81.423e96c
+- pkg:maven/dk.acto/dispatcher-client@1.1.81.423e96c?classifier=sources
+- pkg:maven/dk.acto/dispatcher-client@1.1.82.6b7444f
+- pkg:maven/dk.acto/dispatcher-client@1.1.82.6b7444f?classifier=sources

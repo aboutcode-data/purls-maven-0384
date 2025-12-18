@@ -4,6 +4,12 @@
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20210317-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20210413-1.31.0
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20210413-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20210506-1.31.0
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20210506-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20210506-1.31.5
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20210506-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20210506-1.32.1
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20210506-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20201027-1.30.10
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20201027-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20201028-1.30.10
@@ -20,3 +26,9 @@
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20210317-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20210413-1.31.0
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20210413-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20210413-1.31.5
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20210413-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20210616-1.31.5
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20210616-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20210616-1.32.1
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20210616-1.32.1?classifier=sources

@@ -7,3 +7,11 @@
 - pkg:maven/cloud.pace/sdk@7.2.1?classifier=sources
 - pkg:maven/cloud.pace/sdk@7.3.0?classifier=sources
 - pkg:maven/cloud.pace/sdk@7.3.1?classifier=sources
+- pkg:maven/cloud.pace/sdk@7.4.0?classifier=sources
+- pkg:maven/cloud.pace/sdk@7.5.0?classifier=sources
+- pkg:maven/cloud.pace/sdk@7.5.1?classifier=sources
+- pkg:maven/cloud.pace/sdk@7.5.2?classifier=sources
+- pkg:maven/cloud.pace/sdk@7.6.0?classifier=sources
+- pkg:maven/cloud.pace/sdk@8.0.0?classifier=sources
+- pkg:maven/cloud.pace/sdk@8.0.1?classifier=sources
+- pkg:maven/cloud.pace/sdk@8.1.0?classifier=sources

@@ -68,6 +68,8 @@
 - pkg:maven/org.kie.server/kie-server-integ-tests-router@7.52.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-router@7.53.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-router@7.54.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-router@7.55.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-router@7.56.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-router@7.6.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-router@7.6.0.t022
 - pkg:maven/org.kie.server/kie-server-integ-tests-router@7.7.0.Final

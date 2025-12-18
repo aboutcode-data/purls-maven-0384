@@ -56,3 +56,7 @@
 - pkg:maven/org.kie/jbpm-recommendation-pmml-logistic-regression@7.53.0.Final?classifier=sources
 - pkg:maven/org.kie/jbpm-recommendation-pmml-logistic-regression@7.54.0.Final
 - pkg:maven/org.kie/jbpm-recommendation-pmml-logistic-regression@7.54.0.Final?classifier=sources
+- pkg:maven/org.kie/jbpm-recommendation-pmml-logistic-regression@7.55.0.Final
+- pkg:maven/org.kie/jbpm-recommendation-pmml-logistic-regression@7.55.0.Final?classifier=sources
+- pkg:maven/org.kie/jbpm-recommendation-pmml-logistic-regression@7.56.0.Final
+- pkg:maven/org.kie/jbpm-recommendation-pmml-logistic-regression@7.56.0.Final?classifier=sources

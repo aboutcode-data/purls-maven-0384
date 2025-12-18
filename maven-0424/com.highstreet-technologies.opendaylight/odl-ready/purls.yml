@@ -1,0 +1,4 @@
+- pkg:maven/com.highstreet-technologies.opendaylight/odl-ready@2.1.0
+- pkg:maven/com.highstreet-technologies.opendaylight/odl-ready@2.1.0?classifier=sources
+- pkg:maven/com.highstreet-technologies.opendaylight/odl-ready@3.1.0
+- pkg:maven/com.highstreet-technologies.opendaylight/odl-ready@3.1.0?classifier=sources

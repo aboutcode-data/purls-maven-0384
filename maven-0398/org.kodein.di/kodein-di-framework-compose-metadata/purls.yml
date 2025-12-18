@@ -1,1 +1,2 @@
 - pkg:maven/org.kodein.di/kodein-di-framework-compose-metadata@7.5.0?classifier=sources
+- pkg:maven/org.kodein.di/kodein-di-framework-compose-metadata@7.5.1?classifier=sources

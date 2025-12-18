@@ -21,4 +21,6 @@
 - pkg:maven/io.axoniq/axonserver-connector-java@4.4.8?classifier=sources
 - pkg:maven/io.axoniq/axonserver-connector-java@4.4?classifier=sources
 - pkg:maven/io.axoniq/axonserver-connector-java@4.5
+- pkg:maven/io.axoniq/axonserver-connector-java@4.5.1
+- pkg:maven/io.axoniq/axonserver-connector-java@4.5.1?classifier=sources
 - pkg:maven/io.axoniq/axonserver-connector-java@4.5?classifier=sources

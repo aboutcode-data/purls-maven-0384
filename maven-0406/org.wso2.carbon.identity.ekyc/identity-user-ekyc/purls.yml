@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.ekyc/identity-user-ekyc@0.9.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.ekyc/identity-user-ekyc@0.9.1?classifier=source-release&type=zip

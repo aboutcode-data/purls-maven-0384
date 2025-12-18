@@ -1,4 +1,6 @@
 - pkg:maven/com.sdl.delivery/udp-service-container-plugins@11.0.0-1077
 - pkg:maven/com.sdl.delivery/udp-service-container-plugins@11.0.0-1077?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-service-container-plugins@11.0.0-1078
+- pkg:maven/com.sdl.delivery/udp-service-container-plugins@11.0.0-1078?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-service-container-plugins@11.0.1-1016
 - pkg:maven/com.sdl.delivery/udp-service-container-plugins@11.0.1-1016?classifier=sources

@@ -46,3 +46,7 @@
 - pkg:maven/net.guerlab.smart.user/smart-user-stream@21.2.0?classifier=sources
 - pkg:maven/net.guerlab.smart.user/smart-user-stream@21.3.2
 - pkg:maven/net.guerlab.smart.user/smart-user-stream@21.3.2?classifier=sources
+- pkg:maven/net.guerlab.smart.user/smart-user-stream@21.4.0
+- pkg:maven/net.guerlab.smart.user/smart-user-stream@21.4.0?classifier=sources
+- pkg:maven/net.guerlab.smart.user/smart-user-stream@21.5.0
+- pkg:maven/net.guerlab.smart.user/smart-user-stream@21.5.0?classifier=sources

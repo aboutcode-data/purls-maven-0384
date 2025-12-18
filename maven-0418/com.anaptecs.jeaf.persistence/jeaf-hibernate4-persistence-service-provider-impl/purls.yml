@@ -1,4 +1,8 @@
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate4-persistence-service-provider-impl@1.5.13
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate4-persistence-service-provider-impl@1.5.13?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate4-persistence-service-provider-impl@1.5.14
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate4-persistence-service-provider-impl@1.5.14?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate4-persistence-service-provider-impl@1.5.7
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate4-persistence-service-provider-impl@1.5.7?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate4-persistence-service-provider-impl@1.6.0
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate4-persistence-service-provider-impl@1.6.0?classifier=sources

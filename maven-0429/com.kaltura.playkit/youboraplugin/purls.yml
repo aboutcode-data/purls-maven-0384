@@ -8,3 +8,9 @@
 - pkg:maven/com.kaltura.playkit/youboraplugin@4.13.4?type=aar
 - pkg:maven/com.kaltura.playkit/youboraplugin@4.13.5?classifier=sources
 - pkg:maven/com.kaltura.playkit/youboraplugin@4.13.5?type=aar
+- pkg:maven/com.kaltura.playkit/youboraplugin@4.14.0?classifier=sources
+- pkg:maven/com.kaltura.playkit/youboraplugin@4.14.0?type=aar
+- pkg:maven/com.kaltura.playkit/youboraplugin@4.15.0?classifier=sources
+- pkg:maven/com.kaltura.playkit/youboraplugin@4.15.0?type=aar
+- pkg:maven/com.kaltura.playkit/youboraplugin@4.15.1?classifier=sources
+- pkg:maven/com.kaltura.playkit/youboraplugin@4.15.1?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/ru.sberdevices.smartapp.sdk/mic_camera_state@1.0-alpha-2?classifier=sources
+- pkg:maven/ru.sberdevices.smartapp.sdk/mic_camera_state@1.0-alpha?classifier=sources

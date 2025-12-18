@@ -2,3 +2,5 @@
 - pkg:maven/net.guerlab.smart.engine.dynamicForm/engine-dynamicForm-service@20.2.0?classifier=sources
 - pkg:maven/net.guerlab.smart.engine.dynamicForm/engine-dynamicForm-service@21.3.2
 - pkg:maven/net.guerlab.smart.engine.dynamicForm/engine-dynamicForm-service@21.3.2?classifier=sources
+- pkg:maven/net.guerlab.smart.engine.dynamicForm/engine-dynamicForm-service@21.4.0
+- pkg:maven/net.guerlab.smart.engine.dynamicForm/engine-dynamicForm-service@21.4.0?classifier=sources

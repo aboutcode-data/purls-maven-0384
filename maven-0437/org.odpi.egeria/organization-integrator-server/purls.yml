@@ -1,3 +1,7 @@
+- pkg:maven/org.odpi.egeria/organization-integrator-server@2.10
+- pkg:maven/org.odpi.egeria/organization-integrator-server@2.10?classifier=sources
+- pkg:maven/org.odpi.egeria/organization-integrator-server@2.11
+- pkg:maven/org.odpi.egeria/organization-integrator-server@2.11?classifier=sources
 - pkg:maven/org.odpi.egeria/organization-integrator-server@2.4
 - pkg:maven/org.odpi.egeria/organization-integrator-server@2.4?classifier=sources
 - pkg:maven/org.odpi.egeria/organization-integrator-server@2.5

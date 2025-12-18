@@ -10,3 +10,7 @@
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-samples@1.5.20?type=zip
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-samples@1.5.21?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-samples@1.5.21?type=zip
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-samples@1.5.22?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-samples@1.5.22?type=zip
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-samples@1.6.0?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-samples@1.6.0?type=zip

@@ -20,3 +20,5 @@
 - pkg:maven/org.flexiblepower.defpi/defpi-maven-plugin@20.04?classifier=sources
 - pkg:maven/org.flexiblepower.defpi/defpi-maven-plugin@20.10
 - pkg:maven/org.flexiblepower.defpi/defpi-maven-plugin@20.10?classifier=sources
+- pkg:maven/org.flexiblepower.defpi/defpi-maven-plugin@21.06
+- pkg:maven/org.flexiblepower.defpi/defpi-maven-plugin@21.06?classifier=sources

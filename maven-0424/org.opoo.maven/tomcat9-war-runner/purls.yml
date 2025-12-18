@@ -1,0 +1,2 @@
+- pkg:maven/org.opoo.maven/tomcat9-war-runner@3.0.0
+- pkg:maven/org.opoo.maven/tomcat9-war-runner@3.0.0?classifier=sources

@@ -35,3 +35,5 @@
 - pkg:maven/com.auth0/mvc-auth-commons@1.5.0
 - pkg:maven/com.auth0/mvc-auth-commons@1.5.0?classifier=sources
 - pkg:maven/com.auth0/mvc-auth-commons@1.6.0?classifier=sources
+- pkg:maven/com.auth0/mvc-auth-commons@1.7.0?classifier=sources
+- pkg:maven/com.auth0/mvc-auth-commons@1.8.0?classifier=sources

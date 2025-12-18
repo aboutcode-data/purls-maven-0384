@@ -1,0 +1,4 @@
+- pkg:maven/com.github.omottec/asm-plugin@1.1.12?classifier=sources
+- pkg:maven/com.github.omottec/asm-plugin@1.1.13?classifier=sources
+- pkg:maven/com.github.omottec/asm-plugin@1.1.15?classifier=sources
+- pkg:maven/com.github.omottec/asm-plugin@1.1.16?classifier=sources

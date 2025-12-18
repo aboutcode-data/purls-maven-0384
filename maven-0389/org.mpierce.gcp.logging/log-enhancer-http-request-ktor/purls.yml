@@ -1,0 +1,1 @@
+- pkg:maven/org.mpierce.gcp.logging/log-enhancer-http-request-ktor@0.4.1?classifier=sources

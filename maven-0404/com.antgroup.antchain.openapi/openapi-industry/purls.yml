@@ -1,2 +1,4 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-industry@1.0.7
 - pkg:maven/com.antgroup.antchain.openapi/openapi-industry@1.0.7?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-industry@1.1.5
+- pkg:maven/com.antgroup.antchain.openapi/openapi-industry@1.1.5?classifier=sources

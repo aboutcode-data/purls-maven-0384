@@ -1,0 +1,2 @@
+- pkg:maven/io.resys.hdes/hdes-spring-bundle@3.0.2
+- pkg:maven/io.resys.hdes/hdes-spring-bundle@3.0.2?classifier=sources

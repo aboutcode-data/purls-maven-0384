@@ -20,5 +20,7 @@
 - pkg:maven/biz.turnonline.ecosystem/turnonline-payment-processor-client@0.19?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/turnonline-payment-processor-client@0.20
 - pkg:maven/biz.turnonline.ecosystem/turnonline-payment-processor-client@0.20?classifier=sources
+- pkg:maven/biz.turnonline.ecosystem/turnonline-payment-processor-client@0.21
+- pkg:maven/biz.turnonline.ecosystem/turnonline-payment-processor-client@0.21?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/turnonline-payment-processor-client@0.9
 - pkg:maven/biz.turnonline.ecosystem/turnonline-payment-processor-client@0.9?classifier=sources

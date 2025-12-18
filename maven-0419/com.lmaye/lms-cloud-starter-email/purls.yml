@@ -1,0 +1,2 @@
+- pkg:maven/com.lmaye/lms-cloud-starter-email@1.0.3
+- pkg:maven/com.lmaye/lms-cloud-starter-email@1.0.3?classifier=sources

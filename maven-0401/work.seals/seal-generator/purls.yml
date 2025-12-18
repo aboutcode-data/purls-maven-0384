@@ -4,3 +4,5 @@
 - pkg:maven/work.seals/seal-generator@3.5.1?classifier=sources
 - pkg:maven/work.seals/seal-generator@3.5.2
 - pkg:maven/work.seals/seal-generator@3.5.2?classifier=sources
+- pkg:maven/work.seals/seal-generator@3.5.4
+- pkg:maven/work.seals/seal-generator@3.5.4?classifier=sources

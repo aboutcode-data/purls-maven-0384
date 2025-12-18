@@ -1,0 +1,2 @@
+- pkg:maven/pw.mihou/Rose-Java-Driver@1.6
+- pkg:maven/pw.mihou/Rose-Java-Driver@1.6?classifier=sources

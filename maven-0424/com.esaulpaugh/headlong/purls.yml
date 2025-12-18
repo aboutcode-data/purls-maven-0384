@@ -109,3 +109,5 @@
 - pkg:maven/com.esaulpaugh/headlong@5.0.0
 - pkg:maven/com.esaulpaugh/headlong@5.0.0?classifier=sources
 - pkg:maven/com.esaulpaugh/headlong@5.1.0?classifier=sources
+- pkg:maven/com.esaulpaugh/headlong@5.2.0?classifier=sources
+- pkg:maven/com.esaulpaugh/headlong@5.3.0?classifier=sources

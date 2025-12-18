@@ -1,0 +1,4 @@
+- pkg:maven/net.officefloor.server/officeserver_vertx@3.36.0
+- pkg:maven/net.officefloor.server/officeserver_vertx@3.36.0?classifier=sources
+- pkg:maven/net.officefloor.server/officeserver_vertx@3.37.0
+- pkg:maven/net.officefloor.server/officeserver_vertx@3.37.0?classifier=sources

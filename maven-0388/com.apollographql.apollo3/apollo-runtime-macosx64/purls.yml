@@ -1,0 +1,2 @@
+- pkg:maven/com.apollographql.apollo3/apollo-runtime-macosx64@3.0.0-dev13?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-runtime-macosx64@3.0.0-dev14?classifier=sources

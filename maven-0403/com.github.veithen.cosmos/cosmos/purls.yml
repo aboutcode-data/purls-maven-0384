@@ -3,3 +3,4 @@
 - pkg:maven/com.github.veithen.cosmos/cosmos@0.3?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen.cosmos/cosmos@0.4.0?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen.cosmos/cosmos@0.4.1?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen.cosmos/cosmos@0.4.2?classifier=source-release&type=zip

@@ -1,0 +1,10 @@
+- pkg:maven/org.scalqa/scalqa_3@0.9
+- pkg:maven/org.scalqa/scalqa_3@0.91
+- pkg:maven/org.scalqa/scalqa_3@0.91?classifier=sources
+- pkg:maven/org.scalqa/scalqa_3@0.92
+- pkg:maven/org.scalqa/scalqa_3@0.92?classifier=sources
+- pkg:maven/org.scalqa/scalqa_3@0.93
+- pkg:maven/org.scalqa/scalqa_3@0.93?classifier=sources
+- pkg:maven/org.scalqa/scalqa_3@0.94
+- pkg:maven/org.scalqa/scalqa_3@0.94?classifier=sources
+- pkg:maven/org.scalqa/scalqa_3@0.9?classifier=sources

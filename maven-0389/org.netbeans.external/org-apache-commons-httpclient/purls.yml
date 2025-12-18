@@ -5,3 +5,4 @@
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE124?classifier=sources

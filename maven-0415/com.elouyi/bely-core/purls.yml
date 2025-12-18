@@ -1,0 +1,4 @@
+- pkg:maven/com.elouyi/bely-core@0.0.3-t2?classifier=sources
+- pkg:maven/com.elouyi/bely-core@0.0.3-t3?classifier=sources
+- pkg:maven/com.elouyi/bely-core@0.0.3-t?classifier=sources
+- pkg:maven/com.elouyi/bely-core@0.0.4-dev-1?classifier=sources

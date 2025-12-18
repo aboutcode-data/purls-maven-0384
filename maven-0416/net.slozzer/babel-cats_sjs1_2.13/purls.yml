@@ -14,3 +14,5 @@
 - pkg:maven/net.slozzer/babel-cats_sjs1_2.13@0.2.1?classifier=sources
 - pkg:maven/net.slozzer/babel-cats_sjs1_2.13@0.3.1
 - pkg:maven/net.slozzer/babel-cats_sjs1_2.13@0.3.1?classifier=sources
+- pkg:maven/net.slozzer/babel-cats_sjs1_2.13@0.3.3
+- pkg:maven/net.slozzer/babel-cats_sjs1_2.13@0.3.3?classifier=sources

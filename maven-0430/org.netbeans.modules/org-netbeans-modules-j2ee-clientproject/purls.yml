@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE124?classifier=sources

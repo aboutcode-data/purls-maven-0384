@@ -6,3 +6,4 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.sts.passive/identity-application-auth-passive-sts@5.4.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.sts.passive/identity-application-auth-passive-sts@5.4.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.sts.passive/identity-application-auth-passive-sts@5.4.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.sts.passive/identity-application-auth-passive-sts@5.4.5?classifier=source-release&type=zip

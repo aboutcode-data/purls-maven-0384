@@ -1,2 +1,12 @@
 - pkg:maven/org.cricketmsf/cricket@2.0.0-rc36
 - pkg:maven/org.cricketmsf/cricket@2.0.0-rc36?classifier=sources
+- pkg:maven/org.cricketmsf/cricket@2.0.0-rc45
+- pkg:maven/org.cricketmsf/cricket@2.0.0-rc45?classifier=sources
+- pkg:maven/org.cricketmsf/cricket@2.0.0-rc55
+- pkg:maven/org.cricketmsf/cricket@2.0.0-rc55?classifier=sources
+- pkg:maven/org.cricketmsf/cricket@2.0.0-rc56
+- pkg:maven/org.cricketmsf/cricket@2.0.0-rc56?classifier=sources
+- pkg:maven/org.cricketmsf/cricket@2.0.0-rc59
+- pkg:maven/org.cricketmsf/cricket@2.0.0-rc59?classifier=sources
+- pkg:maven/org.cricketmsf/cricket@2.0.0-rc61
+- pkg:maven/org.cricketmsf/cricket@2.0.0-rc61?classifier=sources
