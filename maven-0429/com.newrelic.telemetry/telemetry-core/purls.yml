@@ -1,3 +1,4 @@
+- pkg:maven/com.newrelic.telemetry/telemetry-core@0.10.0?classifier=sources
 - pkg:maven/com.newrelic.telemetry/telemetry-core@0.3.0
 - pkg:maven/com.newrelic.telemetry/telemetry-core@0.3.0?classifier=sources
 - pkg:maven/com.newrelic.telemetry/telemetry-core@0.3.1

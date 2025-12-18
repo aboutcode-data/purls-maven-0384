@@ -5,6 +5,16 @@
 - pkg:maven/com.backbase.oss/tests@0.1.7
 - pkg:maven/com.backbase.oss/tests@0.1.8
 - pkg:maven/com.backbase.oss/tests@0.1.9
+- pkg:maven/com.backbase.oss/tests@0.10.0
+- pkg:maven/com.backbase.oss/tests@0.11.0
+- pkg:maven/com.backbase.oss/tests@0.11.1
+- pkg:maven/com.backbase.oss/tests@0.11.2
+- pkg:maven/com.backbase.oss/tests@0.11.3
+- pkg:maven/com.backbase.oss/tests@0.11.4
+- pkg:maven/com.backbase.oss/tests@0.11.5
+- pkg:maven/com.backbase.oss/tests@0.12.0
+- pkg:maven/com.backbase.oss/tests@0.12.1
+- pkg:maven/com.backbase.oss/tests@0.13.0
 - pkg:maven/com.backbase.oss/tests@0.2.0
 - pkg:maven/com.backbase.oss/tests@0.2.1
 - pkg:maven/com.backbase.oss/tests@0.2.2
@@ -16,4 +26,7 @@
 - pkg:maven/com.backbase.oss/tests@0.4.0
 - pkg:maven/com.backbase.oss/tests@0.5.0
 - pkg:maven/com.backbase.oss/tests@0.6.0
+- pkg:maven/com.backbase.oss/tests@0.7.0
+- pkg:maven/com.backbase.oss/tests@0.8.0
+- pkg:maven/com.backbase.oss/tests@0.9.0
 - pkg:maven/com.backbase.oss/tests@4.20.0

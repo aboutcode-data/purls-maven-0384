@@ -24,3 +24,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-swing@3.0.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-swing@4.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-swing@4.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-swing@5.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-swing@5.0.0?classifier=sources

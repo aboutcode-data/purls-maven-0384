@@ -1,3 +1,6 @@
+- pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.100
+- pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.102
+- pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.103
 - pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.62
 - pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.63
 - pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.64
@@ -28,3 +31,6 @@
 - pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.94
 - pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.95
 - pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.96
+- pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.97
+- pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.98
+- pkg:maven/de.quantummaid.mapmaid/autoloading-tests@0.9.99

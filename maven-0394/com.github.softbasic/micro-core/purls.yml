@@ -10,3 +10,5 @@
 - pkg:maven/com.github.softbasic/micro-core@0.0.6?classifier=sources
 - pkg:maven/com.github.softbasic/micro-core@1.0.0.RELEASE
 - pkg:maven/com.github.softbasic/micro-core@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.github.softbasic/micro-core@1.0.1.RELEASE
+- pkg:maven/com.github.softbasic/micro-core@1.0.1.RELEASE?classifier=sources

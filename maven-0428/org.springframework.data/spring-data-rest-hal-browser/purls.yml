@@ -162,6 +162,8 @@
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.2.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.2.11.RELEASE
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.2.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.2.12.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.2.12.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.2.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.2.3.RELEASE
@@ -190,3 +192,5 @@
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.3.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.3.5.RELEASE
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.3.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.3.6.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.3.6.RELEASE?classifier=sources

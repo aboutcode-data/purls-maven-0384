@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/js-tokens@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/js-tokens@5.0.0
 - pkg:maven/org.webjars.npm/js-tokens@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/js-tokens@6.0.0
+- pkg:maven/org.webjars.npm/js-tokens@6.0.0?classifier=sources

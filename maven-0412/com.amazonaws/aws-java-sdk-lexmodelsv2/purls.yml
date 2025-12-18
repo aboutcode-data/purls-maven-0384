@@ -1,0 +1,2 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelsv2@1.11.942
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelsv2@1.11.942?classifier=sources

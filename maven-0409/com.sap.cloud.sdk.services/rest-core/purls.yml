@@ -26,3 +26,5 @@
 - pkg:maven/com.sap.cloud.sdk.services/rest-core@3.31.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.services/rest-core@3.32.0
 - pkg:maven/com.sap.cloud.sdk.services/rest-core@3.32.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/rest-core@3.33.0
+- pkg:maven/com.sap.cloud.sdk.services/rest-core@3.33.0?classifier=sources

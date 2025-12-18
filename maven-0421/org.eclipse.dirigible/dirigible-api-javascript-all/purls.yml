@@ -9,6 +9,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@3.2.6
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@3.2.7
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@3.2.8
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@3.2.9
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@3.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@3.3.1
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@3.3.2
@@ -29,3 +30,6 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@5.2.0
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@5.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@5.4.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@5.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@5.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-all@5.7.0

@@ -47,6 +47,7 @@
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.3
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.4
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.5
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.fp10
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.fp11
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.fp12
@@ -57,6 +58,7 @@
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.fp17
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.fp18
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.fp19
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.fp20
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.fp7
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.fp8
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.1.10.fp9
@@ -64,8 +66,10 @@
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.1
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.2
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.3
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.3-1
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.fp1
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.fp1-1
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.fp10
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.fp2
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.fp3
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.fp4
@@ -73,7 +77,9 @@
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.fp6
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.fp7
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.fp8
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.2.10.fp9
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.0-2
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.ep3
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.ep4
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.ep5

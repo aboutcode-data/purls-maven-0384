@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.aries.jax.rs/org.apache.aries.jax.rs.openapi.resource@1.1.0
+- pkg:maven/org.apache.aries.jax.rs/org.apache.aries.jax.rs.openapi.resource@1.1.0?classifier=sources

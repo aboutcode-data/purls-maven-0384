@@ -6,3 +6,5 @@
 - pkg:maven/cd.go.groovydsl/dsl@1.0.3-151?classifier=sources
 - pkg:maven/cd.go.groovydsl/dsl@1.1.0-233
 - pkg:maven/cd.go.groovydsl/dsl@1.1.0-233?classifier=sources
+- pkg:maven/cd.go.groovydsl/dsl@2.0.0-241
+- pkg:maven/cd.go.groovydsl/dsl@2.0.0-241?classifier=sources

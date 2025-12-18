@@ -1,0 +1,10 @@
+- pkg:maven/cn.soilove/easy-utils@1.1.11
+- pkg:maven/cn.soilove/easy-utils@1.1.11?classifier=sources
+- pkg:maven/cn.soilove/easy-utils@1.1.8
+- pkg:maven/cn.soilove/easy-utils@1.1.8?classifier=sources
+- pkg:maven/cn.soilove/easy-utils@1.2.0
+- pkg:maven/cn.soilove/easy-utils@1.2.0?classifier=sources
+- pkg:maven/cn.soilove/easy-utils@1.2.3
+- pkg:maven/cn.soilove/easy-utils@1.2.3?classifier=sources
+- pkg:maven/cn.soilove/easy-utils@1.2.4
+- pkg:maven/cn.soilove/easy-utils@1.2.4?classifier=sources

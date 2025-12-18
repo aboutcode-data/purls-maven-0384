@@ -104,3 +104,4 @@
 - pkg:maven/com.netflix.nebula/nebula-project-plugin@7.0.7?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-project-plugin@7.0.8?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-project-plugin@7.0.9?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-project-plugin@8.0.0?classifier=sources

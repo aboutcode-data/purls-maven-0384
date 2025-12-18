@@ -1,0 +1,4 @@
+- pkg:maven/org.ekrich/sconfig_3.0.0-M3@1.3.6
+- pkg:maven/org.ekrich/sconfig_3.0.0-M3@1.3.6?classifier=sources
+- pkg:maven/org.ekrich/sconfig_3.0.0-M3@1.4.0
+- pkg:maven/org.ekrich/sconfig_3.0.0-M3@1.4.0?classifier=sources

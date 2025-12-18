@@ -154,6 +154,8 @@
 - pkg:maven/com.groupbyinc/common-joda@190?classifier=sources
 - pkg:maven/com.groupbyinc/common-joda@191
 - pkg:maven/com.groupbyinc/common-joda@191?classifier=sources
+- pkg:maven/com.groupbyinc/common-joda@192
+- pkg:maven/com.groupbyinc/common-joda@192?classifier=sources
 - pkg:maven/com.groupbyinc/common-joda@55
 - pkg:maven/com.groupbyinc/common-joda@55?classifier=sources
 - pkg:maven/com.groupbyinc/common-joda@56

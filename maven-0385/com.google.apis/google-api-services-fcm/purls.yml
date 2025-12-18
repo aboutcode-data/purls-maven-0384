@@ -78,6 +78,8 @@
 - pkg:maven/com.google.apis/google-api-services-fcm@v1-rev20200622-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-fcm@v1-rev20200720-1.30.10
 - pkg:maven/com.google.apis/google-api-services-fcm@v1-rev20200720-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-fcm@v1-rev20200720-1.31.0
+- pkg:maven/com.google.apis/google-api-services-fcm@v1-rev20200720-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-fcm@v1-rev23-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-fcm@v1-rev23-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-fcm@v1-rev23-1.25.0

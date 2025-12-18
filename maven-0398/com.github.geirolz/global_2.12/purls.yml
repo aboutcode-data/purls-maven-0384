@@ -1,0 +1,2 @@
+- pkg:maven/com.github.geirolz/global_2.12@2.3.0-NEW-BUILD
+- pkg:maven/com.github.geirolz/global_2.12@2.3.0-NEW-BUILD?classifier=sources

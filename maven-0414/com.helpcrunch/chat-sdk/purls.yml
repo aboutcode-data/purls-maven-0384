@@ -37,3 +37,7 @@
 - pkg:maven/com.helpcrunch/chat-sdk@3.0.7-rc.01?type=aar
 - pkg:maven/com.helpcrunch/chat-sdk@3.0.7?classifier=sources
 - pkg:maven/com.helpcrunch/chat-sdk@3.0.7?type=aar
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.8-alpha.01?classifier=sources
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.8-alpha.01?type=aar
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.8-alpha.02?classifier=sources
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.8-alpha.02?type=aar

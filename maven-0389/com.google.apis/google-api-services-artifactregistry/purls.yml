@@ -1,3 +1,5 @@
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1-rev20201203-1.31.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1-rev20201203-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200508-1.30.9
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200508-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200605-1.30.9
@@ -16,3 +18,15 @@
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20201009-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20201030-1.30.10
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20201030-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20201107-1.30.10
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20201107-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20201107-1.31.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20201107-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20201203-1.31.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20201203-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20201107-1.30.10
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20201107-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20201107-1.31.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20201107-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20201203-1.31.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20201203-1.31.0?classifier=sources

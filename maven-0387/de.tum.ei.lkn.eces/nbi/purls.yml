@@ -1,0 +1,2 @@
+- pkg:maven/de.tum.ei.lkn.eces/nbi@1.0.2
+- pkg:maven/de.tum.ei.lkn.eces/nbi@1.0.2?classifier=sources

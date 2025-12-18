@@ -198,6 +198,8 @@
 - pkg:maven/com.lihaoyi/ammonite-compiler_2.12.2@1.1.0-7-33b728c
 - pkg:maven/com.lihaoyi/ammonite-compiler_2.12.2@1.1.0-7-33b728c?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-compiler_2.12.2@1.1.0?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.12.2@2.3.8-32-64308dc3
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.12.2@2.3.8-32-64308dc3?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-compiler_2.12.2@COMMIT-010fa68
 - pkg:maven/com.lihaoyi/ammonite-compiler_2.12.2@COMMIT-010fa68?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-compiler_2.12.2@COMMIT-01b67ac

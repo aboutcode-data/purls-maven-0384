@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars.bower/bootstrap-ui-datetime-picker@2.6.0?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-ui-datetime-picker@2.6.1
 - pkg:maven/org.webjars.bower/bootstrap-ui-datetime-picker@2.6.1?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap-ui-datetime-picker@2.6.4
+- pkg:maven/org.webjars.bower/bootstrap-ui-datetime-picker@2.6.4?classifier=sources

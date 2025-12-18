@@ -1,0 +1,4 @@
+- pkg:maven/cloud.unionj/unionj-generator-mock@1.0
+- pkg:maven/cloud.unionj/unionj-generator-mock@1.0?classifier=sources
+- pkg:maven/cloud.unionj/unionj-generator-mock@1.1
+- pkg:maven/cloud.unionj/unionj-generator-mock@1.1?classifier=sources

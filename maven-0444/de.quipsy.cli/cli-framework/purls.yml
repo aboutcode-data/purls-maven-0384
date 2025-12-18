@@ -1,2 +1,6 @@
 - pkg:maven/de.quipsy.cli/cli-framework@2020
+- pkg:maven/de.quipsy.cli/cli-framework@2020.0.1
+- pkg:maven/de.quipsy.cli/cli-framework@2020.0.1?classifier=sources
 - pkg:maven/de.quipsy.cli/cli-framework@2020?classifier=sources
+- pkg:maven/de.quipsy.cli/cli-framework@2021
+- pkg:maven/de.quipsy.cli/cli-framework@2021?classifier=sources

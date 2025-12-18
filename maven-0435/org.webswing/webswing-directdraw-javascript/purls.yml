@@ -11,3 +11,5 @@
 - pkg:maven/org.webswing/webswing-directdraw-javascript@20.1.5
 - pkg:maven/org.webswing/webswing-directdraw-javascript@20.1.6
 - pkg:maven/org.webswing/webswing-directdraw-javascript@20.1.8
+- pkg:maven/org.webswing/webswing-directdraw-javascript@20.2.1
+- pkg:maven/org.webswing/webswing-directdraw-javascript@20.2.2

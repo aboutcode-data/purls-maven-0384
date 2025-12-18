@@ -1,2 +1,10 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardbx@1.1.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardbx@1.1.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardbx@1.1.2
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardbx@1.1.2?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardbx@2020-11-27
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardbx@2020-11-27?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardbx@2020-11-30
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardbx@2020-11-30?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-polardbx@20201028
 - pkg:maven/com.aliyun/aliyun-java-sdk-polardbx@20201028?classifier=sources

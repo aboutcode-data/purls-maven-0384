@@ -25,3 +25,5 @@
 - pkg:maven/org.odpi.egeria/discovery-engine-services-client@2.3?classifier=sources
 - pkg:maven/org.odpi.egeria/discovery-engine-services-client@2.4
 - pkg:maven/org.odpi.egeria/discovery-engine-services-client@2.4?classifier=sources
+- pkg:maven/org.odpi.egeria/discovery-engine-services-client@2.5
+- pkg:maven/org.odpi.egeria/discovery-engine-services-client@2.5?classifier=sources

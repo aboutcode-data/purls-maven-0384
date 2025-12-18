@@ -10,3 +10,5 @@
 - pkg:maven/com.centit.support/centit-es-client@0.1.1901
 - pkg:maven/com.centit.support/centit-es-client@0.1.1901?classifier=sources
 - pkg:maven/com.centit.support/centit-es-client@0.1?classifier=sources
+- pkg:maven/com.centit.support/centit-es-client@1.2.2101
+- pkg:maven/com.centit.support/centit-es-client@1.2.2101?classifier=sources

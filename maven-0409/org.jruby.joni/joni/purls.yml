@@ -80,6 +80,8 @@
 - pkg:maven/org.jruby.joni/joni@2.1.4
 - pkg:maven/org.jruby.joni/joni@2.1.40
 - pkg:maven/org.jruby.joni/joni@2.1.40?classifier=sources
+- pkg:maven/org.jruby.joni/joni@2.1.41
+- pkg:maven/org.jruby.joni/joni@2.1.41?classifier=sources
 - pkg:maven/org.jruby.joni/joni@2.1.4?classifier=sources
 - pkg:maven/org.jruby.joni/joni@2.1.5
 - pkg:maven/org.jruby.joni/joni@2.1.5?classifier=sources

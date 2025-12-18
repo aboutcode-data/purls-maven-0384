@@ -1,3 +1,5 @@
+- pkg:maven/net.anotheria/moskito-mongodb@2.10.0
+- pkg:maven/net.anotheria/moskito-mongodb@2.10.0?classifier=sources
 - pkg:maven/net.anotheria/moskito-mongodb@2.7.2
 - pkg:maven/net.anotheria/moskito-mongodb@2.7.2?classifier=sources
 - pkg:maven/net.anotheria/moskito-mongodb@2.7.3

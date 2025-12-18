@@ -1,0 +1,10 @@
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-10-gf9c3739
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-10-gf9c3739?classifier=sources
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-11-g718a424
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-11-g718a424?classifier=sources
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-13-gf6771c4
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-13-gf6771c4?classifier=sources
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-7-g9d2cdc4
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-7-g9d2cdc4?classifier=sources
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-8-ga3f4e8c
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-8-ga3f4e8c?classifier=sources

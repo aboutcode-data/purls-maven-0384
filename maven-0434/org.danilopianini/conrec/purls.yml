@@ -1,2 +1,4 @@
 - pkg:maven/org.danilopianini/conrec@0.1.0
+- pkg:maven/org.danilopianini/conrec@0.1.0-dev15%2B8335eb7?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.0-dev15%2Bc449675?classifier=sources
 - pkg:maven/org.danilopianini/conrec@0.1.0?classifier=sources

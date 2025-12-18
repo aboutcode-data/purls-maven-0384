@@ -34,3 +34,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-node-client@2.5.3?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-node-client@2.5.4
 - pkg:maven/org.atmosphere.samples/atmosphere-chat-node-client@2.5.4?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-chat-node-client@2.6.4
+- pkg:maven/org.atmosphere.samples/atmosphere-chat-node-client@2.6.4?classifier=sources

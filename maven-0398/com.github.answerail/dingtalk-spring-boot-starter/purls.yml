@@ -24,3 +24,13 @@
 - pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@2.0.3-beta3?classifier=sources
 - pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@2.0.4-RELEASE
 - pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@2.0.4-RELEASE?classifier=sources
+- pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@2.0.5-RELEASE
+- pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@2.0.5-RELEASE?classifier=sources
+- pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@3.0.0-RELEASE
+- pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@3.0.0-RELEASE?classifier=sources
+- pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@3.0.0-SP1
+- pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@3.0.0-SP1?classifier=sources
+- pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@3.1.0-RELEASE
+- pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@3.1.0-RELEASE?classifier=sources
+- pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@3.1.1-RELEASE
+- pkg:maven/com.github.answerail/dingtalk-spring-boot-starter@3.1.1-RELEASE?classifier=sources

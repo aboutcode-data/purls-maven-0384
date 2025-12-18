@@ -9,3 +9,6 @@
 - pkg:maven/com.appnexus.opensdk.csr/appnexus-facebook-csr@7.6-5.7.1?type=aar
 - pkg:maven/com.appnexus.opensdk.csr/appnexus-facebook-csr@7.7-6.1.0?type=aar
 - pkg:maven/com.appnexus.opensdk.csr/appnexus-facebook-csr@7.7.1-6.1.0?type=aar
+- pkg:maven/com.appnexus.opensdk.csr/appnexus-facebook-csr@7.8-6.2.0?type=aar
+- pkg:maven/com.appnexus.opensdk.csr/appnexus-facebook-csr@7.8.1-6.2.0?type=aar
+- pkg:maven/com.appnexus.opensdk.csr/appnexus-facebook-csr@7.8.2-6.2.0?type=aar

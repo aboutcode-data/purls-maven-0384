@@ -43,6 +43,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.1.16
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.1.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.1.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.1.18
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.1.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.1.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.1.7
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.1.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.1.7?classifier=sources-commercial
@@ -71,6 +74,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.2.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.2.1
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.2.12
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.2.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.2.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.2.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.2.2

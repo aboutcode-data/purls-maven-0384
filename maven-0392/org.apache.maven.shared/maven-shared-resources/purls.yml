@@ -4,3 +4,6 @@
 - pkg:maven/org.apache.maven.shared/maven-shared-resources@2
 - pkg:maven/org.apache.maven.shared/maven-shared-resources@2?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.shared/maven-shared-resources@2?classifier=sources
+- pkg:maven/org.apache.maven.shared/maven-shared-resources@3
+- pkg:maven/org.apache.maven.shared/maven-shared-resources@3?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-shared-resources@3?classifier=sources

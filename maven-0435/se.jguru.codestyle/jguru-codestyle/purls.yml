@@ -2,6 +2,8 @@
 - pkg:maven/se.jguru.codestyle/jguru-codestyle@0.10.0?classifier=sources
 - pkg:maven/se.jguru.codestyle/jguru-codestyle@0.11.0
 - pkg:maven/se.jguru.codestyle/jguru-codestyle@0.11.0?classifier=sources
+- pkg:maven/se.jguru.codestyle/jguru-codestyle@0.11.2
+- pkg:maven/se.jguru.codestyle/jguru-codestyle@0.11.2?classifier=sources
 - pkg:maven/se.jguru.codestyle/jguru-codestyle@0.9.1
 - pkg:maven/se.jguru.codestyle/jguru-codestyle@0.9.10
 - pkg:maven/se.jguru.codestyle/jguru-codestyle@0.9.10?classifier=sources

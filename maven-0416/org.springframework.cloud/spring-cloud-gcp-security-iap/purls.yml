@@ -22,3 +22,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-gcp-security-iap@1.2.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-gcp-security-iap@1.2.5.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-gcp-security-iap@1.2.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-gcp-security-iap@1.2.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-gcp-security-iap@1.2.6.RELEASE?classifier=sources

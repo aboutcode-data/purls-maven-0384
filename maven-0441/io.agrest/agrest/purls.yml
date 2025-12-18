@@ -11,5 +11,7 @@
 - pkg:maven/io.agrest/agrest@3.5
 - pkg:maven/io.agrest/agrest@3.6
 - pkg:maven/io.agrest/agrest@3.7
+- pkg:maven/io.agrest/agrest@3.8
+- pkg:maven/io.agrest/agrest@3.9
 - pkg:maven/io.agrest/agrest@4.0
 - pkg:maven/io.agrest/agrest@4.1

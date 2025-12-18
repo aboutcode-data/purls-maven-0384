@@ -1,0 +1,2 @@
+- pkg:maven/com.ms3-inc.camel/camel-restdsl-openapi-plugin@0.1.0
+- pkg:maven/com.ms3-inc.camel/camel-restdsl-openapi-plugin@0.1.0?classifier=sources

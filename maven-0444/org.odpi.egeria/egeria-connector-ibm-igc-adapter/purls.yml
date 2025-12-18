@@ -14,3 +14,5 @@
 - pkg:maven/org.odpi.egeria/egeria-connector-ibm-igc-adapter@2.1?classifier=sources
 - pkg:maven/org.odpi.egeria/egeria-connector-ibm-igc-adapter@2.2
 - pkg:maven/org.odpi.egeria/egeria-connector-ibm-igc-adapter@2.2?classifier=sources
+- pkg:maven/org.odpi.egeria/egeria-connector-ibm-igc-adapter@2.5
+- pkg:maven/org.odpi.egeria/egeria-connector-ibm-igc-adapter@2.5?classifier=sources

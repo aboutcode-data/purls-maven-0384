@@ -24,3 +24,5 @@
 - pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.8?type=war
 - pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.9?classifier=sources
 - pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.5.9?type=war
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.6.0?classifier=sources
+- pkg:maven/de.uni-rostock.sbi/CombineArchiveWeb@0.6.0?type=war

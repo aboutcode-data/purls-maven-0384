@@ -6,3 +6,4 @@
 - pkg:maven/de.mhus.ports/ports-groovy@6.2.0
 - pkg:maven/de.mhus.ports/ports-groovy@7.0.0
 - pkg:maven/de.mhus.ports/ports-groovy@7.1.0
+- pkg:maven/de.mhus.ports/ports-groovy@7.2.0

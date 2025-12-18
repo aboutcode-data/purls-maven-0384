@@ -76,3 +76,7 @@
 - pkg:maven/io.hackerbay.fyipe/log-java@3.0.6559?classifier=sources
 - pkg:maven/io.hackerbay.fyipe/log-java@3.0.6563
 - pkg:maven/io.hackerbay.fyipe/log-java@3.0.6563?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.6630
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.6630?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.6657
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.6657?classifier=sources

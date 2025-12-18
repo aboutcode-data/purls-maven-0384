@@ -12,3 +12,5 @@
 - pkg:maven/io.lindstrom/mpd-parser@0.7?classifier=sources
 - pkg:maven/io.lindstrom/mpd-parser@0.8
 - pkg:maven/io.lindstrom/mpd-parser@0.8?classifier=sources
+- pkg:maven/io.lindstrom/mpd-parser@0.9
+- pkg:maven/io.lindstrom/mpd-parser@0.9?classifier=sources

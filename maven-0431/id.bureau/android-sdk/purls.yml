@@ -1,0 +1,4 @@
+- pkg:maven/id.bureau/android-sdk@0.0.1
+- pkg:maven/id.bureau/android-sdk@0.0.1?classifier=sources
+- pkg:maven/id.bureau/android-sdk@0.1
+- pkg:maven/id.bureau/android-sdk@0.1?classifier=sources

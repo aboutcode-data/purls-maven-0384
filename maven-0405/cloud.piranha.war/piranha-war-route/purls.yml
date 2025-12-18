@@ -1,1 +1,4 @@
 - pkg:maven/cloud.piranha.war/piranha-war-route@20.10.0?type=war
+- pkg:maven/cloud.piranha.war/piranha-war-route@20.11.0?type=war
+- pkg:maven/cloud.piranha.war/piranha-war-route@20.12.0?type=war
+- pkg:maven/cloud.piranha.war/piranha-war-route@21.1.0?type=war

@@ -16,3 +16,5 @@
 - pkg:maven/io.cdap.mmds/mmds-plugins@1.5.2?classifier=sources
 - pkg:maven/io.cdap.mmds/mmds-plugins@1.5.3
 - pkg:maven/io.cdap.mmds/mmds-plugins@1.5.3?classifier=sources
+- pkg:maven/io.cdap.mmds/mmds-plugins@1.6.0
+- pkg:maven/io.cdap.mmds/mmds-plugins@1.6.0?classifier=sources

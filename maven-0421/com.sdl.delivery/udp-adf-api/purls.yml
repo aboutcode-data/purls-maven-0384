@@ -12,7 +12,15 @@
 - pkg:maven/com.sdl.delivery/udp-adf-api@11.0.0-1056?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-adf-api@11.0.0-1057
 - pkg:maven/com.sdl.delivery/udp-adf-api@11.0.0-1057?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-adf-api@11.0.0-1060
+- pkg:maven/com.sdl.delivery/udp-adf-api@11.0.0-1060?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-adf-api@11.0.0-1078
+- pkg:maven/com.sdl.delivery/udp-adf-api@11.0.0-1078?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-adf-api@11.0.0-1090
+- pkg:maven/com.sdl.delivery/udp-adf-api@11.0.0-1090?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-adf-api@11.1.0-1056
 - pkg:maven/com.sdl.delivery/udp-adf-api@11.1.0-1056?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-adf-api@11.1.0-1103
+- pkg:maven/com.sdl.delivery/udp-adf-api@11.1.0-1103?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-adf-api@11.5.0-1067
 - pkg:maven/com.sdl.delivery/udp-adf-api@11.5.0-1067?classifier=sources

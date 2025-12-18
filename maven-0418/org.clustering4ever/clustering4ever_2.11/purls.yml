@@ -1,3 +1,5 @@
+- pkg:maven/org.clustering4ever/clustering4ever_2.11@0.11.0
+- pkg:maven/org.clustering4ever/clustering4ever_2.11@0.11.0?classifier=sources
 - pkg:maven/org.clustering4ever/clustering4ever_2.11@0.6.13
 - pkg:maven/org.clustering4ever/clustering4ever_2.11@0.6.13?classifier=sources
 - pkg:maven/org.clustering4ever/clustering4ever_2.11@0.6.27

@@ -79,6 +79,9 @@
 - pkg:maven/com.liferay/com.liferay.gradle.util@1.0.43
 - pkg:maven/com.liferay/com.liferay.gradle.util@1.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.util@1.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.util@1.0.44
+- pkg:maven/com.liferay/com.liferay.gradle.util@1.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.util@1.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gradle.util@1.0.5
 - pkg:maven/com.liferay/com.liferay.gradle.util@1.0.6
 - pkg:maven/com.liferay/com.liferay.gradle.util@1.0.7

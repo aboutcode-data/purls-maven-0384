@@ -10,3 +10,5 @@
 - pkg:maven/com.aoindustries/ao-dao-dbc@1.0.4?classifier=sources
 - pkg:maven/com.aoindustries/ao-dao-dbc@1.0.6
 - pkg:maven/com.aoindustries/ao-dao-dbc@1.0.6?classifier=sources
+- pkg:maven/com.aoindustries/ao-dao-dbc@2.0.0
+- pkg:maven/com.aoindustries/ao-dao-dbc@2.0.0?classifier=sources

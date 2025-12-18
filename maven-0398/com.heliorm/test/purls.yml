@@ -18,3 +18,7 @@
 - pkg:maven/com.heliorm/test@0.80?classifier=sources
 - pkg:maven/com.heliorm/test@0.81
 - pkg:maven/com.heliorm/test@0.81?classifier=sources
+- pkg:maven/com.heliorm/test@0.82
+- pkg:maven/com.heliorm/test@0.82?classifier=sources
+- pkg:maven/com.heliorm/test@0.83
+- pkg:maven/com.heliorm/test@0.83?classifier=sources

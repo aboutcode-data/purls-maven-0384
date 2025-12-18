@@ -185,6 +185,8 @@
 - pkg:maven/org.realityforge.react4j/react4j-dom@0.177?classifier=sources
 - pkg:maven/org.realityforge.react4j/react4j-dom@0.178
 - pkg:maven/org.realityforge.react4j/react4j-dom@0.178?classifier=sources
+- pkg:maven/org.realityforge.react4j/react4j-dom@0.179
+- pkg:maven/org.realityforge.react4j/react4j-dom@0.179?classifier=sources
 - pkg:maven/org.realityforge.react4j/react4j-dom@0.17?classifier=sources
 - pkg:maven/org.realityforge.react4j/react4j-dom@0.18
 - pkg:maven/org.realityforge.react4j/react4j-dom@0.18?classifier=sources

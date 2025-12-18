@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/xtal-element@0.0.259
+- pkg:maven/org.webjars.npm/xtal-element@0.0.259?classifier=sources

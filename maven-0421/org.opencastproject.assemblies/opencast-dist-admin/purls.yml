@@ -12,3 +12,6 @@
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-admin@8.5?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-admin@8.6?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-admin@8.7?classifier=sources
+- pkg:maven/org.opencastproject.assemblies/opencast-dist-admin@8.9?classifier=sources
+- pkg:maven/org.opencastproject.assemblies/opencast-dist-admin@9.0?classifier=sources
+- pkg:maven/org.opencastproject.assemblies/opencast-dist-admin@9.1?classifier=sources

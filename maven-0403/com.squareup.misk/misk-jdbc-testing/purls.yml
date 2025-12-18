@@ -1,0 +1,4 @@
+- pkg:maven/com.squareup.misk/misk-jdbc-testing@0.15.0
+- pkg:maven/com.squareup.misk/misk-jdbc-testing@0.15.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-jdbc-testing@0.16.0
+- pkg:maven/com.squareup.misk/misk-jdbc-testing@0.16.0?classifier=sources

@@ -10,3 +10,13 @@
 - pkg:maven/io.github.mightguy/solr-manager-service@1.2.32?classifier=sources
 - pkg:maven/io.github.mightguy/solr-manager-service@1.2.34
 - pkg:maven/io.github.mightguy/solr-manager-service@1.2.34?classifier=sources
+- pkg:maven/io.github.mightguy/solr-manager-service@1.2.44
+- pkg:maven/io.github.mightguy/solr-manager-service@1.2.44?classifier=sources
+- pkg:maven/io.github.mightguy/solr-manager-service@1.2.45
+- pkg:maven/io.github.mightguy/solr-manager-service@1.2.45?classifier=sources
+- pkg:maven/io.github.mightguy/solr-manager-service@8.4.46
+- pkg:maven/io.github.mightguy/solr-manager-service@8.4.46?classifier=sources
+- pkg:maven/io.github.mightguy/solr-manager-service@8.4.47
+- pkg:maven/io.github.mightguy/solr-manager-service@8.4.47?classifier=sources
+- pkg:maven/io.github.mightguy/solr-manager-service@8.4.48
+- pkg:maven/io.github.mightguy/solr-manager-service@8.4.48?classifier=sources

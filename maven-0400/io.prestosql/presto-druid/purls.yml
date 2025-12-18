@@ -7,3 +7,8 @@
 - pkg:maven/io.prestosql/presto-druid@343?classifier=sources
 - pkg:maven/io.prestosql/presto-druid@344?classifier=sources
 - pkg:maven/io.prestosql/presto-druid@345?classifier=sources
+- pkg:maven/io.prestosql/presto-druid@346?classifier=sources
+- pkg:maven/io.prestosql/presto-druid@347?classifier=sources
+- pkg:maven/io.prestosql/presto-druid@348?classifier=sources
+- pkg:maven/io.prestosql/presto-druid@349?classifier=sources
+- pkg:maven/io.prestosql/presto-druid@350?classifier=sources

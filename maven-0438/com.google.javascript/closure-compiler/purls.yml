@@ -204,3 +204,5 @@
 - pkg:maven/com.google.javascript/closure-compiler@v20200927?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler@v20201006?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler@v20201102?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20201207?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20210106?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.ow2.petals/petals-bc-rest@1.4.0?classifier=sources
 - pkg:maven/org.ow2.petals/petals-bc-rest@2.0.0?classifier=sources
 - pkg:maven/org.ow2.petals/petals-bc-rest@2.1.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-bc-rest@2.2.0?classifier=sources

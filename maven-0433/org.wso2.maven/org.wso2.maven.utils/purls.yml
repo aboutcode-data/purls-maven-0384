@@ -43,6 +43,12 @@
 - pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.3
 - pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.30
 - pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.30?classifier=sources
+- pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.31
+- pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.31?classifier=sources
+- pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.32
+- pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.32?classifier=sources
+- pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.33
+- pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.33?classifier=sources
 - pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.3?classifier=sources
 - pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.7
 - pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.7?classifier=sources

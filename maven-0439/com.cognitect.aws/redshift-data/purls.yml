@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/redshift-data@810.2.801.0
+- pkg:maven/com.cognitect.aws/redshift-data@810.2.801.0?classifier=sources

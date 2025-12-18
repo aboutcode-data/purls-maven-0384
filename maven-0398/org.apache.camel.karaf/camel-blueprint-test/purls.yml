@@ -5,5 +5,8 @@
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.4.2
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.4.3
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.4.4
+- pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.4.5
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.5.0
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.6.0
+- pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.7.0
+- pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.7.1

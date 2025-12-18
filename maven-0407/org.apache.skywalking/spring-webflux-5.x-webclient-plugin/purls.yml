@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.skywalking/spring-webflux-5.x-webclient-plugin@8.2.0
 - pkg:maven/org.apache.skywalking/spring-webflux-5.x-webclient-plugin@8.2.0?classifier=sources
+- pkg:maven/org.apache.skywalking/spring-webflux-5.x-webclient-plugin@8.3.0
+- pkg:maven/org.apache.skywalking/spring-webflux-5.x-webclient-plugin@8.3.0?classifier=sources

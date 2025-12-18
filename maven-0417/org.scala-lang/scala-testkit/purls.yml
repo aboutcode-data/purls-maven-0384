@@ -4,3 +4,5 @@
 - pkg:maven/org.scala-lang/scala-testkit@2.13.2?classifier=sources
 - pkg:maven/org.scala-lang/scala-testkit@2.13.3
 - pkg:maven/org.scala-lang/scala-testkit@2.13.3?classifier=sources
+- pkg:maven/org.scala-lang/scala-testkit@2.13.4
+- pkg:maven/org.scala-lang/scala-testkit@2.13.4?classifier=sources

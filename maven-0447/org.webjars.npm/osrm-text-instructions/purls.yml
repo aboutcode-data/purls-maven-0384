@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/osrm-text-instructions@0.13.2
 - pkg:maven/org.webjars.npm/osrm-text-instructions@0.13.2?classifier=sources
+- pkg:maven/org.webjars.npm/osrm-text-instructions@0.14.1-beta.3
+- pkg:maven/org.webjars.npm/osrm-text-instructions@0.14.1-beta.3?classifier=sources

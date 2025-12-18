@@ -8,3 +8,5 @@
 - pkg:maven/net.openhft/affinity-test@3.1.9?classifier=sources
 - pkg:maven/net.openhft/affinity-test@3.2.3
 - pkg:maven/net.openhft/affinity-test@3.2.3?classifier=sources
+- pkg:maven/net.openhft/affinity-test@3.21ea0
+- pkg:maven/net.openhft/affinity-test@3.21ea0?classifier=sources

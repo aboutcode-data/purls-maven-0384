@@ -1,5 +1,7 @@
 - pkg:maven/tv.cntt/rhinocoffeescript@1.10.0
 - pkg:maven/tv.cntt/rhinocoffeescript@1.10.0?classifier=sources
+- pkg:maven/tv.cntt/rhinocoffeescript@1.12.7
+- pkg:maven/tv.cntt/rhinocoffeescript@1.12.7?classifier=sources
 - pkg:maven/tv.cntt/rhinocoffeescript@1.6.2
 - pkg:maven/tv.cntt/rhinocoffeescript@1.6.2?classifier=sources
 - pkg:maven/tv.cntt/rhinocoffeescript@1.6.3

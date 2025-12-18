@@ -32,3 +32,7 @@
 - pkg:maven/com.exasol/virtual-schema-common-jdbc@5.0.4?classifier=sources
 - pkg:maven/com.exasol/virtual-schema-common-jdbc@6.0.0
 - pkg:maven/com.exasol/virtual-schema-common-jdbc@6.0.0?classifier=sources
+- pkg:maven/com.exasol/virtual-schema-common-jdbc@7.0.0
+- pkg:maven/com.exasol/virtual-schema-common-jdbc@7.0.0?classifier=sources
+- pkg:maven/com.exasol/virtual-schema-common-jdbc@8.0.0
+- pkg:maven/com.exasol/virtual-schema-common-jdbc@8.0.0?classifier=sources

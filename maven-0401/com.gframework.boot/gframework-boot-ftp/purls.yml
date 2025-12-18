@@ -1,0 +1,2 @@
+- pkg:maven/com.gframework.boot/gframework-boot-ftp@2.1.1-beta
+- pkg:maven/com.gframework.boot/gframework-boot-ftp@2.1.1-beta?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.lihaoyi/ammonite-compiler_2.12.6@1.1.0-18-0dc8a8e
 - pkg:maven/com.lihaoyi/ammonite-compiler_2.12.6@1.1.0-18-0dc8a8e?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.12.6@2.3.8-32-64308dc3
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.12.6@2.3.8-32-64308dc3?classifier=sources

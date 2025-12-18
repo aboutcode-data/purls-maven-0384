@@ -11,6 +11,8 @@
 - pkg:maven/org.kgrid/proxy-adapter@0.10.11?classifier=sources
 - pkg:maven/org.kgrid/proxy-adapter@0.10.12
 - pkg:maven/org.kgrid/proxy-adapter@0.10.12?classifier=sources
+- pkg:maven/org.kgrid/proxy-adapter@0.10.15
+- pkg:maven/org.kgrid/proxy-adapter@0.10.15?classifier=sources
 - pkg:maven/org.kgrid/proxy-adapter@0.10.1?classifier=sources
 - pkg:maven/org.kgrid/proxy-adapter@0.10.3
 - pkg:maven/org.kgrid/proxy-adapter@0.10.3?classifier=sources
@@ -28,3 +30,7 @@
 - pkg:maven/org.kgrid/proxy-adapter@0.10.9?classifier=sources
 - pkg:maven/org.kgrid/proxy-adapter@0.9.0
 - pkg:maven/org.kgrid/proxy-adapter@0.9.0?classifier=sources
+- pkg:maven/org.kgrid/proxy-adapter@1.0.0
+- pkg:maven/org.kgrid/proxy-adapter@1.0.0?classifier=sources
+- pkg:maven/org.kgrid/proxy-adapter@1.0.1
+- pkg:maven/org.kgrid/proxy-adapter@1.0.1?classifier=sources

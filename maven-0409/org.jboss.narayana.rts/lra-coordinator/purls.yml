@@ -20,6 +20,10 @@
 - pkg:maven/org.jboss.narayana.rts/lra-coordinator@5.9.0.Final?type=war
 - pkg:maven/org.jboss.narayana.rts/lra-coordinator@5.9.1.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.rts/lra-coordinator@5.9.1.Final?type=war
+- pkg:maven/org.jboss.narayana.rts/lra-coordinator@5.9.10.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.rts/lra-coordinator@5.9.10.Final?type=war
+- pkg:maven/org.jboss.narayana.rts/lra-coordinator@5.9.11.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.rts/lra-coordinator@5.9.11.Final?type=war
 - pkg:maven/org.jboss.narayana.rts/lra-coordinator@5.9.2.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.rts/lra-coordinator@5.9.2.Final?type=war
 - pkg:maven/org.jboss.narayana.rts/lra-coordinator@5.9.3.Final?classifier=sources
