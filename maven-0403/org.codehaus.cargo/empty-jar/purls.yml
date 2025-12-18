@@ -113,3 +113,4 @@
 - pkg:maven/org.codehaus.cargo/empty-jar@1.9.1
 - pkg:maven/org.codehaus.cargo/empty-jar@1.9.2
 - pkg:maven/org.codehaus.cargo/empty-jar@1.9.3
+- pkg:maven/org.codehaus.cargo/empty-jar@1.9.4

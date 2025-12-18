@@ -329,6 +329,10 @@
 - pkg:maven/net.openhft/chronicle-threads@2.21ea40?classifier=sources
 - pkg:maven/net.openhft/chronicle-threads@2.21ea41
 - pkg:maven/net.openhft/chronicle-threads@2.21ea41?classifier=sources
+- pkg:maven/net.openhft/chronicle-threads@2.21ea42
+- pkg:maven/net.openhft/chronicle-threads@2.21ea42?classifier=sources
+- pkg:maven/net.openhft/chronicle-threads@2.21ea43
+- pkg:maven/net.openhft/chronicle-threads@2.21ea43?classifier=sources
 - pkg:maven/net.openhft/chronicle-threads@2.21ea4?classifier=sources
 - pkg:maven/net.openhft/chronicle-threads@2.21ea5
 - pkg:maven/net.openhft/chronicle-threads@2.21ea5?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.10
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.10?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.19.0?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.9
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.9?classifier=sources

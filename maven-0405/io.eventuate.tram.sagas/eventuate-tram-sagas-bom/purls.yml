@@ -1,0 +1,1 @@
+- pkg:maven/io.eventuate.tram.sagas/eventuate-tram-sagas-bom@0.16.0.RELEASE?classifier=sources

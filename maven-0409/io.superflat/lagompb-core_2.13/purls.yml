@@ -38,3 +38,5 @@
 - pkg:maven/io.superflat/lagompb-core_2.13@1.0.2?classifier=sources
 - pkg:maven/io.superflat/lagompb-core_2.13@1.0.3
 - pkg:maven/io.superflat/lagompb-core_2.13@1.0.3?classifier=sources
+- pkg:maven/io.superflat/lagompb-core_2.13@1.0.4
+- pkg:maven/io.superflat/lagompb-core_2.13@1.0.4?classifier=sources

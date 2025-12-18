@@ -5,3 +5,5 @@
 - pkg:maven/io.kvision/kvision-common-types-metadata@4.2.1?classifier=sources
 - pkg:maven/io.kvision/kvision-common-types-metadata@4.2.2?classifier=sources
 - pkg:maven/io.kvision/kvision-common-types-metadata@4.2.3?classifier=sources
+- pkg:maven/io.kvision/kvision-common-types-metadata@4.3.0?classifier=sources
+- pkg:maven/io.kvision/kvision-common-types-metadata@4.4.0?classifier=sources

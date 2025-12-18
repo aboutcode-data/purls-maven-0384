@@ -2,3 +2,5 @@
 - pkg:maven/org.tsugi/tsugi-util@0.2.1?classifier=sources
 - pkg:maven/org.tsugi/tsugi-util@0.3.1
 - pkg:maven/org.tsugi/tsugi-util@0.3.1?classifier=sources
+- pkg:maven/org.tsugi/tsugi-util@21.0.0
+- pkg:maven/org.tsugi/tsugi-util@21.0.0?classifier=sources

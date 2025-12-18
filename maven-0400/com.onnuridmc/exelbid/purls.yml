@@ -1,0 +1,2 @@
+- pkg:maven/com.onnuridmc/exelbid@1.6.5?classifier=sources
+- pkg:maven/com.onnuridmc/exelbid@1.6.5?type=aar

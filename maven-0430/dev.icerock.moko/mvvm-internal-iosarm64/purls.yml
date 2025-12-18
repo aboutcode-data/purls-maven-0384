@@ -1,0 +1,2 @@
+- pkg:maven/dev.icerock.moko/mvvm-internal-iosarm64@0.10.0?classifier=sources
+- pkg:maven/dev.icerock.moko/mvvm-internal-iosarm64@0.10.1?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.arangodb/jackson-dataformat-velocypack@0.4.0?classifier=sources
 - pkg:maven/com.arangodb/jackson-dataformat-velocypack@1.0.0
 - pkg:maven/com.arangodb/jackson-dataformat-velocypack@1.0.0?classifier=sources
+- pkg:maven/com.arangodb/jackson-dataformat-velocypack@2.0.0
+- pkg:maven/com.arangodb/jackson-dataformat-velocypack@2.0.0?classifier=sources

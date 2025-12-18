@@ -101,3 +101,6 @@
 - pkg:maven/com.stripe/stripe-3ds2-android@5.1.1?type=aar
 - pkg:maven/com.stripe/stripe-3ds2-android@5.2.0?classifier=sources
 - pkg:maven/com.stripe/stripe-3ds2-android@5.2.0?type=aar
+- pkg:maven/com.stripe/stripe-3ds2-android@5.2.1?classifier=sources
+- pkg:maven/com.stripe/stripe-3ds2-android@5.3.0?classifier=sources
+- pkg:maven/com.stripe/stripe-3ds2-android@5.3.1?classifier=sources

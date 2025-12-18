@@ -1,0 +1,8 @@
+- pkg:maven/io.spinnaker.keel/keel-slack@0.186.1?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-slack@0.187.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-slack@0.188.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-slack@0.189.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-slack@0.189.1?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-slack@0.190.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-slack@0.191.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-slack@0.191.1?classifier=sources

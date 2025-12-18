@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/leaflet.control.layers.tree@0.0.3
+- pkg:maven/org.webjars.npm/leaflet.control.layers.tree@0.0.3?classifier=sources

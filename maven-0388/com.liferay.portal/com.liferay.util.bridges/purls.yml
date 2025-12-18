@@ -94,3 +94,5 @@
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@7.0.7?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@8.0.0
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@8.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@8.0.1
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@8.0.1?classifier=sources

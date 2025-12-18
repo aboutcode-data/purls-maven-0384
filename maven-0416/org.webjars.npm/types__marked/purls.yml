@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/types__marked@0.4.2?classifier=sources
 - pkg:maven/org.webjars.npm/types__marked@0.6.0
 - pkg:maven/org.webjars.npm/types__marked@0.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/types__marked@2.0.2
+- pkg:maven/org.webjars.npm/types__marked@2.0.2?classifier=sources

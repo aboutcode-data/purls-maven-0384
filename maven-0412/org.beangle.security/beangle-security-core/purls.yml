@@ -130,6 +130,8 @@
 - pkg:maven/org.beangle.security/beangle-security-core@3.8.2?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-core@3.8.3
 - pkg:maven/org.beangle.security/beangle-security-core@3.8.3?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-core@3.8.4
+- pkg:maven/org.beangle.security/beangle-security-core@3.8.4?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-core@4.0.2
 - pkg:maven/org.beangle.security/beangle-security-core@4.0.2?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-core@4.0.3

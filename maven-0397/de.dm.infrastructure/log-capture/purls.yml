@@ -10,3 +10,7 @@
 - pkg:maven/de.dm.infrastructure/log-capture@3.0.0?classifier=sources
 - pkg:maven/de.dm.infrastructure/log-capture@3.1.0
 - pkg:maven/de.dm.infrastructure/log-capture@3.1.0?classifier=sources
+- pkg:maven/de.dm.infrastructure/log-capture@3.2.0
+- pkg:maven/de.dm.infrastructure/log-capture@3.2.0?classifier=sources
+- pkg:maven/de.dm.infrastructure/log-capture@3.2.1
+- pkg:maven/de.dm.infrastructure/log-capture@3.2.1?classifier=sources

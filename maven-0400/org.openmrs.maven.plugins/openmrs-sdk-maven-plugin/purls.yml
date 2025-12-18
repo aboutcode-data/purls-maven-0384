@@ -36,6 +36,7 @@
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@3.12.2?classifier=sources
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@3.13.0
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@3.13.0?classifier=sources
+- pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@3.13.9
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@3.2.0
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@3.2.0?classifier=sources
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@3.2.1
@@ -68,3 +69,5 @@
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@3.8.2?classifier=sources
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@3.9.0
 - pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@3.9.0?classifier=sources
+- pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@4.0.0
+- pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-maven-plugin@4.0.0?classifier=sources

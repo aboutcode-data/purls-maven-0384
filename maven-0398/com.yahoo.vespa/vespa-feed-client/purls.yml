@@ -1,0 +1,2 @@
+- pkg:maven/com.yahoo.vespa/vespa-feed-client@7.403.18
+- pkg:maven/com.yahoo.vespa/vespa-feed-client@7.403.18?classifier=sources

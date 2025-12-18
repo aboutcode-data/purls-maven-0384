@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.tycho.extras/tycho-pomless@2.1.0?classifier=sources
 - pkg:maven/org.eclipse.tycho.extras/tycho-pomless@2.2.0
 - pkg:maven/org.eclipse.tycho.extras/tycho-pomless@2.2.0?classifier=sources
+- pkg:maven/org.eclipse.tycho.extras/tycho-pomless@2.3.0
+- pkg:maven/org.eclipse.tycho.extras/tycho-pomless@2.3.0?classifier=sources

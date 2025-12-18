@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/devops_rdc20200303@1.0.0
 - pkg:maven/com.aliyun/devops_rdc20200303@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/devops_rdc20200303@1.0.1
+- pkg:maven/com.aliyun/devops_rdc20200303@1.0.1?classifier=sources

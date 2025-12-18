@@ -4,3 +4,5 @@
 - pkg:maven/net.smallyu.maven/test@0.2?classifier=sources
 - pkg:maven/net.smallyu.maven/test@0.3
 - pkg:maven/net.smallyu.maven/test@0.3?classifier=sources
+- pkg:maven/net.smallyu.maven/test@0.4.1-uccc-sdk
+- pkg:maven/net.smallyu.maven/test@0.4.1-uccc-sdk?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.wso2.ei/wso2-micro-integrator-tooling@1.2.0-m4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ei/wso2-micro-integrator-tooling@4.0.0-alpha?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ei/wso2-micro-integrator-tooling@4.0.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.wso2.ei/wso2-micro-integrator-tooling@4.0.0?classifier=source-release&type=zip

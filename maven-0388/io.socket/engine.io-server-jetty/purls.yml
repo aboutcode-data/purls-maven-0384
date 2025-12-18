@@ -28,3 +28,5 @@
 - pkg:maven/io.socket/engine.io-server-jetty@4.0.2?classifier=sources
 - pkg:maven/io.socket/engine.io-server-jetty@4.0.3
 - pkg:maven/io.socket/engine.io-server-jetty@4.0.3?classifier=sources
+- pkg:maven/io.socket/engine.io-server-jetty@5.0.0
+- pkg:maven/io.socket/engine.io-server-jetty@5.0.0?classifier=sources

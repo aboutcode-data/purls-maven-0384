@@ -33,3 +33,4 @@
 - pkg:maven/net.jangaroo/jooflash-core@4.0.53?classifier=sources
 - pkg:maven/net.jangaroo/jooflash-core@4.0.54?classifier=sources
 - pkg:maven/net.jangaroo/jooflash-core@4.0.55?classifier=sources
+- pkg:maven/net.jangaroo/jooflash-core@4.1.0-alpha-1?classifier=sources

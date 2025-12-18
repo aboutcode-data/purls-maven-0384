@@ -44,6 +44,8 @@
 - pkg:maven/uk.oczadly.karl/jnano@2.2.0-V20?classifier=sources
 - pkg:maven/uk.oczadly.karl/jnano@2.20.0
 - pkg:maven/uk.oczadly.karl/jnano@2.20.0?classifier=sources
+- pkg:maven/uk.oczadly.karl/jnano@2.20.1
+- pkg:maven/uk.oczadly.karl/jnano@2.20.1?classifier=sources
 - pkg:maven/uk.oczadly.karl/jnano@2.3.0-V20
 - pkg:maven/uk.oczadly.karl/jnano@2.3.0-V20?classifier=sources
 - pkg:maven/uk.oczadly.karl/jnano@2.4.0-V20

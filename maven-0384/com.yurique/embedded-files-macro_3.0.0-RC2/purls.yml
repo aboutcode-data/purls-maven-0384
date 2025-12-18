@@ -1,0 +1,2 @@
+- pkg:maven/com.yurique/embedded-files-macro_3.0.0-RC2@0.2.2
+- pkg:maven/com.yurique/embedded-files-macro_3.0.0-RC2@0.2.2?classifier=sources

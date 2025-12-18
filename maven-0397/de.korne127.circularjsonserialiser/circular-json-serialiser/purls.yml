@@ -1,0 +1,2 @@
+- pkg:maven/de.korne127.circularjsonserialiser/circular-json-serialiser@1.1
+- pkg:maven/de.korne127.circularjsonserialiser/circular-json-serialiser@1.1?classifier=sources

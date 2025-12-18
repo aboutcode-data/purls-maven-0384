@@ -44,3 +44,9 @@
 - pkg:maven/com.sap.cloud.sdk.services/blockchain-business-services-visibility@3.40.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.services/blockchain-business-services-visibility@3.41.0
 - pkg:maven/com.sap.cloud.sdk.services/blockchain-business-services-visibility@3.41.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-business-services-visibility@3.42.0
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-business-services-visibility@3.42.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-business-services-visibility@3.43.0
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-business-services-visibility@3.43.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-business-services-visibility@3.44.1
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-business-services-visibility@3.44.1?classifier=sources

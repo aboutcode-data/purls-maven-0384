@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.config/smallrye-config-validator@2.3.0
+- pkg:maven/io.smallrye.config/smallrye-config-validator@2.3.0?classifier=sources

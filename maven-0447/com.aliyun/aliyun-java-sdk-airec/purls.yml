@@ -20,3 +20,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-airec@1.2.3?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-airec@2.0.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-airec@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-airec@2.0.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-airec@2.0.1?classifier=sources

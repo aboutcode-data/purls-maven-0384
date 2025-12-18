@@ -1,0 +1,3 @@
+- pkg:maven/dev.yafatek/yafatek-restcore@1.0.101?classifier=sources
+- pkg:maven/dev.yafatek/yafatek-restcore@1.0.102?classifier=sources
+- pkg:maven/dev.yafatek/yafatek-restcore@1.0.104?classifier=sources

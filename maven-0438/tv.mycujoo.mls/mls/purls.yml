@@ -1,0 +1,2 @@
+- pkg:maven/tv.mycujoo.mls/mls@1.2.2?classifier=sources
+- pkg:maven/tv.mycujoo.mls/mls@1.2.3-alpha01?classifier=sources

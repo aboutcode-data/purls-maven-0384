@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.china-yan/jrocksmq@0.6
+- pkg:maven/com.gitee.china-yan/jrocksmq@0.6?classifier=sources

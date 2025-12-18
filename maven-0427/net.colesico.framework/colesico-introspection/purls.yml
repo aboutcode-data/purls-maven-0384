@@ -1,2 +1,4 @@
 - pkg:maven/net.colesico.framework/colesico-introspection@4.3.0
 - pkg:maven/net.colesico.framework/colesico-introspection@4.3.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-introspection@4.3.1
+- pkg:maven/net.colesico.framework/colesico-introspection@4.3.1?classifier=sources

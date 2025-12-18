@@ -1,0 +1,4 @@
+- pkg:maven/org.tinylisp/formatter@0.1?classifier=sources
+- pkg:maven/org.tinylisp/formatter@0.2?classifier=sources
+- pkg:maven/org.tinylisp/formatter@0.3?classifier=sources
+- pkg:maven/org.tinylisp/formatter@0.4?classifier=sources

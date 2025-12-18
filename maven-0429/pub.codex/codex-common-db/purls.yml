@@ -46,3 +46,4 @@
 - pkg:maven/pub.codex/codex-common-db@4.2.2?classifier=sources
 - pkg:maven/pub.codex/codex-common-db@4.2.3?classifier=sources
 - pkg:maven/pub.codex/codex-common-db@4.2.4?classifier=sources
+- pkg:maven/pub.codex/codex-common-db@4.2.5?classifier=sources

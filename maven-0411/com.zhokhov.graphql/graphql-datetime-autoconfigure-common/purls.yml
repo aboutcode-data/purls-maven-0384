@@ -14,3 +14,4 @@
 - pkg:maven/com.zhokhov.graphql/graphql-datetime-autoconfigure-common@3.0.0?classifier=sources
 - pkg:maven/com.zhokhov.graphql/graphql-datetime-autoconfigure-common@3.1.0
 - pkg:maven/com.zhokhov.graphql/graphql-datetime-autoconfigure-common@3.1.0?classifier=sources
+- pkg:maven/com.zhokhov.graphql/graphql-datetime-autoconfigure-common@4.0.0?classifier=sources

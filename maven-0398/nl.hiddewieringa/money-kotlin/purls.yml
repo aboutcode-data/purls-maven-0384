@@ -1,0 +1,4 @@
+- pkg:maven/nl.hiddewieringa/money-kotlin@0.3.0?classifier=sources
+- pkg:maven/nl.hiddewieringa/money-kotlin@0.4.0?classifier=sources
+- pkg:maven/nl.hiddewieringa/money-kotlin@1.0.0?classifier=sources
+- pkg:maven/nl.hiddewieringa/money-kotlin@1.0.1?classifier=sources

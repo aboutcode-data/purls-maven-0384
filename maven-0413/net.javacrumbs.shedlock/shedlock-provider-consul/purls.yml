@@ -26,3 +26,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-consul@4.22.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-consul@4.22.1
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-consul@4.22.1?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-consul@4.23.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-consul@4.23.0?classifier=sources

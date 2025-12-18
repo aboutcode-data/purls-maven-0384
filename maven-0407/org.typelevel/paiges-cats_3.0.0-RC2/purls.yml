@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/paiges-cats_3.0.0-RC2@0.4.1
+- pkg:maven/org.typelevel/paiges-cats_3.0.0-RC2@0.4.1?classifier=sources

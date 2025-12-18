@@ -10,3 +10,5 @@
 - pkg:maven/net.iuyy/iuyy-api-doc@1.2?classifier=sources
 - pkg:maven/net.iuyy/iuyy-api-doc@1.3
 - pkg:maven/net.iuyy/iuyy-api-doc@1.3?classifier=sources
+- pkg:maven/net.iuyy/iuyy-api-doc@1.5
+- pkg:maven/net.iuyy/iuyy-api-doc@1.5?classifier=sources

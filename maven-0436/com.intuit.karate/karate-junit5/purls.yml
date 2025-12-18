@@ -46,3 +46,5 @@
 - pkg:maven/com.intuit.karate/karate-junit5@0.9.9.RC4?classifier=sources
 - pkg:maven/com.intuit.karate/karate-junit5@1.0.0
 - pkg:maven/com.intuit.karate/karate-junit5@1.0.0?classifier=sources
+- pkg:maven/com.intuit.karate/karate-junit5@1.0.1
+- pkg:maven/com.intuit.karate/karate-junit5@1.0.1?classifier=sources

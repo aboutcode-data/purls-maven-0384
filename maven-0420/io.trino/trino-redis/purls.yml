@@ -2,3 +2,5 @@
 - pkg:maven/io.trino/trino-redis@352?classifier=sources
 - pkg:maven/io.trino/trino-redis@353?classifier=sources
 - pkg:maven/io.trino/trino-redis@354?classifier=sources
+- pkg:maven/io.trino/trino-redis@355?classifier=sources
+- pkg:maven/io.trino/trino-redis@356?classifier=sources

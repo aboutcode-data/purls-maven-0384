@@ -1,0 +1,2 @@
+- pkg:maven/com.dwolla/scala-cloudformation-custom-resource_2.12@4.0.0-M3
+- pkg:maven/com.dwolla/scala-cloudformation-custom-resource_2.12@4.0.0-M3?classifier=sources

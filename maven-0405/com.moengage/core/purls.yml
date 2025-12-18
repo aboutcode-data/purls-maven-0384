@@ -4,3 +4,7 @@
 - pkg:maven/com.moengage/core@5.0.03?classifier=sources
 - pkg:maven/com.moengage/core@5.0.03?type=aar
 - pkg:maven/com.moengage/core@5.0.04?classifier=sources
+- pkg:maven/com.moengage/core@5.0.05?classifier=sources
+- pkg:maven/com.moengage/core@5.1.00?classifier=sources
+- pkg:maven/com.moengage/core@5.2.00?classifier=sources
+- pkg:maven/com.moengage/core@5.2.01?classifier=sources

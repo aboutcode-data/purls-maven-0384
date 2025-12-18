@@ -6,3 +6,7 @@
 - pkg:maven/org.tpolecat/natchez-log-odin_2.13@0.0.21?classifier=sources
 - pkg:maven/org.tpolecat/natchez-log-odin_2.13@0.0.22
 - pkg:maven/org.tpolecat/natchez-log-odin_2.13@0.0.22?classifier=sources
+- pkg:maven/org.tpolecat/natchez-log-odin_2.13@0.0.23
+- pkg:maven/org.tpolecat/natchez-log-odin_2.13@0.0.23?classifier=sources
+- pkg:maven/org.tpolecat/natchez-log-odin_2.13@0.0.24
+- pkg:maven/org.tpolecat/natchez-log-odin_2.13@0.0.24?classifier=sources

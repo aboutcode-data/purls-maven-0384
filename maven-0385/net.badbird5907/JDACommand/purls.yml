@@ -1,0 +1,2 @@
+- pkg:maven/net.badbird5907/JDACommand@1.1-REL
+- pkg:maven/net.badbird5907/JDACommand@1.1-REL?classifier=sources

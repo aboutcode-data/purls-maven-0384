@@ -1,0 +1,2 @@
+- pkg:maven/org.dashj.android/dashj-scrypt-android@0.17.5?classifier=sources
+- pkg:maven/org.dashj.android/dashj-scrypt-android@0.17.5?type=aar

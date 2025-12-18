@@ -152,4 +152,5 @@
 - pkg:maven/org.apache.camel/camel-performance@3.7.1
 - pkg:maven/org.apache.camel/camel-performance@3.7.2
 - pkg:maven/org.apache.camel/camel-performance@3.7.3
+- pkg:maven/org.apache.camel/camel-performance@3.7.4
 - pkg:maven/org.apache.camel/camel-performance@3.8.0

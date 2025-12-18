@@ -1,1 +1,2 @@
 - pkg:maven/org.drewcarlson/qbittorrent-models-win64@0.0.8?classifier=sources
+- pkg:maven/org.drewcarlson/qbittorrent-models-win64@0.1.0?classifier=sources

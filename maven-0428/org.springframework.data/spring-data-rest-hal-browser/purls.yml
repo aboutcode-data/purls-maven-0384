@@ -200,3 +200,5 @@
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.3.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.3.8.RELEASE
 - pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.3.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.3.9.RELEASE
+- pkg:maven/org.springframework.data/spring-data-rest-hal-browser@3.3.9.RELEASE?classifier=sources

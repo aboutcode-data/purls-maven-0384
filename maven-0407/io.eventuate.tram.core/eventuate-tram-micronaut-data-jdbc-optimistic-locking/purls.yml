@@ -1,0 +1,1 @@
+- pkg:maven/io.eventuate.tram.core/eventuate-tram-micronaut-data-jdbc-optimistic-locking@0.29.0.RELEASE?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.thats-what-im-talking-about/dominion-api_2.13@0.1.0
+- pkg:maven/io.github.thats-what-im-talking-about/dominion-api_2.13@0.1.0?classifier=sources
+- pkg:maven/io.github.thats-what-im-talking-about/dominion-api_2.13@0.1.6
+- pkg:maven/io.github.thats-what-im-talking-about/dominion-api_2.13@0.1.6?classifier=sources
+- pkg:maven/io.github.thats-what-im-talking-about/dominion-api_2.13@0.1.8
+- pkg:maven/io.github.thats-what-im-talking-about/dominion-api_2.13@0.1.8?classifier=sources

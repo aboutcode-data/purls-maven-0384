@@ -1,0 +1,2 @@
+- pkg:maven/global.namespace.bali/bali-scala_2.12@0.5.1
+- pkg:maven/global.namespace.bali/bali-scala_2.12@0.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.haesleinhuepf/clij2-imagej_@2.3.0.6
+- pkg:maven/net.haesleinhuepf/clij2-imagej_@2.3.0.6?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.palantir.hadoop-crypto2/crypto-serialization@2.0.0-rc5
+- pkg:maven/com.palantir.hadoop-crypto2/crypto-serialization@2.0.0-rc5?classifier=sources
+- pkg:maven/com.palantir.hadoop-crypto2/crypto-serialization@2.0.0-rc6
+- pkg:maven/com.palantir.hadoop-crypto2/crypto-serialization@2.0.0-rc6?classifier=sources
+- pkg:maven/com.palantir.hadoop-crypto2/crypto-serialization@2.0.0-rc7
+- pkg:maven/com.palantir.hadoop-crypto2/crypto-serialization@2.0.0-rc7?classifier=sources
+- pkg:maven/com.palantir.hadoop-crypto2/crypto-serialization@2.0.0-rc8
+- pkg:maven/com.palantir.hadoop-crypto2/crypto-serialization@2.0.0-rc8?classifier=sources

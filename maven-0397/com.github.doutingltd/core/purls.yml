@@ -1,0 +1,3 @@
+- pkg:maven/com.github.doutingltd/core@0.8.6?classifier=sources
+- pkg:maven/com.github.doutingltd/core@0.8.7?classifier=sources
+- pkg:maven/com.github.doutingltd/core@0.8.8?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/net.cactusthorn.routing/demo-jetty@0.28?classifier=sources
 - pkg:maven/net.cactusthorn.routing/demo-jetty@0.29
 - pkg:maven/net.cactusthorn.routing/demo-jetty@0.29?classifier=sources
+- pkg:maven/net.cactusthorn.routing/demo-jetty@0.30
+- pkg:maven/net.cactusthorn.routing/demo-jetty@0.30?classifier=sources

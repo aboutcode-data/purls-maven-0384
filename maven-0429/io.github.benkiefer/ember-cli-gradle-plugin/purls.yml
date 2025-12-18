@@ -1,0 +1,2 @@
+- pkg:maven/io.github.benkiefer/ember-cli-gradle-plugin@5.0.0
+- pkg:maven/io.github.benkiefer/ember-cli-gradle-plugin@5.0.0?classifier=sources

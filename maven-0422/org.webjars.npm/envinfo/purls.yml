@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/envinfo@7.7.4
+- pkg:maven/org.webjars.npm/envinfo@7.7.4?classifier=sources

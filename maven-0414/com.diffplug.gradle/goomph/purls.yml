@@ -102,6 +102,7 @@
 - pkg:maven/com.diffplug.gradle/goomph@3.28.2?classifier=sources
 - pkg:maven/com.diffplug.gradle/goomph@3.29.0
 - pkg:maven/com.diffplug.gradle/goomph@3.29.0?classifier=sources
+- pkg:maven/com.diffplug.gradle/goomph@3.29.1?classifier=sources
 - pkg:maven/com.diffplug.gradle/goomph@3.3.0
 - pkg:maven/com.diffplug.gradle/goomph@3.3.0?classifier=sources
 - pkg:maven/com.diffplug.gradle/goomph@3.4.0

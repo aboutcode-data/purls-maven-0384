@@ -2,3 +2,9 @@
 - pkg:maven/com.github.martinpaljak/apdu4j-tool@19.05.08?classifier=sources
 - pkg:maven/com.github.martinpaljak/apdu4j-tool@20.01.01
 - pkg:maven/com.github.martinpaljak/apdu4j-tool@20.01.01?classifier=sources
+- pkg:maven/com.github.martinpaljak/apdu4j-tool@21.04.01
+- pkg:maven/com.github.martinpaljak/apdu4j-tool@21.04.01?classifier=sources
+- pkg:maven/com.github.martinpaljak/apdu4j-tool@21.04.12
+- pkg:maven/com.github.martinpaljak/apdu4j-tool@21.04.12?classifier=sources
+- pkg:maven/com.github.martinpaljak/apdu4j-tool@21.05.06
+- pkg:maven/com.github.martinpaljak/apdu4j-tool@21.05.06?classifier=sources

@@ -72,5 +72,7 @@
 - pkg:maven/org.catools/ws.core@0.1.45?classifier=sources
 - pkg:maven/org.catools/ws.core@0.1.46
 - pkg:maven/org.catools/ws.core@0.1.46?classifier=sources
+- pkg:maven/org.catools/ws.core@0.1.47
+- pkg:maven/org.catools/ws.core@0.1.47?classifier=sources
 - pkg:maven/org.catools/ws.core@0.1.9
 - pkg:maven/org.catools/ws.core@0.1.9?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.hammelion/mapped-jpa@2.2.7.0
+- pkg:maven/com.github.hammelion/mapped-jpa@2.2.7.0?classifier=sources
+- pkg:maven/com.github.hammelion/mapped-jpa@2.5.0.0
+- pkg:maven/com.github.hammelion/mapped-jpa@2.5.0.0?classifier=sources

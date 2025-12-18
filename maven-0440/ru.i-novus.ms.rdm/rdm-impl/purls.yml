@@ -1,0 +1,2 @@
+- pkg:maven/ru.i-novus.ms.rdm/rdm-impl@3.1.15
+- pkg:maven/ru.i-novus.ms.rdm/rdm-impl@3.1.15?classifier=sources

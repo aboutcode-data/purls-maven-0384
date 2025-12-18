@@ -1,0 +1,2 @@
+- pkg:maven/com.kaltura.playkit/kexoplayer@2.13.3?classifier=sources
+- pkg:maven/com.kaltura.playkit/kexoplayer@2.13.3?type=aar

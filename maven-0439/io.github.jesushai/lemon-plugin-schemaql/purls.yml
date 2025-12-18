@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jesushai/lemon-plugin-schemaql@1.0.1
+- pkg:maven/io.github.jesushai/lemon-plugin-schemaql@1.0.1?classifier=sources

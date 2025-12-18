@@ -1,0 +1,4 @@
+- pkg:maven/io.userwise.userwise_sdk/userwise_sdk@2.0.3?classifier=sources
+- pkg:maven/io.userwise.userwise_sdk/userwise_sdk@2.0.3?type=aar
+- pkg:maven/io.userwise.userwise_sdk/userwise_sdk@2.0.4?classifier=sources
+- pkg:maven/io.userwise.userwise_sdk/userwise_sdk@2.0.4?type=aar

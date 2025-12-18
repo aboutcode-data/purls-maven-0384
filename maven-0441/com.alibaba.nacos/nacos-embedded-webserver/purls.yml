@@ -20,3 +20,5 @@
 - pkg:maven/com.alibaba.nacos/nacos-embedded-webserver@0.3.6?classifier=sources
 - pkg:maven/com.alibaba.nacos/nacos-embedded-webserver@1.0.0
 - pkg:maven/com.alibaba.nacos/nacos-embedded-webserver@1.0.0?classifier=sources
+- pkg:maven/com.alibaba.nacos/nacos-embedded-webserver@1.1.0
+- pkg:maven/com.alibaba.nacos/nacos-embedded-webserver@1.1.0?classifier=sources

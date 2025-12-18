@@ -118,3 +118,5 @@
 - pkg:maven/com.avast/sst-micrometer-jmx-pureconfig_2.12@0.7.2?classifier=sources
 - pkg:maven/com.avast/sst-micrometer-jmx-pureconfig_2.12@0.7.3
 - pkg:maven/com.avast/sst-micrometer-jmx-pureconfig_2.12@0.7.3?classifier=sources
+- pkg:maven/com.avast/sst-micrometer-jmx-pureconfig_2.12@0.8.0
+- pkg:maven/com.avast/sst-micrometer-jmx-pureconfig_2.12@0.8.0?classifier=sources

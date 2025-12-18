@@ -8,5 +8,7 @@
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-bootstrap4@1.10.21?classifier=sources
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-bootstrap4@1.10.22
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-bootstrap4@1.10.22?classifier=sources
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-bootstrap4@1.10.24
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-bootstrap4@1.10.24?classifier=sources
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-bootstrap4@3.2.2
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-bootstrap4@3.2.2?classifier=sources

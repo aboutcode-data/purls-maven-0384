@@ -10,3 +10,7 @@
 - pkg:maven/dk.acto/dispatcher-client@1.1.76.f0551d0?classifier=sources
 - pkg:maven/dk.acto/dispatcher-client@1.1.77.da7122d
 - pkg:maven/dk.acto/dispatcher-client@1.1.77.da7122d?classifier=sources
+- pkg:maven/dk.acto/dispatcher-client@1.1.78.30935eb
+- pkg:maven/dk.acto/dispatcher-client@1.1.78.30935eb?classifier=sources
+- pkg:maven/dk.acto/dispatcher-client@1.1.79.22c58d8
+- pkg:maven/dk.acto/dispatcher-client@1.1.79.22c58d8?classifier=sources

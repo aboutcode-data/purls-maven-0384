@@ -1,1 +1,2 @@
 - pkg:maven/org.gradoop/gradoop-quickstart@0.5.2?classifier=sources
+- pkg:maven/org.gradoop/gradoop-quickstart@0.6.0?classifier=sources

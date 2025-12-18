@@ -81,3 +81,9 @@
 - pkg:maven/com.vk/androidsdk@2.4.0?type=aar
 - pkg:maven/com.vk/androidsdk@2.6.0?classifier=sources
 - pkg:maven/com.vk/androidsdk@2.6.0?type=aar
+- pkg:maven/com.vk/androidsdk@2.7.0?classifier=sources
+- pkg:maven/com.vk/androidsdk@2.7.0?type=aar
+- pkg:maven/com.vk/androidsdk@3.0.0?classifier=sources
+- pkg:maven/com.vk/androidsdk@3.0.0?type=aar
+- pkg:maven/com.vk/androidsdk@3.1.0?classifier=sources
+- pkg:maven/com.vk/androidsdk@3.1.0?type=aar

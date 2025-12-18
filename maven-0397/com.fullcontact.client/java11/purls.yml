@@ -6,3 +6,4 @@
 - pkg:maven/com.fullcontact.client/java11@2.2.1?classifier=sources
 - pkg:maven/com.fullcontact.client/java11@2.3.0?classifier=sources
 - pkg:maven/com.fullcontact.client/java11@3.0.0?classifier=sources
+- pkg:maven/com.fullcontact.client/java11@3.0.1?classifier=sources

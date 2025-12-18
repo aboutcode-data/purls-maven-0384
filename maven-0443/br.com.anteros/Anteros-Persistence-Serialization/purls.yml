@@ -8,6 +8,8 @@
 - pkg:maven/br.com.anteros/Anteros-Persistence-Serialization@1.0.14?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Persistence-Serialization@1.0.15
 - pkg:maven/br.com.anteros/Anteros-Persistence-Serialization@1.0.15?classifier=sources
+- pkg:maven/br.com.anteros/Anteros-Persistence-Serialization@1.0.17
+- pkg:maven/br.com.anteros/Anteros-Persistence-Serialization@1.0.17?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Persistence-Serialization@1.0.2
 - pkg:maven/br.com.anteros/Anteros-Persistence-Serialization@1.0.2?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Persistence-Serialization@1.0.4

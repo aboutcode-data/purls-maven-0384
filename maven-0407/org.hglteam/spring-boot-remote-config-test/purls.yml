@@ -1,2 +1,4 @@
 - pkg:maven/org.hglteam/spring-boot-remote-config-test@1.0.2
 - pkg:maven/org.hglteam/spring-boot-remote-config-test@1.0.2?classifier=sources
+- pkg:maven/org.hglteam/spring-boot-remote-config-test@1.0.3
+- pkg:maven/org.hglteam/spring-boot-remote-config-test@1.0.3?classifier=sources

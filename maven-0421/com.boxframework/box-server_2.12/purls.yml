@@ -1,0 +1,8 @@
+- pkg:maven/com.boxframework/box-server_2.12@1.3.63
+- pkg:maven/com.boxframework/box-server_2.12@1.3.63?classifier=sources
+- pkg:maven/com.boxframework/box-server_2.12@1.3.64
+- pkg:maven/com.boxframework/box-server_2.12@1.3.64?classifier=sources
+- pkg:maven/com.boxframework/box-server_2.12@1.3.65
+- pkg:maven/com.boxframework/box-server_2.12@1.3.65?classifier=sources
+- pkg:maven/com.boxframework/box-server_2.12@1.4.0-M1
+- pkg:maven/com.boxframework/box-server_2.12@1.4.0-M1?classifier=sources

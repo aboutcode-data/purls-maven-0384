@@ -6,5 +6,7 @@
 - pkg:maven/run.wj/api@2021.1.7?type=war
 - pkg:maven/run.wj/api@2021.2.30?classifier=sources
 - pkg:maven/run.wj/api@2021.2.30?type=war
+- pkg:maven/run.wj/api@2021.4.10?classifier=sources
+- pkg:maven/run.wj/api@2021.4.10?type=war
 - pkg:maven/run.wj/api@20211.7?classifier=sources
 - pkg:maven/run.wj/api@20211.7?type=war

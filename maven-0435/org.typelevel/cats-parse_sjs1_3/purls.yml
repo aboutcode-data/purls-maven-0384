@@ -1,0 +1,6 @@
+- pkg:maven/org.typelevel/cats-parse_sjs1_3@0.3-1-8cce68f
+- pkg:maven/org.typelevel/cats-parse_sjs1_3@0.3-1-8cce68f?classifier=sources
+- pkg:maven/org.typelevel/cats-parse_sjs1_3@0.3-7-09ca465
+- pkg:maven/org.typelevel/cats-parse_sjs1_3@0.3-7-09ca465?classifier=sources
+- pkg:maven/org.typelevel/cats-parse_sjs1_3@0.3.4
+- pkg:maven/org.typelevel/cats-parse_sjs1_3@0.3.4?classifier=sources

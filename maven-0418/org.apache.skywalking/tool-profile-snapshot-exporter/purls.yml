@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.skywalking/tool-profile-snapshot-exporter@8.2.0
 - pkg:maven/org.apache.skywalking/tool-profile-snapshot-exporter@8.3.0
 - pkg:maven/org.apache.skywalking/tool-profile-snapshot-exporter@8.4.0
+- pkg:maven/org.apache.skywalking/tool-profile-snapshot-exporter@8.5.0

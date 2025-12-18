@@ -2,3 +2,5 @@
 - pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@0.2-dev-1b3725a3?classifier=sources
 - pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@0.2-dev-3a827ba6
 - pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@0.2-dev-3a827ba6?classifier=sources
+- pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@2.0-dev-a504abc
+- pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@2.0-dev-a504abc?classifier=sources

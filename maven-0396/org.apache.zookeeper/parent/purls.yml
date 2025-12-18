@@ -6,4 +6,5 @@
 - pkg:maven/org.apache.zookeeper/parent@3.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.zookeeper/parent@3.6.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.zookeeper/parent@3.6.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.zookeeper/parent@3.6.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.zookeeper/parent@3.7.0?classifier=source-release&type=zip

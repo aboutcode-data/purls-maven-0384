@@ -8,3 +8,5 @@
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-cognito-domain-data@1.1.14?classifier=sources
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-cognito-domain-data@1.1.15
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-cognito-domain-data@1.1.15?classifier=sources
+- pkg:maven/pl.wrzasq.lambda/lambda-cform-cognito-domain-data@1.1.16
+- pkg:maven/pl.wrzasq.lambda/lambda-cform-cognito-domain-data@1.1.16?classifier=sources

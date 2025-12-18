@@ -1,4 +1,6 @@
+- pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.bootstrap@4.0.0
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.bootstrap@4.0.0-alpha
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.bootstrap@4.0.0-alpha?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.bootstrap@4.0.0-beta
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.bootstrap@4.0.0-beta?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.bootstrap@4.0.0?classifier=sources
