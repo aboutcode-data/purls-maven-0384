@@ -159,3 +159,13 @@
 - pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.2.0?classifier=sources
 - pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.3.0
 - pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.3.0?classifier=sources
+- pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.4.0
+- pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.4.0?classifier=sources
+- pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.4.1
+- pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.4.1?classifier=sources
+- pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.5.0
+- pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.5.0?classifier=sources
+- pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.5.1
+- pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.5.1?classifier=sources
+- pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.5.2
+- pkg:maven/org.commonjava.indy.ui/indy-ui-layover@2.5.2?classifier=sources

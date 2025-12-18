@@ -2,3 +2,8 @@
 - pkg:maven/io.prestosql/presto-druid@338?classifier=sources
 - pkg:maven/io.prestosql/presto-druid@339?classifier=sources
 - pkg:maven/io.prestosql/presto-druid@340?classifier=sources
+- pkg:maven/io.prestosql/presto-druid@341?classifier=sources
+- pkg:maven/io.prestosql/presto-druid@342?classifier=sources
+- pkg:maven/io.prestosql/presto-druid@343?classifier=sources
+- pkg:maven/io.prestosql/presto-druid@344?classifier=sources
+- pkg:maven/io.prestosql/presto-druid@345?classifier=sources

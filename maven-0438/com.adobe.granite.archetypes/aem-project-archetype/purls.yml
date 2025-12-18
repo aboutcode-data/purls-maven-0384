@@ -1,0 +1,16 @@
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@10?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@11?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@12?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@13?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@14?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@15?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@16?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@17?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@18?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@19?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@20?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@21?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@22?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@23?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@8?classifier=sources
+- pkg:maven/com.adobe.granite.archetypes/aem-project-archetype@9?classifier=sources

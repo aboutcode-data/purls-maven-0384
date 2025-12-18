@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/glamor@2.20.40
+- pkg:maven/org.webjars.npm/glamor@2.20.40?classifier=sources
 - pkg:maven/org.webjars.npm/glamor@3.0.0-3
 - pkg:maven/org.webjars.npm/glamor@3.0.0-3?classifier=sources

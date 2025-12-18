@@ -1,0 +1,5 @@
+- pkg:maven/com.day.cq.mcm/cq-mcm-core@5.4.4?classifier=sources
+- pkg:maven/com.day.cq.mcm/cq-mcm-core@5.5.2?classifier=sources
+- pkg:maven/com.day.cq.mcm/cq-mcm-core@5.6.4?classifier=sources
+- pkg:maven/com.day.cq.mcm/cq-mcm-core@5.6.6?classifier=sources
+- pkg:maven/com.day.cq.mcm/cq-mcm-core@5.6.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dabasan/ejml-3dtools@0.0.1
+- pkg:maven/com.github.dabasan/ejml-3dtools@0.0.1?classifier=sources

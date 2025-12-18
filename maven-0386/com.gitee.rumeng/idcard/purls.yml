@@ -1,0 +1,8 @@
+- pkg:maven/com.gitee.rumeng/idcard@0.0.10
+- pkg:maven/com.gitee.rumeng/idcard@0.0.10?classifier=sources
+- pkg:maven/com.gitee.rumeng/idcard@0.0.2
+- pkg:maven/com.gitee.rumeng/idcard@0.0.2?classifier=sources
+- pkg:maven/com.gitee.rumeng/idcard@0.0.5
+- pkg:maven/com.gitee.rumeng/idcard@0.0.5?classifier=sources
+- pkg:maven/com.gitee.rumeng/idcard@0.0.9
+- pkg:maven/com.gitee.rumeng/idcard@0.0.9?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/org.zalando/riptide-compression@3.0.0-RC.13?classifier=sources
 - pkg:maven/org.zalando/riptide-compression@3.0.0-RC.14
 - pkg:maven/org.zalando/riptide-compression@3.0.0-RC.14?classifier=sources
+- pkg:maven/org.zalando/riptide-compression@3.0.0-RC.15
+- pkg:maven/org.zalando/riptide-compression@3.0.0-RC.15?classifier=sources
 - pkg:maven/org.zalando/riptide-compression@3.0.0-RC.7
 - pkg:maven/org.zalando/riptide-compression@3.0.0-RC.7?classifier=sources
 - pkg:maven/org.zalando/riptide-compression@3.0.0-RC.8

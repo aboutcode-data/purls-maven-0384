@@ -121,3 +121,4 @@
 - pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.8.2
 - pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.8.2?classifier=sources
 - pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.9.0?classifier=sources
+- pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.9.1?classifier=sources

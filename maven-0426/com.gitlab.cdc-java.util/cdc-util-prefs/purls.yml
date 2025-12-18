@@ -36,3 +36,5 @@
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-prefs@0.1.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-prefs@0.1.1
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-prefs@0.1.1?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-prefs@0.2.0
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-prefs@0.2.0?classifier=sources

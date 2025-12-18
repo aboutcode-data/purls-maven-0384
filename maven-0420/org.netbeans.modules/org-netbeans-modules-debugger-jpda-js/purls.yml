@@ -6,4 +6,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-js@RELEASE120-1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-js@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-js@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-js@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-js@RELEASE90?classifier=sources

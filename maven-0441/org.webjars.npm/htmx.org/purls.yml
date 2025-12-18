@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/htmx.org@0.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/htmx.org@0.0.8
 - pkg:maven/org.webjars.npm/htmx.org@0.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/htmx.org@0.1.2
+- pkg:maven/org.webjars.npm/htmx.org@0.1.2?classifier=sources

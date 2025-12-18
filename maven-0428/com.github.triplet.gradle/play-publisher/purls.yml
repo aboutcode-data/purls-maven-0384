@@ -53,3 +53,5 @@
 - pkg:maven/com.github.triplet.gradle/play-publisher@2.0.0-rc1
 - pkg:maven/com.github.triplet.gradle/play-publisher@2.0.0-rc1?classifier=sources
 - pkg:maven/com.github.triplet.gradle/play-publisher@2.8.0?classifier=sources
+- pkg:maven/com.github.triplet.gradle/play-publisher@2.8.1?classifier=sources
+- pkg:maven/com.github.triplet.gradle/play-publisher@3.0.0?classifier=sources

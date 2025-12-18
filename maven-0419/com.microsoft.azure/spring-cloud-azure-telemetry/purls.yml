@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-telemetry@1.2.8
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-telemetry@1.2.8?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.http4k/http4k-serverless-alibaba@3.270.0
+- pkg:maven/org.http4k/http4k-serverless-alibaba@3.270.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-alibaba@3.271.0
+- pkg:maven/org.http4k/http4k-serverless-alibaba@3.271.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-alibaba@3.272.0
+- pkg:maven/org.http4k/http4k-serverless-alibaba@3.272.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-alibaba@3.273.0
+- pkg:maven/org.http4k/http4k-serverless-alibaba@3.273.0?classifier=sources

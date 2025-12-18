@@ -60,3 +60,7 @@
 - pkg:maven/com.arangodb/velocypack@2.3.1?classifier=sources
 - pkg:maven/com.arangodb/velocypack@2.4.0
 - pkg:maven/com.arangodb/velocypack@2.4.0?classifier=sources
+- pkg:maven/com.arangodb/velocypack@2.4.1
+- pkg:maven/com.arangodb/velocypack@2.4.1?classifier=sources
+- pkg:maven/com.arangodb/velocypack@2.5.0
+- pkg:maven/com.arangodb/velocypack@2.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ru.i-novus.common/file-storage-api@2.3
+- pkg:maven/ru.i-novus.common/file-storage-api@2.3?classifier=sources

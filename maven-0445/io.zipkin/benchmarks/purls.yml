@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin/benchmarks@2.22.1
+- pkg:maven/io.zipkin/benchmarks@2.22.1?classifier=sources

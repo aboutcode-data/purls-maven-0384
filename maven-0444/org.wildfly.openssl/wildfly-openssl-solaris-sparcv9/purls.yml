@@ -11,6 +11,8 @@
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@1.0.0.CR5
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@1.0.0.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@1.0.10.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@1.0.11.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@1.0.12.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@1.0.2.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@1.0.4.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@1.0.8.Final
@@ -18,3 +20,5 @@
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@1.1.0.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@1.1.1.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@1.1.2.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@2.0.0.Alpha1
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-sparcv9@2.1.0.SP01

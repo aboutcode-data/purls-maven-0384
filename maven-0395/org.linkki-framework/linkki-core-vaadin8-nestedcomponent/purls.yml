@@ -1,0 +1,4 @@
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8-nestedcomponent@1.3.0-m01
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8-nestedcomponent@1.3.0-m01?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8-nestedcomponent@1.3.0-rc01
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8-nestedcomponent@1.3.0-rc01?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/de.sciss/scalafreesound-views_2.12@1.24.0?classifier=sources
 - pkg:maven/de.sciss/scalafreesound-views_2.12@1.25.0
 - pkg:maven/de.sciss/scalafreesound-views_2.12@1.25.0?classifier=sources
+- pkg:maven/de.sciss/scalafreesound-views_2.12@1.25.1
+- pkg:maven/de.sciss/scalafreesound-views_2.12@1.25.1?classifier=sources
+- pkg:maven/de.sciss/scalafreesound-views_2.12@2.0.0
+- pkg:maven/de.sciss/scalafreesound-views_2.12@2.0.0?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/com.amashchenko.maven.plugin/gitflow-maven-plugin@1.13.0?classifier=sources
 - pkg:maven/com.amashchenko.maven.plugin/gitflow-maven-plugin@1.14.0
 - pkg:maven/com.amashchenko.maven.plugin/gitflow-maven-plugin@1.14.0?classifier=sources
+- pkg:maven/com.amashchenko.maven.plugin/gitflow-maven-plugin@1.15.0
+- pkg:maven/com.amashchenko.maven.plugin/gitflow-maven-plugin@1.15.0?classifier=sources
 - pkg:maven/com.amashchenko.maven.plugin/gitflow-maven-plugin@1.2.0
 - pkg:maven/com.amashchenko.maven.plugin/gitflow-maven-plugin@1.2.0?classifier=sources
 - pkg:maven/com.amashchenko.maven.plugin/gitflow-maven-plugin@1.2.1

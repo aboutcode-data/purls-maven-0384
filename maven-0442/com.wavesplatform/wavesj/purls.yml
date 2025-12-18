@@ -36,3 +36,7 @@
 - pkg:maven/com.wavesplatform/wavesj@0.8?classifier=sources
 - pkg:maven/com.wavesplatform/wavesj@0.9
 - pkg:maven/com.wavesplatform/wavesj@0.9?classifier=sources
+- pkg:maven/com.wavesplatform/wavesj@1.0.0
+- pkg:maven/com.wavesplatform/wavesj@1.0.0?classifier=sources
+- pkg:maven/com.wavesplatform/wavesj@1.0.1
+- pkg:maven/com.wavesplatform/wavesj@1.0.1?classifier=sources

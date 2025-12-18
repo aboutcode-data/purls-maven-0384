@@ -10,3 +10,5 @@
 - pkg:maven/com.sksamuel.avro4k/avro4k-core@0.23.0?classifier=sources
 - pkg:maven/com.sksamuel.avro4k/avro4k-core@0.30.0
 - pkg:maven/com.sksamuel.avro4k/avro4k-core@0.30.0?classifier=sources
+- pkg:maven/com.sksamuel.avro4k/avro4k-core@0.40.0?classifier=sources
+- pkg:maven/com.sksamuel.avro4k/avro4k-core@0.41.0?classifier=sources

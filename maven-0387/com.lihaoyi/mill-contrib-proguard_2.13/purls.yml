@@ -1,0 +1,10 @@
+- pkg:maven/com.lihaoyi/mill-contrib-proguard_2.13@0.8.0-24-ff1ef4
+- pkg:maven/com.lihaoyi/mill-contrib-proguard_2.13@0.8.0-24-ff1ef4?classifier=sources
+- pkg:maven/com.lihaoyi/mill-contrib-proguard_2.13@0.8.0-25-0dcbd7
+- pkg:maven/com.lihaoyi/mill-contrib-proguard_2.13@0.8.0-25-0dcbd7?classifier=sources
+- pkg:maven/com.lihaoyi/mill-contrib-proguard_2.13@0.8.0-27-c5b120
+- pkg:maven/com.lihaoyi/mill-contrib-proguard_2.13@0.8.0-27-c5b120?classifier=sources
+- pkg:maven/com.lihaoyi/mill-contrib-proguard_2.13@0.8.0-28-3e4d9a
+- pkg:maven/com.lihaoyi/mill-contrib-proguard_2.13@0.8.0-28-3e4d9a?classifier=sources
+- pkg:maven/com.lihaoyi/mill-contrib-proguard_2.13@0.8.0-29-92b950
+- pkg:maven/com.lihaoyi/mill-contrib-proguard_2.13@0.8.0-29-92b950?classifier=sources

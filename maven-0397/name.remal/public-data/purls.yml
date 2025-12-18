@@ -206,3 +206,11 @@
 - pkg:maven/name.remal/public-data@2020.7.31-153013?classifier=sources
 - pkg:maven/name.remal/public-data@2020.8.12-230511
 - pkg:maven/name.remal/public-data@2020.8.12-230511?classifier=sources
+- pkg:maven/name.remal/public-data@2020.8.21-194012
+- pkg:maven/name.remal/public-data@2020.8.21-194012?classifier=sources
+- pkg:maven/name.remal/public-data@2020.9.10-202018
+- pkg:maven/name.remal/public-data@2020.9.10-202018?classifier=sources
+- pkg:maven/name.remal/public-data@2020.9.18-180019
+- pkg:maven/name.remal/public-data@2020.9.18-180019?classifier=sources
+- pkg:maven/name.remal/public-data@2020.9.5-010013
+- pkg:maven/name.remal/public-data@2020.9.5-010013?classifier=sources

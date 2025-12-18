@@ -1,0 +1,2 @@
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-prometheus@0.10.0
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-prometheus@0.10.0?classifier=sources

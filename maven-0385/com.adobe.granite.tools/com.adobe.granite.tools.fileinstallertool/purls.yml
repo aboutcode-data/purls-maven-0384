@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.granite.tools/com.adobe.granite.tools.fileinstallertool@6.3.0
+- pkg:maven/com.adobe.granite.tools/com.adobe.granite.tools.fileinstallertool@6.3.0?classifier=sources

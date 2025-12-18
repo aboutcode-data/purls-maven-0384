@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.npm/uppy@0.28.0?classifier=sources
 - pkg:maven/org.webjars.npm/uppy@1.0.2
 - pkg:maven/org.webjars.npm/uppy@1.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/uppy@1.21.0
+- pkg:maven/org.webjars.npm/uppy@1.21.0?classifier=sources
 - pkg:maven/org.webjars.npm/uppy@1.4.0
 - pkg:maven/org.webjars.npm/uppy@1.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/uppy@1.6.0

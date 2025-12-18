@@ -1,0 +1,2 @@
+- pkg:maven/org.odpi.egeria/integration-daemon-services-server@2.4
+- pkg:maven/org.odpi.egeria/integration-daemon-services-server@2.4?classifier=sources

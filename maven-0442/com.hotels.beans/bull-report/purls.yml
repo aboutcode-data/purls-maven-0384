@@ -8,3 +8,5 @@
 - pkg:maven/com.hotels.beans/bull-report@1.7.2
 - pkg:maven/com.hotels.beans/bull-report@1.7.2-jdk8
 - pkg:maven/com.hotels.beans/bull-report@1.7.3
+- pkg:maven/com.hotels.beans/bull-report@1.7.3-jdk8
+- pkg:maven/com.hotels.beans/bull-report@1.7.4

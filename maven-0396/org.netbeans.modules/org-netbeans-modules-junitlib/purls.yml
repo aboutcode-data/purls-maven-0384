@@ -6,4 +6,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junitlib@RELEASE120-1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junitlib@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junitlib@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-junitlib@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junitlib@RELEASE90?classifier=sources

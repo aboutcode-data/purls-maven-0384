@@ -1,5 +1,11 @@
 - pkg:maven/org.jfxtras/jfxtras-font-roboto@10.0-r1
 - pkg:maven/org.jfxtras/jfxtras-font-roboto@10.0-r1?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-font-roboto@11-r1
+- pkg:maven/org.jfxtras/jfxtras-font-roboto@11-r1?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-font-roboto@14-r1
+- pkg:maven/org.jfxtras/jfxtras-font-roboto@14-r1?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-font-roboto@15-r1
+- pkg:maven/org.jfxtras/jfxtras-font-roboto@15-r1?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-font-roboto@8.0-r5
 - pkg:maven/org.jfxtras/jfxtras-font-roboto@8.0-r5?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-font-roboto@8.0-r6

@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardbx-v5@20201028
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardbx-v5@20201028?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.granite.oak/oak-upgrade@1.2.18
+- pkg:maven/com.adobe.granite.oak/oak-upgrade@1.2.18?classifier=sources

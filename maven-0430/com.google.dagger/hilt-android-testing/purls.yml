@@ -6,3 +6,7 @@
 - pkg:maven/com.google.dagger/hilt-android-testing@2.28.2-alpha?type=aar
 - pkg:maven/com.google.dagger/hilt-android-testing@2.28.3-alpha?classifier=sources
 - pkg:maven/com.google.dagger/hilt-android-testing@2.28.3-alpha?type=aar
+- pkg:maven/com.google.dagger/hilt-android-testing@2.29-alpha?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android-testing@2.29-alpha?type=aar
+- pkg:maven/com.google.dagger/hilt-android-testing@2.29.1-alpha?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android-testing@2.29.1-alpha?type=aar

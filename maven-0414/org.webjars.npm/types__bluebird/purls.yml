@@ -8,5 +8,7 @@
 - pkg:maven/org.webjars.npm/types__bluebird@3.5.25?classifier=sources
 - pkg:maven/org.webjars.npm/types__bluebird@3.5.28
 - pkg:maven/org.webjars.npm/types__bluebird@3.5.28?classifier=sources
+- pkg:maven/org.webjars.npm/types__bluebird@3.5.32
+- pkg:maven/org.webjars.npm/types__bluebird@3.5.32?classifier=sources
 - pkg:maven/org.webjars.npm/types__bluebird@3.5.8
 - pkg:maven/org.webjars.npm/types__bluebird@3.5.8?classifier=sources

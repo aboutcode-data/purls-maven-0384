@@ -8,3 +8,4 @@
 - pkg:maven/com.verhas/license3j@2.0.0-JVM8
 - pkg:maven/com.verhas/license3j@2.0.0-JVM8?classifier=sources
 - pkg:maven/com.verhas/license3j@2.0.0?classifier=sources
+- pkg:maven/com.verhas/license3j@2.0.1?classifier=sources

@@ -20,6 +20,8 @@
 - pkg:maven/org.jmotor/scala-utils_2.13@1.0.19?classifier=sources
 - pkg:maven/org.jmotor/scala-utils_2.13@1.0.20
 - pkg:maven/org.jmotor/scala-utils_2.13@1.0.20?classifier=sources
+- pkg:maven/org.jmotor/scala-utils_2.13@1.0.21
+- pkg:maven/org.jmotor/scala-utils_2.13@1.0.21?classifier=sources
 - pkg:maven/org.jmotor/scala-utils_2.13@1.0.7
 - pkg:maven/org.jmotor/scala-utils_2.13@1.0.7?classifier=sources
 - pkg:maven/org.jmotor/scala-utils_2.13@1.0.8

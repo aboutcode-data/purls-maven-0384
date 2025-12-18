@@ -1,0 +1,4 @@
+- pkg:maven/com.feedzai.openml.lightgbm/lightgbm-lib@2.3.190
+- pkg:maven/com.feedzai.openml.lightgbm/lightgbm-lib@2.3.190?classifier=sources
+- pkg:maven/com.feedzai.openml.lightgbm/lightgbm-lib@3.0.0
+- pkg:maven/com.feedzai.openml.lightgbm/lightgbm-lib@3.0.0?classifier=sources

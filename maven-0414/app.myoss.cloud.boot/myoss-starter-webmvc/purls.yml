@@ -6,6 +6,8 @@
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-webmvc@2.1.11-RC2?classifier=sources
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-webmvc@2.1.11-RC3
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-webmvc@2.1.11-RC3?classifier=sources
+- pkg:maven/app.myoss.cloud.boot/myoss-starter-webmvc@2.1.11.RELEASE
+- pkg:maven/app.myoss.cloud.boot/myoss-starter-webmvc@2.1.11.RELEASE?classifier=sources
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-webmvc@2.1.4.RELEASE
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-webmvc@2.1.4.RELEASE?classifier=sources
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-webmvc@2.1.5.RELEASE

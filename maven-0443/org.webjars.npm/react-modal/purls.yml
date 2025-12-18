@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.npm/react-modal@1.7.7?classifier=sources
 - pkg:maven/org.webjars.npm/react-modal@3.11.1
 - pkg:maven/org.webjars.npm/react-modal@3.11.1?classifier=sources
+- pkg:maven/org.webjars.npm/react-modal@3.11.2
+- pkg:maven/org.webjars.npm/react-modal@3.11.2?classifier=sources
 - pkg:maven/org.webjars.npm/react-modal@3.3.2
 - pkg:maven/org.webjars.npm/react-modal@3.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/react-modal@3.6.1

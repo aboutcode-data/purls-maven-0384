@@ -1,0 +1,4 @@
+- pkg:maven/ch.cern.hbase.connectors.kafka/hbase-kafka-model@1.0.1_spark-3.0.1_2
+- pkg:maven/ch.cern.hbase.connectors.kafka/hbase-kafka-model@1.0.1_spark-3.0.1_2?classifier=sources
+- pkg:maven/ch.cern.hbase.connectors.kafka/hbase-kafka-model@1.0.1_spark-3.0.1_3
+- pkg:maven/ch.cern.hbase.connectors.kafka/hbase-kafka-model@1.0.1_spark-3.0.1_3?classifier=sources

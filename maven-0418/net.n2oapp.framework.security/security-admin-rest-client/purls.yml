@@ -2,3 +2,9 @@
 - pkg:maven/net.n2oapp.framework.security/security-admin-rest-client@4.10?classifier=sources
 - pkg:maven/net.n2oapp.framework.security/security-admin-rest-client@4.13
 - pkg:maven/net.n2oapp.framework.security/security-admin-rest-client@4.13?classifier=sources
+- pkg:maven/net.n2oapp.framework.security/security-admin-rest-client@4.14
+- pkg:maven/net.n2oapp.framework.security/security-admin-rest-client@4.14?classifier=sources
+- pkg:maven/net.n2oapp.framework.security/security-admin-rest-client@4.15
+- pkg:maven/net.n2oapp.framework.security/security-admin-rest-client@4.15?classifier=sources
+- pkg:maven/net.n2oapp.framework.security/security-admin-rest-client@4.17
+- pkg:maven/net.n2oapp.framework.security/security-admin-rest-client@4.17?classifier=sources

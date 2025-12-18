@@ -180,3 +180,9 @@
 - pkg:maven/com.linecorp.armeria/armeria-kafka@0.99.8?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-kafka@0.99.9
 - pkg:maven/com.linecorp.armeria/armeria-kafka@0.99.9?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-kafka@1.0.0
+- pkg:maven/com.linecorp.armeria/armeria-kafka@1.0.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-kafka@1.1.0
+- pkg:maven/com.linecorp.armeria/armeria-kafka@1.1.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-kafka@1.2.0
+- pkg:maven/com.linecorp.armeria/armeria-kafka@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.day.cq.portlet/cq-portlet-components@5.3.2?classifier=sources
+- pkg:maven/com.day.cq.portlet/cq-portlet-components@5.4.4?classifier=sources

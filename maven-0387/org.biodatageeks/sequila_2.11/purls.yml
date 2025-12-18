@@ -1,0 +1,14 @@
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.12
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.12?classifier=sources
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.13
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.13?classifier=sources
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.14
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.14?classifier=sources
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.15
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.15?classifier=sources
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.16
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.16?classifier=sources
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.17
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.17?classifier=sources
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.7-SNASPHOT
+- pkg:maven/org.biodatageeks/sequila_2.11@0.5.7-SNASPHOT?classifier=sources

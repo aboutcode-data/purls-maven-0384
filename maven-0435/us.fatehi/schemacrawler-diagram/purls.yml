@@ -1,3 +1,15 @@
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.10.1
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.10.1?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.11.1
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.11.1?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.11.2
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.11.2?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.11.3
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.11.3?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.11.4
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.11.4?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.11.5
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.11.5?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.5.0
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.5.0?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.5.1
@@ -20,3 +32,7 @@
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.9.2?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.9.3
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.9.3?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.9.4
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.9.4?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.9.5
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.9.5?classifier=sources

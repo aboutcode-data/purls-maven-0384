@@ -18,3 +18,5 @@
 - pkg:maven/de.julielab/julielab-neo4j-plugins-utilities@1.9.0?classifier=sources
 - pkg:maven/de.julielab/julielab-neo4j-plugins-utilities@2.0.0
 - pkg:maven/de.julielab/julielab-neo4j-plugins-utilities@2.0.0?classifier=sources
+- pkg:maven/de.julielab/julielab-neo4j-plugins-utilities@3.0.0
+- pkg:maven/de.julielab/julielab-neo4j-plugins-utilities@3.0.0?classifier=sources

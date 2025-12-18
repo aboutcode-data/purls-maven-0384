@@ -1,0 +1,6 @@
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-common@9.00.2003.13.2
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-common@9.00.2003.13.2?classifier=sources
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-common@9.00.2003.13.4
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-common@9.00.2003.13.4?classifier=sources
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-common@9.00.2003.13.5
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-common@9.00.2003.13.5?classifier=sources

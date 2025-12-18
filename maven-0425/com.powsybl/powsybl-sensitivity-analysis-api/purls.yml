@@ -1,0 +1,4 @@
+- pkg:maven/com.powsybl/powsybl-sensitivity-analysis-api@3.7.0
+- pkg:maven/com.powsybl/powsybl-sensitivity-analysis-api@3.7.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-sensitivity-analysis-api@3.7.1
+- pkg:maven/com.powsybl/powsybl-sensitivity-analysis-api@3.7.1?classifier=sources

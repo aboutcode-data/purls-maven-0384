@@ -1,3 +1,9 @@
 - pkg:maven/io.testproject/java-sdk@0.63.2-RELEASE?classifier=sources
 - pkg:maven/io.testproject/java-sdk@0.63.3-RELEASE?classifier=sources
 - pkg:maven/io.testproject/java-sdk@0.63.4-RELEASE?classifier=sources
+- pkg:maven/io.testproject/java-sdk@0.63.5-RELEASE?classifier=sources
+- pkg:maven/io.testproject/java-sdk@0.64.0-RELEASE?classifier=sources
+- pkg:maven/io.testproject/java-sdk@0.64.1-RELEASE?classifier=sources
+- pkg:maven/io.testproject/java-sdk@0.64.2-RELEASE?classifier=sources
+- pkg:maven/io.testproject/java-sdk@0.64.3-RELEASE?classifier=sources
+- pkg:maven/io.testproject/java-sdk@0.64.4-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-rds-v5@2.5.1-v5
+- pkg:maven/com.aliyun/aliyun-java-sdk-rds-v5@2.5.1-v5?classifier=sources

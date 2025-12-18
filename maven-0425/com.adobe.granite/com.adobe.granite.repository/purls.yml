@@ -1,0 +1,12 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@0.6.18?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@0.6.258?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@0.6.8?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@1.1.118?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@1.1.98?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@1.2.24?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@1.2.66-CQ620-B0008-r1739921?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@1.2.66-CQ620-B0012?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@1.2.66-CQ622-B0036?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@1.2.66?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@1.3.128?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.repository@1.4.80?classifier=sources

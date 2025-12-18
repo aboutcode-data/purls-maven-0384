@@ -1,4 +1,7 @@
 - pkg:maven/com.liferay.poshi.runner.resources/portal-ee-6.1.x@20180516095228-87f131d
+- pkg:maven/com.liferay.poshi.runner.resources/portal-ee-6.1.x@20180809125227-60d5dd6
 - pkg:maven/com.liferay.poshi.runner.resources/portal-ee-6.1.x@20180823155837-4cedd9e
 - pkg:maven/com.liferay.poshi.runner.resources/portal-ee-6.1.x@20190110114651-2943909
 - pkg:maven/com.liferay.poshi.runner.resources/portal-ee-6.1.x@20190325111923-20a286f
+- pkg:maven/com.liferay.poshi.runner.resources/portal-ee-6.1.x@20200811-b06bc2b7
+- pkg:maven/com.liferay.poshi.runner.resources/portal-ee-6.1.x@20200824-057caac

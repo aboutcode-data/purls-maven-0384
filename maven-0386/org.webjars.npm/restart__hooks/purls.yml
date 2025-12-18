@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/restart__hooks@0.3.19?classifier=sources
 - pkg:maven/org.webjars.npm/restart__hooks@0.3.24
 - pkg:maven/org.webjars.npm/restart__hooks@0.3.24?classifier=sources
+- pkg:maven/org.webjars.npm/restart__hooks@0.3.25
+- pkg:maven/org.webjars.npm/restart__hooks@0.3.25?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.arakne/swf-lang-loader@0.1-alpha
+- pkg:maven/fr.arakne/swf-lang-loader@0.1-alpha?classifier=sources

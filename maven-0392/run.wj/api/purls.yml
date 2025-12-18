@@ -1,0 +1,2 @@
+- pkg:maven/run.wj/api@2020.10.14?classifier=sources
+- pkg:maven/run.wj/api@2020.10.14?type=war

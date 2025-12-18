@@ -1,0 +1,6 @@
+- pkg:maven/org.gweninterpreter/gwen-gpm@3.0.3
+- pkg:maven/org.gweninterpreter/gwen-gpm@3.0.3?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-gpm@3.0.4?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-gpm@3.0.4?type=zip
+- pkg:maven/org.gweninterpreter/gwen-gpm@3.0.5?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-gpm@3.0.5?type=zip

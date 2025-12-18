@@ -36,3 +36,5 @@
 - pkg:maven/com.github.chenlijia1111/utils@1.1.8-RELEASE?classifier=sources
 - pkg:maven/com.github.chenlijia1111/utils@1.1.9-RELEASE
 - pkg:maven/com.github.chenlijia1111/utils@1.1.9-RELEASE?classifier=sources
+- pkg:maven/com.github.chenlijia1111/utils@1.2.0-RELEASE
+- pkg:maven/com.github.chenlijia1111/utils@1.2.0-RELEASE?classifier=sources

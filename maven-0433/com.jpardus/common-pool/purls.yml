@@ -1,2 +1,3 @@
 - pkg:maven/com.jpardus/common-pool@1.0.0
 - pkg:maven/com.jpardus/common-pool@1.0.0?classifier=sources
+- pkg:maven/com.jpardus/common-pool@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gondolav/spotify4s@0.1
+- pkg:maven/com.github.gondolav/spotify4s@0.1?classifier=sources

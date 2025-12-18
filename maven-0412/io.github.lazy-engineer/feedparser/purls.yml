@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lazy-engineer/feedparser@0.1.0?classifier=sources
+- pkg:maven/io.github.lazy-engineer/feedparser@0.1.0?type=aar

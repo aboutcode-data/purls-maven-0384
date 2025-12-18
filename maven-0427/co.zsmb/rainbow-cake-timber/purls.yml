@@ -15,3 +15,5 @@
 - pkg:maven/co.zsmb/rainbow-cake-timber@0.6.0?classifier=sources
 - pkg:maven/co.zsmb/rainbow-cake-timber@0.7.0?classifier=sources
 - pkg:maven/co.zsmb/rainbow-cake-timber@1.0.0?classifier=sources
+- pkg:maven/co.zsmb/rainbow-cake-timber@1.1.0?classifier=sources
+- pkg:maven/co.zsmb/rainbow-cake-timber@1.2.0?classifier=sources

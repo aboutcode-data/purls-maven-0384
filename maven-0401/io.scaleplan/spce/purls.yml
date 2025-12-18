@@ -1,0 +1,2 @@
+- pkg:maven/io.scaleplan/spce@0.3.4
+- pkg:maven/io.scaleplan/spce@0.3.4?classifier=sources

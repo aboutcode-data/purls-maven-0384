@@ -1,0 +1,4 @@
+- pkg:maven/tech.hokkaydo/ow4j@0.1-alpha
+- pkg:maven/tech.hokkaydo/ow4j@0.1-alpha?classifier=sources
+- pkg:maven/tech.hokkaydo/ow4j@0.1.1-alpha
+- pkg:maven/tech.hokkaydo/ow4j@0.1.1-alpha?classifier=sources

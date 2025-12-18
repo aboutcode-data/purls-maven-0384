@@ -1,0 +1,4 @@
+- pkg:maven/co.luminositylabs.oss.arquillian.drone/luminositylabs-arquillian-drone@0.1.0
+- pkg:maven/co.luminositylabs.oss.arquillian.drone/luminositylabs-arquillian-drone@0.1.0?classifier=sources
+- pkg:maven/co.luminositylabs.oss.arquillian.drone/luminositylabs-arquillian-drone@0.1.1
+- pkg:maven/co.luminositylabs.oss.arquillian.drone/luminositylabs-arquillian-drone@0.1.1?classifier=sources

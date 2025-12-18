@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/apollo-link-ws@1.0.8
 - pkg:maven/org.webjars.npm/apollo-link-ws@1.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/apollo-link-ws@2.0.0-beta.0
+- pkg:maven/org.webjars.npm/apollo-link-ws@2.0.0-beta.0?classifier=sources

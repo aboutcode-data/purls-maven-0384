@@ -2,3 +2,7 @@
 - pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.carbon.extension.is.local-authenticator-archetype@2.0.13?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.carbon.extension.is.local-authenticator-archetype@2.0.14?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.carbon.extension.is.local-authenticator-archetype@2.0.14?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.carbon.extension.is.local-authenticator-archetype@2.0.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.carbon.extension.is.local-authenticator-archetype@2.0.15?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.carbon.extension.is.local-authenticator-archetype@2.0.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.carbon.extension.is.local-authenticator-archetype@2.0.16?classifier=sources

@@ -90,3 +90,5 @@
 - pkg:maven/com.airbnb.android/epoxy-paging@4.0.0-beta5?type=aar
 - pkg:maven/com.airbnb.android/epoxy-paging@4.0.0-beta6?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy-paging@4.0.0-beta6?type=aar
+- pkg:maven/com.airbnb.android/epoxy-paging@4.0.0?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-paging@4.1.0?classifier=sources

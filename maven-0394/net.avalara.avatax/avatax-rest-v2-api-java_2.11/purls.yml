@@ -70,3 +70,5 @@
 - pkg:maven/net.avalara.avatax/avatax-rest-v2-api-java_2.11@20.6.0?classifier=sources
 - pkg:maven/net.avalara.avatax/avatax-rest-v2-api-java_2.11@20.7.0
 - pkg:maven/net.avalara.avatax/avatax-rest-v2-api-java_2.11@20.7.0?classifier=sources
+- pkg:maven/net.avalara.avatax/avatax-rest-v2-api-java_2.11@20.9.0
+- pkg:maven/net.avalara.avatax/avatax-rest-v2-api-java_2.11@20.9.0?classifier=sources

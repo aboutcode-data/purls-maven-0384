@@ -275,6 +275,8 @@
 - pkg:maven/org.fugerit.java/fj-core@0.7.2.9
 - pkg:maven/org.fugerit.java/fj-core@0.7.2.9?classifier=sources
 - pkg:maven/org.fugerit.java/fj-core@0.7.3.1
+- pkg:maven/org.fugerit.java/fj-core@0.7.3.10
+- pkg:maven/org.fugerit.java/fj-core@0.7.3.10?classifier=sources
 - pkg:maven/org.fugerit.java/fj-core@0.7.3.1?classifier=sources
 - pkg:maven/org.fugerit.java/fj-core@0.7.3.2
 - pkg:maven/org.fugerit.java/fj-core@0.7.3.2?classifier=sources
@@ -288,3 +290,5 @@
 - pkg:maven/org.fugerit.java/fj-core@0.7.3.6?classifier=sources
 - pkg:maven/org.fugerit.java/fj-core@0.7.3.8
 - pkg:maven/org.fugerit.java/fj-core@0.7.3.8?classifier=sources
+- pkg:maven/org.fugerit.java/fj-core@0.7.3.9
+- pkg:maven/org.fugerit.java/fj-core@0.7.3.9?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-idea-extension@1.37.0?classifier=sources
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-idea-extension@1.37.1
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-idea-extension@1.37.1?classifier=sources
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-idea-extension@1.38.0
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-idea-extension@1.38.0?classifier=sources
