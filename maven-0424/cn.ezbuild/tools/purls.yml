@@ -1,0 +1,8 @@
+- pkg:maven/cn.ezbuild/tools@0.0.1-RELEASE
+- pkg:maven/cn.ezbuild/tools@0.0.1-RELEASE?classifier=sources
+- pkg:maven/cn.ezbuild/tools@1.0.1
+- pkg:maven/cn.ezbuild/tools@1.0.1?classifier=sources
+- pkg:maven/cn.ezbuild/tools@1.0.2
+- pkg:maven/cn.ezbuild/tools@1.0.2?classifier=sources
+- pkg:maven/cn.ezbuild/tools@1.1.0
+- pkg:maven/cn.ezbuild/tools@1.1.0?classifier=sources

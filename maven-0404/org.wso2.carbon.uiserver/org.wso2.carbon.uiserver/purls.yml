@@ -14,3 +14,5 @@
 - pkg:maven/org.wso2.carbon.uiserver/org.wso2.carbon.uiserver@0.19.6?classifier=sources
 - pkg:maven/org.wso2.carbon.uiserver/org.wso2.carbon.uiserver@0.19.7
 - pkg:maven/org.wso2.carbon.uiserver/org.wso2.carbon.uiserver@0.19.7?classifier=sources
+- pkg:maven/org.wso2.carbon.uiserver/org.wso2.carbon.uiserver@1.0.5
+- pkg:maven/org.wso2.carbon.uiserver/org.wso2.carbon.uiserver@1.0.5?classifier=sources

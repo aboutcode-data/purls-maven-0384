@@ -44,3 +44,5 @@
 - pkg:maven/io.opencensus/opencensus-exporter-trace-instana@0.23.0?classifier=sources
 - pkg:maven/io.opencensus/opencensus-exporter-trace-instana@0.24.0
 - pkg:maven/io.opencensus/opencensus-exporter-trace-instana@0.24.0?classifier=sources
+- pkg:maven/io.opencensus/opencensus-exporter-trace-instana@0.25.0
+- pkg:maven/io.opencensus/opencensus-exporter-trace-instana@0.25.0?classifier=sources

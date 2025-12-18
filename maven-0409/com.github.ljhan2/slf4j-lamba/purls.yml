@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ljhan2/slf4j-lamba@1.0.1
+- pkg:maven/com.github.ljhan2/slf4j-lamba@1.0.1?classifier=sources

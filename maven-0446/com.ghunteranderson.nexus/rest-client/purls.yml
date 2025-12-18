@@ -1,0 +1,2 @@
+- pkg:maven/com.ghunteranderson.nexus/rest-client@0.0.0
+- pkg:maven/com.ghunteranderson.nexus/rest-client@0.0.0?classifier=sources

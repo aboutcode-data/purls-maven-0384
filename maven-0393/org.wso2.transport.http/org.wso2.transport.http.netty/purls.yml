@@ -458,3 +458,9 @@
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty@6.2.29?classifier=sources
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty@6.2.30
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty@6.2.30?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty@6.3.1
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty@6.3.1?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty@6.3.2
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty@6.3.2?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty@6.3.3
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty@6.3.3?classifier=sources

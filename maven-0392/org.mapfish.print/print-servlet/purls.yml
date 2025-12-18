@@ -44,6 +44,8 @@
 - pkg:maven/org.mapfish.print/print-servlet@3.20.1?type=war
 - pkg:maven/org.mapfish.print/print-servlet@3.20.2?type=war
 - pkg:maven/org.mapfish.print/print-servlet@3.20.3?type=war
+- pkg:maven/org.mapfish.print/print-servlet@3.21.0?type=war
+- pkg:maven/org.mapfish.print/print-servlet@3.22.0?type=war
 - pkg:maven/org.mapfish.print/print-servlet@3.3.0?type=war
 - pkg:maven/org.mapfish.print/print-servlet@3.4.0?type=war
 - pkg:maven/org.mapfish.print/print-servlet@3.5.0?type=war

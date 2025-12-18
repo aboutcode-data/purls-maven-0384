@@ -1,0 +1,2 @@
+- pkg:maven/club.codefocus.framework/codefocus-cache@1.0
+- pkg:maven/club.codefocus.framework/codefocus-cache@1.0?classifier=sources

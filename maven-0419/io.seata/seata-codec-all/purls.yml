@@ -3,3 +3,5 @@
 - pkg:maven/io.seata/seata-codec-all@0.8.0
 - pkg:maven/io.seata/seata-codec-all@0.8.1
 - pkg:maven/io.seata/seata-codec-all@0.9.0
+- pkg:maven/io.seata/seata-codec-all@0.9.0.1
+- pkg:maven/io.seata/seata-codec-all@1.0.0

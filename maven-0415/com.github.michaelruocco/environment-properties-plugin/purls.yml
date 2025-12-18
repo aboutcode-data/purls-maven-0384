@@ -1,0 +1,2 @@
+- pkg:maven/com.github.michaelruocco/environment-properties-plugin@0.1.1
+- pkg:maven/com.github.michaelruocco/environment-properties-plugin@0.1.1?classifier=sources

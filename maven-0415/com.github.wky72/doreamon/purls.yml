@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wky72/doreamon@1.0.2
+- pkg:maven/com.github.wky72/doreamon@1.0.2?classifier=sources

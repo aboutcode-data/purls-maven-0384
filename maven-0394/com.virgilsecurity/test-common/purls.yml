@@ -1,0 +1,2 @@
+- pkg:maven/com.virgilsecurity/test-common@0.1
+- pkg:maven/com.virgilsecurity/test-common@0.1?classifier=sources

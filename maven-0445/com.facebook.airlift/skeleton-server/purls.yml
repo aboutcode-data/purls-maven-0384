@@ -1,2 +1,5 @@
 - pkg:maven/com.facebook.airlift/skeleton-server@0.185?classifier=sources
 - pkg:maven/com.facebook.airlift/skeleton-server@0.186?classifier=sources
+- pkg:maven/com.facebook.airlift/skeleton-server@0.187?classifier=sources
+- pkg:maven/com.facebook.airlift/skeleton-server@0.188?classifier=sources
+- pkg:maven/com.facebook.airlift/skeleton-server@0.189?classifier=sources

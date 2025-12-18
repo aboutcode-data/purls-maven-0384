@@ -1,2 +1,4 @@
 - pkg:maven/com.sdl.dxa/dxa-webapp@2.2.0?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-webapp@2.2.0?type=war
+- pkg:maven/com.sdl.dxa/dxa-webapp@2.2.3?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-webapp@2.2.3?type=war

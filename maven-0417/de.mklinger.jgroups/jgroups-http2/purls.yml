@@ -13,6 +13,8 @@
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.14?classifier=sources
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.15
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.15?classifier=sources
+- pkg:maven/de.mklinger.jgroups/jgroups-http2@1.16
+- pkg:maven/de.mklinger.jgroups/jgroups-http2@1.16?classifier=sources
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.1?classifier=sources
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.2
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.2?classifier=sources
@@ -34,3 +36,5 @@
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.8?classifier=sources
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.9
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.9?classifier=sources
+- pkg:maven/de.mklinger.jgroups/jgroups-http2@2.0
+- pkg:maven/de.mklinger.jgroups/jgroups-http2@2.0?classifier=sources

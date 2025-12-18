@@ -1,0 +1,2 @@
+- pkg:maven/net.jkcode.jkmvc/jkmvc-http@1.8.0
+- pkg:maven/net.jkcode.jkmvc/jkmvc-http@1.8.0?classifier=sources

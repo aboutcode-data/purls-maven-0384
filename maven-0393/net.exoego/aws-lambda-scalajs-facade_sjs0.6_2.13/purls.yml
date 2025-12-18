@@ -10,3 +10,7 @@
 - pkg:maven/net.exoego/aws-lambda-scalajs-facade_sjs0.6_2.13@0.3.2?classifier=sources
 - pkg:maven/net.exoego/aws-lambda-scalajs-facade_sjs0.6_2.13@0.3.3
 - pkg:maven/net.exoego/aws-lambda-scalajs-facade_sjs0.6_2.13@0.3.3?classifier=sources
+- pkg:maven/net.exoego/aws-lambda-scalajs-facade_sjs0.6_2.13@0.3.4
+- pkg:maven/net.exoego/aws-lambda-scalajs-facade_sjs0.6_2.13@0.3.4?classifier=sources
+- pkg:maven/net.exoego/aws-lambda-scalajs-facade_sjs0.6_2.13@0.4.1
+- pkg:maven/net.exoego/aws-lambda-scalajs-facade_sjs0.6_2.13@0.4.1?classifier=sources

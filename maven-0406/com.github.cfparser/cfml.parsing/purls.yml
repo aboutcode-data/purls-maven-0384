@@ -8,6 +8,8 @@
 - pkg:maven/com.github.cfparser/cfml.parsing@2.1.1?classifier=sources
 - pkg:maven/com.github.cfparser/cfml.parsing@2.10.0
 - pkg:maven/com.github.cfparser/cfml.parsing@2.10.0?classifier=sources
+- pkg:maven/com.github.cfparser/cfml.parsing@2.11.0
+- pkg:maven/com.github.cfparser/cfml.parsing@2.11.0?classifier=sources
 - pkg:maven/com.github.cfparser/cfml.parsing@2.2.1
 - pkg:maven/com.github.cfparser/cfml.parsing@2.2.10
 - pkg:maven/com.github.cfparser/cfml.parsing@2.2.10?classifier=sources

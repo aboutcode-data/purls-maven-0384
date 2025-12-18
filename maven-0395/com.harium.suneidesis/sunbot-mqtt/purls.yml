@@ -1,0 +1,4 @@
+- pkg:maven/com.harium.suneidesis/sunbot-mqtt@0.1.0
+- pkg:maven/com.harium.suneidesis/sunbot-mqtt@0.1.0?classifier=sources
+- pkg:maven/com.harium.suneidesis/sunbot-mqtt@0.2.0
+- pkg:maven/com.harium.suneidesis/sunbot-mqtt@0.2.0?classifier=sources

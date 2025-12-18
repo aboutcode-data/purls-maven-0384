@@ -6,6 +6,13 @@
 - pkg:maven/com.helpcrunch/sdk@2.0.0-beta12?type=aar
 - pkg:maven/com.helpcrunch/sdk@2.0.0-beta14?classifier=sources
 - pkg:maven/com.helpcrunch/sdk@2.0.0-beta14?type=aar
+- pkg:maven/com.helpcrunch/sdk@2.0.0-beta16?classifier=sources
+- pkg:maven/com.helpcrunch/sdk@2.0.0-beta16?type=aar
+- pkg:maven/com.helpcrunch/sdk@2.0.0-beta17?classifier=sources
+- pkg:maven/com.helpcrunch/sdk@2.0.0-beta17?type=aar
+- pkg:maven/com.helpcrunch/sdk@2.0.0-beta18?classifier=sources
+- pkg:maven/com.helpcrunch/sdk@2.0.0-beta19?classifier=sources
+- pkg:maven/com.helpcrunch/sdk@2.0.0-beta19?type=aar
 - pkg:maven/com.helpcrunch/sdk@2.0.0-beta1?classifier=sources
 - pkg:maven/com.helpcrunch/sdk@2.0.0-beta1?type=aar
 - pkg:maven/com.helpcrunch/sdk@2.0.0-beta3?classifier=sources
@@ -24,3 +31,13 @@
 - pkg:maven/com.helpcrunch/sdk@2.0.0-beta9?type=aar
 - pkg:maven/com.helpcrunch/sdk@2.0.0-beta?classifier=sources
 - pkg:maven/com.helpcrunch/sdk@2.0.0-beta?type=aar
+- pkg:maven/com.helpcrunch/sdk@2.0.0-rc.1?classifier=sources
+- pkg:maven/com.helpcrunch/sdk@2.0.0-rc.1?type=aar
+- pkg:maven/com.helpcrunch/sdk@2.0.0-rc.2?classifier=sources
+- pkg:maven/com.helpcrunch/sdk@2.0.0-rc.2?type=aar
+- pkg:maven/com.helpcrunch/sdk@2.0.0-rc.3?classifier=sources
+- pkg:maven/com.helpcrunch/sdk@2.0.0-rc.3?type=aar
+- pkg:maven/com.helpcrunch/sdk@2.0.0-rc.4?classifier=sources
+- pkg:maven/com.helpcrunch/sdk@2.0.0-rc.4?type=aar
+- pkg:maven/com.helpcrunch/sdk@2.0.0-rc.5?classifier=sources
+- pkg:maven/com.helpcrunch/sdk@2.0.0-rc.5?type=aar

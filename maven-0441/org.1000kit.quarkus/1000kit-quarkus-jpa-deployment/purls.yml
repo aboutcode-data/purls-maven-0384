@@ -1,0 +1,4 @@
+- pkg:maven/org.1000kit.quarkus/1000kit-quarkus-jpa-deployment@0.1.0
+- pkg:maven/org.1000kit.quarkus/1000kit-quarkus-jpa-deployment@0.1.0?classifier=sources
+- pkg:maven/org.1000kit.quarkus/1000kit-quarkus-jpa-deployment@0.2.0
+- pkg:maven/org.1000kit.quarkus/1000kit-quarkus-jpa-deployment@0.2.0?classifier=sources

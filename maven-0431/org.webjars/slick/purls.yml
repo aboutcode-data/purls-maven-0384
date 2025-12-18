@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars/slick@1.4.0
 - pkg:maven/org.webjars/slick@1.5.0
 - pkg:maven/org.webjars/slick@1.6.0
+- pkg:maven/org.webjars/slick@1.8.0

@@ -1,0 +1,4 @@
+- pkg:maven/com.jlefebure/sentry-release-maven-plugin@9.9.3.2
+- pkg:maven/com.jlefebure/sentry-release-maven-plugin@9.9.3.2?classifier=sources
+- pkg:maven/com.jlefebure/sentry-release-maven-plugin@9.9.3.3
+- pkg:maven/com.jlefebure/sentry-release-maven-plugin@9.9.3.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.longstone/i18n-validator@2.0
+- pkg:maven/com.github.longstone/i18n-validator@2.0?classifier=sources
+- pkg:maven/com.github.longstone/i18n-validator@v1.6
+- pkg:maven/com.github.longstone/i18n-validator@v1.6?classifier=sources

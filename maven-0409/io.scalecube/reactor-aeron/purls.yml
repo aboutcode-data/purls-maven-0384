@@ -1,2 +1,8 @@
 - pkg:maven/io.scalecube/reactor-aeron@0.1.4
 - pkg:maven/io.scalecube/reactor-aeron@0.1.4?classifier=sources
+- pkg:maven/io.scalecube/reactor-aeron@0.2.0
+- pkg:maven/io.scalecube/reactor-aeron@0.2.0?classifier=sources
+- pkg:maven/io.scalecube/reactor-aeron@0.2.1-RC-2
+- pkg:maven/io.scalecube/reactor-aeron@0.2.1-RC-2?classifier=sources
+- pkg:maven/io.scalecube/reactor-aeron@0.2.1-RC-3
+- pkg:maven/io.scalecube/reactor-aeron@0.2.1-RC-3?classifier=sources

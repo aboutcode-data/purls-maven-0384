@@ -1,1 +1,2 @@
 - pkg:maven/com.github.gw2toolbelt.gw2ml/gw2ml@0.1.0?classifier=sources
+- pkg:maven/com.github.gw2toolbelt.gw2ml/gw2ml@1.0.0?classifier=sources

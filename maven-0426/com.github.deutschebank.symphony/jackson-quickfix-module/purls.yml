@@ -1,0 +1,4 @@
+- pkg:maven/com.github.deutschebank.symphony/jackson-quickfix-module@4.55.3
+- pkg:maven/com.github.deutschebank.symphony/jackson-quickfix-module@4.55.3?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/jackson-quickfix-module@4.55.4
+- pkg:maven/com.github.deutschebank.symphony/jackson-quickfix-module@4.55.4?classifier=sources

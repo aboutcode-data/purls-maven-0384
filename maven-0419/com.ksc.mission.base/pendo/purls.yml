@@ -2,3 +2,5 @@
 - pkg:maven/com.ksc.mission.base/pendo@1.2.4.11?classifier=sources
 - pkg:maven/com.ksc.mission.base/pendo@1.2.4.12
 - pkg:maven/com.ksc.mission.base/pendo@1.2.4.12?classifier=sources
+- pkg:maven/com.ksc.mission.base/pendo@1.2.6
+- pkg:maven/com.ksc.mission.base/pendo@1.2.6?classifier=sources

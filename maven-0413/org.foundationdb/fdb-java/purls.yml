@@ -10,3 +10,5 @@
 - pkg:maven/org.foundationdb/fdb-java@6.1.8?classifier=sources
 - pkg:maven/org.foundationdb/fdb-java@6.1.9
 - pkg:maven/org.foundationdb/fdb-java@6.1.9?classifier=sources
+- pkg:maven/org.foundationdb/fdb-java@6.2.10
+- pkg:maven/org.foundationdb/fdb-java@6.2.10?classifier=sources

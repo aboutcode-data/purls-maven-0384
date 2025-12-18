@@ -1,0 +1,2 @@
+- pkg:maven/com.github.alperkurtul/spring-boot-starter-firebase-user-authentication@1.0.0.RELEASE
+- pkg:maven/com.github.alperkurtul/spring-boot-starter-firebase-user-authentication@1.0.0.RELEASE?classifier=sources

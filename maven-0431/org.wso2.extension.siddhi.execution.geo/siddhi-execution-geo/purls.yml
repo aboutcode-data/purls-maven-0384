@@ -39,3 +39,4 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@5.0.0
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@5.0.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@5.0.0?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.geo/siddhi-execution-geo@5.0.1

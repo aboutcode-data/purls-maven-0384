@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.tika/tika-dl@1.21?classifier=sources
 - pkg:maven/org.apache.tika/tika-dl@1.22
 - pkg:maven/org.apache.tika/tika-dl@1.22?classifier=sources
+- pkg:maven/org.apache.tika/tika-dl@1.23
+- pkg:maven/org.apache.tika/tika-dl@1.23?classifier=sources

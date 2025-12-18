@@ -20,3 +20,5 @@
 - pkg:maven/de.codecentric.hikaku/hikaku-wadl@3.0.1?classifier=sources
 - pkg:maven/de.codecentric.hikaku/hikaku-wadl@3.1.0
 - pkg:maven/de.codecentric.hikaku/hikaku-wadl@3.1.0?classifier=sources
+- pkg:maven/de.codecentric.hikaku/hikaku-wadl@3.1.1
+- pkg:maven/de.codecentric.hikaku/hikaku-wadl@3.1.1?classifier=sources

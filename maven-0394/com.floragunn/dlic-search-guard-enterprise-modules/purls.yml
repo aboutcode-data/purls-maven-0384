@@ -326,6 +326,12 @@
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.8.2-34.5?classifier=sources
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.8.3-34.5
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.8.3-34.5?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.8.4-34.5
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.8.4-34.5?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.8.5-34.5
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.8.5-34.5?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.8.6-34.5
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@6.8.6-34.5?classifier=sources
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.0.0-35.0.0-beta1
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.0.0-35.0.0-beta1?classifier=sources
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.0.0-35.0.0-rc1
@@ -384,3 +390,13 @@
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.4.0-37.0.0?classifier=sources
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.4.0-37.1.0
 - pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.4.0-37.1.0?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.4.1-37.1.0
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.4.1-37.1.0?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.4.2-37.1.0
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.4.2-37.1.0?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.5.0-37.1.0
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.5.0-37.1.0?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.5.1-37.1.0
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.5.1-37.1.0?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.5.1-38.0.0
+- pkg:maven/com.floragunn/dlic-search-guard-enterprise-modules@7.5.1-38.0.0?classifier=sources

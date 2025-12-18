@@ -26,5 +26,11 @@
 - pkg:maven/org.webswing/webswing-server-war@2.6.5?type=war
 - pkg:maven/org.webswing/webswing-server-war@2.6?classifier=sources
 - pkg:maven/org.webswing/webswing-server-war@2.6?type=war
+- pkg:maven/org.webswing/webswing-server-war@2.7.1?classifier=sources
+- pkg:maven/org.webswing/webswing-server-war@2.7.1?type=war
+- pkg:maven/org.webswing/webswing-server-war@2.7.2?classifier=sources
+- pkg:maven/org.webswing/webswing-server-war@2.7.2?type=war
+- pkg:maven/org.webswing/webswing-server-war@2.7.3?classifier=sources
+- pkg:maven/org.webswing/webswing-server-war@2.7.3?type=war
 - pkg:maven/org.webswing/webswing-server-war@2.7?classifier=sources
 - pkg:maven/org.webswing/webswing-server-war@2.7?type=war

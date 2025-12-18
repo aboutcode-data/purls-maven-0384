@@ -1,0 +1,6 @@
+- pkg:maven/us.hebi.quickbuf/quickbuf-runtime@1.0-alpha3
+- pkg:maven/us.hebi.quickbuf/quickbuf-runtime@1.0-alpha3?classifier=sources
+- pkg:maven/us.hebi.quickbuf/quickbuf-runtime@1.0-alpha4
+- pkg:maven/us.hebi.quickbuf/quickbuf-runtime@1.0-alpha4?classifier=sources
+- pkg:maven/us.hebi.quickbuf/quickbuf-runtime@1.0-alpha5
+- pkg:maven/us.hebi.quickbuf/quickbuf-runtime@1.0-alpha5?classifier=sources

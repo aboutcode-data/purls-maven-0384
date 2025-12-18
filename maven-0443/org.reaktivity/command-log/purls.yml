@@ -87,6 +87,14 @@
 - pkg:maven/org.reaktivity/command-log@0.49?classifier=sources
 - pkg:maven/org.reaktivity/command-log@0.4?classifier=sources
 - pkg:maven/org.reaktivity/command-log@0.5
+- pkg:maven/org.reaktivity/command-log@0.50
+- pkg:maven/org.reaktivity/command-log@0.50?classifier=sources
+- pkg:maven/org.reaktivity/command-log@0.51
+- pkg:maven/org.reaktivity/command-log@0.51?classifier=sources
+- pkg:maven/org.reaktivity/command-log@0.52
+- pkg:maven/org.reaktivity/command-log@0.52?classifier=sources
+- pkg:maven/org.reaktivity/command-log@0.53
+- pkg:maven/org.reaktivity/command-log@0.53?classifier=sources
 - pkg:maven/org.reaktivity/command-log@0.5?classifier=sources
 - pkg:maven/org.reaktivity/command-log@0.6
 - pkg:maven/org.reaktivity/command-log@0.6?classifier=sources

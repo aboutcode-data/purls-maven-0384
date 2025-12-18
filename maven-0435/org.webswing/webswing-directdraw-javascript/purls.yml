@@ -1,1 +1,4 @@
 - pkg:maven/org.webswing/webswing-directdraw-javascript@2.7
+- pkg:maven/org.webswing/webswing-directdraw-javascript@2.7.1
+- pkg:maven/org.webswing/webswing-directdraw-javascript@2.7.2
+- pkg:maven/org.webswing/webswing-directdraw-javascript@2.7.3

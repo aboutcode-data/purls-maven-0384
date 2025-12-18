@@ -1,0 +1,8 @@
+- pkg:maven/org.clojure/tools.deps.graph@0.1.14
+- pkg:maven/org.clojure/tools.deps.graph@0.1.14?classifier=sources
+- pkg:maven/org.clojure/tools.deps.graph@0.2.23
+- pkg:maven/org.clojure/tools.deps.graph@0.2.23?classifier=sources
+- pkg:maven/org.clojure/tools.deps.graph@0.2.24
+- pkg:maven/org.clojure/tools.deps.graph@0.2.24?classifier=sources
+- pkg:maven/org.clojure/tools.deps.graph@0.2.30
+- pkg:maven/org.clojure/tools.deps.graph@0.2.30?classifier=sources

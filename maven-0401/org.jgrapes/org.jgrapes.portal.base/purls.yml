@@ -54,3 +54,5 @@
 - pkg:maven/org.jgrapes/org.jgrapes.portal.base@0.26.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.portal.base@0.27.0
 - pkg:maven/org.jgrapes/org.jgrapes.portal.base@0.27.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.portal.base@0.27.1
+- pkg:maven/org.jgrapes/org.jgrapes.portal.base@0.27.1?classifier=sources

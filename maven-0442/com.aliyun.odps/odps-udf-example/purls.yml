@@ -38,3 +38,5 @@
 - pkg:maven/com.aliyun.odps/odps-udf-example@0.31.6-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-udf-example@0.32.5-public
 - pkg:maven/com.aliyun.odps/odps-udf-example@0.32.5-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-udf-example@0.33.7-public
+- pkg:maven/com.aliyun.odps/odps-udf-example@0.33.7-public?classifier=sources

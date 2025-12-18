@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/vertx-mysql-client-scala_2.12@3.8.5
+- pkg:maven/io.vertx/vertx-mysql-client-scala_2.12@3.8.5?classifier=sources

@@ -1,0 +1,9 @@
+- pkg:maven/com.github.q742972035.tools/tools@1.0-SNAPSHOTS
+- pkg:maven/com.github.q742972035.tools/tools@1.0-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.q742972035.tools/tools@1.1-SNAPSHOTS
+- pkg:maven/com.github.q742972035.tools/tools@1.1-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.q742972035.tools/tools@1.1.1-SNAPSHOTS
+- pkg:maven/com.github.q742972035.tools/tools@1.1.1-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.q742972035.tools/tools@1.1.2-SNAPSHOTS
+- pkg:maven/com.github.q742972035.tools/tools@1.1.2-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.q742972035.tools/tools@1.1.3-SNAPSHOTS?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.paremus.core/com.paremus.netty.tls@1.1.0
+- pkg:maven/com.paremus.core/com.paremus.netty.tls@1.1.0?classifier=sources

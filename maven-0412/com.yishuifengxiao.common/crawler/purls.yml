@@ -1,0 +1,4 @@
+- pkg:maven/com.yishuifengxiao.common/crawler@1.0.0
+- pkg:maven/com.yishuifengxiao.common/crawler@1.0.0?classifier=sources
+- pkg:maven/com.yishuifengxiao.common/crawler@1.1.0
+- pkg:maven/com.yishuifengxiao.common/crawler@1.1.0?classifier=sources

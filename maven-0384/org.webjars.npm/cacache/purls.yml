@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/cacache@11.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/cacache@12.0.3
 - pkg:maven/org.webjars.npm/cacache@12.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/cacache@14.0.0
+- pkg:maven/org.webjars.npm/cacache@14.0.0?classifier=sources

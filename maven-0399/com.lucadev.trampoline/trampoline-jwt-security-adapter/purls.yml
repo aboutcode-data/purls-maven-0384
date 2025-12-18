@@ -1,0 +1,2 @@
+- pkg:maven/com.lucadev.trampoline/trampoline-jwt-security-adapter@20190628
+- pkg:maven/com.lucadev.trampoline/trampoline-jwt-security-adapter@20190628?classifier=sources

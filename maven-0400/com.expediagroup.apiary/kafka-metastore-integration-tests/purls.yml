@@ -1,0 +1,3 @@
+- pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@5.0.0
+- pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@5.0.1
+- pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@5.0.2

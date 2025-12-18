@@ -5,4 +5,5 @@
 - pkg:maven/com.willowtreeapps.assertk/assertk@0.18?classifier=sources
 - pkg:maven/com.willowtreeapps.assertk/assertk@0.19?classifier=sources
 - pkg:maven/com.willowtreeapps.assertk/assertk@0.20?classifier=sources
+- pkg:maven/com.willowtreeapps.assertk/assertk@0.21?classifier=sources
 - pkg:maven/com.willowtreeapps.assertk/assertk@0.9?classifier=sources

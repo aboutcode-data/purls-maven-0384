@@ -2,6 +2,8 @@
 - pkg:maven/org.reactivecommons/domain-events-api@0.0.1-beta2?classifier=sources
 - pkg:maven/org.reactivecommons/domain-events-api@0.0.1-beta3
 - pkg:maven/org.reactivecommons/domain-events-api@0.0.1-beta3?classifier=sources
+- pkg:maven/org.reactivecommons/domain-events-api@0.0.10-beta1
+- pkg:maven/org.reactivecommons/domain-events-api@0.0.10-beta1?classifier=sources
 - pkg:maven/org.reactivecommons/domain-events-api@0.0.2-beta1
 - pkg:maven/org.reactivecommons/domain-events-api@0.0.2-beta1?classifier=sources
 - pkg:maven/org.reactivecommons/domain-events-api@0.0.2-beta2
@@ -24,3 +26,11 @@
 - pkg:maven/org.reactivecommons/domain-events-api@0.1.2-beta1?classifier=sources
 - pkg:maven/org.reactivecommons/domain-events-api@0.2.0-beta1
 - pkg:maven/org.reactivecommons/domain-events-api@0.2.0-beta1?classifier=sources
+- pkg:maven/org.reactivecommons/domain-events-api@0.2.1-beta1
+- pkg:maven/org.reactivecommons/domain-events-api@0.2.1-beta1?classifier=sources
+- pkg:maven/org.reactivecommons/domain-events-api@0.2.3-beta1
+- pkg:maven/org.reactivecommons/domain-events-api@0.2.3-beta1?classifier=sources
+- pkg:maven/org.reactivecommons/domain-events-api@0.2.4-beta1
+- pkg:maven/org.reactivecommons/domain-events-api@0.2.4-beta1?classifier=sources
+- pkg:maven/org.reactivecommons/domain-events-api@0.3.1-beta1
+- pkg:maven/org.reactivecommons/domain-events-api@0.3.1-beta1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.github.martinpaljak/apdu4j-pcsc@19.05.08
 - pkg:maven/com.github.martinpaljak/apdu4j-pcsc@19.05.08?classifier=sources
+- pkg:maven/com.github.martinpaljak/apdu4j-pcsc@20.01.01
+- pkg:maven/com.github.martinpaljak/apdu4j-pcsc@20.01.01?classifier=sources

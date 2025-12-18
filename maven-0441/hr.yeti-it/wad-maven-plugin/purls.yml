@@ -1,0 +1,4 @@
+- pkg:maven/hr.yeti-it/wad-maven-plugin@1.0
+- pkg:maven/hr.yeti-it/wad-maven-plugin@1.0?classifier=sources
+- pkg:maven/hr.yeti-it/wad-maven-plugin@1.1
+- pkg:maven/hr.yeti-it/wad-maven-plugin@1.1?classifier=sources

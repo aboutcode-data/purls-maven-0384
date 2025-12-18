@@ -172,6 +172,10 @@
 - pkg:maven/org.apache.camel/camel-zookeeper@2.24.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-zookeeper@2.24.2
 - pkg:maven/org.apache.camel/camel-zookeeper@2.24.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-zookeeper@2.24.3
+- pkg:maven/org.apache.camel/camel-zookeeper@2.24.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-zookeeper@2.25.0
+- pkg:maven/org.apache.camel/camel-zookeeper@2.25.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-zookeeper@2.9.0
 - pkg:maven/org.apache.camel/camel-zookeeper@2.9.0-RC1
 - pkg:maven/org.apache.camel/camel-zookeeper@2.9.0?classifier=sources
@@ -191,6 +195,7 @@
 - pkg:maven/org.apache.camel/camel-zookeeper@2.9.7?classifier=sources
 - pkg:maven/org.apache.camel/camel-zookeeper@2.9.8
 - pkg:maven/org.apache.camel/camel-zookeeper@2.9.8?classifier=sources
+- pkg:maven/org.apache.camel/camel-zookeeper@3.0.0
 - pkg:maven/org.apache.camel/camel-zookeeper@3.0.0-M1
 - pkg:maven/org.apache.camel/camel-zookeeper@3.0.0-M1?classifier=sources
 - pkg:maven/org.apache.camel/camel-zookeeper@3.0.0-M2
@@ -205,3 +210,6 @@
 - pkg:maven/org.apache.camel/camel-zookeeper@3.0.0-RC2?classifier=sources
 - pkg:maven/org.apache.camel/camel-zookeeper@3.0.0-RC3
 - pkg:maven/org.apache.camel/camel-zookeeper@3.0.0-RC3?classifier=sources
+- pkg:maven/org.apache.camel/camel-zookeeper@3.0.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-zookeeper@3.0.1
+- pkg:maven/org.apache.camel/camel-zookeeper@3.0.1?classifier=sources

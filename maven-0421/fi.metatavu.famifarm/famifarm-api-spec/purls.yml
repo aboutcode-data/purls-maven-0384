@@ -48,6 +48,12 @@
 - pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.30?classifier=sources
 - pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.31
 - pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.31?classifier=sources
+- pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.32
+- pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.32?classifier=sources
+- pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.33
+- pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.33?classifier=sources
+- pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.35
+- pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.35?classifier=sources
 - pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.3?classifier=sources
 - pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.4
 - pkg:maven/fi.metatavu.famifarm/famifarm-api-spec@1.0.4?classifier=sources

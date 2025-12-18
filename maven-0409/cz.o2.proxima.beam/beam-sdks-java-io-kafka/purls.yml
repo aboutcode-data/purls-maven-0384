@@ -1,0 +1,4 @@
+- pkg:maven/cz.o2.proxima.beam/beam-sdks-java-io-kafka@0.3.0-rc1
+- pkg:maven/cz.o2.proxima.beam/beam-sdks-java-io-kafka@0.3.0-rc1-ab3f0b
+- pkg:maven/cz.o2.proxima.beam/beam-sdks-java-io-kafka@0.3.0-rc1-ab3f0b?classifier=sources
+- pkg:maven/cz.o2.proxima.beam/beam-sdks-java-io-kafka@0.3.0-rc1?classifier=sources

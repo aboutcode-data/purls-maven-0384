@@ -1,0 +1,10 @@
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.12@0.0.1-2-4
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.12@0.0.1-2-4?classifier=sources
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.12@0.0.2-2-4
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.12@0.0.2-2-4?classifier=sources
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.12@0.0.2-2.4.beta
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.12@0.0.2-2.4.beta?classifier=sources
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.12@0.1.2-2-4
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.12@0.1.2-2-4?classifier=sources
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.12@0.2.2-2-4
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.12@0.2.2-2-4?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.mapeditor/tmxviewer@0.17?classifier=sources
 - pkg:maven/org.mapeditor/tmxviewer@1.0.2
 - pkg:maven/org.mapeditor/tmxviewer@1.0.2?classifier=sources
+- pkg:maven/org.mapeditor/tmxviewer@1.2.3
+- pkg:maven/org.mapeditor/tmxviewer@1.2.3?classifier=sources

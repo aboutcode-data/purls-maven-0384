@@ -1,0 +1,4 @@
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner-embedded@10.1.1.Final
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner-embedded@10.1.2.Final
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner-embedded@11.0.0.Alpha
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner-embedded@11.0.0.Alpha1

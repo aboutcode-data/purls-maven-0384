@@ -1,0 +1,12 @@
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.0
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.0?classifier=sources
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.1.1
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.1.1?classifier=sources
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.1.2
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.1.2?classifier=sources
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.7
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.7?classifier=sources
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.8
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.8?classifier=sources
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.9
+- pkg:maven/de.adorsys.psd2.sandbox/oba-rest-server@2.9?classifier=sources

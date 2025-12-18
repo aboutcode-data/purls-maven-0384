@@ -1,0 +1,6 @@
+- pkg:maven/com.beirtipol/date-converters-core-tests@1.0-BETA
+- pkg:maven/com.beirtipol/date-converters-core-tests@1.0-BETA?classifier=sources
+- pkg:maven/com.beirtipol/date-converters-core-tests@1.0-RELEASE
+- pkg:maven/com.beirtipol/date-converters-core-tests@1.0-RELEASE?classifier=sources
+- pkg:maven/com.beirtipol/date-converters-core-tests@1.1
+- pkg:maven/com.beirtipol/date-converters-core-tests@1.1?classifier=sources

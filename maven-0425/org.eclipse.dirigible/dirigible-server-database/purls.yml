@@ -32,3 +32,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-server-database@3.5.1?type=war
 - pkg:maven/org.eclipse.dirigible/dirigible-server-database@3.5.2?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-server-database@3.5.2?type=war
+- pkg:maven/org.eclipse.dirigible/dirigible-server-database@4.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-database@4.0.0?type=war
+- pkg:maven/org.eclipse.dirigible/dirigible-server-database@4.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-database@4.1.0?type=war
+- pkg:maven/org.eclipse.dirigible/dirigible-server-database@4.2.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-database@4.2.0?type=war

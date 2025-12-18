@@ -1,0 +1,10 @@
+- pkg:maven/net.bjohannsen/spring-boot-actuator-jmx-metrics-exporter@1.0.0-RELEASE
+- pkg:maven/net.bjohannsen/spring-boot-actuator-jmx-metrics-exporter@1.0.0-RELEASE?classifier=sources
+- pkg:maven/net.bjohannsen/spring-boot-actuator-jmx-metrics-exporter@1.1.0-RELEASE
+- pkg:maven/net.bjohannsen/spring-boot-actuator-jmx-metrics-exporter@1.1.0-RELEASE?classifier=sources
+- pkg:maven/net.bjohannsen/spring-boot-actuator-jmx-metrics-exporter@1.1.1-RELEASE
+- pkg:maven/net.bjohannsen/spring-boot-actuator-jmx-metrics-exporter@1.1.1-RELEASE?classifier=sources
+- pkg:maven/net.bjohannsen/spring-boot-actuator-jmx-metrics-exporter@2.0.0-RELEASE
+- pkg:maven/net.bjohannsen/spring-boot-actuator-jmx-metrics-exporter@2.0.0-RELEASE?classifier=sources
+- pkg:maven/net.bjohannsen/spring-boot-actuator-jmx-metrics-exporter@2.0.1-RELEASE
+- pkg:maven/net.bjohannsen/spring-boot-actuator-jmx-metrics-exporter@2.0.1-RELEASE?classifier=sources

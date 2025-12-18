@@ -1,3 +1,5 @@
+- pkg:maven/de.dagere.kopeme/build-tools@0.10.1
+- pkg:maven/de.dagere.kopeme/build-tools@0.10.1?classifier=sources
 - pkg:maven/de.dagere.kopeme/build-tools@0.8.1
 - pkg:maven/de.dagere.kopeme/build-tools@0.8.1?classifier=sources
 - pkg:maven/de.dagere.kopeme/build-tools@0.9.1

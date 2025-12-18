@@ -39,6 +39,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@1.0.22
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@1.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@1.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@1.0.23
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@1.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@1.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@1.0.3
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@1.0.3?classifier=sources
@@ -75,6 +78,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@2.0.6
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@2.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@2.0.7
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@2.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.0?classifier=sources-commercial
@@ -91,6 +97,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.13
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.14
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.2
@@ -117,3 +126,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.9
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@4.0.1
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@4.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@4.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@4.0.2
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@4.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.crop@4.0.2?classifier=sources-commercial

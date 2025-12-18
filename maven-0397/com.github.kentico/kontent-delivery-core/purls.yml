@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kentico/kontent-delivery-core@4.0.1
+- pkg:maven/com.github.kentico/kontent-delivery-core@4.0.1?classifier=sources

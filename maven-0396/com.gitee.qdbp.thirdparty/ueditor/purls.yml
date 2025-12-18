@@ -1,2 +1,4 @@
 - pkg:maven/com.gitee.qdbp.thirdparty/ueditor@1.4.3.3
 - pkg:maven/com.gitee.qdbp.thirdparty/ueditor@1.4.3.3?classifier=sources
+- pkg:maven/com.gitee.qdbp.thirdparty/ueditor@1.4.3.4
+- pkg:maven/com.gitee.qdbp.thirdparty/ueditor@1.4.3.4?classifier=sources

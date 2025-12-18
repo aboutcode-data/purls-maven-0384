@@ -32,3 +32,5 @@
 - pkg:maven/org.jmxtrans/jmxtrans-core@269?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-core@270
 - pkg:maven/org.jmxtrans/jmxtrans-core@270?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-core@271
+- pkg:maven/org.jmxtrans/jmxtrans-core@271?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/ca.derekcormier.recipe/recipe-generator-maven-plugin@0.3.6?classifier=sources
 - pkg:maven/ca.derekcormier.recipe/recipe-generator-maven-plugin@0.3.7
 - pkg:maven/ca.derekcormier.recipe/recipe-generator-maven-plugin@0.3.7?classifier=sources
+- pkg:maven/ca.derekcormier.recipe/recipe-generator-maven-plugin@0.4.0
+- pkg:maven/ca.derekcormier.recipe/recipe-generator-maven-plugin@0.4.0?classifier=sources

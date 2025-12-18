@@ -30,3 +30,5 @@
 - pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2?classifier=sources
 - pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.3alpha
 - pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.3alpha?classifier=sources
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.3beta
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.3beta?classifier=sources

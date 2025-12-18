@@ -10,3 +10,5 @@
 - pkg:maven/io.zipkin.brave.ratpack/brave-ratpack@2.5.0?classifier=sources
 - pkg:maven/io.zipkin.brave.ratpack/brave-ratpack@2.6.0
 - pkg:maven/io.zipkin.brave.ratpack/brave-ratpack@2.6.0?classifier=sources
+- pkg:maven/io.zipkin.brave.ratpack/brave-ratpack@2.6.1
+- pkg:maven/io.zipkin.brave.ratpack/brave-ratpack@2.6.1?classifier=sources

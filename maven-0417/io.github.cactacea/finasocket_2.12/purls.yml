@@ -6,6 +6,8 @@
 - pkg:maven/io.github.cactacea/finasocket_2.12@19.1.1?classifier=sources
 - pkg:maven/io.github.cactacea/finasocket_2.12@19.1.2
 - pkg:maven/io.github.cactacea/finasocket_2.12@19.1.2?classifier=sources
+- pkg:maven/io.github.cactacea/finasocket_2.12@19.11.0
+- pkg:maven/io.github.cactacea/finasocket_2.12@19.11.0?classifier=sources
 - pkg:maven/io.github.cactacea/finasocket_2.12@19.3.0
 - pkg:maven/io.github.cactacea/finasocket_2.12@19.3.0?classifier=sources
 - pkg:maven/io.github.cactacea/finasocket_2.12@19.3.1

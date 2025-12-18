@@ -1,0 +1,8 @@
+- pkg:maven/net.officefloor.activity/officeactivity@3.16.0
+- pkg:maven/net.officefloor.activity/officeactivity@3.16.0?classifier=sources
+- pkg:maven/net.officefloor.activity/officeactivity@3.17.0
+- pkg:maven/net.officefloor.activity/officeactivity@3.17.0?classifier=sources
+- pkg:maven/net.officefloor.activity/officeactivity@3.18.0
+- pkg:maven/net.officefloor.activity/officeactivity@3.18.0?classifier=sources
+- pkg:maven/net.officefloor.activity/officeactivity@3.19.0
+- pkg:maven/net.officefloor.activity/officeactivity@3.19.0?classifier=sources

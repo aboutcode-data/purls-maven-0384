@@ -1,6 +1,10 @@
 - pkg:maven/dev.tuxjsql/tuxjsql@2.0
+- pkg:maven/dev.tuxjsql/tuxjsql@2.0.1
+- pkg:maven/dev.tuxjsql/tuxjsql@2.0.1?classifier=sources
 - pkg:maven/dev.tuxjsql/tuxjsql@2.0.RC0
 - pkg:maven/dev.tuxjsql/tuxjsql@2.0.RC0?classifier=sources
 - pkg:maven/dev.tuxjsql/tuxjsql@2.0.RC1
 - pkg:maven/dev.tuxjsql/tuxjsql@2.0.RC1?classifier=sources
 - pkg:maven/dev.tuxjsql/tuxjsql@2.0?classifier=sources
+- pkg:maven/dev.tuxjsql/tuxjsql@2.1.RC0
+- pkg:maven/dev.tuxjsql/tuxjsql@2.1.RC0?classifier=sources

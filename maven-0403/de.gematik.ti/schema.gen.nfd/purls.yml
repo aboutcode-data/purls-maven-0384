@@ -1,0 +1,2 @@
+- pkg:maven/de.gematik.ti/schema.gen.nfd@1.0.2
+- pkg:maven/de.gematik.ti/schema.gen.nfd@1.0.2?classifier=sources

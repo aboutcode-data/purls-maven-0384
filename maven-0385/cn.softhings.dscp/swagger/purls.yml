@@ -1,0 +1,2 @@
+- pkg:maven/cn.softhings.dscp/swagger@0.0.1
+- pkg:maven/cn.softhings.dscp/swagger@0.0.1?classifier=sources

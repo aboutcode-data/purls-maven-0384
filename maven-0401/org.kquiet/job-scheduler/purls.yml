@@ -1,0 +1,2 @@
+- pkg:maven/org.kquiet/job-scheduler@1.0.0
+- pkg:maven/org.kquiet/job-scheduler@1.0.0?classifier=sources

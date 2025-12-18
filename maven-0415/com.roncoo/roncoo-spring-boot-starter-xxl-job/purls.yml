@@ -1,0 +1,6 @@
+- pkg:maven/com.roncoo/roncoo-spring-boot-starter-xxl-job@1.0.7
+- pkg:maven/com.roncoo/roncoo-spring-boot-starter-xxl-job@1.0.7?classifier=sources
+- pkg:maven/com.roncoo/roncoo-spring-boot-starter-xxl-job@1.0.8
+- pkg:maven/com.roncoo/roncoo-spring-boot-starter-xxl-job@1.0.8?classifier=sources
+- pkg:maven/com.roncoo/roncoo-spring-boot-starter-xxl-job@1.1.0
+- pkg:maven/com.roncoo/roncoo-spring-boot-starter-xxl-job@1.1.0?classifier=sources

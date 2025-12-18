@@ -1,0 +1,2 @@
+- pkg:maven/org.ovirt.java-client-kubevirt/client-java@0.1.0
+- pkg:maven/org.ovirt.java-client-kubevirt/client-java@0.1.0?classifier=sources

@@ -30,6 +30,10 @@
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.116.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.117.0-beta
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.117.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-texttospeech@0.117.1-beta
+- pkg:maven/com.google.cloud/google-cloud-texttospeech@0.117.1-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-texttospeech@0.117.2-beta
+- pkg:maven/com.google.cloud/google-cloud-texttospeech@0.117.2-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.41.0-beta
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.41.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.42.0-beta
@@ -152,3 +156,7 @@
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.98.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.99.0-beta
 - pkg:maven/com.google.cloud/google-cloud-texttospeech@0.99.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-texttospeech@1.0.0
+- pkg:maven/com.google.cloud/google-cloud-texttospeech@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-texttospeech@1.0.1
+- pkg:maven/com.google.cloud/google-cloud-texttospeech@1.0.1?classifier=sources
