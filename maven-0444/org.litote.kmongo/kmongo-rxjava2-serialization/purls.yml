@@ -5,3 +5,6 @@
 - pkg:maven/org.litote.kmongo/kmongo-rxjava2-serialization@3.12.2
 - pkg:maven/org.litote.kmongo/kmongo-rxjava2-serialization@4.0.0
 - pkg:maven/org.litote.kmongo/kmongo-rxjava2-serialization@4.0.1
+- pkg:maven/org.litote.kmongo/kmongo-rxjava2-serialization@4.0.2
+- pkg:maven/org.litote.kmongo/kmongo-rxjava2-serialization@4.0.3
+- pkg:maven/org.litote.kmongo/kmongo-rxjava2-serialization@4.1.0

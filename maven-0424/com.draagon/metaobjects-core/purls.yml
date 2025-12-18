@@ -10,3 +10,11 @@
 - pkg:maven/com.draagon/metaobjects-core@4.2.1?classifier=sources
 - pkg:maven/com.draagon/metaobjects-core@4.2.2
 - pkg:maven/com.draagon/metaobjects-core@4.2.2?classifier=sources
+- pkg:maven/com.draagon/metaobjects-core@4.3.0
+- pkg:maven/com.draagon/metaobjects-core@4.3.0?classifier=sources
+- pkg:maven/com.draagon/metaobjects-core@4.3.1
+- pkg:maven/com.draagon/metaobjects-core@4.3.1?classifier=sources
+- pkg:maven/com.draagon/metaobjects-core@4.3.3
+- pkg:maven/com.draagon/metaobjects-core@4.3.3?classifier=sources
+- pkg:maven/com.draagon/metaobjects-core@4.3.4
+- pkg:maven/com.draagon/metaobjects-core@4.3.4?classifier=sources

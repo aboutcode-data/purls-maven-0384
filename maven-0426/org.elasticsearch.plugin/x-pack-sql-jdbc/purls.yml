@@ -1,0 +1,4 @@
+- pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@6.8.11
+- pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@6.8.11?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@7.8.1
+- pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@7.8.1?classifier=sources

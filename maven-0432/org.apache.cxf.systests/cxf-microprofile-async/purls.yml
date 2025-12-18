@@ -6,6 +6,8 @@
 - pkg:maven/org.apache.cxf.systests/cxf-microprofile-async@3.2.12?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-microprofile-async@3.2.13
 - pkg:maven/org.apache.cxf.systests/cxf-microprofile-async@3.2.13?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-microprofile-async@3.2.14
+- pkg:maven/org.apache.cxf.systests/cxf-microprofile-async@3.2.14?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-microprofile-async@3.2.6
 - pkg:maven/org.apache.cxf.systests/cxf-microprofile-async@3.2.6?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-microprofile-async@3.2.7

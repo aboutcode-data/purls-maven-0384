@@ -1,0 +1,6 @@
+- pkg:maven/com.gitee.kamismile/stoneComEx@0.0.11
+- pkg:maven/com.gitee.kamismile/stoneComEx@0.0.11?classifier=sources
+- pkg:maven/com.gitee.kamismile/stoneComEx@0.0.3
+- pkg:maven/com.gitee.kamismile/stoneComEx@0.0.3?classifier=sources
+- pkg:maven/com.gitee.kamismile/stoneComEx@0.0.5
+- pkg:maven/com.gitee.kamismile/stoneComEx@0.0.5?classifier=sources

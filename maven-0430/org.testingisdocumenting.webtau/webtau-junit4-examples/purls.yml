@@ -1,2 +1,7 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-junit4-examples@1.21.1
 - pkg:maven/org.testingisdocumenting.webtau/webtau-junit4-examples@1.22
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4-examples@1.23
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4-examples@1.24
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4-examples@1.25
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4-examples@1.26
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4-examples@1.27

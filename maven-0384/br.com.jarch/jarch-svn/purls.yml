@@ -40,3 +40,9 @@
 - pkg:maven/br.com.jarch/jarch-svn@20.3.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-svn@20.4.0
 - pkg:maven/br.com.jarch/jarch-svn@20.4.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-svn@20.5.0
+- pkg:maven/br.com.jarch/jarch-svn@20.5.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-svn@20.6.0
+- pkg:maven/br.com.jarch/jarch-svn@20.6.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-svn@20.7.0
+- pkg:maven/br.com.jarch/jarch-svn@20.7.0?classifier=sources

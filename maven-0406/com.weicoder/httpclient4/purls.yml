@@ -6,3 +6,11 @@
 - pkg:maven/com.weicoder/httpclient4@3.3.8-jdk8
 - pkg:maven/com.weicoder/httpclient4@3.3.8-jdk8?classifier=sources
 - pkg:maven/com.weicoder/httpclient4@3.3.8?classifier=sources
+- pkg:maven/com.weicoder/httpclient4@3.4.2
+- pkg:maven/com.weicoder/httpclient4@3.4.2-jdk8
+- pkg:maven/com.weicoder/httpclient4@3.4.2-jdk8?classifier=sources
+- pkg:maven/com.weicoder/httpclient4@3.4.2?classifier=sources
+- pkg:maven/com.weicoder/httpclient4@3.4.3
+- pkg:maven/com.weicoder/httpclient4@3.4.3-jdk8
+- pkg:maven/com.weicoder/httpclient4@3.4.3-jdk8?classifier=sources
+- pkg:maven/com.weicoder/httpclient4@3.4.3?classifier=sources

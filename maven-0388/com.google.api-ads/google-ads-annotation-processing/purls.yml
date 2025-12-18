@@ -1,0 +1,6 @@
+- pkg:maven/com.google.api-ads/google-ads-annotation-processing@6.0.0
+- pkg:maven/com.google.api-ads/google-ads-annotation-processing@6.0.0?classifier=sources
+- pkg:maven/com.google.api-ads/google-ads-annotation-processing@7.0.0
+- pkg:maven/com.google.api-ads/google-ads-annotation-processing@7.0.0?classifier=sources
+- pkg:maven/com.google.api-ads/google-ads-annotation-processing@8.0.0
+- pkg:maven/com.google.api-ads/google-ads-annotation-processing@8.0.0?classifier=sources

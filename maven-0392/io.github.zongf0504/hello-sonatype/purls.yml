@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zongf0504/hello-sonatype@1.0-RELEASE
+- pkg:maven/io.github.zongf0504/hello-sonatype@1.0-RELEASE?classifier=sources

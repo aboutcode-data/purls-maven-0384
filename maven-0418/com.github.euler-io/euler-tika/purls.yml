@@ -1,0 +1,2 @@
+- pkg:maven/com.github.euler-io/euler-tika@0.1.2
+- pkg:maven/com.github.euler-io/euler-tika@0.1.2?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/com.yoti.mobile.android/commons@1.2.5?type=aar
 - pkg:maven/com.yoti.mobile.android/commons@2.0.0?type=aar
 - pkg:maven/com.yoti.mobile.android/commons@2.2.0?type=aar
+- pkg:maven/com.yoti.mobile.android/commons@2.3.0?type=aar
+- pkg:maven/com.yoti.mobile.android/commons@2.5.2?type=aar

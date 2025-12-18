@@ -1,0 +1,2 @@
+- pkg:maven/edu.gemini/gpp-svgdotjs_sjs1_2.13@0.0.1
+- pkg:maven/edu.gemini/gpp-svgdotjs_sjs1_2.13@0.0.1?classifier=sources

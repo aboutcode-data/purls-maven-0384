@@ -1,0 +1,14 @@
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-alpha.01?classifier=sources
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-alpha.01?type=aar
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.01?classifier=sources
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.01?type=aar
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.02?classifier=sources
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.02?type=aar
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.03?classifier=sources
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.03?type=aar
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.04?classifier=sources
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.04?type=aar
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.05?classifier=sources
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.05?type=aar
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.06?classifier=sources
+- pkg:maven/com.helpcrunch/chat-sdk@3.0.0-beta.06?type=aar

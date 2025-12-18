@@ -2,3 +2,5 @@
 - pkg:maven/me.shadaj/scalapy-numpy_2.13@0.1.0%2B4-e07f0f61?classifier=sources
 - pkg:maven/me.shadaj/scalapy-numpy_2.13@0.1.0%2B5-ad550211
 - pkg:maven/me.shadaj/scalapy-numpy_2.13@0.1.0%2B5-ad550211?classifier=sources
+- pkg:maven/me.shadaj/scalapy-numpy_2.13@0.1.0%2B6-14ca0424
+- pkg:maven/me.shadaj/scalapy-numpy_2.13@0.1.0%2B6-14ca0424?classifier=sources

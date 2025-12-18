@@ -1,0 +1,4 @@
+- pkg:maven/de.sciss/mellite-full_2.12@2.48.0
+- pkg:maven/de.sciss/mellite-full_2.12@2.48.0?classifier=sources
+- pkg:maven/de.sciss/mellite-full_2.12@2.49.0
+- pkg:maven/de.sciss/mellite-full_2.12@2.49.0?classifier=sources

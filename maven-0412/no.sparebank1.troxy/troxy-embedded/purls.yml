@@ -4,3 +4,5 @@
 - pkg:maven/no.sparebank1.troxy/troxy-embedded@3.1.115?classifier=sources
 - pkg:maven/no.sparebank1.troxy/troxy-embedded@3.1.118
 - pkg:maven/no.sparebank1.troxy/troxy-embedded@3.1.118?classifier=sources
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.1.129
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.1.129?classifier=sources

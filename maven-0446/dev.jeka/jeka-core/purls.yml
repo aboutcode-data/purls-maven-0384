@@ -43,6 +43,8 @@
 - pkg:maven/dev.jeka/jeka-core@0.8.9.RELEASE
 - pkg:maven/dev.jeka/jeka-core@0.8.9.RELEASE?classifier=sources
 - pkg:maven/dev.jeka/jeka-core@0.9.0.M1
+- pkg:maven/dev.jeka/jeka-core@0.9.0.M10
+- pkg:maven/dev.jeka/jeka-core@0.9.0.M10?classifier=sources
 - pkg:maven/dev.jeka/jeka-core@0.9.0.M1?classifier=sources
 - pkg:maven/dev.jeka/jeka-core@0.9.0.M3
 - pkg:maven/dev.jeka/jeka-core@0.9.0.M3?classifier=sources
@@ -52,5 +54,10 @@
 - pkg:maven/dev.jeka/jeka-core@0.9.0.M5?classifier=sources
 - pkg:maven/dev.jeka/jeka-core@0.9.0.M6
 - pkg:maven/dev.jeka/jeka-core@0.9.0.M6?classifier=sources
+- pkg:maven/dev.jeka/jeka-core@0.9.0.M7
+- pkg:maven/dev.jeka/jeka-core@0.9.0.M7?classifier=sources
+- pkg:maven/dev.jeka/jeka-core@0.9.0.M9?classifier=sources
+- pkg:maven/dev.jeka/jeka-core@0.9.10.M10
+- pkg:maven/dev.jeka/jeka-core@0.9.10.M10?classifier=sources
 - pkg:maven/dev.jeka/jeka-core@O.9.0.M2
 - pkg:maven/dev.jeka/jeka-core@O.9.0.M2?classifier=sources

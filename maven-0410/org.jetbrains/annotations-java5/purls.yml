@@ -12,3 +12,5 @@
 - pkg:maven/org.jetbrains/annotations-java5@18.0.0?classifier=sources
 - pkg:maven/org.jetbrains/annotations-java5@19.0.0
 - pkg:maven/org.jetbrains/annotations-java5@19.0.0?classifier=sources
+- pkg:maven/org.jetbrains/annotations-java5@20.0.0
+- pkg:maven/org.jetbrains/annotations-java5@20.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.unbound-tech/encryption-ub@0.10.5
+- pkg:maven/com.github.unbound-tech/encryption-ub@0.10.5?classifier=sources

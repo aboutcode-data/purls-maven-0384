@@ -7,3 +7,4 @@
 - pkg:maven/io.siddhi.extension.io.grpc/siddhi-io-grpc-parent@1.0.6?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.grpc/siddhi-io-grpc-parent@1.0.7?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.grpc/siddhi-io-grpc-parent@1.0.8?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.grpc/siddhi-io-grpc-parent@1.0.9?classifier=source-release&type=zip

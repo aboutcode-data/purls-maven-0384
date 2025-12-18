@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/papaparse@4.6.3?classifier=sources
 - pkg:maven/org.webjars.npm/papaparse@5.0.0-beta.0
 - pkg:maven/org.webjars.npm/papaparse@5.0.0-beta.0?classifier=sources
+- pkg:maven/org.webjars.npm/papaparse@5.2.0
+- pkg:maven/org.webjars.npm/papaparse@5.2.0?classifier=sources

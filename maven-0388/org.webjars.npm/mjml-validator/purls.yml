@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/mjml-validator@4.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/mjml-validator@4.4.0
 - pkg:maven/org.webjars.npm/mjml-validator@4.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/mjml-validator@4.6.3
+- pkg:maven/org.webjars.npm/mjml-validator@4.6.3?classifier=sources

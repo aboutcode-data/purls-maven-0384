@@ -1,4 +1,10 @@
 - pkg:maven/org.fisco-bcos/solcJ@0.4.25-rc1
 - pkg:maven/org.fisco-bcos/solcJ@0.4.25-rc1?classifier=sources
+- pkg:maven/org.fisco-bcos/solcJ@0.4.25.0
+- pkg:maven/org.fisco-bcos/solcJ@0.4.25.0?classifier=sources
 - pkg:maven/org.fisco-bcos/solcJ@0.5.2-rc1
 - pkg:maven/org.fisco-bcos/solcJ@0.5.2-rc1?classifier=sources
+- pkg:maven/org.fisco-bcos/solcJ@0.5.2.0
+- pkg:maven/org.fisco-bcos/solcJ@0.5.2.0?classifier=sources
+- pkg:maven/org.fisco-bcos/solcJ@0.6.10.0
+- pkg:maven/org.fisco-bcos/solcJ@0.6.10.0?classifier=sources

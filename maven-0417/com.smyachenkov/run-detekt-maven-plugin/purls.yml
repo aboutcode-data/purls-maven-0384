@@ -8,3 +8,4 @@
 - pkg:maven/com.smyachenkov/run-detekt-maven-plugin@1.5.0.1?classifier=sources
 - pkg:maven/com.smyachenkov/run-detekt-maven-plugin@1.7.4
 - pkg:maven/com.smyachenkov/run-detekt-maven-plugin@1.7.4?classifier=sources
+- pkg:maven/com.smyachenkov/run-detekt-maven-plugin@1.9.1

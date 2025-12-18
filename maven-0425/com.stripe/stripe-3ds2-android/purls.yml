@@ -79,3 +79,12 @@
 - pkg:maven/com.stripe/stripe-3ds2-android@2.7.7?type=aar
 - pkg:maven/com.stripe/stripe-3ds2-android@2.7.8?type=aar
 - pkg:maven/com.stripe/stripe-3ds2-android@2.8.1?type=aar
+- pkg:maven/com.stripe/stripe-3ds2-android@3.0.0?type=aar
+- pkg:maven/com.stripe/stripe-3ds2-android@3.0.1?type=aar
+- pkg:maven/com.stripe/stripe-3ds2-android@3.0.2?type=aar
+- pkg:maven/com.stripe/stripe-3ds2-android@3.0.3?type=aar
+- pkg:maven/com.stripe/stripe-3ds2-android@4.0.0?type=aar
+- pkg:maven/com.stripe/stripe-3ds2-android@4.0.1?type=aar
+- pkg:maven/com.stripe/stripe-3ds2-android@4.0.2?type=aar
+- pkg:maven/com.stripe/stripe-3ds2-android@4.0.3?type=aar
+- pkg:maven/com.stripe/stripe-3ds2-android@4.0.4?type=aar

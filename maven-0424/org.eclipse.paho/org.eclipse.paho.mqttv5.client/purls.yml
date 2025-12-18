@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.paho/org.eclipse.paho.mqttv5.client@1.2.5?classifier=sources

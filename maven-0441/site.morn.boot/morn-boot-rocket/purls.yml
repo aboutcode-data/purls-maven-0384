@@ -1,0 +1,2 @@
+- pkg:maven/site.morn.boot/morn-boot-rocket@1.2.1
+- pkg:maven/site.morn.boot/morn-boot-rocket@1.2.1?classifier=sources

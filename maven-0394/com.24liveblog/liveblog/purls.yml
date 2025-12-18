@@ -1,0 +1,8 @@
+- pkg:maven/com.24liveblog/liveblog@0.0.8?classifier=sources
+- pkg:maven/com.24liveblog/liveblog@0.0.8?type=aar
+- pkg:maven/com.24liveblog/liveblog@0.0.9?classifier=sources
+- pkg:maven/com.24liveblog/liveblog@0.0.9?type=aar
+- pkg:maven/com.24liveblog/liveblog@1.0.0?classifier=sources
+- pkg:maven/com.24liveblog/liveblog@1.0.0?type=aar
+- pkg:maven/com.24liveblog/liveblog@1.1.0?classifier=sources
+- pkg:maven/com.24liveblog/liveblog@1.1.0?type=aar

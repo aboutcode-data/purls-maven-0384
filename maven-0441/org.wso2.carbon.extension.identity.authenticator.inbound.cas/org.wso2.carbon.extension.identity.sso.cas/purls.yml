@@ -9,6 +9,10 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/org.wso2.carbon.extension.identity.sso.cas@2.0.0
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/org.wso2.carbon.extension.identity.sso.cas@2.0.0?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/org.wso2.carbon.extension.identity.sso.cas@2.0.1
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/org.wso2.carbon.extension.identity.sso.cas@2.0.12
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/org.wso2.carbon.extension.identity.sso.cas@2.0.12?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/org.wso2.carbon.extension.identity.sso.cas@2.0.13
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/org.wso2.carbon.extension.identity.sso.cas@2.0.13?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/org.wso2.carbon.extension.identity.sso.cas@2.0.1?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/org.wso2.carbon.extension.identity.sso.cas@2.0.2
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/org.wso2.carbon.extension.identity.sso.cas@2.0.2?classifier=sources

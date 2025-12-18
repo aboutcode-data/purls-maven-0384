@@ -1,0 +1,2 @@
+- pkg:maven/com.damavis/damavis-spark-core_2.12@0.1.0
+- pkg:maven/com.damavis/damavis-spark-core_2.12@0.1.0?classifier=sources

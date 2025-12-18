@@ -20,6 +20,10 @@
 - pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.10.11?classifier=sources
 - pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.10.12?classifier=sources
 - pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.10.13?classifier=sources
+- pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.10.14?classifier=sources
+- pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.10.15?classifier=sources
+- pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.10.16?classifier=sources
+- pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.10.17?classifier=sources
 - pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.10.1?classifier=sources
 - pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.10.2?classifier=sources
 - pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.10.3?classifier=sources
@@ -47,3 +51,10 @@
 - pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.9.1?classifier=sources
 - pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.9.2?classifier=sources
 - pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@2.9.3?classifier=sources
+- pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@3.0.0?classifier=sources
+- pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@3.0.1?classifier=sources
+- pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@3.0.2?classifier=sources
+- pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@3.0.3?classifier=sources
+- pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@3.0.4?classifier=sources
+- pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@3.1.0?classifier=sources
+- pkg:maven/io.gravitee.am.extensiongrant/gravitee-am-extensiongrant-jwtbearer@3.1.1?classifier=sources

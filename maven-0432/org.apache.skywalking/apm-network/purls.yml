@@ -13,3 +13,6 @@
 - pkg:maven/org.apache.skywalking/apm-network@6.5.0
 - pkg:maven/org.apache.skywalking/apm-network@6.6.0
 - pkg:maven/org.apache.skywalking/apm-network@7.0.0
+- pkg:maven/org.apache.skywalking/apm-network@8.0.0
+- pkg:maven/org.apache.skywalking/apm-network@8.0.1
+- pkg:maven/org.apache.skywalking/apm-network@8.1.0

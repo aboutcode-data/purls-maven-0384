@@ -5,4 +5,5 @@
 - pkg:maven/com.imsweb/staging-algorithm-cs@02.05.50.2?classifier=sources
 - pkg:maven/com.imsweb/staging-algorithm-cs@02.05.50.3
 - pkg:maven/com.imsweb/staging-algorithm-cs@02.05.50.3?classifier=sources
+- pkg:maven/com.imsweb/staging-algorithm-cs@02.05.50.4?classifier=sources
 - pkg:maven/com.imsweb/staging-algorithm-cs@02.05.50?classifier=sources

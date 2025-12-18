@@ -6,3 +6,4 @@
 - pkg:maven/com.natigbabayev.checkpoint/checkpoint-core-abstraction@0.4.0?classifier=sources
 - pkg:maven/com.natigbabayev.checkpoint/checkpoint-core-abstraction@0.5.0
 - pkg:maven/com.natigbabayev.checkpoint/checkpoint-core-abstraction@0.5.0?classifier=sources
+- pkg:maven/com.natigbabayev.checkpoint/checkpoint-core-abstraction@0.6.0?classifier=sources

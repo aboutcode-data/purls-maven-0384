@@ -1,0 +1,2 @@
+- pkg:maven/com.github.java-json-tools/jackson-coreutils-equivalence@1.0
+- pkg:maven/com.github.java-json-tools/jackson-coreutils-equivalence@1.0?classifier=sources

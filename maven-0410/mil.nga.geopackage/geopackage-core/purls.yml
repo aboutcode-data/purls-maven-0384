@@ -52,3 +52,5 @@
 - pkg:maven/mil.nga.geopackage/geopackage-core@3.4.0?classifier=sources
 - pkg:maven/mil.nga.geopackage/geopackage-core@3.5.0
 - pkg:maven/mil.nga.geopackage/geopackage-core@3.5.0?classifier=sources
+- pkg:maven/mil.nga.geopackage/geopackage-core@4.0.0
+- pkg:maven/mil.nga.geopackage/geopackage-core@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.convergencelabs/convergence-server_2.13@1.0.0-rc.7
+- pkg:maven/com.convergencelabs/convergence-server_2.13@1.0.0-rc.7?classifier=sources

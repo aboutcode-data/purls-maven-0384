@@ -1,1 +1,8 @@
 - pkg:maven/com.github.rahulsom/nothing@0.1.0-rc.1?classifier=sources
+- pkg:maven/com.github.rahulsom/nothing@0.1.0-rc.2?classifier=sources
+- pkg:maven/com.github.rahulsom/nothing@0.1.0?classifier=sources
+- pkg:maven/com.github.rahulsom/nothing@0.1.1-rc.1?classifier=sources
+- pkg:maven/com.github.rahulsom/nothing@0.1.1-rc.2?classifier=sources
+- pkg:maven/com.github.rahulsom/nothing@0.1.1-rc.3?classifier=sources
+- pkg:maven/com.github.rahulsom/nothing@0.1.1?classifier=sources
+- pkg:maven/com.github.rahulsom/nothing@0.1.2-rc.1?classifier=sources

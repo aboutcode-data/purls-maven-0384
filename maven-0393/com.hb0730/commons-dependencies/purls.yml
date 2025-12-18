@@ -1,0 +1,2 @@
+- pkg:maven/com.hb0730/commons-dependencies@1.0.0-RELEASE
+- pkg:maven/com.hb0730/commons-dependencies@1.0.0-RELEASE?classifier=sources

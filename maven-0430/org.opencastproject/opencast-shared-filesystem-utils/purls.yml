@@ -1,2 +1,4 @@
 - pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@8.3
 - pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@8.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@8.4
+- pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@8.4?classifier=sources

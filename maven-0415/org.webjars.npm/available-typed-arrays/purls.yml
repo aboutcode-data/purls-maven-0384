@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/available-typed-arrays@1.0.2
+- pkg:maven/org.webjars.npm/available-typed-arrays@1.0.2?classifier=sources

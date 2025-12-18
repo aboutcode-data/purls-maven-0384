@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistence@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistence@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistence@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistence@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistence@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistence@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistence@RELEASE90?classifier=sources

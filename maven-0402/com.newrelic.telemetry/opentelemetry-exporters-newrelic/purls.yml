@@ -1,2 +1,16 @@
 - pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.3.0
 - pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.3.0?classifier=sources
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.4.0
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.4.0?classifier=sources
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.5.0
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.5.0?classifier=sources
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.5.1
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.5.1?classifier=sources
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.6.0
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.6.0?classifier=sources
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.6.1
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.6.1?classifier=sources
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.6.2
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.6.2?classifier=sources
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.7.0
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.7.0?classifier=sources

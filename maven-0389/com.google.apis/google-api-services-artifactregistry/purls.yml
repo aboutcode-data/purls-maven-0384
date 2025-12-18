@@ -1,0 +1,10 @@
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200508-1.30.9
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200508-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200605-1.30.9
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200605-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200612-1.30.9
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200612-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200701-1.30.10
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200701-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200701-1.30.9
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200701-1.30.9?classifier=sources

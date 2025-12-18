@@ -1,0 +1,2 @@
+- pkg:maven/com.findinpath/kafka-connect-nested-set-jdbc-sink@1.0.0
+- pkg:maven/com.findinpath/kafka-connect-nested-set-jdbc-sink@1.0.0?classifier=sources

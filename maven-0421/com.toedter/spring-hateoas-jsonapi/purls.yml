@@ -1,0 +1,2 @@
+- pkg:maven/com.toedter/spring-hateoas-jsonapi@0.5.0?classifier=sources
+- pkg:maven/com.toedter/spring-hateoas-jsonapi@0.6.0?classifier=sources

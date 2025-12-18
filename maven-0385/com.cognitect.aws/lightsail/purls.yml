@@ -20,3 +20,11 @@
 - pkg:maven/com.cognitect.aws/lightsail@785.2.597.0?classifier=sources
 - pkg:maven/com.cognitect.aws/lightsail@793.2.628.0
 - pkg:maven/com.cognitect.aws/lightsail@793.2.628.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lightsail@798.2.672.0
+- pkg:maven/com.cognitect.aws/lightsail@798.2.672.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lightsail@801.2.690.0
+- pkg:maven/com.cognitect.aws/lightsail@801.2.690.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lightsail@801.2.694.0
+- pkg:maven/com.cognitect.aws/lightsail@801.2.694.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lightsail@803.2.719.0
+- pkg:maven/com.cognitect.aws/lightsail@803.2.719.0?classifier=sources

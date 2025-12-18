@@ -1,2 +1,4 @@
 - pkg:maven/eu.bolt/kalev@1.0.0
 - pkg:maven/eu.bolt/kalev@1.0.0?classifier=sources
+- pkg:maven/eu.bolt/kalev@1.0.1
+- pkg:maven/eu.bolt/kalev@1.0.1?classifier=sources

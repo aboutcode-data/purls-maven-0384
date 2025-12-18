@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE90?classifier=sources

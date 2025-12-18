@@ -1,0 +1,7 @@
+- pkg:maven/com.adamratzman/spotify-api-kotlin-js@3.1.03?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin-js@3.2.01?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin-js@3.2.02?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin-js@3.2.03?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin-js@3.2.04?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin-js@3.2.05?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin-js@3.2.0?classifier=sources

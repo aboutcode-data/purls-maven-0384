@@ -102,6 +102,7 @@
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@0.9.0-RC1
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@0.9.0-RC1?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@0.9.0?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre1
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre10
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre10?classifier=sources
@@ -185,6 +186,10 @@
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre40?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre41
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre41?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre42
+- pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre42?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre43
+- pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre43?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre4?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre5
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre5?classifier=sources
@@ -196,6 +201,7 @@
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-pre9?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-prelmfix
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0-prelmfix?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-reader-gtfs@1.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@feature_1850_01
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@feature_1850_01?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@feature_1850_02

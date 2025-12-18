@@ -110,3 +110,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@2.2?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@2.3?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@2.3?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@2.4?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-webapp@2.4?type=war

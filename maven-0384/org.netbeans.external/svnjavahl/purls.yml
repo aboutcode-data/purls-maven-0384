@@ -1,3 +1,6 @@
 - pkg:maven/org.netbeans.external/svnjavahl@RELEASE100
 - pkg:maven/org.netbeans.external/svnjavahl@RELEASE110
+- pkg:maven/org.netbeans.external/svnjavahl@RELEASE120
+- pkg:maven/org.netbeans.external/svnjavahl@RELEASE120-1
+- pkg:maven/org.netbeans.external/svnjavahl@RELEASE120-u1
 - pkg:maven/org.netbeans.external/svnjavahl@RELEASE90

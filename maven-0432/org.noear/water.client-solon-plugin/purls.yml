@@ -6,3 +6,11 @@
 - pkg:maven/org.noear/water.client-solon-plugin@2.0.1-b3?classifier=sources
 - pkg:maven/org.noear/water.client-solon-plugin@2.0.1-b4
 - pkg:maven/org.noear/water.client-solon-plugin@2.0.1-b4?classifier=sources
+- pkg:maven/org.noear/water.client-solon-plugin@2.0.1-b5
+- pkg:maven/org.noear/water.client-solon-plugin@2.0.1-b5?classifier=sources
+- pkg:maven/org.noear/water.client-solon-plugin@2.0.1-release
+- pkg:maven/org.noear/water.client-solon-plugin@2.0.1-release?classifier=sources
+- pkg:maven/org.noear/water.client-solon-plugin@2.0.2-release
+- pkg:maven/org.noear/water.client-solon-plugin@2.0.2-release?classifier=sources
+- pkg:maven/org.noear/water.client-solon-plugin@2.0.3
+- pkg:maven/org.noear/water.client-solon-plugin@2.0.3?classifier=sources

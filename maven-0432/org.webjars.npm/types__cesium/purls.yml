@@ -6,6 +6,12 @@
 - pkg:maven/org.webjars.npm/types__cesium@1.66.8?classifier=sources
 - pkg:maven/org.webjars.npm/types__cesium@1.67.0
 - pkg:maven/org.webjars.npm/types__cesium@1.67.0?classifier=sources
+- pkg:maven/org.webjars.npm/types__cesium@1.67.10
+- pkg:maven/org.webjars.npm/types__cesium@1.67.10?classifier=sources
+- pkg:maven/org.webjars.npm/types__cesium@1.67.11
+- pkg:maven/org.webjars.npm/types__cesium@1.67.11?classifier=sources
+- pkg:maven/org.webjars.npm/types__cesium@1.67.12
+- pkg:maven/org.webjars.npm/types__cesium@1.67.12?classifier=sources
 - pkg:maven/org.webjars.npm/types__cesium@1.67.2
 - pkg:maven/org.webjars.npm/types__cesium@1.67.2?classifier=sources
 - pkg:maven/org.webjars.npm/types__cesium@1.67.3
@@ -14,3 +20,9 @@
 - pkg:maven/org.webjars.npm/types__cesium@1.67.4?classifier=sources
 - pkg:maven/org.webjars.npm/types__cesium@1.67.5
 - pkg:maven/org.webjars.npm/types__cesium@1.67.5?classifier=sources
+- pkg:maven/org.webjars.npm/types__cesium@1.67.7
+- pkg:maven/org.webjars.npm/types__cesium@1.67.7?classifier=sources
+- pkg:maven/org.webjars.npm/types__cesium@1.67.8
+- pkg:maven/org.webjars.npm/types__cesium@1.67.8?classifier=sources
+- pkg:maven/org.webjars.npm/types__cesium@1.67.9
+- pkg:maven/org.webjars.npm/types__cesium@1.67.9?classifier=sources

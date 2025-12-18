@@ -1,0 +1,2 @@
+- pkg:maven/site.morn.boot/morn-messaging@1.2.1
+- pkg:maven/site.morn.boot/morn-messaging@1.2.1?classifier=sources

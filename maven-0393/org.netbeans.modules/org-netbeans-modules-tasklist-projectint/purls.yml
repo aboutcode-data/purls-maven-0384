@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE90?classifier=sources

@@ -1,0 +1,7 @@
+- pkg:maven/io.github.portlek/configs-parent@%271.0-SNAPSHOT%27
+- pkg:maven/io.github.portlek/configs-parent@%271.0-SNAPSHOT%27?classifier=sources
+- pkg:maven/io.github.portlek/configs-parent@1.0-test
+- pkg:maven/io.github.portlek/configs-parent@1.0-test?classifier=sources
+- pkg:maven/io.github.portlek/configs-parent@4.7.6
+- pkg:maven/io.github.portlek/configs-parent@4.7.6?classifier=sources
+- pkg:maven/io.github.portlek/configs-parent@4.8.2

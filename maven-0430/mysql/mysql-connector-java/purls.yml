@@ -116,6 +116,8 @@
 - pkg:maven/mysql/mysql-connector-java@8.0.19?classifier=sources
 - pkg:maven/mysql/mysql-connector-java@8.0.20
 - pkg:maven/mysql/mysql-connector-java@8.0.20?classifier=sources
+- pkg:maven/mysql/mysql-connector-java@8.0.21
+- pkg:maven/mysql/mysql-connector-java@8.0.21?classifier=sources
 - pkg:maven/mysql/mysql-connector-java@8.0.7-dmr
 - pkg:maven/mysql/mysql-connector-java@8.0.7-dmr?classifier=sources
 - pkg:maven/mysql/mysql-connector-java@8.0.8-dmr

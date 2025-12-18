@@ -81,3 +81,5 @@
 - pkg:maven/io.atomicbits/scraml-maven-plugin@0.8.3?classifier=sources
 - pkg:maven/io.atomicbits/scraml-maven-plugin@0.8.4
 - pkg:maven/io.atomicbits/scraml-maven-plugin@0.8.4?classifier=sources
+- pkg:maven/io.atomicbits/scraml-maven-plugin@0.9.0
+- pkg:maven/io.atomicbits/scraml-maven-plugin@0.9.0?classifier=sources

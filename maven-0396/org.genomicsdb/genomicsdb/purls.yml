@@ -42,5 +42,11 @@
 - pkg:maven/org.genomicsdb/genomicsdb@1.2.0?classifier=sources
 - pkg:maven/org.genomicsdb/genomicsdb@1.2.1
 - pkg:maven/org.genomicsdb/genomicsdb@1.2.1?classifier=sources
+- pkg:maven/org.genomicsdb/genomicsdb@1.2.3
 - pkg:maven/org.genomicsdb/genomicsdb@1.2.3-beta1
 - pkg:maven/org.genomicsdb/genomicsdb@1.2.3-beta1?classifier=sources
+- pkg:maven/org.genomicsdb/genomicsdb@1.2.3.1
+- pkg:maven/org.genomicsdb/genomicsdb@1.2.3.1?classifier=sources
+- pkg:maven/org.genomicsdb/genomicsdb@1.2.3?classifier=sources
+- pkg:maven/org.genomicsdb/genomicsdb@1.3.0
+- pkg:maven/org.genomicsdb/genomicsdb@1.3.0?classifier=sources

@@ -32,3 +32,10 @@
 - pkg:maven/io.prestosql/presto-memory@331?classifier=sources
 - pkg:maven/io.prestosql/presto-memory@332?classifier=sources
 - pkg:maven/io.prestosql/presto-memory@333?classifier=sources
+- pkg:maven/io.prestosql/presto-memory@334?classifier=sources
+- pkg:maven/io.prestosql/presto-memory@335?classifier=sources
+- pkg:maven/io.prestosql/presto-memory@336?classifier=sources
+- pkg:maven/io.prestosql/presto-memory@337?classifier=sources
+- pkg:maven/io.prestosql/presto-memory@338?classifier=sources
+- pkg:maven/io.prestosql/presto-memory@339?classifier=sources
+- pkg:maven/io.prestosql/presto-memory@340?classifier=sources

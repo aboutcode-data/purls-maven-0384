@@ -36,3 +36,7 @@
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder.vue@2020-05-12?classifier=sources
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder.vue@2020-05-15
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder.vue@2020-05-15?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.vue@2020-07-01
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.vue@2020-07-01?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.vue@2020-07-29
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.vue@2020-07-29?classifier=sources

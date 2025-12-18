@@ -1,0 +1,14 @@
+- pkg:maven/io.hackerbay.fyipe/log-java@1.0.0
+- pkg:maven/io.hackerbay.fyipe/log-java@1.0.0?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4032
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4032?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4040
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4040?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4291
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4291?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4422
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4422?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4423
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4423?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4427
+- pkg:maven/io.hackerbay.fyipe/log-java@3.0.4427?classifier=sources

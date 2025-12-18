@@ -4,3 +4,5 @@
 - pkg:maven/org.wildfly.arquillian/elytron-domain@2.1.0.Final
 - pkg:maven/org.wildfly.arquillian/elytron-domain@2.1.1.Final
 - pkg:maven/org.wildfly.arquillian/elytron-domain@2.2.0.Final
+- pkg:maven/org.wildfly.arquillian/elytron-domain@3.0.0.Beta1
+- pkg:maven/org.wildfly.arquillian/elytron-domain@3.0.0.Beta2

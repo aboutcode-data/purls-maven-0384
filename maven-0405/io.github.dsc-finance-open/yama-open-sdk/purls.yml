@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dsc-finance-open/yama-open-sdk@1.0.0
+- pkg:maven/io.github.dsc-finance-open/yama-open-sdk@1.0.0?classifier=sources

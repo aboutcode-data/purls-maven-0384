@@ -1,0 +1,2 @@
+- pkg:maven/com.metaversant/alfresco-mention-share@0.0.2
+- pkg:maven/com.metaversant/alfresco-mention-share@0.0.2?classifier=sources

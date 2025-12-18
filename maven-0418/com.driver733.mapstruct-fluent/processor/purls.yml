@@ -1,0 +1,2 @@
+- pkg:maven/com.driver733.mapstruct-fluent/processor@1.0.0?classifier=sources
+- pkg:maven/com.driver733.mapstruct-fluent/processor@1.0.1?classifier=sources

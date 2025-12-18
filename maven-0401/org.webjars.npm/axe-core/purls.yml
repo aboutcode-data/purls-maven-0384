@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/axe-core@2.1.7?classifier=sources
 - pkg:maven/org.webjars.npm/axe-core@3.2.2
 - pkg:maven/org.webjars.npm/axe-core@3.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/axe-core@3.5.5
+- pkg:maven/org.webjars.npm/axe-core@3.5.5?classifier=sources

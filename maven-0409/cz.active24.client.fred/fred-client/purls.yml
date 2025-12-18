@@ -1,0 +1,2 @@
+- pkg:maven/cz.active24.client.fred/fred-client@2.41
+- pkg:maven/cz.active24.client.fred/fred-client@2.41?classifier=sources

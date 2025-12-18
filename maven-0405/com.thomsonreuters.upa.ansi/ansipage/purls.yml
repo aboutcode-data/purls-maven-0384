@@ -20,3 +20,5 @@
 - pkg:maven/com.thomsonreuters.upa.ansi/ansipage@3.4.0.1?classifier=sources
 - pkg:maven/com.thomsonreuters.upa.ansi/ansipage@3.5.0.0
 - pkg:maven/com.thomsonreuters.upa.ansi/ansipage@3.5.0.0?classifier=sources
+- pkg:maven/com.thomsonreuters.upa.ansi/ansipage@3.5.0.1
+- pkg:maven/com.thomsonreuters.upa.ansi/ansipage@3.5.0.1?classifier=sources

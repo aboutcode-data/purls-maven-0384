@@ -94,6 +94,10 @@
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-api@15.4.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-api@15.4.3
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-api@15.4.3?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-api@15.4.8
+- pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-api@15.4.8?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-api@15.5.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-api@15.5.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-api@2.0.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-api@2.0.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-api@2.0.1
