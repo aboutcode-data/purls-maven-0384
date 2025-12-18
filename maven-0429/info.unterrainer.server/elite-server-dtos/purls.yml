@@ -1,0 +1,2 @@
+- pkg:maven/info.unterrainer.server/elite-server-dtos@0.0.24
+- pkg:maven/info.unterrainer.server/elite-server-dtos@0.0.24?classifier=sources

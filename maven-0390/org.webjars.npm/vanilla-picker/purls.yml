@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/vanilla-picker@2.10.1?classifier=sources
 - pkg:maven/org.webjars.npm/vanilla-picker@2.11.2
 - pkg:maven/org.webjars.npm/vanilla-picker@2.11.2?classifier=sources
+- pkg:maven/org.webjars.npm/vanilla-picker@2.12.1
+- pkg:maven/org.webjars.npm/vanilla-picker@2.12.1?classifier=sources

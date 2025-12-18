@@ -1,0 +1,2 @@
+- pkg:maven/com.echsylon.atlantis/atlantis@4.0.0?classifier=sources
+- pkg:maven/com.echsylon.atlantis/atlantis@4.1.0?classifier=sources

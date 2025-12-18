@@ -1,2 +1,4 @@
 - pkg:maven/com.sandinh/devops-notify_2.13@5.0.0
 - pkg:maven/com.sandinh/devops-notify_2.13@5.0.0?classifier=sources
+- pkg:maven/com.sandinh/devops-notify_2.13@6.5.0
+- pkg:maven/com.sandinh/devops-notify_2.13@6.5.0?classifier=sources

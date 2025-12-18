@@ -10,3 +10,5 @@
 - pkg:maven/ca.eandb.jmist/jmist-core@0.1.6?classifier=sources
 - pkg:maven/ca.eandb.jmist/jmist-core@0.1.7
 - pkg:maven/ca.eandb.jmist/jmist-core@0.1.7?classifier=sources
+- pkg:maven/ca.eandb.jmist/jmist-core@0.1.8
+- pkg:maven/ca.eandb.jmist/jmist-core@0.1.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.haumacher/tm-extractors@1.2
+- pkg:maven/de.haumacher/tm-extractors@1.2?classifier=sources

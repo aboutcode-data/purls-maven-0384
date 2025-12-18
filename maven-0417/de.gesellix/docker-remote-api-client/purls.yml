@@ -1,1 +1,14 @@
 - pkg:maven/de.gesellix/docker-remote-api-client@2021-10-10T01-00-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-10-31T21-35-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-11-07T11-44-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-11-08T18-05-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-11-12T21-40-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-11-13T11-21-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-11-13T20-18-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-11-13T22-44-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-11-15T22-28-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-11-20T22-01-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-11-21T22-08-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-11-27T19-55-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-11-28T00-10-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-12-01T23-14-00?classifier=sources

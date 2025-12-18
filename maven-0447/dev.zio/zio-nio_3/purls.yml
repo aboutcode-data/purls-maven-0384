@@ -1,2 +1,4 @@
 - pkg:maven/dev.zio/zio-nio_3@1.0.0-RC11
 - pkg:maven/dev.zio/zio-nio_3@1.0.0-RC11?classifier=sources
+- pkg:maven/dev.zio/zio-nio_3@1.0.0-RC12
+- pkg:maven/dev.zio/zio-nio_3@1.0.0-RC12?classifier=sources

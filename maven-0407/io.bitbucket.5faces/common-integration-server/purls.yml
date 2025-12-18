@@ -1,0 +1,2 @@
+- pkg:maven/io.bitbucket.5faces/common-integration-server@0.0.1
+- pkg:maven/io.bitbucket.5faces/common-integration-server@0.0.1?classifier=sources

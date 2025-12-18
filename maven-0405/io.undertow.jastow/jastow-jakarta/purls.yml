@@ -1,0 +1,2 @@
+- pkg:maven/io.undertow.jastow/jastow-jakarta@2.0.10.Final
+- pkg:maven/io.undertow.jastow/jastow-jakarta@2.0.10.Final?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.jboss.arquillian.graphene/graphene-parent@2.1.0.CR2?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.graphene/graphene-parent@2.1.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.graphene/graphene-parent@2.2.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.graphene/graphene-parent@2.5.4?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.graphene/graphene-parent@3.0.0-alpha.1?classifier=source-release&type=zip

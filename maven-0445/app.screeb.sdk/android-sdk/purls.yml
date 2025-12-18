@@ -10,3 +10,4 @@
 - pkg:maven/app.screeb.sdk/android-sdk@0.7?classifier=sources
 - pkg:maven/app.screeb.sdk/android-sdk@0.8?classifier=sources
 - pkg:maven/app.screeb.sdk/android-sdk@0.9?classifier=sources
+- pkg:maven/app.screeb.sdk/android-sdk@1.0?classifier=sources

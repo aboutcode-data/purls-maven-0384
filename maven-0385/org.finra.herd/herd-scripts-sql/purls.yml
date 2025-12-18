@@ -40,6 +40,8 @@
 - pkg:maven/org.finra.herd/herd-scripts-sql@0.156.0
 - pkg:maven/org.finra.herd/herd-scripts-sql@0.157.0
 - pkg:maven/org.finra.herd/herd-scripts-sql@0.158.0
+- pkg:maven/org.finra.herd/herd-scripts-sql@0.159.0
+- pkg:maven/org.finra.herd/herd-scripts-sql@0.160.0
 - pkg:maven/org.finra.herd/herd-scripts-sql@0.20.0
 - pkg:maven/org.finra.herd/herd-scripts-sql@0.21.0
 - pkg:maven/org.finra.herd/herd-scripts-sql@0.22.0

@@ -1,0 +1,2 @@
+- pkg:maven/io.growing.data.protocol/gio-data-protobuf@1.0.2
+- pkg:maven/io.growing.data.protocol/gio-data-protobuf@1.0.2?classifier=sources

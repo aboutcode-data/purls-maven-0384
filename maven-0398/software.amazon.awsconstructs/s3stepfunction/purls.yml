@@ -58,6 +58,12 @@
 - pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.125.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.126.0
 - pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.126.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.127.0
+- pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.127.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.128.0
+- pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.128.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.129.0
+- pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.129.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.46.0
 - pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.46.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/s3stepfunction@1.47.0

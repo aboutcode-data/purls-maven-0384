@@ -12,3 +12,5 @@
 - pkg:maven/com.github.podio-community/podio-api-client@1.0.3?classifier=sources
 - pkg:maven/com.github.podio-community/podio-api-client@1.0.4
 - pkg:maven/com.github.podio-community/podio-api-client@1.0.4?classifier=sources
+- pkg:maven/com.github.podio-community/podio-api-client@1.1.0
+- pkg:maven/com.github.podio-community/podio-api-client@1.1.0?classifier=sources

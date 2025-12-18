@@ -5,3 +5,4 @@
 - pkg:maven/ro.dragossusi/logger-jvm@1.0.6?classifier=sources
 - pkg:maven/ro.dragossusi/logger-jvm@1.0.8?classifier=sources
 - pkg:maven/ro.dragossusi/logger-jvm@1.0.9?classifier=sources
+- pkg:maven/ro.dragossusi/logger-jvm@1.1.0?classifier=sources

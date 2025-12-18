@@ -83,3 +83,4 @@
 - pkg:maven/org.junit.platform/junit-platform-console-standalone@1.8.0-RC1?classifier=sources
 - pkg:maven/org.junit.platform/junit-platform-console-standalone@1.8.0?classifier=sources
 - pkg:maven/org.junit.platform/junit-platform-console-standalone@1.8.1?classifier=sources
+- pkg:maven/org.junit.platform/junit-platform-console-standalone@1.8.2?classifier=sources

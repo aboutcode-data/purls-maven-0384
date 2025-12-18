@@ -1,0 +1,5 @@
+- pkg:maven/org.tiqr/data@%270.0.10?classifier=sources
+- pkg:maven/org.tiqr/data@0.0.6?classifier=sources
+- pkg:maven/org.tiqr/data@0.0.7?classifier=sources
+- pkg:maven/org.tiqr/data@0.0.9?classifier=sources
+- pkg:maven/org.tiqr/data@1.0.0?classifier=sources

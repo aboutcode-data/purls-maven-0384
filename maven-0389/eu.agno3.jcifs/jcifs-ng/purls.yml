@@ -38,3 +38,5 @@
 - pkg:maven/eu.agno3.jcifs/jcifs-ng@2.1.5?classifier=sources
 - pkg:maven/eu.agno3.jcifs/jcifs-ng@2.1.6
 - pkg:maven/eu.agno3.jcifs/jcifs-ng@2.1.6?classifier=sources
+- pkg:maven/eu.agno3.jcifs/jcifs-ng@2.1.7
+- pkg:maven/eu.agno3.jcifs/jcifs-ng@2.1.7?classifier=sources

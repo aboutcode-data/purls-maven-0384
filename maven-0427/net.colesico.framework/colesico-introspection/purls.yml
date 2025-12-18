@@ -12,3 +12,7 @@
 - pkg:maven/net.colesico.framework/colesico-introspection@4.6.0?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-introspection@5.0.0
 - pkg:maven/net.colesico.framework/colesico-introspection@5.0.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-introspection@5.1.0
+- pkg:maven/net.colesico.framework/colesico-introspection@5.1.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-introspection@5.1.1
+- pkg:maven/net.colesico.framework/colesico-introspection@5.1.1?classifier=sources

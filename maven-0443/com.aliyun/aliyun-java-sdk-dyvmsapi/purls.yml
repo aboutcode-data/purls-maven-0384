@@ -30,3 +30,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-dyvmsapi@3.1.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dyvmsapi@3.1.1
 - pkg:maven/com.aliyun/aliyun-java-sdk-dyvmsapi@3.1.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dyvmsapi@3.2.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-dyvmsapi@3.2.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.lightningkite.rx/android-bindings@0.0.1?classifier=sources
+- pkg:maven/com.lightningkite.rx/android-bindings@0.0.2?classifier=sources
+- pkg:maven/com.lightningkite.rx/android-bindings@0.0.3?classifier=sources
+- pkg:maven/com.lightningkite.rx/android-bindings@0.0.4?classifier=sources
+- pkg:maven/com.lightningkite.rx/android-bindings@0.7.0?classifier=sources
+- pkg:maven/com.lightningkite.rx/android-bindings@0.7.1?classifier=sources

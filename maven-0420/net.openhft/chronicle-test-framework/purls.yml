@@ -1,0 +1,6 @@
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea1
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea1?classifier=sources
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea2
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea2?classifier=sources
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea3
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea3?classifier=sources

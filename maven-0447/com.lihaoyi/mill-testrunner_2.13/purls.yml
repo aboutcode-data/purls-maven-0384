@@ -1,0 +1,14 @@
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-33-053007
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-33-053007?classifier=sources
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-35-83f9de
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-35-83f9de?classifier=sources
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-39-e4cfd1
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-39-e4cfd1?classifier=sources
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-40-7be8b0
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-40-7be8b0?classifier=sources
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-41-89d50a
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-41-89d50a?classifier=sources
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-42-46b660
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-42-46b660?classifier=sources
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-43-3eab3c
+- pkg:maven/com.lihaoyi/mill-testrunner_2.13@0.10.0-M4-43-3eab3c?classifier=sources

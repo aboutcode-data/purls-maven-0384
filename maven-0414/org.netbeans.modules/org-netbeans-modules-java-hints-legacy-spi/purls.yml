@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-legacy-spi@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-legacy-spi@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-legacy-spi@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-legacy-spi@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-hints-legacy-spi@RELEASE90?classifier=sources

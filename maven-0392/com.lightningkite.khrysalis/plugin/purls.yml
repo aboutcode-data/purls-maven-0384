@@ -1,0 +1,2 @@
+- pkg:maven/com.lightningkite.khrysalis/plugin@0.7.0?classifier=sources
+- pkg:maven/com.lightningkite.khrysalis/plugin@0.7.1?classifier=sources

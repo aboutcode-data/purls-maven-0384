@@ -208,3 +208,6 @@
 - pkg:maven/com.liferay/com.liferay.ant.bnd@3.2.7
 - pkg:maven/com.liferay/com.liferay.ant.bnd@3.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ant.bnd@3.2.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ant.bnd@3.2.8
+- pkg:maven/com.liferay/com.liferay.ant.bnd@3.2.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ant.bnd@3.2.8?classifier=sources-commercial

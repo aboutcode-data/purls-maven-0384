@@ -1,0 +1,2 @@
+- pkg:maven/io.streamnative.pulsar/pulsar-broker-auth-oauth2@2.8.0.17-rc-5
+- pkg:maven/io.streamnative.pulsar/pulsar-broker-auth-oauth2@2.8.0.17-rc-5?classifier=sources

@@ -60,5 +60,8 @@
 - pkg:maven/com.javiersc.gradle-plugins/publish-android-library@0.1.0-alpha.69?classifier=sources
 - pkg:maven/com.javiersc.gradle-plugins/publish-android-library@0.1.0-alpha.70?classifier=sources
 - pkg:maven/com.javiersc.gradle-plugins/publish-android-library@0.1.0-alpha.71?classifier=sources
+- pkg:maven/com.javiersc.gradle-plugins/publish-android-library@0.1.0-alpha.72?classifier=sources
 - pkg:maven/com.javiersc.gradle-plugins/publish-android-library@0.1.0-alpha.8?classifier=sources
 - pkg:maven/com.javiersc.gradle-plugins/publish-android-library@0.1.0-alpha.9?classifier=sources
+- pkg:maven/com.javiersc.gradle-plugins/publish-android-library@0.1.0-beta.1?classifier=sources
+- pkg:maven/com.javiersc.gradle-plugins/publish-android-library@0.1.0-beta.2?classifier=sources

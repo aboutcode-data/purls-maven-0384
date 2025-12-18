@@ -1,0 +1,2 @@
+- pkg:maven/io.iamcyw.tower/common@1.0.0?classifier=sources
+- pkg:maven/io.iamcyw.tower/common@1.1.1?classifier=sources

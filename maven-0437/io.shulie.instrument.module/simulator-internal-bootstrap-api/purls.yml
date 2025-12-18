@@ -1,0 +1,4 @@
+- pkg:maven/io.shulie.instrument.module/simulator-internal-bootstrap-api@1.0.0
+- pkg:maven/io.shulie.instrument.module/simulator-internal-bootstrap-api@1.0.0?classifier=sources
+- pkg:maven/io.shulie.instrument.module/simulator-internal-bootstrap-api@1.0.3
+- pkg:maven/io.shulie.instrument.module/simulator-internal-bootstrap-api@1.0.3?classifier=sources

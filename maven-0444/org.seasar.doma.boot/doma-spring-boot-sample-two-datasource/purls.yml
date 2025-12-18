@@ -1,0 +1,2 @@
+- pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-two-datasource@1.6.0
+- pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-two-datasource@1.6.0?classifier=sources

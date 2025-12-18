@@ -6,5 +6,9 @@
 - pkg:maven/com.github.kagkarlsson/features@10.2?classifier=sources
 - pkg:maven/com.github.kagkarlsson/features@10.3
 - pkg:maven/com.github.kagkarlsson/features@10.3?classifier=sources
+- pkg:maven/com.github.kagkarlsson/features@10.4
+- pkg:maven/com.github.kagkarlsson/features@10.4?classifier=sources
+- pkg:maven/com.github.kagkarlsson/features@10.5
+- pkg:maven/com.github.kagkarlsson/features@10.5?classifier=sources
 - pkg:maven/com.github.kagkarlsson/features@9.4
 - pkg:maven/com.github.kagkarlsson/features@9.4?classifier=sources

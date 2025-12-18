@@ -5,4 +5,8 @@
 - pkg:maven/ai.wordbox/networkextension@1.0.4?classifier=sources
 - pkg:maven/ai.wordbox/networkextension@1.0.5?classifier=sources
 - pkg:maven/ai.wordbox/networkextension@1.0.6?classifier=sources
+- pkg:maven/ai.wordbox/networkextension@1.0.7-RC1?classifier=sources
+- pkg:maven/ai.wordbox/networkextension@1.0.7-RC2?classifier=sources
+- pkg:maven/ai.wordbox/networkextension@1.0.7-RC3?classifier=sources
 - pkg:maven/ai.wordbox/networkextension@1.0.7?classifier=sources
+- pkg:maven/ai.wordbox/networkextension@1.0.8-RC1?classifier=sources

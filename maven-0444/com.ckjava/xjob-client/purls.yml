@@ -1,2 +1,4 @@
 - pkg:maven/com.ckjava/xjob-client@1.0.0
 - pkg:maven/com.ckjava/xjob-client@1.0.0?classifier=sources
+- pkg:maven/com.ckjava/xjob-client@1.0.20
+- pkg:maven/com.ckjava/xjob-client@1.0.20?classifier=sources

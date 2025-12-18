@@ -1,1 +1,5 @@
+- pkg:maven/eu.timerertim.knevo/knevo@0.1.0-BETA?classifier=sources
+- pkg:maven/eu.timerertim.knevo/knevo@0.1.0-RC1?classifier=sources
+- pkg:maven/eu.timerertim.knevo/knevo@0.1.0-RC2?classifier=sources
 - pkg:maven/eu.timerertim.knevo/knevo@0.1.0-alpha?classifier=sources
+- pkg:maven/eu.timerertim.knevo/knevo@0.2.0-RC?classifier=sources

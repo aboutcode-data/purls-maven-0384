@@ -1,1 +1,3 @@
 - pkg:maven/com.appswithlove.updraft/updraft-sdk@1.0.7?classifier=sources
+- pkg:maven/com.appswithlove.updraft/updraft-sdk@1.0.8?classifier=sources
+- pkg:maven/com.appswithlove.updraft/updraft-sdk@1.0.9?classifier=sources

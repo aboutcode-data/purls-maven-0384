@@ -22,6 +22,8 @@
 - pkg:maven/ws.unfiltered/unfiltered-agents_2.13@0.10.2?classifier=sources
 - pkg:maven/ws.unfiltered/unfiltered-agents_2.13@0.10.3
 - pkg:maven/ws.unfiltered/unfiltered-agents_2.13@0.10.3?classifier=sources
+- pkg:maven/ws.unfiltered/unfiltered-agents_2.13@0.10.4
+- pkg:maven/ws.unfiltered/unfiltered-agents_2.13@0.10.4?classifier=sources
 - pkg:maven/ws.unfiltered/unfiltered-agents_2.13@0.11.0-M1
 - pkg:maven/ws.unfiltered/unfiltered-agents_2.13@0.11.0-M1?classifier=sources
 - pkg:maven/ws.unfiltered/unfiltered-agents_2.13@0.11.0-M2

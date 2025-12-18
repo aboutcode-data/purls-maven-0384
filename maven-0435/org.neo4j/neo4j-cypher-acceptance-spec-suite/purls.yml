@@ -187,6 +187,8 @@
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.5.29?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.5.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.5.3
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.5.30
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.5.30?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.5.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.5.4
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@3.5.4?classifier=sources
@@ -233,6 +235,8 @@
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.1.1
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.1.10
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.1.10?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.1.11
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.1.11?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.1.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.1.2
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.1.2?classifier=sources
@@ -288,3 +292,7 @@
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.3.5?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.3.6
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.3.6?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.3.7
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.3.7?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.4.0
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance-spec-suite@4.4.0?classifier=sources

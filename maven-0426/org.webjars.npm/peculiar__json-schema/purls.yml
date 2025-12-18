@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/peculiar__json-schema@1.1.12
+- pkg:maven/org.webjars.npm/peculiar__json-schema@1.1.12?classifier=sources

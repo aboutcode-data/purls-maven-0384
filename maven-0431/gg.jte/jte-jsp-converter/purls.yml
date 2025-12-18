@@ -8,3 +8,5 @@
 - pkg:maven/gg.jte/jte-jsp-converter@1.11.4?classifier=sources
 - pkg:maven/gg.jte/jte-jsp-converter@1.12.0
 - pkg:maven/gg.jte/jte-jsp-converter@1.12.0?classifier=sources
+- pkg:maven/gg.jte/jte-jsp-converter@1.12.1
+- pkg:maven/gg.jte/jte-jsp-converter@1.12.1?classifier=sources

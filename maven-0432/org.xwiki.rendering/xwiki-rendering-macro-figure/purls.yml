@@ -235,6 +235,10 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.1-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.10
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.10-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.10-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.10?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.2
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.2-rc-1
@@ -255,6 +259,8 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.4.3?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.4.4
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.4.4?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.4.5
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.4.5?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.4?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.5
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@13.5-rc-1

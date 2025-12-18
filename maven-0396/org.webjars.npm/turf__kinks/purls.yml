@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars.npm/turf__kinks@5.1.5?classifier=sources
 - pkg:maven/org.webjars.npm/turf__kinks@6.2.0-alpha.2
 - pkg:maven/org.webjars.npm/turf__kinks@6.2.0-alpha.2?classifier=sources
+- pkg:maven/org.webjars.npm/turf__kinks@6.3.0
+- pkg:maven/org.webjars.npm/turf__kinks@6.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/turf__kinks@6.5.0
 - pkg:maven/org.webjars.npm/turf__kinks@6.5.0?classifier=sources

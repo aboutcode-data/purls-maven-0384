@@ -3,6 +3,11 @@
 - pkg:maven/org.faktorips/faktorips-maven-archetype@21.12.0-rc02?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@21.12.0-rc03?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@21.12.0-rc04?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@21.12.0-rc05?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@21.12.0-rc06?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@21.12.0-rc07?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@21.12.0-rc08?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@21.12.0?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@21.6.0-m03?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@21.6.0-m04?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@21.6.0-rc01?classifier=sources
@@ -17,3 +22,4 @@
 - pkg:maven/org.faktorips/faktorips-maven-archetype@21.6.2?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@21.6.3?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@21.6.4?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@21.6.5?classifier=sources

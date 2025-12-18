@@ -7,3 +7,6 @@
 - pkg:maven/org.danilopianini/Template-for-Gradle-Plugins@0.1.0-archeo%2Bbd8c6a6?classifier=sources
 - pkg:maven/org.danilopianini/Template-for-Gradle-Plugins@0.1.0-archeo%2Bd59e960?classifier=sources
 - pkg:maven/org.danilopianini/Template-for-Gradle-Plugins@0.1.0-archeo%2Bf616846?classifier=sources
+- pkg:maven/org.danilopianini/Template-for-Gradle-Plugins@1.0.0?classifier=sources
+- pkg:maven/org.danilopianini/Template-for-Gradle-Plugins@1.0.2?classifier=sources
+- pkg:maven/org.danilopianini/Template-for-Gradle-Plugins@1.0.3?classifier=sources

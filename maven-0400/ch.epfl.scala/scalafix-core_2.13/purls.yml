@@ -30,3 +30,7 @@
 - pkg:maven/ch.epfl.scala/scalafix-core_2.13@0.9.30?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-core_2.13@0.9.31
 - pkg:maven/ch.epfl.scala/scalafix-core_2.13@0.9.31?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-core_2.13@0.9.32
+- pkg:maven/ch.epfl.scala/scalafix-core_2.13@0.9.32?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-core_2.13@0.9.33
+- pkg:maven/ch.epfl.scala/scalafix-core_2.13@0.9.33?classifier=sources

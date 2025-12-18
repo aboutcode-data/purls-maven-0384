@@ -1,0 +1,2 @@
+- pkg:maven/io.github.xlffm3/query-counter@1.0.0?classifier=sources
+- pkg:maven/io.github.xlffm3/query-counter@1.0.1?classifier=sources

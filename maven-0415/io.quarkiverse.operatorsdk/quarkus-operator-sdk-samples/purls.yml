@@ -14,6 +14,13 @@
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@1.9.3?classifier=sources
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@1.9.4
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@1.9.4?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@1.9.5
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@1.9.5?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@1.9.6
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@1.9.6?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@1.9.7
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@1.9.7?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.0
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.0.Beta1
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.0.Beta1?classifier=sources
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.0.Beta2
@@ -28,3 +35,8 @@
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.0.CR1?classifier=sources
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.0.CR2
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.1
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.1?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.2
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-samples@2.0.2?classifier=sources

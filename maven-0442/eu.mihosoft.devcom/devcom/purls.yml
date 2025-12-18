@@ -14,3 +14,4 @@
 - pkg:maven/eu.mihosoft.devcom/devcom@0.1.9?classifier=sources
 - pkg:maven/eu.mihosoft.devcom/devcom@0.2.1
 - pkg:maven/eu.mihosoft.devcom/devcom@0.2.1?classifier=sources
+- pkg:maven/eu.mihosoft.devcom/devcom@0.3.5?classifier=sources

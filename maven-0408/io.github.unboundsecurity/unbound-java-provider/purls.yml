@@ -1,2 +1,4 @@
 - pkg:maven/io.github.unboundsecurity/unbound-java-provider@2.0.2103.39708.RELEASE
 - pkg:maven/io.github.unboundsecurity/unbound-java-provider@2.0.2103.39708.RELEASE?classifier=sources
+- pkg:maven/io.github.unboundsecurity/unbound-java-provider@2.0.2106.42245.RELEASE
+- pkg:maven/io.github.unboundsecurity/unbound-java-provider@2.0.2106.42245.RELEASE?classifier=sources

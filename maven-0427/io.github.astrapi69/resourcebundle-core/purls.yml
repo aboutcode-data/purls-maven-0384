@@ -1,0 +1,3 @@
+- pkg:maven/io.github.astrapi69/resourcebundle-core@4.1
+- pkg:maven/io.github.astrapi69/resourcebundle-core@4.1?classifier=sources
+- pkg:maven/io.github.astrapi69/resourcebundle-core@4.2?classifier=sources

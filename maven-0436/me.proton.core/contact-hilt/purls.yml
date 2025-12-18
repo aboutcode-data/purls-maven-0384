@@ -1,4 +1,10 @@
+- pkg:maven/me.proton.core/contact-hilt@0.0.1-alpha01?classifier=sources
 - pkg:maven/me.proton.core/contact-hilt@1.16-build-10104?classifier=sources
 - pkg:maven/me.proton.core/contact-hilt@1.16-build-10105?classifier=sources
 - pkg:maven/me.proton.core/contact-hilt@1.16-build-10106?classifier=sources
 - pkg:maven/me.proton.core/contact-hilt@1.18?classifier=sources
+- pkg:maven/me.proton.core/contact-hilt@1.19.1?classifier=sources
+- pkg:maven/me.proton.core/contact-hilt@1.19.3?classifier=sources
+- pkg:maven/me.proton.core/contact-hilt@2.0.0-alpha01?classifier=sources
+- pkg:maven/me.proton.core/contact-hilt@2.0.0?classifier=sources
+- pkg:maven/me.proton.core/contact-hilt@3.0.0?classifier=sources

@@ -47,3 +47,5 @@
 - pkg:maven/org.jbpm.contrib/docker-workitem@7.58.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/docker-workitem@7.59.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/docker-workitem@7.60.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/docker-workitem@7.61.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/docker-workitem@7.62.0.Final?classifier=sources

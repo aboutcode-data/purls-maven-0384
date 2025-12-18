@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/jscad__core@2.3.8
 - pkg:maven/org.webjars.npm/jscad__core@2.3.8?classifier=sources
+- pkg:maven/org.webjars.npm/jscad__core@2.4.0
+- pkg:maven/org.webjars.npm/jscad__core@2.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/jscad__core@2.5.0
+- pkg:maven/org.webjars.npm/jscad__core@2.5.0?classifier=sources

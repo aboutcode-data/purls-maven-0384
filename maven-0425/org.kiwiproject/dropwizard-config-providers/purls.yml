@@ -40,3 +40,5 @@
 - pkg:maven/org.kiwiproject/dropwizard-config-providers@1.0.0?classifier=sources
 - pkg:maven/org.kiwiproject/dropwizard-config-providers@1.1.0
 - pkg:maven/org.kiwiproject/dropwizard-config-providers@1.1.0?classifier=sources
+- pkg:maven/org.kiwiproject/dropwizard-config-providers@1.1.1
+- pkg:maven/org.kiwiproject/dropwizard-config-providers@1.1.1?classifier=sources

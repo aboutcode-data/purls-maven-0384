@@ -66,6 +66,16 @@
 - pkg:maven/software.amazon.awscdk/lambda-destinations@1.129.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lambda-destinations@1.130.0
 - pkg:maven/software.amazon.awscdk/lambda-destinations@1.130.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-destinations@1.131.0
+- pkg:maven/software.amazon.awscdk/lambda-destinations@1.131.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-destinations@1.132.0
+- pkg:maven/software.amazon.awscdk/lambda-destinations@1.132.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-destinations@1.133.0
+- pkg:maven/software.amazon.awscdk/lambda-destinations@1.133.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-destinations@1.134.0
+- pkg:maven/software.amazon.awscdk/lambda-destinations@1.134.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-destinations@1.135.0
+- pkg:maven/software.amazon.awscdk/lambda-destinations@1.135.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lambda-destinations@1.20.0
 - pkg:maven/software.amazon.awscdk/lambda-destinations@1.20.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lambda-destinations@1.21.0

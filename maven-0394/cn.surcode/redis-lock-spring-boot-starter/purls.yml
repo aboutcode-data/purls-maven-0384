@@ -1,0 +1,2 @@
+- pkg:maven/cn.surcode/redis-lock-spring-boot-starter@v1.0.0
+- pkg:maven/cn.surcode/redis-lock-spring-boot-starter@v1.0.0?classifier=sources

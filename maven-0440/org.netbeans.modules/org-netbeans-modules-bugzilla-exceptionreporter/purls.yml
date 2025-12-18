@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla-exceptionreporter@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla-exceptionreporter@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla-exceptionreporter@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla-exceptionreporter@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla-exceptionreporter@RELEASE90?classifier=sources

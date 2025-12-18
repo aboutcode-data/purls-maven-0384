@@ -1,0 +1,2 @@
+- pkg:maven/com.jdcloud.jmsf/meshware-trace-skywalking@1.0.0
+- pkg:maven/com.jdcloud.jmsf/meshware-trace-skywalking@1.0.0?classifier=sources

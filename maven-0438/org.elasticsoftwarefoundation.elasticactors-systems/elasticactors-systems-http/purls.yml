@@ -2,3 +2,13 @@
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@3.0.0?classifier=sources
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@3.2.0
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@3.2.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@4.0.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@4.0.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@4.1.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@4.1.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@5.0.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@5.0.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@5.1.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@5.1.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@6.1.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-systems-http@6.1.0?classifier=sources

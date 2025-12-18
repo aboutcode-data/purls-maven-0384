@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/web3-shh@1.2.4?classifier=sources
 - pkg:maven/org.webjars.npm/web3-shh@1.5.2
 - pkg:maven/org.webjars.npm/web3-shh@1.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/web3-shh@1.6.0
+- pkg:maven/org.webjars.npm/web3-shh@1.6.0?classifier=sources

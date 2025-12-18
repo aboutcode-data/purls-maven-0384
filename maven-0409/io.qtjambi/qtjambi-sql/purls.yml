@@ -1,0 +1,2 @@
+- pkg:maven/io.qtjambi/qtjambi-sql@5.15?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-sql@6.2?classifier=sources

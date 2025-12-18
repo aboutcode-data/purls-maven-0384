@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-macosx@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-macosx@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-macosx@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-macosx@RELEASE126?classifier=sources

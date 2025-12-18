@@ -1,3 +1,8 @@
 - pkg:maven/io.github.qq877693928/fast-runtime@1.4.0?type=aar
 - pkg:maven/io.github.qq877693928/fast-runtime@2.0.0?type=aar
 - pkg:maven/io.github.qq877693928/fast-runtime@2.1.0?type=aar
+- pkg:maven/io.github.qq877693928/fast-runtime@2.2.0?type=aar
+- pkg:maven/io.github.qq877693928/fast-runtime@2.2.1?type=aar
+- pkg:maven/io.github.qq877693928/fast-runtime@2.2.2?type=aar
+- pkg:maven/io.github.qq877693928/fast-runtime@2.2.3?type=aar
+- pkg:maven/io.github.qq877693928/fast-runtime@2.3.0?type=aar

@@ -58,3 +58,4 @@
 - pkg:maven/com.maxxton/microdocs-crawler-gradle@2.0.3?classifier=sources
 - pkg:maven/com.maxxton/microdocs-crawler-gradle@2.0.4
 - pkg:maven/com.maxxton/microdocs-crawler-gradle@2.0.4?classifier=sources
+- pkg:maven/com.maxxton/microdocs-crawler-gradle@3.0.0?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/com.moengage/core@5.2.03?classifier=sources
 - pkg:maven/com.moengage/core@5.3.00?classifier=sources
 - pkg:maven/com.moengage/core@5.3.01?classifier=sources
+- pkg:maven/com.moengage/core@5.3.2?classifier=sources

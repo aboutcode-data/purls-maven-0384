@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nafg.scalac-options/scalac-options_2.13@0.1.8
+- pkg:maven/io.github.nafg.scalac-options/scalac-options_2.13@0.1.8?classifier=sources
