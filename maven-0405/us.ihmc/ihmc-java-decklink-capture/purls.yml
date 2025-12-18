@@ -1,1 +1,2 @@
 - pkg:maven/us.ihmc/ihmc-java-decklink-capture@0.3.4?classifier=sources
+- pkg:maven/us.ihmc/ihmc-java-decklink-capture@0.4.0?classifier=sources

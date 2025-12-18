@@ -1,3 +1,4 @@
 - pkg:maven/org.opennms.nephron/flink-runner@0.1.1
 - pkg:maven/org.opennms.nephron/flink-runner@0.2.0
 - pkg:maven/org.opennms.nephron/flink-runner@0.2.1
+- pkg:maven/org.opennms.nephron/flink-runner@0.3.0

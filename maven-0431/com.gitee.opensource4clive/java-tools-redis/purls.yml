@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.opensource4clive/java-tools-redis@4.0.3
+- pkg:maven/com.gitee.opensource4clive/java-tools-redis@4.0.3?classifier=sources

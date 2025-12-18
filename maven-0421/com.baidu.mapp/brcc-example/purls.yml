@@ -6,3 +6,5 @@
 - pkg:maven/com.baidu.mapp/brcc-example@1.0.5?classifier=sources
 - pkg:maven/com.baidu.mapp/brcc-example@1.1.0
 - pkg:maven/com.baidu.mapp/brcc-example@1.1.0?classifier=sources
+- pkg:maven/com.baidu.mapp/brcc-example@1.3.0
+- pkg:maven/com.baidu.mapp/brcc-example@1.3.0?classifier=sources

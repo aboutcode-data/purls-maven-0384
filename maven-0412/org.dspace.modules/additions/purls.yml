@@ -102,3 +102,5 @@
 - pkg:maven/org.dspace.modules/additions@7.0-preview-1
 - pkg:maven/org.dspace.modules/additions@7.0-preview-1?classifier=sources
 - pkg:maven/org.dspace.modules/additions@7.0?classifier=sources
+- pkg:maven/org.dspace.modules/additions@7.1
+- pkg:maven/org.dspace.modules/additions@7.1?classifier=sources

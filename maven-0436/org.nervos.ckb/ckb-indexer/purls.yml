@@ -1,3 +1,7 @@
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.100.0-beta.1
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.100.0-beta.1?classifier=sources
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.100.0-beta.2
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.100.0-beta.2?classifier=sources
 - pkg:maven/org.nervos.ckb/ckb-indexer@0.43.0
 - pkg:maven/org.nervos.ckb/ckb-indexer@0.43.0-snapshot
 - pkg:maven/org.nervos.ckb/ckb-indexer@0.43.0-snapshot?classifier=sources
@@ -6,3 +10,11 @@
 - pkg:maven/org.nervos.ckb/ckb-indexer@0.43.1?classifier=sources
 - pkg:maven/org.nervos.ckb/ckb-indexer@0.43.2
 - pkg:maven/org.nervos.ckb/ckb-indexer@0.43.2?classifier=sources
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.43.3-beta.1
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.43.3-beta.1?classifier=sources
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.43.3-beta.2
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.43.3-beta.2?classifier=sources
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.43.3-beta.3
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.43.3-beta.3?classifier=sources
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.43.3-beta.4
+- pkg:maven/org.nervos.ckb/ckb-indexer@0.43.3-beta.4?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/es.weso/document_3@0.0.30?classifier=sources
 - pkg:maven/es.weso/document_3@0.0.32
 - pkg:maven/es.weso/document_3@0.0.32?classifier=sources
+- pkg:maven/es.weso/document_3@0.0.33
+- pkg:maven/es.weso/document_3@0.0.33?classifier=sources

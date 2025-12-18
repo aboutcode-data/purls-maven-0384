@@ -184,3 +184,5 @@
 - pkg:maven/org.eclipse.rdf4j/rdf4j-http-workbench@3.7.1?type=war
 - pkg:maven/org.eclipse.rdf4j/rdf4j-http-workbench@3.7.2?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-http-workbench@3.7.2?type=war
+- pkg:maven/org.eclipse.rdf4j/rdf4j-http-workbench@3.7.3?classifier=sources
+- pkg:maven/org.eclipse.rdf4j/rdf4j-http-workbench@3.7.3?type=war

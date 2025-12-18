@@ -64,6 +64,7 @@
 - pkg:maven/io.qameta.allure/allure-junit5@2.13.9
 - pkg:maven/io.qameta.allure/allure-junit5@2.13.9?classifier=sources
 - pkg:maven/io.qameta.allure/allure-junit5@2.14.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-junit5@2.15.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-junit5@2.6.0
 - pkg:maven/io.qameta.allure/allure-junit5@2.6.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-junit5@2.7.0

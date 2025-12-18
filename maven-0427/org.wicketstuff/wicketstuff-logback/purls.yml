@@ -220,3 +220,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-logback@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-logback@9.4.0
 - pkg:maven/org.wicketstuff/wicketstuff-logback@9.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-logback@9.5.0
+- pkg:maven/org.wicketstuff/wicketstuff-logback@9.5.0?classifier=sources

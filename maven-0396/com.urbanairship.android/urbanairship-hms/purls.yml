@@ -29,3 +29,5 @@
 - pkg:maven/com.urbanairship.android/urbanairship-hms@14.5.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-hms@14.5.1?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-hms@14.6.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-hms@15.0.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-hms@15.1.0?classifier=sources

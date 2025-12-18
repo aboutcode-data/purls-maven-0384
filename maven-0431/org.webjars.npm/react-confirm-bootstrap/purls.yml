@@ -12,3 +12,4 @@
 - pkg:maven/org.webjars.npm/react-confirm-bootstrap@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-confirm-bootstrap@5.0.0
 - pkg:maven/org.webjars.npm/react-confirm-bootstrap@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-confirm-bootstrap@5.3.1

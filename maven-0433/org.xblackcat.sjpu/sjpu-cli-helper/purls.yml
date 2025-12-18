@@ -1,0 +1,2 @@
+- pkg:maven/org.xblackcat.sjpu/sjpu-cli-helper@0.1.1?classifier=sources
+- pkg:maven/org.xblackcat.sjpu/sjpu-cli-helper@0.1?classifier=sources

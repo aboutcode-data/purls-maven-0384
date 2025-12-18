@@ -23,3 +23,4 @@
 - pkg:maven/org.odpi.egeria/project-management-client@2.9
 - pkg:maven/org.odpi.egeria/project-management-client@3.0
 - pkg:maven/org.odpi.egeria/project-management-client@3.1
+- pkg:maven/org.odpi.egeria/project-management-client@3.2

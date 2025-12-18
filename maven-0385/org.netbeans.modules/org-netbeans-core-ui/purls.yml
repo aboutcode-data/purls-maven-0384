@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-ui@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-ui@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-ui@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-ui@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-ui@RELEASE90?classifier=sources

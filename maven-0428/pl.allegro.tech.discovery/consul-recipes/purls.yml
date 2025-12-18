@@ -6,3 +6,4 @@
 - pkg:maven/pl.allegro.tech.discovery/consul-recipes@0.8.2?classifier=sources
 - pkg:maven/pl.allegro.tech.discovery/consul-recipes@0.8.3
 - pkg:maven/pl.allegro.tech.discovery/consul-recipes@0.8.3?classifier=sources
+- pkg:maven/pl.allegro.tech.discovery/consul-recipes@0.8.4?classifier=sources

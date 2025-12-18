@@ -102,3 +102,5 @@
 - pkg:maven/org.noear/water.client-solon-plugin@2.2.7?classifier=sources
 - pkg:maven/org.noear/water.client-solon-plugin@2.2.8
 - pkg:maven/org.noear/water.client-solon-plugin@2.2.8?classifier=sources
+- pkg:maven/org.noear/water.client-solon-plugin@2.2.9
+- pkg:maven/org.noear/water.client-solon-plugin@2.2.9?classifier=sources

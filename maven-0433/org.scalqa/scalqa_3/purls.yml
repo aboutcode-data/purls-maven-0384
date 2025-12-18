@@ -16,5 +16,13 @@
 - pkg:maven/org.scalqa/scalqa_3@0.98
 - pkg:maven/org.scalqa/scalqa_3@0.98?classifier=sources
 - pkg:maven/org.scalqa/scalqa_3@0.99
+- pkg:maven/org.scalqa/scalqa_3@0.991
+- pkg:maven/org.scalqa/scalqa_3@0.991?classifier=sources
+- pkg:maven/org.scalqa/scalqa_3@0.992
+- pkg:maven/org.scalqa/scalqa_3@0.992?classifier=sources
+- pkg:maven/org.scalqa/scalqa_3@0.993
+- pkg:maven/org.scalqa/scalqa_3@0.993?classifier=sources
+- pkg:maven/org.scalqa/scalqa_3@0.994
+- pkg:maven/org.scalqa/scalqa_3@0.994?classifier=sources
 - pkg:maven/org.scalqa/scalqa_3@0.99?classifier=sources
 - pkg:maven/org.scalqa/scalqa_3@0.9?classifier=sources

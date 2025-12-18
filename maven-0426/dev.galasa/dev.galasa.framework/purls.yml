@@ -10,6 +10,8 @@
 - pkg:maven/dev.galasa/dev.galasa.framework@0.14.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework@0.15.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework@0.16.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.framework@0.17.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.framework@0.18.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework@0.3.0
 - pkg:maven/dev.galasa/dev.galasa.framework@0.3.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework@0.3.1

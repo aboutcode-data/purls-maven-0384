@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-amazon@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-amazon@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-amazon@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-amazon@RELEASE125?classifier=sources

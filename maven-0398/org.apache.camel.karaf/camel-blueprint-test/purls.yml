@@ -1,6 +1,9 @@
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.10.0
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.11.0
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.11.1
+- pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.11.2
+- pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.11.3
+- pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.12.0
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.2.0
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.3.0
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.4.0
@@ -18,5 +21,6 @@
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.7.3
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.7.4
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.7.5
+- pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.7.6
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.8.0
 - pkg:maven/org.apache.camel.karaf/camel-blueprint-test@3.9.0

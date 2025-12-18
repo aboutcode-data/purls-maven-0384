@@ -29,6 +29,7 @@
 - pkg:maven/org.flywaydb.enterprise/flyway-parent@7.13.0?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-parent@7.14.0?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-parent@7.14.1?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-parent@7.15.0?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-parent@7.2.0?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-parent@7.2.1?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-parent@7.3.0?classifier=sources
@@ -51,3 +52,9 @@
 - pkg:maven/org.flywaydb.enterprise/flyway-parent@7.9.0?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-parent@7.9.1?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-parent@7.9.2?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-parent@8.0.0-beta1?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-parent@8.0.0-beta2?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-parent@8.0.0-beta3?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-parent@8.0.0?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-parent@8.0.1?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-parent@8.0.2?classifier=sources

@@ -36,3 +36,7 @@
 - pkg:maven/com.instaclustr/commons@1.4.4?classifier=sources
 - pkg:maven/com.instaclustr/commons@1.4.5
 - pkg:maven/com.instaclustr/commons@1.4.5?classifier=sources
+- pkg:maven/com.instaclustr/commons@1.4.6
+- pkg:maven/com.instaclustr/commons@1.4.6?classifier=sources
+- pkg:maven/com.instaclustr/commons@1.4.7
+- pkg:maven/com.instaclustr/commons@1.4.7?classifier=sources

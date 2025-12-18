@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner-ui@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner-ui@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner-ui@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner-ui@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner-ui@RELEASE90?classifier=sources

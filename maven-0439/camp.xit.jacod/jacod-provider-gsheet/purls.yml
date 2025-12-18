@@ -1,0 +1,2 @@
+- pkg:maven/camp.xit.jacod/jacod-provider-gsheet@1.3.5
+- pkg:maven/camp.xit.jacod/jacod-provider-gsheet@1.3.5?classifier=sources

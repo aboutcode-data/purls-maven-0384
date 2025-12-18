@@ -1,2 +1,3 @@
 - pkg:maven/pro.streem.sceneform/core@2.0.3?classifier=sources
 - pkg:maven/pro.streem.sceneform/core@2.0.4?classifier=sources
+- pkg:maven/pro.streem.sceneform/core@2.0.5?classifier=sources

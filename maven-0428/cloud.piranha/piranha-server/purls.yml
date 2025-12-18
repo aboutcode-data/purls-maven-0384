@@ -26,6 +26,8 @@
 - pkg:maven/cloud.piranha/piranha-server@20.9.0?type=zip
 - pkg:maven/cloud.piranha/piranha-server@21.1.0?classifier=sources
 - pkg:maven/cloud.piranha/piranha-server@21.1.0?type=zip
+- pkg:maven/cloud.piranha/piranha-server@21.10.0?classifier=sources
+- pkg:maven/cloud.piranha/piranha-server@21.10.0?type=zip
 - pkg:maven/cloud.piranha/piranha-server@21.2.0?classifier=sources
 - pkg:maven/cloud.piranha/piranha-server@21.2.0?type=zip
 - pkg:maven/cloud.piranha/piranha-server@21.3.0?classifier=sources
@@ -40,3 +42,5 @@
 - pkg:maven/cloud.piranha/piranha-server@21.7.0?type=zip
 - pkg:maven/cloud.piranha/piranha-server@21.8.0?classifier=sources
 - pkg:maven/cloud.piranha/piranha-server@21.8.0?type=zip
+- pkg:maven/cloud.piranha/piranha-server@21.9.0?classifier=sources
+- pkg:maven/cloud.piranha/piranha-server@21.9.0?type=zip

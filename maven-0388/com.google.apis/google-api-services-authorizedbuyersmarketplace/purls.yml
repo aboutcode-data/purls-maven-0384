@@ -1,0 +1,2 @@
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20211008-1.32.1
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20211008-1.32.1?classifier=sources

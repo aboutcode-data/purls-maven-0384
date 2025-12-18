@@ -14,5 +14,7 @@
 - pkg:maven/org.webjars.npm/angular-devkit__schematics@0.8.6?classifier=sources
 - pkg:maven/org.webjars.npm/angular-devkit__schematics@10.0.0-rc.2
 - pkg:maven/org.webjars.npm/angular-devkit__schematics@10.0.0-rc.2?classifier=sources
+- pkg:maven/org.webjars.npm/angular-devkit__schematics@13.0.0-rc.1
+- pkg:maven/org.webjars.npm/angular-devkit__schematics@13.0.0-rc.1?classifier=sources
 - pkg:maven/org.webjars.npm/angular-devkit__schematics@7.3.8
 - pkg:maven/org.webjars.npm/angular-devkit__schematics@7.3.8?classifier=sources

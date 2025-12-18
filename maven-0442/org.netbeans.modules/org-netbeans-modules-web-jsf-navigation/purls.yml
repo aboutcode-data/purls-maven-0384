@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE125?classifier=sources

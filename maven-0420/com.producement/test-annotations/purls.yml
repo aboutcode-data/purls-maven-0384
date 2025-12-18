@@ -1,0 +1,2 @@
+- pkg:maven/com.producement/test-annotations@0.0.1?classifier=sources
+- pkg:maven/com.producement/test-annotations@0.0.2?classifier=sources

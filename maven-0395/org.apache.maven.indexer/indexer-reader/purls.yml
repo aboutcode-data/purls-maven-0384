@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.maven.indexer/indexer-reader@5.1.2-202109
+- pkg:maven/org.apache.maven.indexer/indexer-reader@5.1.2-202109?classifier=sources
 - pkg:maven/org.apache.maven.indexer/indexer-reader@5.1.2-4333789
 - pkg:maven/org.apache.maven.indexer/indexer-reader@5.1.2-4333789?classifier=sources
 - pkg:maven/org.apache.maven.indexer/indexer-reader@5.1.2-816025a

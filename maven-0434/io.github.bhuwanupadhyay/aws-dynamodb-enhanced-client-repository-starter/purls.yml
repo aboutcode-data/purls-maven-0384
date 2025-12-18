@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bhuwanupadhyay/aws-dynamodb-enhanced-client-repository-starter@1.0.0
+- pkg:maven/io.github.bhuwanupadhyay/aws-dynamodb-enhanced-client-repository-starter@1.0.0?classifier=sources

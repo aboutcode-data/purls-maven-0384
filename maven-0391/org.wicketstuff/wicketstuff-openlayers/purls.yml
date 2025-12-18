@@ -208,3 +208,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers@9.4.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers@9.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers@9.5.0
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers@9.5.0?classifier=sources

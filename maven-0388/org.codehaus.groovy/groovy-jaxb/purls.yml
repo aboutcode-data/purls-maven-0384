@@ -9,6 +9,7 @@
 - pkg:maven/org.codehaus.groovy/groovy-jaxb@2.5.13?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-jaxb@2.5.14
 - pkg:maven/org.codehaus.groovy/groovy-jaxb@2.5.14?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-jaxb@2.5.15?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-jaxb@2.5.1?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-jaxb@2.5.2
 - pkg:maven/org.codehaus.groovy/groovy-jaxb@2.5.2?classifier=sources
@@ -57,3 +58,4 @@
 - pkg:maven/org.codehaus.groovy/groovy-jaxb@3.0.7
 - pkg:maven/org.codehaus.groovy/groovy-jaxb@3.0.7?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-jaxb@3.0.8?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-jaxb@3.0.9?classifier=sources

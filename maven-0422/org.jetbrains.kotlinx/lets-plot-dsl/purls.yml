@@ -13,7 +13,17 @@
 - pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.12-dev-8-0.10.0.200?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.12-dev-8-0.10.0.201?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.12-dev-8-0.10.0.215?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.12-dev-8-0.10.0.226?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.12-dev-8-0.10.0.25?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.12-dev-8-0.10.0.42?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.12-dev-8-0.10.0.87?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.12-dev-8?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.13-dev-10-0.10.0.255?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.13-dev-10-0.10.0.259?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.13-dev-10-0.10.0.260?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.13-dev-10-0.10.1.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.13-dev-10?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.14-dev-11-0.10.2.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.14-dev-11?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.14-dev-12-0.10.3.26?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lets-plot-dsl@0.0.14-dev-13-0.10.3.29?classifier=sources

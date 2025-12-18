@@ -36,3 +36,5 @@
 - pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-api@2.0?classifier=sources
 - pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-api@3.0-RC2
 - pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-api@3.0-RC2?classifier=sources
+- pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-api@3.0-RC3
+- pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-api@3.0-RC3?classifier=sources

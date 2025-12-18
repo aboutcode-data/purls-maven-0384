@@ -4,3 +4,5 @@
 - pkg:maven/com.okta.android/okta-oidc-android@1.0.19?type=aar
 - pkg:maven/com.okta.android/okta-oidc-android@1.0.20?classifier=sources
 - pkg:maven/com.okta.android/okta-oidc-android@1.0.20?type=aar
+- pkg:maven/com.okta.android/okta-oidc-android@1.1.0?classifier=sources
+- pkg:maven/com.okta.android/okta-oidc-android@1.1.0?type=aar

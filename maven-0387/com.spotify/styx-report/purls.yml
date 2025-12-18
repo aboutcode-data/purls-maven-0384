@@ -192,6 +192,7 @@
 - pkg:maven/com.spotify/styx-report@2.1.13
 - pkg:maven/com.spotify/styx-report@2.1.130
 - pkg:maven/com.spotify/styx-report@2.1.131
+- pkg:maven/com.spotify/styx-report@2.1.132
 - pkg:maven/com.spotify/styx-report@2.1.14
 - pkg:maven/com.spotify/styx-report@2.1.15
 - pkg:maven/com.spotify/styx-report@2.1.16

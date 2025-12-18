@@ -62,3 +62,5 @@
 - pkg:maven/vn.onesoft.falcon/falcon-network-client@3.3.3?classifier=sources
 - pkg:maven/vn.onesoft.falcon/falcon-network-client@3.3.4
 - pkg:maven/vn.onesoft.falcon/falcon-network-client@3.3.4?classifier=sources
+- pkg:maven/vn.onesoft.falcon/falcon-network-client@3.4.0
+- pkg:maven/vn.onesoft.falcon/falcon-network-client@3.4.0?classifier=sources

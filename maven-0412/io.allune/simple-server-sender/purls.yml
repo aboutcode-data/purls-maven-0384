@@ -1,3 +1,5 @@
+- pkg:maven/io.allune/simple-server-sender@2.10.0
+- pkg:maven/io.allune/simple-server-sender@2.10.0?classifier=sources
 - pkg:maven/io.allune/simple-server-sender@2.5.0
 - pkg:maven/io.allune/simple-server-sender@2.5.0?classifier=sources
 - pkg:maven/io.allune/simple-server-sender@2.5.2

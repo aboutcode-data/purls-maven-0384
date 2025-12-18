@@ -97,6 +97,7 @@
 - pkg:maven/org.kie.server/kie-server-integ-tests-controller@7.59.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-controller@7.6.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-controller@7.6.0.t022
+- pkg:maven/org.kie.server/kie-server-integ-tests-controller@7.60.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-controller@7.7.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-controller@7.8.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-controller@7.9.0.Final

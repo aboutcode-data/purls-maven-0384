@@ -1,3 +1,5 @@
+- pkg:maven/info.freelibrary/jiiify-presentation-v3@0.10.0
+- pkg:maven/info.freelibrary/jiiify-presentation-v3@0.10.0?classifier=sources
 - pkg:maven/info.freelibrary/jiiify-presentation-v3@0.5.2
 - pkg:maven/info.freelibrary/jiiify-presentation-v3@0.5.2?classifier=sources
 - pkg:maven/info.freelibrary/jiiify-presentation-v3@0.5.4

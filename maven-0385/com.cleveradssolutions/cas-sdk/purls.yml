@@ -15,3 +15,6 @@
 - pkg:maven/com.cleveradssolutions/cas-sdk@2.4.1?classifier=sources
 - pkg:maven/com.cleveradssolutions/cas-sdk@2.5.0?classifier=sources
 - pkg:maven/com.cleveradssolutions/cas-sdk@2.5.1?classifier=sources
+- pkg:maven/com.cleveradssolutions/cas-sdk@2.5.2-dev?classifier=sources
+- pkg:maven/com.cleveradssolutions/cas-sdk@2.5.2?classifier=sources
+- pkg:maven/com.cleveradssolutions/cas-sdk@2.5.3?classifier=sources

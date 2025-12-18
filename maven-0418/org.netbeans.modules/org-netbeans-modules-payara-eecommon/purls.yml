@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE125?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/ch.voulgarakis/quickfixj-spring-boot-test@1.0.2.RELEASE
 - pkg:maven/ch.voulgarakis/quickfixj-spring-boot-test@1.0.2.RELEASE?classifier=sources
+- pkg:maven/ch.voulgarakis/quickfixj-spring-boot-test@1.0.3.RELEASE
+- pkg:maven/ch.voulgarakis/quickfixj-spring-boot-test@1.0.3.RELEASE?classifier=sources

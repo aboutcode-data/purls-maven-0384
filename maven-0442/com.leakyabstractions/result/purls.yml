@@ -13,3 +13,5 @@
 - pkg:maven/com.leakyabstractions/result@0.3.0.0?classifier=sources
 - pkg:maven/com.leakyabstractions/result@0.3.0.1?classifier=sources
 - pkg:maven/com.leakyabstractions/result@0.3.0.3?classifier=sources
+- pkg:maven/com.leakyabstractions/result@0.4.0.0?classifier=sources
+- pkg:maven/com.leakyabstractions/result@0.5.0.0?classifier=sources

@@ -1,4 +1,7 @@
 - pkg:maven/io.contek.invoker/invoker-bybit-api@2.13.0?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-bybit-api@2.13.3?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-bybit-api@2.13.4?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-bybit-api@2.13.5?classifier=sources
 - pkg:maven/io.contek.invoker/invoker-bybit-api@2.5.0?classifier=sources
 - pkg:maven/io.contek.invoker/invoker-bybit-api@2.5.1?classifier=sources
 - pkg:maven/io.contek.invoker/invoker-bybit-api@2.5.2?classifier=sources

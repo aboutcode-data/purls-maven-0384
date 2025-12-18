@@ -29,9 +29,15 @@
 - pkg:maven/com.liferay/com.liferay.style.book.service@1.0.18
 - pkg:maven/com.liferay/com.liferay.style.book.service@1.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.service@1.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.style.book.service@1.0.19
+- pkg:maven/com.liferay/com.liferay.style.book.service@1.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.style.book.service@1.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.service@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.service@1.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.service@1.0.2
+- pkg:maven/com.liferay/com.liferay.style.book.service@1.0.20
+- pkg:maven/com.liferay/com.liferay.style.book.service@1.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.style.book.service@1.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.service@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.service@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.service@1.0.3
@@ -59,6 +65,9 @@
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.1
+- pkg:maven/com.liferay/com.liferay.style.book.service@2.0.10
+- pkg:maven/com.liferay/com.liferay.style.book.service@2.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.style.book.service@2.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.2
@@ -82,3 +91,6 @@
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.8
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.style.book.service@2.0.9
+- pkg:maven/com.liferay/com.liferay.style.book.service@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.style.book.service@2.0.9?classifier=sources-commercial

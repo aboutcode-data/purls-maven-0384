@@ -1,0 +1,12 @@
+- pkg:maven/ru.delimobil/cabbit_2.13@0.0.13
+- pkg:maven/ru.delimobil/cabbit_2.13@0.0.13?classifier=sources
+- pkg:maven/ru.delimobil/cabbit_2.13@0.0.14
+- pkg:maven/ru.delimobil/cabbit_2.13@0.0.14?classifier=sources
+- pkg:maven/ru.delimobil/cabbit_2.13@0.0.15
+- pkg:maven/ru.delimobil/cabbit_2.13@0.0.15?classifier=sources
+- pkg:maven/ru.delimobil/cabbit_2.13@0.0.16
+- pkg:maven/ru.delimobil/cabbit_2.13@0.0.16?classifier=sources
+- pkg:maven/ru.delimobil/cabbit_2.13@0.0.17
+- pkg:maven/ru.delimobil/cabbit_2.13@0.0.17?classifier=sources
+- pkg:maven/ru.delimobil/cabbit_2.13@0.1.0
+- pkg:maven/ru.delimobil/cabbit_2.13@0.1.0?classifier=sources

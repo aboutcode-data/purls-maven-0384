@@ -73,3 +73,4 @@
 - pkg:maven/com.alipay.sofa/healthcheck-sofa-boot-starter@3.6.0
 - pkg:maven/com.alipay.sofa/healthcheck-sofa-boot-starter@3.7.0
 - pkg:maven/com.alipay.sofa/healthcheck-sofa-boot-starter@3.8.0
+- pkg:maven/com.alipay.sofa/healthcheck-sofa-boot-starter@3.9.0

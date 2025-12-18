@@ -4,3 +4,5 @@
 - pkg:maven/com.github.Shouheng88/utils-ktx@2.2.0?type=aar
 - pkg:maven/com.github.Shouheng88/utils-ktx@2.4.0?classifier=sources
 - pkg:maven/com.github.Shouheng88/utils-ktx@2.4.0?type=aar
+- pkg:maven/com.github.Shouheng88/utils-ktx@2.5.0?classifier=sources
+- pkg:maven/com.github.Shouheng88/utils-ktx@2.5.0?type=aar

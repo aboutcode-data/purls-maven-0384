@@ -1,0 +1,2 @@
+- pkg:maven/tech.mlsql.serviceframework.baseweb/user-system-bin_2.11@1.0.1
+- pkg:maven/tech.mlsql.serviceframework.baseweb/user-system-bin_2.11@1.0.1?classifier=sources

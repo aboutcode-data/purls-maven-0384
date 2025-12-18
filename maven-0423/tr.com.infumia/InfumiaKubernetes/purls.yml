@@ -1,0 +1,2 @@
+- pkg:maven/tr.com.infumia/InfumiaKubernetes@3.0.0?classifier=sources
+- pkg:maven/tr.com.infumia/InfumiaKubernetes@3.0.1?classifier=sources

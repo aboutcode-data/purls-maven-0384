@@ -20,3 +20,5 @@
 - pkg:maven/io.ep2p/somnia@0.6.3-RELEASE?classifier=sources
 - pkg:maven/io.ep2p/somnia@0.6.4-RELEASE
 - pkg:maven/io.ep2p/somnia@0.6.4-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/somnia@0.7.0-RELEASE
+- pkg:maven/io.ep2p/somnia@0.7.0-RELEASE?classifier=sources

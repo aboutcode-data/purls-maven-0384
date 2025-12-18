@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-team-commons@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-team-commons@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-team-commons@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-team-commons@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-team-commons@RELEASE90?classifier=sources

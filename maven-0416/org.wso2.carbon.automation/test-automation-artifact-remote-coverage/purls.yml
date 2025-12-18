@@ -1,3 +1,4 @@
 - pkg:maven/org.wso2.carbon.automation/test-automation-artifact-remote-coverage@4.4.2
 - pkg:maven/org.wso2.carbon.automation/test-automation-artifact-remote-coverage@4.4.3
 - pkg:maven/org.wso2.carbon.automation/test-automation-artifact-remote-coverage@4.4.8
+- pkg:maven/org.wso2.carbon.automation/test-automation-artifact-remote-coverage@4.4.9

@@ -1,0 +1,2 @@
+- pkg:maven/ru.yoomoney.tech/db-queue-scheduler-brave@0.3.0?classifier=sources
+- pkg:maven/ru.yoomoney.tech/db-queue-scheduler-brave@1.0.0?classifier=sources

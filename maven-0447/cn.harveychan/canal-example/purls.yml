@@ -1,0 +1,2 @@
+- pkg:maven/cn.harveychan/canal-example@1.0.0
+- pkg:maven/cn.harveychan/canal-example@1.0.0?classifier=sources

@@ -10,3 +10,17 @@
 - pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.119.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.120.0
 - pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.120.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.121.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.121.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.122.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.122.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.123.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.123.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.124.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.124.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.125.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.125.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.126.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@1.126.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@2.0.0-rc.1
+- pkg:maven/software.amazon.awsconstructs/eventbridgesqs@2.0.0-rc.1?classifier=sources

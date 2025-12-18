@@ -16,3 +16,7 @@
 - pkg:maven/dev.stratospheric/cdk-constructs@0.0.23?classifier=sources
 - pkg:maven/dev.stratospheric/cdk-constructs@0.0.24
 - pkg:maven/dev.stratospheric/cdk-constructs@0.0.24?classifier=sources
+- pkg:maven/dev.stratospheric/cdk-constructs@0.0.25
+- pkg:maven/dev.stratospheric/cdk-constructs@0.0.25?classifier=sources
+- pkg:maven/dev.stratospheric/cdk-constructs@0.0.26
+- pkg:maven/dev.stratospheric/cdk-constructs@0.0.26?classifier=sources
