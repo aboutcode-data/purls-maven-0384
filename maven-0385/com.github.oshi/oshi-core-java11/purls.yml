@@ -18,3 +18,7 @@
 - pkg:maven/com.github.oshi/oshi-core-java11@5.7.4?classifier=sources
 - pkg:maven/com.github.oshi/oshi-core-java11@5.7.5
 - pkg:maven/com.github.oshi/oshi-core-java11@5.7.5?classifier=sources
+- pkg:maven/com.github.oshi/oshi-core-java11@5.8.0
+- pkg:maven/com.github.oshi/oshi-core-java11@5.8.0?classifier=sources
+- pkg:maven/com.github.oshi/oshi-core-java11@5.8.1
+- pkg:maven/com.github.oshi/oshi-core-java11@5.8.1?classifier=sources

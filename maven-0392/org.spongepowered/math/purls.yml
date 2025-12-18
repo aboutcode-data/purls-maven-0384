@@ -1,1 +1,2 @@
 - pkg:maven/org.spongepowered/math@2.0.0?classifier=sources
+- pkg:maven/org.spongepowered/math@2.0.1?classifier=sources

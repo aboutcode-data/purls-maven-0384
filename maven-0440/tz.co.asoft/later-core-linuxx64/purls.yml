@@ -1,2 +1,7 @@
 - pkg:maven/tz.co.asoft/later-core-linuxx64@0.0.51?classifier=sources
 - pkg:maven/tz.co.asoft/later-core-linuxx64@0.0.60?classifier=sources
+- pkg:maven/tz.co.asoft/later-core-linuxx64@0.0.61?classifier=sources
+- pkg:maven/tz.co.asoft/later-core-linuxx64@0.0.62?classifier=sources
+- pkg:maven/tz.co.asoft/later-core-linuxx64@0.0.63?classifier=sources
+- pkg:maven/tz.co.asoft/later-core-linuxx64@0.0.64?classifier=sources
+- pkg:maven/tz.co.asoft/later-core-linuxx64@1.4.0?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/com.handpoint.api/private-sdk@6.1.0?type=aar
 - pkg:maven/com.handpoint.api/private-sdk@6.1.1?classifier=sources
 - pkg:maven/com.handpoint.api/private-sdk@6.1.1?type=aar
+- pkg:maven/com.handpoint.api/private-sdk@6.2.0?classifier=sources
+- pkg:maven/com.handpoint.api/private-sdk@6.2.0?type=aar
+- pkg:maven/com.handpoint.api/private-sdk@6.2.1?classifier=sources
+- pkg:maven/com.handpoint.api/private-sdk@6.2.1?type=aar

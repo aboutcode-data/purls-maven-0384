@@ -2,3 +2,5 @@
 - pkg:maven/no.difi.sdp/dpi-proxy-klient-java@1.0.0?classifier=sources
 - pkg:maven/no.difi.sdp/dpi-proxy-klient-java@1.1.0
 - pkg:maven/no.difi.sdp/dpi-proxy-klient-java@1.1.0?classifier=sources
+- pkg:maven/no.difi.sdp/dpi-proxy-klient-java@1.1.1
+- pkg:maven/no.difi.sdp/dpi-proxy-klient-java@1.1.1?classifier=sources

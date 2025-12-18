@@ -1,0 +1,4 @@
+- pkg:maven/com.tachen.android/utilex@0.6.8.VERSION_NAME?classifier=sources
+- pkg:maven/com.tachen.android/utilex@0.6.8.VERSION_NAME?type=aar
+- pkg:maven/com.tachen.android/utilex@0.6.8?classifier=sources
+- pkg:maven/com.tachen.android/utilex@0.6.8?type=aar

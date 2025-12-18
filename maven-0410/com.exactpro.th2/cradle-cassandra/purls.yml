@@ -3,5 +3,12 @@
 - pkg:maven/com.exactpro.th2/cradle-cassandra@2.12.1?classifier=sources
 - pkg:maven/com.exactpro.th2/cradle-cassandra@2.13.0?classifier=sources
 - pkg:maven/com.exactpro.th2/cradle-cassandra@2.14.0?classifier=sources
+- pkg:maven/com.exactpro.th2/cradle-cassandra@2.15.0?classifier=sources
+- pkg:maven/com.exactpro.th2/cradle-cassandra@2.16.0?classifier=sources
+- pkg:maven/com.exactpro.th2/cradle-cassandra@2.16.1?classifier=sources
+- pkg:maven/com.exactpro.th2/cradle-cassandra@2.17.0?classifier=sources
+- pkg:maven/com.exactpro.th2/cradle-cassandra@2.17.1?classifier=sources
+- pkg:maven/com.exactpro.th2/cradle-cassandra@2.17.2?classifier=sources
+- pkg:maven/com.exactpro.th2/cradle-cassandra@2.17.3?classifier=sources
 - pkg:maven/com.exactpro.th2/cradle-cassandra@2.8.1?classifier=sources
 - pkg:maven/com.exactpro.th2/cradle-cassandra@2.9.1?classifier=sources

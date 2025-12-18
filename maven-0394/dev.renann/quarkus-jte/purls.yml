@@ -1,0 +1,2 @@
+- pkg:maven/dev.renann/quarkus-jte@0.0.1
+- pkg:maven/dev.renann/quarkus-jte@0.0.1?classifier=sources

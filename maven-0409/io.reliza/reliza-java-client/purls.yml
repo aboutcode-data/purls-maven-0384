@@ -11,4 +11,6 @@
 - pkg:maven/io.reliza/reliza-java-client@0.1.61?classifier=sources
 - pkg:maven/io.reliza/reliza-java-client@0.1.63?classifier=sources
 - pkg:maven/io.reliza/reliza-java-client@0.1.65?classifier=sources
+- pkg:maven/io.reliza/reliza-java-client@0.1.69?classifier=sources
+- pkg:maven/io.reliza/reliza-java-client@0.1.71?classifier=sources
 - pkg:maven/io.reliza/reliza-java-client@0.1.7?classifier=sources

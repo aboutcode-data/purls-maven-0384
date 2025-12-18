@@ -50,8 +50,14 @@
 - pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.14.0-snapshot.20210615.7169.0.adeba206
 - pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.14.0-snapshot.20210615.7169.0.adeba206?classifier=sources
 - pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.14.0?classifier=sources
+- pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.14.1
 - pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.14.1-snapshot.20210706.7133.0.8ec16e94
 - pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.14.1-snapshot.20210706.7133.0.8ec16e94?classifier=sources
+- pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.14.1?classifier=sources
+- pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.14.2
+- pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.14.2-snapshot.20210708.7135.0.aa297840
+- pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.14.2-snapshot.20210708.7135.0.aa297840?classifier=sources
+- pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.14.2?classifier=sources
 - pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.15.0-snapshot.20210615.7169.0.adeba206
 - pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.15.0-snapshot.20210615.7169.0.adeba206?classifier=sources
 - pkg:maven/com.daml/test-dar-files-1.12-lib_2.13@1.15.0-snapshot.20210623.7217.0.5b73813d

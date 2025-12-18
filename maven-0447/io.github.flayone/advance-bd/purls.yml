@@ -2,3 +2,5 @@
 - pkg:maven/io.github.flayone/advance-bd@3.5.1_596?type=aar
 - pkg:maven/io.github.flayone/advance-bd@3.5.1_596_1_core?type=aar
 - pkg:maven/io.github.flayone/advance-bd@3.5.1_596_core?type=aar
+- pkg:maven/io.github.flayone/advance-bd@3.5.2_9131?type=aar
+- pkg:maven/io.github.flayone/advance-bd@3.5.2_9131_core?type=aar

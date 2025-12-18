@@ -23,3 +23,8 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-hub@3.190
 - pkg:maven/org.jetbrains.intellij.plugins/structure-hub@3.190?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-hub@3.191?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-hub@3.192?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-hub@3.193?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-hub@3.194?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-hub@3.195?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-hub@3.196?classifier=sources

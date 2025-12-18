@@ -1,0 +1,2 @@
+- pkg:maven/com.hit-pay/com.hitpay.terminalsdk@0.0.1?classifier=sources
+- pkg:maven/com.hit-pay/com.hitpay.terminalsdk@0.0.1?type=aar

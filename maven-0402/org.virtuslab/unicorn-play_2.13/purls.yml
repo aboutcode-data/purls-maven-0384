@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/unicorn-play_2.13@1.4.1
+- pkg:maven/org.virtuslab/unicorn-play_2.13@1.4.1?classifier=sources

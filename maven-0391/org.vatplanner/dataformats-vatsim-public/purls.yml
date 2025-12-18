@@ -2,3 +2,5 @@
 - pkg:maven/org.vatplanner/dataformats-vatsim-public@0.1-pre210419?classifier=sources
 - pkg:maven/org.vatplanner/dataformats-vatsim-public@0.1-pre210515
 - pkg:maven/org.vatplanner/dataformats-vatsim-public@0.1-pre210515?classifier=sources
+- pkg:maven/org.vatplanner/dataformats-vatsim-public@0.1-pre210825
+- pkg:maven/org.vatplanner/dataformats-vatsim-public@0.1-pre210825?classifier=sources

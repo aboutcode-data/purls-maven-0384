@@ -1,0 +1,6 @@
+- pkg:maven/io.carpe/parseback_2.13@0.4-e4ce70a
+- pkg:maven/io.carpe/parseback_2.13@0.4-e4ce70a?classifier=sources
+- pkg:maven/io.carpe/parseback_2.13@0.5
+- pkg:maven/io.carpe/parseback_2.13@0.5.1
+- pkg:maven/io.carpe/parseback_2.13@0.5.1?classifier=sources
+- pkg:maven/io.carpe/parseback_2.13@0.5?classifier=sources

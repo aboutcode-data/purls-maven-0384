@@ -32,5 +32,7 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-devops-rdc@1.9.7?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-devops-rdc@1.9.9
 - pkg:maven/com.aliyun/aliyun-java-sdk-devops-rdc@1.9.9?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-devops-rdc@2.0.2
+- pkg:maven/com.aliyun/aliyun-java-sdk-devops-rdc@2.0.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-devops-rdc@2222.9.9
 - pkg:maven/com.aliyun/aliyun-java-sdk-devops-rdc@2222.9.9?classifier=sources

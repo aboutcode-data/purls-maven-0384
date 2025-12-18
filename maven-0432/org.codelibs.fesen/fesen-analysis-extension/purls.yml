@@ -1,0 +1,2 @@
+- pkg:maven/org.codelibs.fesen/fesen-analysis-extension@0.14.0?classifier=sources
+- pkg:maven/org.codelibs.fesen/fesen-analysis-extension@0.14.0?type=zip

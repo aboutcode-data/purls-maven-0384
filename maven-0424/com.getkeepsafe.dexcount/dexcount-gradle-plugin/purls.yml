@@ -74,3 +74,6 @@
 - pkg:maven/com.getkeepsafe.dexcount/dexcount-gradle-plugin@2.0.0-RC1?classifier=sources
 - pkg:maven/com.getkeepsafe.dexcount/dexcount-gradle-plugin@2.0.0?classifier=sources
 - pkg:maven/com.getkeepsafe.dexcount/dexcount-gradle-plugin@2.1.0-RC01?classifier=sources
+- pkg:maven/com.getkeepsafe.dexcount/dexcount-gradle-plugin@3.0.0-RC01?classifier=sources
+- pkg:maven/com.getkeepsafe.dexcount/dexcount-gradle-plugin@3.0.0-RC02?classifier=sources
+- pkg:maven/com.getkeepsafe.dexcount/dexcount-gradle-plugin@3.0.0?classifier=sources

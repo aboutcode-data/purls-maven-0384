@@ -3,3 +3,4 @@
 - pkg:maven/dev.gradleplugins/grava-testing@1.4?classifier=sources
 - pkg:maven/dev.gradleplugins/grava-testing@1.5?classifier=sources
 - pkg:maven/dev.gradleplugins/grava-testing@1.6?classifier=sources
+- pkg:maven/dev.gradleplugins/grava-testing@1.7?classifier=sources

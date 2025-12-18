@@ -52,3 +52,7 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-2_5@1.63.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-2_5@1.64.0
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-2_5@1.64.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-2_5@2.0.0
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-2_5@2.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-2_5@2.1.0
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-2_5@2.1.0?classifier=sources

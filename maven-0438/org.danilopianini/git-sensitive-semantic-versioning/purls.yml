@@ -16,3 +16,4 @@
 - pkg:maven/org.danilopianini/git-sensitive-semantic-versioning@0.2.2-dev38-d07efb9?classifier=sources
 - pkg:maven/org.danilopianini/git-sensitive-semantic-versioning@0.2.3-dev01-6f23ea8?classifier=sources
 - pkg:maven/org.danilopianini/git-sensitive-semantic-versioning@0.2.3?classifier=sources
+- pkg:maven/org.danilopianini/git-sensitive-semantic-versioning@0.3.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.github.kamjin1996/toolkit-db-crypt-mybatis@2.1.RELEASE?classifier=sources
 - pkg:maven/com.github.kamjin1996/toolkit-db-crypt-mybatis@2.2.1.RELEASE
 - pkg:maven/com.github.kamjin1996/toolkit-db-crypt-mybatis@2.2.1.RELEASE?classifier=sources
+- pkg:maven/com.github.kamjin1996/toolkit-db-crypt-mybatis@2.2.2.RELEASE
+- pkg:maven/com.github.kamjin1996/toolkit-db-crypt-mybatis@2.2.2.RELEASE?classifier=sources

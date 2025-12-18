@@ -4,3 +4,5 @@
 - pkg:maven/org.bytedeco/arrow-platform@1.0.1-1.5.4?classifier=sources
 - pkg:maven/org.bytedeco/arrow-platform@3.0.0-1.5.5
 - pkg:maven/org.bytedeco/arrow-platform@3.0.0-1.5.5?classifier=sources
+- pkg:maven/org.bytedeco/arrow-platform@4.0.1-1.5.6
+- pkg:maven/org.bytedeco/arrow-platform@4.0.1-1.5.6?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/de.m3y.prometheus.client/prometheus-client-webapp@0.2?classifier=sources
+- pkg:maven/de.m3y.prometheus.client/prometheus-client-webapp@0.2?type=war
+- pkg:maven/de.m3y.prometheus.client/prometheus-client-webapp@0.3?classifier=sources
+- pkg:maven/de.m3y.prometheus.client/prometheus-client-webapp@0.3?type=war

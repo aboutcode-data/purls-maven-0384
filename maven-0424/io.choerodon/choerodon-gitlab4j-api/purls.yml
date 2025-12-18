@@ -62,3 +62,5 @@
 - pkg:maven/io.choerodon/choerodon-gitlab4j-api@0.9.3.RELEASE?classifier=sources
 - pkg:maven/io.choerodon/choerodon-gitlab4j-api@1.0.0.RELEASE
 - pkg:maven/io.choerodon/choerodon-gitlab4j-api@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-gitlab4j-api@1.0.1.RELEASE
+- pkg:maven/io.choerodon/choerodon-gitlab4j-api@1.0.1.RELEASE?classifier=sources

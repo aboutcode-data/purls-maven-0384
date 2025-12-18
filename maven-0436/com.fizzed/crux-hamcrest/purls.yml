@@ -1,0 +1,2 @@
+- pkg:maven/com.fizzed/crux-hamcrest@1.0.39
+- pkg:maven/com.fizzed/crux-hamcrest@1.0.39?classifier=sources

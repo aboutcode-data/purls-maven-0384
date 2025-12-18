@@ -8,3 +8,4 @@
 - pkg:maven/com.bertramlabs.plugins/hcl4j@0.3.3?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/hcl4j@0.3.4
 - pkg:maven/com.bertramlabs.plugins/hcl4j@0.3.4?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/hcl4j@0.3.5?classifier=sources

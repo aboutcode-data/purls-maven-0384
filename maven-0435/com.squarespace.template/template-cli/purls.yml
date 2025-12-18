@@ -69,4 +69,13 @@
 - pkg:maven/com.squarespace.template/template-cli@2.8.13?classifier=sources
 - pkg:maven/com.squarespace.template/template-cli@2.8.14?classifier=sources
 - pkg:maven/com.squarespace.template/template-cli@2.8.15?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.18?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.19?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.20?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.21?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.22?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.23?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.24?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.25?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.26?classifier=sources
 - pkg:maven/com.squarespace.template/template-cli@2.8.4?classifier=sources

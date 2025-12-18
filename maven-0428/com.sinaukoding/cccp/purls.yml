@@ -1,0 +1,2 @@
+- pkg:maven/com.sinaukoding/cccp@1.0.0?classifier=sources
+- pkg:maven/com.sinaukoding/cccp@1.0.3?classifier=sources

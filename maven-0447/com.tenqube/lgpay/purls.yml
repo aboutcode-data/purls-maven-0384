@@ -5,3 +5,5 @@
 - pkg:maven/com.tenqube/lgpay@1.4.6?classifier=sources
 - pkg:maven/com.tenqube/lgpay@1.4.7?classifier=sources
 - pkg:maven/com.tenqube/lgpay@1.4.8?classifier=sources
+- pkg:maven/com.tenqube/lgpay@1.4.9?classifier=sources
+- pkg:maven/com.tenqube/lgpay@1.5.0?classifier=sources

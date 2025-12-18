@@ -1,0 +1,2 @@
+- pkg:maven/com.intuit.apl/apl-core@0.23
+- pkg:maven/com.intuit.apl/apl-core@0.23?classifier=sources

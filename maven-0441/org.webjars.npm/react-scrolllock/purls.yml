@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/react-scrolllock@2.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/react-scrolllock@3.0.2
 - pkg:maven/org.webjars.npm/react-scrolllock@3.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/react-scrolllock@5.0.1
+- pkg:maven/org.webjars.npm/react-scrolllock@5.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.kbkbqiang/nsq@1.0.1.RELEASE
+- pkg:maven/com.kbkbqiang/nsq@1.0.1.RELEASE?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/br.com.moip/android-sdk@2.6.3?type=aar
 - pkg:maven/br.com.moip/android-sdk@2.7.0?classifier=sources
 - pkg:maven/br.com.moip/android-sdk@2.7.0?type=aar
+- pkg:maven/br.com.moip/android-sdk@2.8.0?classifier=sources
+- pkg:maven/br.com.moip/android-sdk@2.8.0?type=aar

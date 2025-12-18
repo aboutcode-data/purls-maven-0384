@@ -46,3 +46,7 @@
 - pkg:maven/de.valtech.aecu/aecu.core@4.0.0?classifier=sources
 - pkg:maven/de.valtech.aecu/aecu.core@4.1.0
 - pkg:maven/de.valtech.aecu/aecu.core@4.1.0?classifier=sources
+- pkg:maven/de.valtech.aecu/aecu.core@5.0.0
+- pkg:maven/de.valtech.aecu/aecu.core@5.0.0?classifier=sources
+- pkg:maven/de.valtech.aecu/aecu.core@5.1.0
+- pkg:maven/de.valtech.aecu/aecu.core@5.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.ems/beangle-ems-core_3@4.1.21
+- pkg:maven/org.beangle.ems/beangle-ems-core_3@4.1.21?classifier=sources

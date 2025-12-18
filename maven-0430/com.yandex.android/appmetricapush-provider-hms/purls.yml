@@ -2,3 +2,4 @@
 - pkg:maven/com.yandex.android/appmetricapush-provider-hms@1.11.0?type=aar
 - pkg:maven/com.yandex.android/appmetricapush-provider-hms@1.11.1?type=aar
 - pkg:maven/com.yandex.android/appmetricapush-provider-hms@1.12.0?type=aar
+- pkg:maven/com.yandex.android/appmetricapush-provider-hms@1.13.0?type=aar

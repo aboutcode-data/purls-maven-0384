@@ -1,1 +1,2 @@
+- pkg:maven/io.github.astrapi69/model-type-safe@1.10?classifier=sources
 - pkg:maven/io.github.astrapi69/model-type-safe@1.9?classifier=sources

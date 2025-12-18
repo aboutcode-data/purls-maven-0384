@@ -1,3 +1,4 @@
 - pkg:maven/io.spinnaker.igor/igor-core@4.5.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@4.5.1?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@4.5.2?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@version-1.18.0?classifier=sources

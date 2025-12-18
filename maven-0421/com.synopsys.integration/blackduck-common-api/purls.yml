@@ -84,3 +84,5 @@
 - pkg:maven/com.synopsys.integration/blackduck-common-api@2020.8.0.7?classifier=sources
 - pkg:maven/com.synopsys.integration/blackduck-common-api@2020.8.0.8
 - pkg:maven/com.synopsys.integration/blackduck-common-api@2020.8.0.8?classifier=sources
+- pkg:maven/com.synopsys.integration/blackduck-common-api@2021.6.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/blackduck-common-api@2021.6.0.1?classifier=sources

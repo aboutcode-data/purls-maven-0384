@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-amazeui-amazeui@2.7.2
+- pkg:maven/org.webjars.npm/github-com-amazeui-amazeui@2.7.2?classifier=sources

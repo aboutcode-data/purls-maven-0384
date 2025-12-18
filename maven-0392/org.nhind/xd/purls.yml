@@ -12,3 +12,5 @@
 - pkg:maven/org.nhind/xd@6.0.1?type=war
 - pkg:maven/org.nhind/xd@6.0?classifier=sources
 - pkg:maven/org.nhind/xd@6.0?type=war
+- pkg:maven/org.nhind/xd@8.0.0?classifier=sources
+- pkg:maven/org.nhind/xd@8.0.0?type=war

@@ -1,3 +1,5 @@
 - pkg:maven/net.jqwik/jqwik-spring@0.5.0?classifier=sources
 - pkg:maven/net.jqwik/jqwik-spring@0.6.0?classifier=sources
 - pkg:maven/net.jqwik/jqwik-spring@0.7.0?classifier=sources
+- pkg:maven/net.jqwik/jqwik-spring@0.8.0?classifier=sources
+- pkg:maven/net.jqwik/jqwik-spring@0.8.1?classifier=sources

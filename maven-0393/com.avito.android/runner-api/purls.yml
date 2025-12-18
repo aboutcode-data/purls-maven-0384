@@ -1,0 +1,6 @@
+- pkg:maven/com.avito.android/runner-api@2021.27?classifier=sources
+- pkg:maven/com.avito.android/runner-api@2021.28?classifier=sources
+- pkg:maven/com.avito.android/runner-api@2021.29?classifier=sources
+- pkg:maven/com.avito.android/runner-api@2021.30?classifier=sources
+- pkg:maven/com.avito.android/runner-api@2021.31-agp7?classifier=sources
+- pkg:maven/com.avito.android/runner-api@2021.31?classifier=sources

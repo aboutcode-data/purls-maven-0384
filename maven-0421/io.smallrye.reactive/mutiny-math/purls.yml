@@ -6,3 +6,5 @@
 - pkg:maven/io.smallrye.reactive/mutiny-math@0.19.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-math@0.19.2
 - pkg:maven/io.smallrye.reactive/mutiny-math@0.19.2?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-math@1.0.0
+- pkg:maven/io.smallrye.reactive/mutiny-math@1.0.0?classifier=sources

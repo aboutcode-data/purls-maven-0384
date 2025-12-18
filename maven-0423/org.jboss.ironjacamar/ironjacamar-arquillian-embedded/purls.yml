@@ -130,6 +130,10 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.35.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.36.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.36.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.37.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.37.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.38.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.38.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.4.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.4.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.5.Final
@@ -140,3 +144,5 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.8.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.9.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.4.9.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.5.1.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-arquillian-embedded@1.5.1.Final?classifier=sources

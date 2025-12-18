@@ -138,3 +138,5 @@
 - pkg:maven/de.halfbit/magnet-kotlin@3.4-rc2
 - pkg:maven/de.halfbit/magnet-kotlin@3.4-rc2?classifier=sources
 - pkg:maven/de.halfbit/magnet-kotlin@3.4?classifier=sources
+- pkg:maven/de.halfbit/magnet-kotlin@3.5
+- pkg:maven/de.halfbit/magnet-kotlin@3.5?classifier=sources

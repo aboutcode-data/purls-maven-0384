@@ -46,6 +46,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@2.0.31
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@2.0.31?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@2.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@2.0.32
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@2.0.32?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@2.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.10
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.10?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.10?classifier=sources-commercial
@@ -58,6 +61,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.13
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.13?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.14
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.14?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.15
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.15?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.2
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@3.0.2?classifier=sources-commercial
@@ -136,6 +145,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@4.0.32
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@4.0.32?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@4.0.33
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@4.0.33?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@4.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@5.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.admin.web@5.0.0?classifier=sources-commercial

@@ -1,1 +1,2 @@
+- pkg:maven/io.spinnaker.front50/front50-s3@2.24.0?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-s3@version-0.27.1?classifier=sources

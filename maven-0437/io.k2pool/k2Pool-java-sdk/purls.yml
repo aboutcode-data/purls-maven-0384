@@ -1,0 +1,8 @@
+- pkg:maven/io.k2pool/k2Pool-java-sdk@1.6.0
+- pkg:maven/io.k2pool/k2Pool-java-sdk@1.6.0?classifier=sources
+- pkg:maven/io.k2pool/k2Pool-java-sdk@1.6.1
+- pkg:maven/io.k2pool/k2Pool-java-sdk@1.6.1?classifier=sources
+- pkg:maven/io.k2pool/k2Pool-java-sdk@1.6.2
+- pkg:maven/io.k2pool/k2Pool-java-sdk@1.6.2?classifier=sources
+- pkg:maven/io.k2pool/k2Pool-java-sdk@1.6.4
+- pkg:maven/io.k2pool/k2Pool-java-sdk@1.6.4?classifier=sources

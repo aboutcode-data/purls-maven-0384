@@ -1,0 +1,2 @@
+- pkg:maven/org.dotwebstack.framework/example-openapi-proxy@0.3.39
+- pkg:maven/org.dotwebstack.framework/example-openapi-proxy@0.3.39?classifier=sources

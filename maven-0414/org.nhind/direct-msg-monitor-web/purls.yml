@@ -18,3 +18,5 @@
 - pkg:maven/org.nhind/direct-msg-monitor-web@1.1?type=war
 - pkg:maven/org.nhind/direct-msg-monitor-web@6.0?classifier=sources
 - pkg:maven/org.nhind/direct-msg-monitor-web@6.0?type=war
+- pkg:maven/org.nhind/direct-msg-monitor-web@8.0.0?classifier=sources
+- pkg:maven/org.nhind/direct-msg-monitor-web@8.0.0?type=war

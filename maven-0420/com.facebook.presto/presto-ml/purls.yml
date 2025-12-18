@@ -195,6 +195,11 @@
 - pkg:maven/com.facebook.presto/presto-ml@0.254?classifier=sources
 - pkg:maven/com.facebook.presto/presto-ml@0.255?classifier=sources
 - pkg:maven/com.facebook.presto/presto-ml@0.256?classifier=sources
+- pkg:maven/com.facebook.presto/presto-ml@0.257?classifier=sources
+- pkg:maven/com.facebook.presto/presto-ml@0.258?classifier=sources
+- pkg:maven/com.facebook.presto/presto-ml@0.259.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-ml@0.259?classifier=sources
+- pkg:maven/com.facebook.presto/presto-ml@0.260?classifier=sources
 - pkg:maven/com.facebook.presto/presto-ml@0.69?classifier=sources
 - pkg:maven/com.facebook.presto/presto-ml@0.70?classifier=sources
 - pkg:maven/com.facebook.presto/presto-ml@0.71?classifier=sources

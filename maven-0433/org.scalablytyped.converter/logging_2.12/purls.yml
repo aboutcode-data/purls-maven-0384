@@ -6,3 +6,7 @@
 - pkg:maven/org.scalablytyped.converter/logging_2.12@1.0.0-beta33?classifier=sources
 - pkg:maven/org.scalablytyped.converter/logging_2.12@1.0.0-beta34
 - pkg:maven/org.scalablytyped.converter/logging_2.12@1.0.0-beta34?classifier=sources
+- pkg:maven/org.scalablytyped.converter/logging_2.12@1.0.0-beta35
+- pkg:maven/org.scalablytyped.converter/logging_2.12@1.0.0-beta35?classifier=sources
+- pkg:maven/org.scalablytyped.converter/logging_2.12@1.0.0-beta36
+- pkg:maven/org.scalablytyped.converter/logging_2.12@1.0.0-beta36?classifier=sources

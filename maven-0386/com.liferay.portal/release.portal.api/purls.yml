@@ -30,3 +30,7 @@
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.1-ga2-1
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.1-ga2-1?classifier=sources
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.1-ga2?classifier=sources
+- pkg:maven/com.liferay.portal/release.portal.api@7.4.2-ga3
+- pkg:maven/com.liferay.portal/release.portal.api@7.4.2-ga3-1
+- pkg:maven/com.liferay.portal/release.portal.api@7.4.2-ga3-1?classifier=sources
+- pkg:maven/com.liferay.portal/release.portal.api@7.4.2-ga3?classifier=sources

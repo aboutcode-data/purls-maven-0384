@@ -1,2 +1,6 @@
 - pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.12.14@0.17
 - pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.12.14@0.17?classifier=sources
+- pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.12.14@0.18
+- pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.12.14@0.18-RC1
+- pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.12.14@0.18-RC1?classifier=sources
+- pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.12.14@0.18?classifier=sources

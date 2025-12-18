@@ -1,0 +1,2 @@
+- pkg:maven/org.basepom.maven/repack-maven-plugin@0.1
+- pkg:maven/org.basepom.maven/repack-maven-plugin@0.1?classifier=sources

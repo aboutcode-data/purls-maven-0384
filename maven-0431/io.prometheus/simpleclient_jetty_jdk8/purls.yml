@@ -10,6 +10,8 @@
 - pkg:maven/io.prometheus/simpleclient_jetty_jdk8@0.10.0?classifier=sources
 - pkg:maven/io.prometheus/simpleclient_jetty_jdk8@0.11.0
 - pkg:maven/io.prometheus/simpleclient_jetty_jdk8@0.11.0?classifier=sources
+- pkg:maven/io.prometheus/simpleclient_jetty_jdk8@0.12.0
+- pkg:maven/io.prometheus/simpleclient_jetty_jdk8@0.12.0?classifier=sources
 - pkg:maven/io.prometheus/simpleclient_jetty_jdk8@0.2.0
 - pkg:maven/io.prometheus/simpleclient_jetty_jdk8@0.2.0?classifier=sources
 - pkg:maven/io.prometheus/simpleclient_jetty_jdk8@0.3.0

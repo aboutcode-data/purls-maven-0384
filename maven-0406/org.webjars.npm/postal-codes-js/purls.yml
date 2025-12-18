@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/postal-codes-js@2.5.2
+- pkg:maven/org.webjars.npm/postal-codes-js@2.5.2?classifier=sources

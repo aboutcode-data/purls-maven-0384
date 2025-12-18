@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-freemarker_3@0.4.4
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-freemarker_3@0.4.4?classifier=sources

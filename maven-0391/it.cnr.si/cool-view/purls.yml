@@ -144,3 +144,7 @@
 - pkg:maven/it.cnr.si/cool-view@4.0.0?classifier=sources
 - pkg:maven/it.cnr.si/cool-view@4.0.1
 - pkg:maven/it.cnr.si/cool-view@4.0.1?classifier=sources
+- pkg:maven/it.cnr.si/cool-view@4.0.2
+- pkg:maven/it.cnr.si/cool-view@4.0.2?classifier=sources
+- pkg:maven/it.cnr.si/cool-view@4.0.3
+- pkg:maven/it.cnr.si/cool-view@4.0.3?classifier=sources

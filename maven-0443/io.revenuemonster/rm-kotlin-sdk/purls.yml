@@ -1,1 +1,2 @@
 - pkg:maven/io.revenuemonster/rm-kotlin-sdk@1.0.0-alpha.6?classifier=sources
+- pkg:maven/io.revenuemonster/rm-kotlin-sdk@1.0.0-rc?classifier=sources

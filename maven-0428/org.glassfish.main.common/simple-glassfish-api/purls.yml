@@ -18,3 +18,4 @@
 - pkg:maven/org.glassfish.main.common/simple-glassfish-api@6.0.0?classifier=sources
 - pkg:maven/org.glassfish.main.common/simple-glassfish-api@6.1.0?classifier=sources
 - pkg:maven/org.glassfish.main.common/simple-glassfish-api@6.2.0?classifier=sources
+- pkg:maven/org.glassfish.main.common/simple-glassfish-api@6.2.1?classifier=sources

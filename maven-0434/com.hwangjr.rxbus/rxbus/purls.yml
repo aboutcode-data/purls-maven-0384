@@ -20,5 +20,6 @@
 - pkg:maven/com.hwangjr.rxbus/rxbus@2.0.1?type=aar
 - pkg:maven/com.hwangjr.rxbus/rxbus@2.0.2?classifier=sources
 - pkg:maven/com.hwangjr.rxbus/rxbus@2.0.2?type=aar
+- pkg:maven/com.hwangjr.rxbus/rxbus@2.0.3?classifier=sources
 - pkg:maven/com.hwangjr.rxbus/rxbus@3.0.0?classifier=sources
 - pkg:maven/com.hwangjr.rxbus/rxbus@3.0.0?type=aar

@@ -9,3 +9,5 @@
 - pkg:maven/com.emarsys/common@2.14.3?classifier=sources
 - pkg:maven/com.emarsys/common@2.15.0?classifier=sources
 - pkg:maven/com.emarsys/common@2.16.0?classifier=sources
+- pkg:maven/com.emarsys/common@3.0.0?classifier=sources
+- pkg:maven/com.emarsys/common@3.0.1?classifier=sources

@@ -9,3 +9,5 @@
 - pkg:maven/com.moengage/core@5.2.00?classifier=sources
 - pkg:maven/com.moengage/core@5.2.01?classifier=sources
 - pkg:maven/com.moengage/core@5.2.02?classifier=sources
+- pkg:maven/com.moengage/core@5.2.03?classifier=sources
+- pkg:maven/com.moengage/core@5.3.00?classifier=sources
