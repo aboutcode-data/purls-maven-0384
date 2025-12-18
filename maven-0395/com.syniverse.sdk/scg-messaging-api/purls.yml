@@ -6,3 +6,5 @@
 - pkg:maven/com.syniverse.sdk/scg-messaging-api@2.0.1.1992?classifier=sources
 - pkg:maven/com.syniverse.sdk/scg-messaging-api@2.2.0.2174
 - pkg:maven/com.syniverse.sdk/scg-messaging-api@2.2.0.2174?classifier=sources
+- pkg:maven/com.syniverse.sdk/scg-messaging-api@2.2.3.1060
+- pkg:maven/com.syniverse.sdk/scg-messaging-api@2.2.3.1060?classifier=sources

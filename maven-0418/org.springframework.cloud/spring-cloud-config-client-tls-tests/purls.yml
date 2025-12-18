@@ -1,3 +1,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-config-client-tls-tests@2.2.5.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-config-client-tls-tests@2.2.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-config-client-tls-tests@2.2.7.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-config-client-tls-tests@3.0.0

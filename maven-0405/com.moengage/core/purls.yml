@@ -1,0 +1,6 @@
+- pkg:maven/com.moengage/core@4.5.00?classifier=sources
+- pkg:maven/com.moengage/core@4.5.00?type=aar
+- pkg:maven/com.moengage/core@4.5.01?classifier=sources
+- pkg:maven/com.moengage/core@5.0.03?classifier=sources
+- pkg:maven/com.moengage/core@5.0.03?type=aar
+- pkg:maven/com.moengage/core@5.0.04?classifier=sources

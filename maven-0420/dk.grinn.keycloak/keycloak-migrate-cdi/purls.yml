@@ -6,3 +6,5 @@
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-cdi@11.0.2?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-cdi@11.0.3.0?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-cdi@11.0.3?classifier=sources
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-cdi@12.0.3.0?classifier=sources
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-cdi@12.0.4.0?classifier=sources

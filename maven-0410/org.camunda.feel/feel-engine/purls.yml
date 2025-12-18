@@ -20,3 +20,7 @@
 - pkg:maven/org.camunda.feel/feel-engine@1.12.3?classifier=sources
 - pkg:maven/org.camunda.feel/feel-engine@1.12.4
 - pkg:maven/org.camunda.feel/feel-engine@1.12.4?classifier=sources
+- pkg:maven/org.camunda.feel/feel-engine@1.13.0
+- pkg:maven/org.camunda.feel/feel-engine@1.13.0?classifier=sources
+- pkg:maven/org.camunda.feel/feel-engine@1.13.1
+- pkg:maven/org.camunda.feel/feel-engine@1.13.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kordamp.maven/pomchecker-toolprovider@1.1.0
+- pkg:maven/org.kordamp.maven/pomchecker-toolprovider@1.1.0?classifier=sources

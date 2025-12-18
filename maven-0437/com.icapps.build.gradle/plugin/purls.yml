@@ -1,0 +1,1 @@
+- pkg:maven/com.icapps.build.gradle/plugin@3.1.0?classifier=sources

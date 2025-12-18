@@ -1,0 +1,2 @@
+- pkg:maven/io.holunda.decision.lib/camunda-decision-lib-h2@0.0.1
+- pkg:maven/io.holunda.decision.lib/camunda-decision-lib-h2@0.0.1?classifier=sources

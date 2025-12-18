@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.qos.evaluation/openurp-qos-evaluation-questionnaire@0.0.19
+- pkg:maven/org.openurp.qos.evaluation/openurp-qos-evaluation-questionnaire@0.0.19?classifier=sources

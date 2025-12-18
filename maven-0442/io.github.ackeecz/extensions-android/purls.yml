@@ -1,0 +1,4 @@
+- pkg:maven/io.github.ackeecz/extensions-android@1.4.0?classifier=sources
+- pkg:maven/io.github.ackeecz/extensions-android@1.5.0?classifier=sources
+- pkg:maven/io.github.ackeecz/extensions-android@2.0.0?classifier=sources
+- pkg:maven/io.github.ackeecz/extensions-android@2.0.1?classifier=sources

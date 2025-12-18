@@ -1,0 +1,2 @@
+- pkg:maven/net.mamoe/kotlin-jvm-blocking-bridge-compiler@1.10.3-dev-2?classifier=sources
+- pkg:maven/net.mamoe/kotlin-jvm-blocking-bridge-compiler@1.10.3?classifier=sources

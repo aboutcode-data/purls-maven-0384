@@ -1,0 +1,2 @@
+- pkg:maven/io.github.scrapy4j/scrapy4j-xxljob@1.0.0
+- pkg:maven/io.github.scrapy4j/scrapy4j-xxljob@1.0.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bowergithub.mrrio/jspdf@1.4.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.mrrio/jspdf@1.4.1
 - pkg:maven/org.webjars.bowergithub.mrrio/jspdf@1.4.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.mrrio/jspdf@2.3.1
+- pkg:maven/org.webjars.bowergithub.mrrio/jspdf@2.3.1?classifier=sources

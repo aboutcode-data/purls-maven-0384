@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate.orm/hibernate-micrometer@6.0.0.Alpha7
+- pkg:maven/org.hibernate.orm/hibernate-micrometer@6.0.0.Alpha7?classifier=sources

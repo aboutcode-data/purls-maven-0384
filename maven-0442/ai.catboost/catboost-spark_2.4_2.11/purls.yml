@@ -1,0 +1,2 @@
+- pkg:maven/ai.catboost/catboost-spark_2.4_2.11@0.25
+- pkg:maven/ai.catboost/catboost-spark_2.4_2.11@0.25?classifier=sources

@@ -26,3 +26,7 @@
 - pkg:maven/io.cordite.braid/braid-corda@5.0.0-RC04?classifier=sources
 - pkg:maven/io.cordite.braid/braid-corda@5.0.0-RC05
 - pkg:maven/io.cordite.braid/braid-corda@5.0.0-RC05?classifier=sources
+- pkg:maven/io.cordite.braid/braid-corda@5.0.0-RC06
+- pkg:maven/io.cordite.braid/braid-corda@5.0.0-RC06?classifier=sources
+- pkg:maven/io.cordite.braid/braid-corda@5.0.0-RC07
+- pkg:maven/io.cordite.braid/braid-corda@5.0.0-RC07?classifier=sources

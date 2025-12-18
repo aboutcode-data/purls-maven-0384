@@ -1,1 +1,2 @@
 - pkg:maven/nl.elements.mobilization/logging@0.2.0?classifier=sources
+- pkg:maven/nl.elements.mobilization/logging@0.3.0?classifier=sources

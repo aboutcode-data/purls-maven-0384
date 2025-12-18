@@ -76,3 +76,11 @@
 - pkg:maven/org.kie.server/kie-server-controller-openshift@7.47.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-controller-openshift@7.48.0.Final
 - pkg:maven/org.kie.server/kie-server-controller-openshift@7.48.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-controller-openshift@7.49.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-openshift@7.49.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-controller-openshift@7.50.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-openshift@7.50.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-controller-openshift@7.51.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-openshift@7.51.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-controller-openshift@7.52.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-openshift@7.52.0.Final?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/org.openidentityplatform.openig/openig-project@5.0.10?classifier=src&type=zip
 - pkg:maven/org.openidentityplatform.openig/openig-project@5.0.9?classifier=src&type=zip

@@ -164,6 +164,8 @@
 - pkg:maven/io.gravitee.repository/gravitee-repository@3.0.7?classifier=sources
 - pkg:maven/io.gravitee.repository/gravitee-repository@3.0.8
 - pkg:maven/io.gravitee.repository/gravitee-repository@3.0.8?classifier=sources
+- pkg:maven/io.gravitee.repository/gravitee-repository@3.0.9
+- pkg:maven/io.gravitee.repository/gravitee-repository@3.0.9?classifier=sources
 - pkg:maven/io.gravitee.repository/gravitee-repository@3.1.0
 - pkg:maven/io.gravitee.repository/gravitee-repository@3.1.0?classifier=sources
 - pkg:maven/io.gravitee.repository/gravitee-repository@3.1.1
@@ -184,5 +186,13 @@
 - pkg:maven/io.gravitee.repository/gravitee-repository@3.3.1?classifier=sources
 - pkg:maven/io.gravitee.repository/gravitee-repository@3.4.0
 - pkg:maven/io.gravitee.repository/gravitee-repository@3.4.0?classifier=sources
+- pkg:maven/io.gravitee.repository/gravitee-repository@3.4.1
+- pkg:maven/io.gravitee.repository/gravitee-repository@3.4.1?classifier=sources
 - pkg:maven/io.gravitee.repository/gravitee-repository@3.5.0
 - pkg:maven/io.gravitee.repository/gravitee-repository@3.5.0?classifier=sources
+- pkg:maven/io.gravitee.repository/gravitee-repository@3.5.1
+- pkg:maven/io.gravitee.repository/gravitee-repository@3.5.1?classifier=sources
+- pkg:maven/io.gravitee.repository/gravitee-repository@3.6.0
+- pkg:maven/io.gravitee.repository/gravitee-repository@3.6.0?classifier=sources
+- pkg:maven/io.gravitee.repository/gravitee-repository@3.7.0
+- pkg:maven/io.gravitee.repository/gravitee-repository@3.7.0?classifier=sources

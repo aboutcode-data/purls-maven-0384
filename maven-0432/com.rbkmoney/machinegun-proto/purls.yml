@@ -1,2 +1,4 @@
 - pkg:maven/com.rbkmoney/machinegun-proto@1.18-d814d69
 - pkg:maven/com.rbkmoney/machinegun-proto@1.18-d814d69?classifier=sources
+- pkg:maven/com.rbkmoney/machinegun-proto@1.19-f77367a
+- pkg:maven/com.rbkmoney/machinegun-proto@1.19-f77367a?classifier=sources

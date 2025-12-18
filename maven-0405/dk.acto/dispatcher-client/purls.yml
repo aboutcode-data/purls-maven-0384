@@ -1,0 +1,12 @@
+- pkg:maven/dk.acto/dispatcher-client@1.1.72.429cef5
+- pkg:maven/dk.acto/dispatcher-client@1.1.72.429cef5?classifier=sources
+- pkg:maven/dk.acto/dispatcher-client@1.1.73.cb2f6f2
+- pkg:maven/dk.acto/dispatcher-client@1.1.73.cb2f6f2?classifier=sources
+- pkg:maven/dk.acto/dispatcher-client@1.1.74.b162ddb
+- pkg:maven/dk.acto/dispatcher-client@1.1.74.b162ddb?classifier=sources
+- pkg:maven/dk.acto/dispatcher-client@1.1.75.ea1ceaf
+- pkg:maven/dk.acto/dispatcher-client@1.1.75.ea1ceaf?classifier=sources
+- pkg:maven/dk.acto/dispatcher-client@1.1.76.f0551d0
+- pkg:maven/dk.acto/dispatcher-client@1.1.76.f0551d0?classifier=sources
+- pkg:maven/dk.acto/dispatcher-client@1.1.77.da7122d
+- pkg:maven/dk.acto/dispatcher-client@1.1.77.da7122d?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ch.poole.android/numberpickerpreference@2.0.1?classifier=sources
+- pkg:maven/ch.poole.android/numberpickerpreference@2.0.1?type=aar

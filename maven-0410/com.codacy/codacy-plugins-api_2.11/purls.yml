@@ -104,3 +104,7 @@
 - pkg:maven/com.codacy/codacy-plugins-api_2.11@5.1.0?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins-api_2.11@5.2.0
 - pkg:maven/com.codacy/codacy-plugins-api_2.11@5.2.0?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-api_2.11@5.3.0
+- pkg:maven/com.codacy/codacy-plugins-api_2.11@5.3.0?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-api_2.11@5.3.1
+- pkg:maven/com.codacy/codacy-plugins-api_2.11@5.3.1?classifier=sources

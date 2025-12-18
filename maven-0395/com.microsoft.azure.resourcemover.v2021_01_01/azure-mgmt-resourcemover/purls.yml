@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.resourcemover.v2021_01_01/azure-mgmt-resourcemover@1.0.0
+- pkg:maven/com.microsoft.azure.resourcemover.v2021_01_01/azure-mgmt-resourcemover@1.0.0?classifier=sources

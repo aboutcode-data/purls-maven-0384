@@ -20,3 +20,7 @@
 - pkg:maven/io.openmessaging/openmessaging-api-samples@2.1.0-pubsub?classifier=sources
 - pkg:maven/io.openmessaging/openmessaging-api-samples@2.1.1-pubsub
 - pkg:maven/io.openmessaging/openmessaging-api-samples@2.1.1-pubsub?classifier=sources
+- pkg:maven/io.openmessaging/openmessaging-api-samples@2.2.0-pubsub
+- pkg:maven/io.openmessaging/openmessaging-api-samples@2.2.0-pubsub?classifier=sources
+- pkg:maven/io.openmessaging/openmessaging-api-samples@2.2.1-pubsub
+- pkg:maven/io.openmessaging/openmessaging-api-samples@2.2.1-pubsub?classifier=sources

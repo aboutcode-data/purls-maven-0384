@@ -1,0 +1,4 @@
+- pkg:maven/ru.ztrap.tools/validate-mapper-gson@1.0.8
+- pkg:maven/ru.ztrap.tools/validate-mapper-gson@1.0.8?classifier=sources
+- pkg:maven/ru.ztrap.tools/validate-mapper-gson@1.0.9
+- pkg:maven/ru.ztrap.tools/validate-mapper-gson@1.0.9?classifier=sources

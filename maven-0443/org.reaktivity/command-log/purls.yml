@@ -165,6 +165,8 @@
 - pkg:maven/org.reaktivity/command-log@0.85?classifier=sources
 - pkg:maven/org.reaktivity/command-log@0.86
 - pkg:maven/org.reaktivity/command-log@0.86?classifier=sources
+- pkg:maven/org.reaktivity/command-log@0.87
+- pkg:maven/org.reaktivity/command-log@0.87?classifier=sources
 - pkg:maven/org.reaktivity/command-log@0.8?classifier=sources
 - pkg:maven/org.reaktivity/command-log@0.9
 - pkg:maven/org.reaktivity/command-log@0.9?classifier=sources

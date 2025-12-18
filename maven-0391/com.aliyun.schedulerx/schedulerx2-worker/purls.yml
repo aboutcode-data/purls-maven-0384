@@ -59,4 +59,6 @@
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-worker@1.2.3.1?classifier=sources
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-worker@1.2.3?classifier=sources
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-worker@1.2.4
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-worker@1.2.4.3
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-worker@1.2.4.3?classifier=sources
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-worker@1.2.4?classifier=sources

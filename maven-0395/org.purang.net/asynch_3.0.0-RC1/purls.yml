@@ -1,0 +1,4 @@
+- pkg:maven/org.purang.net/asynch_3.0.0-RC1@3.0.0-RC1
+- pkg:maven/org.purang.net/asynch_3.0.0-RC1@3.0.0-RC1?classifier=sources
+- pkg:maven/org.purang.net/asynch_3.0.0-RC1@3.0.0-RC3
+- pkg:maven/org.purang.net/asynch_3.0.0-RC1@3.0.0-RC3?classifier=sources

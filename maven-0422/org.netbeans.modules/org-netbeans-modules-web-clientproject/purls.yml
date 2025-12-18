@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE123?classifier=sources

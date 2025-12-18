@@ -20,3 +20,5 @@
 - pkg:maven/org.eclipse.jkube/jkube-kit-enricher-generic@1.0.2?classifier=sources
 - pkg:maven/org.eclipse.jkube/jkube-kit-enricher-generic@1.1.0
 - pkg:maven/org.eclipse.jkube/jkube-kit-enricher-generic@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.jkube/jkube-kit-enricher-generic@1.1.1
+- pkg:maven/org.eclipse.jkube/jkube-kit-enricher-generic@1.1.1?classifier=sources

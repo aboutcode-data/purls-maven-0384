@@ -1,0 +1,10 @@
+- pkg:maven/org.bitsofinfo/docker-discovery-registrator-consul@1.0-RC1
+- pkg:maven/org.bitsofinfo/docker-discovery-registrator-consul@1.0-RC1?classifier=sources
+- pkg:maven/org.bitsofinfo/docker-discovery-registrator-consul@1.0-RC2
+- pkg:maven/org.bitsofinfo/docker-discovery-registrator-consul@1.0-RC2?classifier=sources
+- pkg:maven/org.bitsofinfo/docker-discovery-registrator-consul@1.0-RC3
+- pkg:maven/org.bitsofinfo/docker-discovery-registrator-consul@1.0-RC3?classifier=sources
+- pkg:maven/org.bitsofinfo/docker-discovery-registrator-consul@1.0-RC4
+- pkg:maven/org.bitsofinfo/docker-discovery-registrator-consul@1.0-RC4-20210205
+- pkg:maven/org.bitsofinfo/docker-discovery-registrator-consul@1.0-RC4-20210205?classifier=sources
+- pkg:maven/org.bitsofinfo/docker-discovery-registrator-consul@1.0-RC4?classifier=sources

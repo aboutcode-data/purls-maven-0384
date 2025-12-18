@@ -7,6 +7,9 @@
 - pkg:maven/com.liferay/com.liferay.account.api@1.1.0
 - pkg:maven/com.liferay/com.liferay.account.api@1.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.api@1.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.account.api@1.10.0
+- pkg:maven/com.liferay/com.liferay.account.api@1.10.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.account.api@1.10.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.account.api@1.2.0
 - pkg:maven/com.liferay/com.liferay.account.api@1.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.api@1.2.0?classifier=sources-commercial
@@ -52,3 +55,6 @@
 - pkg:maven/com.liferay/com.liferay.account.api@1.9.4
 - pkg:maven/com.liferay/com.liferay.account.api@1.9.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.api@1.9.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.account.api@2.0.0
+- pkg:maven/com.liferay/com.liferay.account.api@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.account.api@2.0.0?classifier=sources-commercial

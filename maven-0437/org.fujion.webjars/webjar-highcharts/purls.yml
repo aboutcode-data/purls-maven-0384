@@ -3,3 +3,4 @@
 - pkg:maven/org.fujion.webjars/webjar-highcharts@7.0.3
 - pkg:maven/org.fujion.webjars/webjar-highcharts@8.1.2
 - pkg:maven/org.fujion.webjars/webjar-highcharts@8.2.0
+- pkg:maven/org.fujion.webjars/webjar-highcharts@9.0.1

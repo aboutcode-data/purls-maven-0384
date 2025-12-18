@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.util@3.5.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.util@3.5.300
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.util@3.5.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi.util@3.6.0
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi.util@3.6.0?classifier=sources

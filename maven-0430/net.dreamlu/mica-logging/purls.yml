@@ -1,0 +1,4 @@
+- pkg:maven/net.dreamlu/mica-logging@2.4.3-GA
+- pkg:maven/net.dreamlu/mica-logging@2.4.3-GA?classifier=sources
+- pkg:maven/net.dreamlu/mica-logging@2.4.4-GA
+- pkg:maven/net.dreamlu/mica-logging@2.4.4-GA?classifier=sources

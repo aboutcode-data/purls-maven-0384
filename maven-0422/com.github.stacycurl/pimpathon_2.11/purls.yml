@@ -1,0 +1,4 @@
+- pkg:maven/com.github.stacycurl/pimpathon_2.11@1.8.27
+- pkg:maven/com.github.stacycurl/pimpathon_2.11@1.8.27?classifier=sources
+- pkg:maven/com.github.stacycurl/pimpathon_2.11@1.8.28
+- pkg:maven/com.github.stacycurl/pimpathon_2.11@1.8.28?classifier=sources

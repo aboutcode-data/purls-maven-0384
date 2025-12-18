@@ -40,3 +40,5 @@
 - pkg:maven/io.helidon.microprofile.jwt/helidon-microprofile-jwt-auth-cdi@1.4.6?classifier=sources
 - pkg:maven/io.helidon.microprofile.jwt/helidon-microprofile-jwt-auth-cdi@1.4.7
 - pkg:maven/io.helidon.microprofile.jwt/helidon-microprofile-jwt-auth-cdi@1.4.7?classifier=sources
+- pkg:maven/io.helidon.microprofile.jwt/helidon-microprofile-jwt-auth-cdi@1.4.8
+- pkg:maven/io.helidon.microprofile.jwt/helidon-microprofile-jwt-auth-cdi@1.4.8?classifier=sources

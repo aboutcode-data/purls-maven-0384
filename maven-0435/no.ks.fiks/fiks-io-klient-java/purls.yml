@@ -31,6 +31,10 @@
 - pkg:maven/no.ks.fiks/fiks-io-klient-java@1.2.23?classifier=sources
 - pkg:maven/no.ks.fiks/fiks-io-klient-java@1.2.24
 - pkg:maven/no.ks.fiks/fiks-io-klient-java@1.2.24?classifier=sources
+- pkg:maven/no.ks.fiks/fiks-io-klient-java@1.2.25
+- pkg:maven/no.ks.fiks/fiks-io-klient-java@1.2.25?classifier=sources
+- pkg:maven/no.ks.fiks/fiks-io-klient-java@1.2.26
+- pkg:maven/no.ks.fiks/fiks-io-klient-java@1.2.26?classifier=sources
 - pkg:maven/no.ks.fiks/fiks-io-klient-java@1.2.2?classifier=sources
 - pkg:maven/no.ks.fiks/fiks-io-klient-java@1.2.3
 - pkg:maven/no.ks.fiks/fiks-io-klient-java@1.2.3?classifier=sources

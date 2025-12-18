@@ -1,0 +1,6 @@
+- pkg:maven/xyz.erupt/erupt-magic-api@1.6.10
+- pkg:maven/xyz.erupt/erupt-magic-api@1.6.10?classifier=sources
+- pkg:maven/xyz.erupt/erupt-magic-api@1.6.11
+- pkg:maven/xyz.erupt/erupt-magic-api@1.6.11?classifier=sources
+- pkg:maven/xyz.erupt/erupt-magic-api@1.6.12
+- pkg:maven/xyz.erupt/erupt-magic-api@1.6.12?classifier=sources

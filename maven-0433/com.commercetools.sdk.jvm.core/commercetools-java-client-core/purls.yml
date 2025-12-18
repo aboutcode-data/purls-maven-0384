@@ -128,8 +128,14 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.55.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.56.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.56.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.58.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.58.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.59.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.59.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.6.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.6.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.60.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.60.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.7.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.7.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-core@1.8.0

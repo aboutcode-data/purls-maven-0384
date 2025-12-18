@@ -1,0 +1,2 @@
+- pkg:maven/net.gmcbm.dependencies/minecraft-timings@1.0.4
+- pkg:maven/net.gmcbm.dependencies/minecraft-timings@1.0.4?classifier=sources

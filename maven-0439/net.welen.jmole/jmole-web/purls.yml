@@ -18,3 +18,5 @@
 - pkg:maven/net.welen.jmole/jmole-web@1.5.2?type=war
 - pkg:maven/net.welen.jmole/jmole-web@1.5.3?classifier=sources
 - pkg:maven/net.welen.jmole/jmole-web@1.5.3?type=war
+- pkg:maven/net.welen.jmole/jmole-web@1.5.4?classifier=sources
+- pkg:maven/net.welen.jmole/jmole-web@1.5.4?type=war

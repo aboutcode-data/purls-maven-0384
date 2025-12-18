@@ -9,3 +9,4 @@
 - pkg:maven/com.sumologic.sumobot/sumobot_2.12@1.0.7
 - pkg:maven/com.sumologic.sumobot/sumobot_2.12@1.0.7?classifier=sources
 - pkg:maven/com.sumologic.sumobot/sumobot_2.12@1.0.8?classifier=sources
+- pkg:maven/com.sumologic.sumobot/sumobot_2.12@1.0.9?classifier=sources

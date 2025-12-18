@@ -13,3 +13,7 @@
 - pkg:maven/com.aoindustries/ao-net-types-book@1.2.2?classifier=sources
 - pkg:maven/com.aoindustries/ao-net-types-book@1.2.3
 - pkg:maven/com.aoindustries/ao-net-types-book@1.2.3?classifier=sources
+- pkg:maven/com.aoindustries/ao-net-types-book@1.2.4
+- pkg:maven/com.aoindustries/ao-net-types-book@1.2.4?classifier=sources
+- pkg:maven/com.aoindustries/ao-net-types-book@1.3.0
+- pkg:maven/com.aoindustries/ao-net-types-book@1.3.0?classifier=sources

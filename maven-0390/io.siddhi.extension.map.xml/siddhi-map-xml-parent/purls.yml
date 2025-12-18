@@ -3,3 +3,4 @@
 - pkg:maven/io.siddhi.extension.map.xml/siddhi-map-xml-parent@5.0.4?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.map.xml/siddhi-map-xml-parent@5.1.0?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.map.xml/siddhi-map-xml-parent@5.2.0?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.map.xml/siddhi-map-xml-parent@5.2.1?classifier=source-release&type=zip

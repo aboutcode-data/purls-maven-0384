@@ -1,4 +1,12 @@
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@3.21.0
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@3.21.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@3.22.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@3.22.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@3.23.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@3.23.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@6.5.0
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@6.5.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@6.6.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@6.6.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@6.7.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-zookeeper@6.7.0?classifier=sources

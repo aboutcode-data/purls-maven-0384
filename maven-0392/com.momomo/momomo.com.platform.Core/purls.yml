@@ -1,0 +1,2 @@
+- pkg:maven/com.momomo/momomo.com.platform.Core@1.2.7
+- pkg:maven/com.momomo/momomo.com.platform.Core@1.2.7?classifier=sources

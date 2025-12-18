@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zero-deps/proto-macros_2.13@2.0.4.gdde2aab
+- pkg:maven/io.github.zero-deps/proto-macros_2.13@2.0.4.gdde2aab?classifier=sources

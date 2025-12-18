@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE123?classifier=sources

@@ -15,3 +15,6 @@
 - pkg:maven/org.wso2.transport.file/file-parent@6.0.67?classifier=source-release&type=zip
 - pkg:maven/org.wso2.transport.file/file-parent@6.0.68?classifier=source-release&type=zip
 - pkg:maven/org.wso2.transport.file/file-parent@6.0.69?classifier=source-release&type=zip
+- pkg:maven/org.wso2.transport.file/file-parent@6.0.70?classifier=source-release&type=zip
+- pkg:maven/org.wso2.transport.file/file-parent@6.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.transport.file/file-parent@6.1.1?classifier=source-release&type=zip

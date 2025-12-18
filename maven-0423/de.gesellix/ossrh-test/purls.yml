@@ -1,0 +1,5 @@
+- pkg:maven/de.gesellix/ossrh-test@0.0.3?classifier=sources
+- pkg:maven/de.gesellix/ossrh-test@0.0.7?classifier=sources
+- pkg:maven/de.gesellix/ossrh-test@0.0.8?classifier=sources
+- pkg:maven/de.gesellix/ossrh-test@2021-02-16T12-43-56?classifier=sources
+- pkg:maven/de.gesellix/ossrh-test@2021-02-16T12-54-56?classifier=sources

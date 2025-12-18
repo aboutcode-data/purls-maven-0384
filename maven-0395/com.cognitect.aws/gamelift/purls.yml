@@ -26,3 +26,7 @@
 - pkg:maven/com.cognitect.aws/gamelift@809.2.784.0?classifier=sources
 - pkg:maven/com.cognitect.aws/gamelift@810.2.801.0
 - pkg:maven/com.cognitect.aws/gamelift@810.2.801.0?classifier=sources
+- pkg:maven/com.cognitect.aws/gamelift@811.2.844.0
+- pkg:maven/com.cognitect.aws/gamelift@811.2.844.0?classifier=sources
+- pkg:maven/com.cognitect.aws/gamelift@811.2.865.0
+- pkg:maven/com.cognitect.aws/gamelift@811.2.865.0?classifier=sources

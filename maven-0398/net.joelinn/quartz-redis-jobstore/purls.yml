@@ -42,3 +42,5 @@
 - pkg:maven/net.joelinn/quartz-redis-jobstore@1.1.8?classifier=sources
 - pkg:maven/net.joelinn/quartz-redis-jobstore@1.1.9
 - pkg:maven/net.joelinn/quartz-redis-jobstore@1.1.9?classifier=sources
+- pkg:maven/net.joelinn/quartz-redis-jobstore@1.2.0
+- pkg:maven/net.joelinn/quartz-redis-jobstore@1.2.0?classifier=sources

@@ -2,3 +2,9 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/mirror-subclass-plugin@1.25.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/mirror-subclass-plugin@1.56.0
 - pkg:maven/com.commercetools.sdk.jvm.core/mirror-subclass-plugin@1.56.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/mirror-subclass-plugin@1.58.0
+- pkg:maven/com.commercetools.sdk.jvm.core/mirror-subclass-plugin@1.58.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/mirror-subclass-plugin@1.59.0
+- pkg:maven/com.commercetools.sdk.jvm.core/mirror-subclass-plugin@1.59.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/mirror-subclass-plugin@1.60.0
+- pkg:maven/com.commercetools.sdk.jvm.core/mirror-subclass-plugin@1.60.0?classifier=sources

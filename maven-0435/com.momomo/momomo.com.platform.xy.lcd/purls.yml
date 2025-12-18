@@ -1,0 +1,4 @@
+- pkg:maven/com.momomo/momomo.com.platform.xy.lcd@2.0.6
+- pkg:maven/com.momomo/momomo.com.platform.xy.lcd@2.0.6?classifier=sources
+- pkg:maven/com.momomo/momomo.com.platform.xy.lcd@2.0.8
+- pkg:maven/com.momomo/momomo.com.platform.xy.lcd@2.0.8?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.theokanning.openai-gpt3-java/client@0.0.0
+- pkg:maven/com.theokanning.openai-gpt3-java/client@0.0.0?classifier=sources
+- pkg:maven/com.theokanning.openai-gpt3-java/client@0.1.0
+- pkg:maven/com.theokanning.openai-gpt3-java/client@0.1.0?classifier=sources
+- pkg:maven/com.theokanning.openai-gpt3-java/client@0.2.0
+- pkg:maven/com.theokanning.openai-gpt3-java/client@0.2.0?classifier=sources
+- pkg:maven/com.theokanning.openai-gpt3-java/client@0.3.0
+- pkg:maven/com.theokanning.openai-gpt3-java/client@0.3.0?classifier=sources
+- pkg:maven/com.theokanning.openai-gpt3-java/client@0.4.0
+- pkg:maven/com.theokanning.openai-gpt3-java/client@0.4.0?classifier=sources

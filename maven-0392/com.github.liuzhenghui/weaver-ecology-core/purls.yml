@@ -8,3 +8,5 @@
 - pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2003.13.3?classifier=sources
 - pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2003.13.4
 - pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2003.13.4?classifier=sources
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2008.11.1
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2008.11.1?classifier=sources

@@ -49,6 +49,9 @@
 - pkg:maven/com.elepy/elepy-basic@3.0.0-alpha-21
 - pkg:maven/com.elepy/elepy-basic@3.0.0-alpha-22
 - pkg:maven/com.elepy/elepy-basic@3.0.0-alpha-23
+- pkg:maven/com.elepy/elepy-basic@3.0.0-alpha-24
+- pkg:maven/com.elepy/elepy-basic@3.0.0-alpha-25
+- pkg:maven/com.elepy/elepy-basic@3.0.0-alpha-26
 - pkg:maven/com.elepy/elepy-basic@3.0.0-alpha-3
 - pkg:maven/com.elepy/elepy-basic@3.0.0-alpha-4
 - pkg:maven/com.elepy/elepy-basic@3.0.0-alpha-5

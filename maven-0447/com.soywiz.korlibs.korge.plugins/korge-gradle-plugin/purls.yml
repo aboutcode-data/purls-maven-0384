@@ -1,0 +1,2 @@
+- pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@2.0.9.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@2.0.9.1?classifier=sources

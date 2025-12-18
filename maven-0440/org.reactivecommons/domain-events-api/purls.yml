@@ -60,3 +60,5 @@
 - pkg:maven/org.reactivecommons/domain-events-api@1.0.0-beta2?classifier=sources
 - pkg:maven/org.reactivecommons/domain-events-api@1.0.0-beta3
 - pkg:maven/org.reactivecommons/domain-events-api@1.0.0-beta3?classifier=sources
+- pkg:maven/org.reactivecommons/domain-events-api@1.0.0-beta5
+- pkg:maven/org.reactivecommons/domain-events-api@1.0.0-beta5?classifier=sources

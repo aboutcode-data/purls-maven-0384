@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-project@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-project@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-project@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-project@RELEASE123?classifier=sources

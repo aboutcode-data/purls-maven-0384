@@ -1,0 +1,2 @@
+- pkg:maven/de.schegge/double-array-trie@0.1.2
+- pkg:maven/de.schegge/double-array-trie@0.1.2?classifier=sources

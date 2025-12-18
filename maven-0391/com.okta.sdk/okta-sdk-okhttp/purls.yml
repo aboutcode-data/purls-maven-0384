@@ -14,5 +14,9 @@
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@1.5.4?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@1.6.0
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@2.0.0
+- pkg:maven/com.okta.sdk/okta-sdk-okhttp@2.0.1
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@3.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@3.0.1
+- pkg:maven/com.okta.sdk/okta-sdk-okhttp@3.0.2
+- pkg:maven/com.okta.sdk/okta-sdk-okhttp@3.0.3
+- pkg:maven/com.okta.sdk/okta-sdk-okhttp@3.1.0

@@ -124,3 +124,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@6.0.6
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@6.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@6.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@7.0.0
+- pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@7.0.0?classifier=sources-commercial

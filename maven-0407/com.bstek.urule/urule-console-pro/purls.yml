@@ -64,3 +64,5 @@
 - pkg:maven/com.bstek.urule/urule-console-pro@3.0.0-RC4
 - pkg:maven/com.bstek.urule/urule-console-pro@3.0.0-RC4?classifier=sources
 - pkg:maven/com.bstek.urule/urule-console-pro@3.0.0?classifier=sources
+- pkg:maven/com.bstek.urule/urule-console-pro@3.0.1
+- pkg:maven/com.bstek.urule/urule-console-pro@3.0.1?classifier=sources
