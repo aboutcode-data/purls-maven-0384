@@ -57,6 +57,8 @@
 - pkg:maven/org.jppf/jppf-node@6.0.1?classifier=sources
 - pkg:maven/org.jppf/jppf-node@6.0.2
 - pkg:maven/org.jppf/jppf-node@6.0.2?classifier=sources
+- pkg:maven/org.jppf/jppf-node@6.0.3
+- pkg:maven/org.jppf/jppf-node@6.0.3?classifier=sources
 - pkg:maven/org.jppf/jppf-node@6.0?classifier=sources
 - pkg:maven/org.jppf/jppf-node@6.1
 - pkg:maven/org.jppf/jppf-node@6.1-alpha
@@ -65,4 +67,8 @@
 - pkg:maven/org.jppf/jppf-node@6.1-alpha?classifier=sources
 - pkg:maven/org.jppf/jppf-node@6.1-beta
 - pkg:maven/org.jppf/jppf-node@6.1-beta?classifier=sources
+- pkg:maven/org.jppf/jppf-node@6.1.1
+- pkg:maven/org.jppf/jppf-node@6.1.1?classifier=sources
 - pkg:maven/org.jppf/jppf-node@6.1?classifier=sources
+- pkg:maven/org.jppf/jppf-node@6.2-alpha
+- pkg:maven/org.jppf/jppf-node@6.2-alpha?classifier=sources

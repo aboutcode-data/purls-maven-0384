@@ -1,0 +1,4 @@
+- pkg:maven/ru.ilb.common/common-test@1.29
+- pkg:maven/ru.ilb.common/common-test@1.29?classifier=sources
+- pkg:maven/ru.ilb.common/common-test@1.30
+- pkg:maven/ru.ilb.common/common-test@1.30?classifier=sources

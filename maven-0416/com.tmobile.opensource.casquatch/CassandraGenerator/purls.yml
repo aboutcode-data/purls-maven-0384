@@ -1,0 +1,2 @@
+- pkg:maven/com.tmobile.opensource.casquatch/CassandraGenerator@1.4-RELEASE
+- pkg:maven/com.tmobile.opensource.casquatch/CassandraGenerator@1.4-RELEASE?classifier=sources

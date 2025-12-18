@@ -1,0 +1,6 @@
+- pkg:maven/com.xmllondon/xqrs-gradle-plugin@0.9.9
+- pkg:maven/com.xmllondon/xqrs-gradle-plugin@0.9.9?classifier=sources
+- pkg:maven/com.xmllondon/xqrs-gradle-plugin@1.0.0
+- pkg:maven/com.xmllondon/xqrs-gradle-plugin@1.0.0?classifier=sources
+- pkg:maven/com.xmllondon/xqrs-gradle-plugin@1.0.2
+- pkg:maven/com.xmllondon/xqrs-gradle-plugin@1.0.2?classifier=sources

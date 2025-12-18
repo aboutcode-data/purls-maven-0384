@@ -22,3 +22,5 @@
 - pkg:maven/com.ejlchina/bean-searcher@1.4.2?classifier=sources
 - pkg:maven/com.ejlchina/bean-searcher@1.4.3
 - pkg:maven/com.ejlchina/bean-searcher@1.4.3?classifier=sources
+- pkg:maven/com.ejlchina/bean-searcher@2.0.0
+- pkg:maven/com.ejlchina/bean-searcher@2.0.0?classifier=sources

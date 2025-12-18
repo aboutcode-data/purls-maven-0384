@@ -1,0 +1,2 @@
+- pkg:maven/io.github.eisop/framework@3.0.0-b2
+- pkg:maven/io.github.eisop/framework@3.0.0-b2?classifier=sources

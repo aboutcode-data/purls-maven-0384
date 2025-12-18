@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.cdap/cdap-hbase-compat-1.0-cdh@6.0.0
+- pkg:maven/io.cdap.cdap/cdap-hbase-compat-1.0-cdh@6.0.0?classifier=sources

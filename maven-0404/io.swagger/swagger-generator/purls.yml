@@ -32,6 +32,12 @@
 - pkg:maven/io.swagger/swagger-generator@2.4.3?type=war
 - pkg:maven/io.swagger/swagger-generator@2.4.4?classifier=sources
 - pkg:maven/io.swagger/swagger-generator@2.4.4?type=war
+- pkg:maven/io.swagger/swagger-generator@2.4.5?classifier=sources
+- pkg:maven/io.swagger/swagger-generator@2.4.5?type=war
+- pkg:maven/io.swagger/swagger-generator@2.4.6?classifier=sources
+- pkg:maven/io.swagger/swagger-generator@2.4.6?type=war
+- pkg:maven/io.swagger/swagger-generator@2.4.7?classifier=sources
+- pkg:maven/io.swagger/swagger-generator@2.4.7?type=war
 - pkg:maven/io.swagger/swagger-generator@3.0.0-rc0?classifier=sources
 - pkg:maven/io.swagger/swagger-generator@3.0.0-rc0?type=war
 - pkg:maven/io.swagger/swagger-generator@3.0.0-rc1?classifier=sources

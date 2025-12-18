@@ -54,6 +54,12 @@
 - pkg:maven/org.webjars.npm/lodash@4.17.10?classifier=sources
 - pkg:maven/org.webjars.npm/lodash@4.17.11
 - pkg:maven/org.webjars.npm/lodash@4.17.11?classifier=sources
+- pkg:maven/org.webjars.npm/lodash@4.17.13
+- pkg:maven/org.webjars.npm/lodash@4.17.13?classifier=sources
+- pkg:maven/org.webjars.npm/lodash@4.17.14
+- pkg:maven/org.webjars.npm/lodash@4.17.14?classifier=sources
+- pkg:maven/org.webjars.npm/lodash@4.17.15
+- pkg:maven/org.webjars.npm/lodash@4.17.15?classifier=sources
 - pkg:maven/org.webjars.npm/lodash@4.17.2
 - pkg:maven/org.webjars.npm/lodash@4.17.2?classifier=sources
 - pkg:maven/org.webjars.npm/lodash@4.17.3

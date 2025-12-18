@@ -1,0 +1,2 @@
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-scala_2.13.0-RC3@2.9.9
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-scala_2.13.0-RC3@2.9.9?classifier=sources

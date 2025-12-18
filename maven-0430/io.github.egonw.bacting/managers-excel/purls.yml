@@ -1,0 +1,2 @@
+- pkg:maven/io.github.egonw.bacting/managers-excel@0.0.7
+- pkg:maven/io.github.egonw.bacting/managers-excel@0.0.7?classifier=sources

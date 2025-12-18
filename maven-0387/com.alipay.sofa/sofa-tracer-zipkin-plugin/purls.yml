@@ -8,5 +8,11 @@
 - pkg:maven/com.alipay.sofa/sofa-tracer-zipkin-plugin@2.3.3?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-tracer-zipkin-plugin@2.3.4
 - pkg:maven/com.alipay.sofa/sofa-tracer-zipkin-plugin@2.3.4?classifier=sources
+- pkg:maven/com.alipay.sofa/sofa-tracer-zipkin-plugin@2.4.0
+- pkg:maven/com.alipay.sofa/sofa-tracer-zipkin-plugin@2.4.0?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-tracer-zipkin-plugin@3.0.3
 - pkg:maven/com.alipay.sofa/sofa-tracer-zipkin-plugin@3.0.3?classifier=sources
+- pkg:maven/com.alipay.sofa/sofa-tracer-zipkin-plugin@3.0.4
+- pkg:maven/com.alipay.sofa/sofa-tracer-zipkin-plugin@3.0.4?classifier=sources
+- pkg:maven/com.alipay.sofa/sofa-tracer-zipkin-plugin@3.0.5
+- pkg:maven/com.alipay.sofa/sofa-tracer-zipkin-plugin@3.0.5?classifier=sources

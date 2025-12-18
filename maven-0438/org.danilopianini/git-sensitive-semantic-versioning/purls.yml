@@ -1,0 +1,2 @@
+- pkg:maven/org.danilopianini/git-sensitive-semantic-versioning@0.1.0
+- pkg:maven/org.danilopianini/git-sensitive-semantic-versioning@0.1.0?classifier=sources

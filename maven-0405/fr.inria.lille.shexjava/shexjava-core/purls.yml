@@ -15,4 +15,12 @@
 - pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2.2a?classifier=sources
 - pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2.2b
 - pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2.2b?classifier=sources
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2.2c
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2.2c?classifier=sources
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2.2d
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2.2d?classifier=sources
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2.2e
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2.2e?classifier=sources
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2.3
+- pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2.3?classifier=sources
 - pkg:maven/fr.inria.lille.shexjava/shexjava-core@1.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.okapi.applications/lynx-web-war@1.1.7?classifier=sources
 - pkg:maven/net.sf.okapi.applications/lynx-web-war@1.1.7?type=war
+- pkg:maven/net.sf.okapi.applications/lynx-web-war@1.1.9?classifier=sources
+- pkg:maven/net.sf.okapi.applications/lynx-web-war@1.1.9?type=war

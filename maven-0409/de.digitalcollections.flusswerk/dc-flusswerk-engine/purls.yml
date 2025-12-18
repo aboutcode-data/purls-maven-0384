@@ -16,3 +16,7 @@
 - pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-engine@2.2.0?classifier=sources
 - pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-engine@2.2.1
 - pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-engine@2.2.1?classifier=sources
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-engine@2.3.0
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-engine@2.3.0?classifier=sources
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-engine@3.0.0
+- pkg:maven/de.digitalcollections.flusswerk/dc-flusswerk-engine@3.0.0?classifier=sources

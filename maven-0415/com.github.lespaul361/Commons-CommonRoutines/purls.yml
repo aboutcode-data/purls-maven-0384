@@ -6,3 +6,7 @@
 - pkg:maven/com.github.lespaul361/Commons-CommonRoutines@1.2.2?classifier=sources
 - pkg:maven/com.github.lespaul361/Commons-CommonRoutines@1.2.3
 - pkg:maven/com.github.lespaul361/Commons-CommonRoutines@1.2.3?classifier=sources
+- pkg:maven/com.github.lespaul361/Commons-CommonRoutines@1.5.0
+- pkg:maven/com.github.lespaul361/Commons-CommonRoutines@1.5.0?classifier=sources
+- pkg:maven/com.github.lespaul361/Commons-CommonRoutines@1.6.0
+- pkg:maven/com.github.lespaul361/Commons-CommonRoutines@1.6.0?classifier=sources

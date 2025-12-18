@@ -1,0 +1,2 @@
+- pkg:maven/com.v2hoping/spring-boot-starter-flymock@0.1.1
+- pkg:maven/com.v2hoping/spring-boot-starter-flymock@0.1.1?classifier=sources

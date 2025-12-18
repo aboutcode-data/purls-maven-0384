@@ -1,0 +1,8 @@
+- pkg:maven/com.github.yeecode.objectLogger/ObjectLoggerClient@1.0.4
+- pkg:maven/com.github.yeecode.objectLogger/ObjectLoggerClient@1.0.4?classifier=sources
+- pkg:maven/com.github.yeecode.objectLogger/ObjectLoggerClient@2.2.0
+- pkg:maven/com.github.yeecode.objectLogger/ObjectLoggerClient@2.2.0?classifier=sources
+- pkg:maven/com.github.yeecode.objectLogger/ObjectLoggerClient@2.3.0
+- pkg:maven/com.github.yeecode.objectLogger/ObjectLoggerClient@2.3.0?classifier=sources
+- pkg:maven/com.github.yeecode.objectLogger/ObjectLoggerClient@3.0.0
+- pkg:maven/com.github.yeecode.objectLogger/ObjectLoggerClient@3.0.0?classifier=sources

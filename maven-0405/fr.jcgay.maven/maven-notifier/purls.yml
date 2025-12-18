@@ -9,3 +9,4 @@
 - pkg:maven/fr.jcgay.maven/maven-notifier@1.9.1?classifier=sources
 - pkg:maven/fr.jcgay.maven/maven-notifier@1.9?classifier=sources
 - pkg:maven/fr.jcgay.maven/maven-notifier@2.0.0?classifier=sources
+- pkg:maven/fr.jcgay.maven/maven-notifier@2.1.0?classifier=sources

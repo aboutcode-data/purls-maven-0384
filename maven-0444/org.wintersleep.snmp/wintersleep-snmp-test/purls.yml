@@ -1,0 +1,2 @@
+- pkg:maven/org.wintersleep.snmp/wintersleep-snmp-test@0.25
+- pkg:maven/org.wintersleep.snmp/wintersleep-snmp-test@0.25?classifier=sources

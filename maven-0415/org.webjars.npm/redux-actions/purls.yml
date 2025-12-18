@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/redux-actions@0.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/redux-actions@2.6.4
 - pkg:maven/org.webjars.npm/redux-actions@2.6.4?classifier=sources
+- pkg:maven/org.webjars.npm/redux-actions@2.6.5
+- pkg:maven/org.webjars.npm/redux-actions@2.6.5?classifier=sources

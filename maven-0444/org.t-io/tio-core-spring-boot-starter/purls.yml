@@ -1,0 +1,4 @@
+- pkg:maven/org.t-io/tio-core-spring-boot-starter@3.3.4.v20190705-RELEASE
+- pkg:maven/org.t-io/tio-core-spring-boot-starter@3.3.4.v20190705-RELEASE?classifier=sources
+- pkg:maven/org.t-io/tio-core-spring-boot-starter@3.3.5.v20190712-RELEASE
+- pkg:maven/org.t-io/tio-core-spring-boot-starter@3.3.5.v20190712-RELEASE?classifier=sources

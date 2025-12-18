@@ -46,3 +46,5 @@
 - pkg:maven/net.dreamlu/JFinal-event@2.2.1?classifier=sources
 - pkg:maven/net.dreamlu/JFinal-event@2.2.2
 - pkg:maven/net.dreamlu/JFinal-event@2.2.2?classifier=sources
+- pkg:maven/net.dreamlu/JFinal-event@2.3.0
+- pkg:maven/net.dreamlu/JFinal-event@2.3.0?classifier=sources

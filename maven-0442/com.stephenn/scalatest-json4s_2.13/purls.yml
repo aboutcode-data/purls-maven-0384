@@ -1,0 +1,2 @@
+- pkg:maven/com.stephenn/scalatest-json4s_2.13@0.0.3
+- pkg:maven/com.stephenn/scalatest-json4s_2.13@0.0.3?classifier=sources

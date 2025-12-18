@@ -8,3 +8,7 @@
 - pkg:maven/org.fusesource.mvnplugins/smartics-jboss-modules-maven-plugin@1.38?classifier=sources
 - pkg:maven/org.fusesource.mvnplugins/smartics-jboss-modules-maven-plugin@1.39
 - pkg:maven/org.fusesource.mvnplugins/smartics-jboss-modules-maven-plugin@1.39?classifier=sources
+- pkg:maven/org.fusesource.mvnplugins/smartics-jboss-modules-maven-plugin@1.44
+- pkg:maven/org.fusesource.mvnplugins/smartics-jboss-modules-maven-plugin@1.44?classifier=sources
+- pkg:maven/org.fusesource.mvnplugins/smartics-jboss-modules-maven-plugin@1.45
+- pkg:maven/org.fusesource.mvnplugins/smartics-jboss-modules-maven-plugin@1.45?classifier=sources

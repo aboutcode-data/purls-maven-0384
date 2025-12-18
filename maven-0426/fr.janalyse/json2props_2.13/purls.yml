@@ -1,0 +1,2 @@
+- pkg:maven/fr.janalyse/json2props_2.13@0.5.1
+- pkg:maven/fr.janalyse/json2props_2.13@0.5.1?classifier=sources

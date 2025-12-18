@@ -16,3 +16,5 @@
 - pkg:maven/kg.apc/jmeter-plugins-casutg@2.7?classifier=sources
 - pkg:maven/kg.apc/jmeter-plugins-casutg@2.8
 - pkg:maven/kg.apc/jmeter-plugins-casutg@2.8?classifier=sources
+- pkg:maven/kg.apc/jmeter-plugins-casutg@2.9
+- pkg:maven/kg.apc/jmeter-plugins-casutg@2.9?classifier=sources

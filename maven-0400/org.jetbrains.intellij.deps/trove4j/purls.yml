@@ -1,2 +1,4 @@
 - pkg:maven/org.jetbrains.intellij.deps/trove4j@1.0.20181211
 - pkg:maven/org.jetbrains.intellij.deps/trove4j@1.0.20181211?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/trove4j@1.0.20190514
+- pkg:maven/org.jetbrains.intellij.deps/trove4j@1.0.20190514?classifier=sources

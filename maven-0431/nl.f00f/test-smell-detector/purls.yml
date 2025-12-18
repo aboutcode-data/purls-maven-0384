@@ -1,0 +1,6 @@
+- pkg:maven/nl.f00f/test-smell-detector@0.0.1
+- pkg:maven/nl.f00f/test-smell-detector@0.0.1?classifier=sources
+- pkg:maven/nl.f00f/test-smell-detector@0.0.2
+- pkg:maven/nl.f00f/test-smell-detector@0.0.2?classifier=sources
+- pkg:maven/nl.f00f/test-smell-detector@0.0.3
+- pkg:maven/nl.f00f/test-smell-detector@0.0.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/ru.blizzed/justopenpdf@0.1.0?classifier=sources
+- pkg:maven/ru.blizzed/justopenpdf@0.1.0?type=aar
+- pkg:maven/ru.blizzed/justopenpdf@1.0.0?classifier=sources
+- pkg:maven/ru.blizzed/justopenpdf@1.0.0?type=aar

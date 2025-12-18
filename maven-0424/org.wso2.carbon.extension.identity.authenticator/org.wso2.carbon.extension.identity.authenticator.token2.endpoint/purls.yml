@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.token2.endpoint@1.0.0?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.token2.endpoint@1.0.0?type=war

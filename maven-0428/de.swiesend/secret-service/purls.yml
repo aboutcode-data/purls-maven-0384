@@ -2,3 +2,5 @@
 - pkg:maven/de.swiesend/secret-service@1.0.0-RC.1?classifier=sources
 - pkg:maven/de.swiesend/secret-service@1.0.0-RC.2
 - pkg:maven/de.swiesend/secret-service@1.0.0-RC.2?classifier=sources
+- pkg:maven/de.swiesend/secret-service@1.0.0-RC.3
+- pkg:maven/de.swiesend/secret-service@1.0.0-RC.3?classifier=sources

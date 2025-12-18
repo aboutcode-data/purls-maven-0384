@@ -1,0 +1,2 @@
+- pkg:maven/org.axonframework.extensions.cdi/axon-cdi@4.1-alpha1
+- pkg:maven/org.axonframework.extensions.cdi/axon-cdi@4.1-alpha1?classifier=sources

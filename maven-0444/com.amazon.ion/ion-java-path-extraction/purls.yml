@@ -1,0 +1,2 @@
+- pkg:maven/com.amazon.ion/ion-java-path-extraction@1.2.0
+- pkg:maven/com.amazon.ion/ion-java-path-extraction@1.2.0?classifier=sources

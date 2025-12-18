@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/scalaz-zio-stacktracer_2.12@1.0-RC6
+- pkg:maven/dev.zio/scalaz-zio-stacktracer_2.12@1.0-RC6?classifier=sources

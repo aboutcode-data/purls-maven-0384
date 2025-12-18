@@ -118,3 +118,17 @@
 - pkg:maven/name.remal/public-data@2019.3.29-231508?classifier=sources
 - pkg:maven/name.remal/public-data@2019.3.8-215011
 - pkg:maven/name.remal/public-data@2019.3.8-215011?classifier=sources
+- pkg:maven/name.remal/public-data@2019.4.23-221244
+- pkg:maven/name.remal/public-data@2019.4.23-221244?classifier=sources
+- pkg:maven/name.remal/public-data@2019.5.17-214013
+- pkg:maven/name.remal/public-data@2019.5.17-214013?classifier=sources
+- pkg:maven/name.remal/public-data@2019.5.31-205514
+- pkg:maven/name.remal/public-data@2019.5.31-205514?classifier=sources
+- pkg:maven/name.remal/public-data@2019.5.4-202106
+- pkg:maven/name.remal/public-data@2019.5.4-202106?classifier=sources
+- pkg:maven/name.remal/public-data@2019.5.9-144013
+- pkg:maven/name.remal/public-data@2019.5.9-144013?classifier=sources
+- pkg:maven/name.remal/public-data@2019.6.13-204513
+- pkg:maven/name.remal/public-data@2019.6.13-204513?classifier=sources
+- pkg:maven/name.remal/public-data@2019.7.5-214510
+- pkg:maven/name.remal/public-data@2019.7.5-214510?classifier=sources

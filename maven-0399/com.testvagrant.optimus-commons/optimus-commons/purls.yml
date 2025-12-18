@@ -10,3 +10,5 @@
 - pkg:maven/com.testvagrant.optimus-commons/optimus-commons@1.0.4?classifier=sources
 - pkg:maven/com.testvagrant.optimus-commons/optimus-commons@2.2.1
 - pkg:maven/com.testvagrant.optimus-commons/optimus-commons@2.2.1?classifier=sources
+- pkg:maven/com.testvagrant.optimus-commons/optimus-commons@3.0
+- pkg:maven/com.testvagrant.optimus-commons/optimus-commons@3.0?classifier=sources

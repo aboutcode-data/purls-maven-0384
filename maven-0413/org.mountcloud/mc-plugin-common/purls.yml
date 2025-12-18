@@ -1,0 +1,2 @@
+- pkg:maven/org.mountcloud/mc-plugin-common@1.13-R0.1-SNAPSHOT-v1.0
+- pkg:maven/org.mountcloud/mc-plugin-common@1.13-R0.1-SNAPSHOT-v1.0?classifier=sources

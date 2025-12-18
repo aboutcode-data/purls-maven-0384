@@ -1,0 +1,4 @@
+- pkg:maven/org.ujorm/ujo-web@1.90.1
+- pkg:maven/org.ujorm/ujo-web@1.90.1?classifier=sources
+- pkg:maven/org.ujorm/ujo-web@1.91
+- pkg:maven/org.ujorm/ujo-web@1.91?classifier=sources

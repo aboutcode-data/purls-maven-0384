@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-symfony@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-symfony@RELEASE110?classifier=sources

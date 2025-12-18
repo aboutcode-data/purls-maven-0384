@@ -1,0 +1,6 @@
+- pkg:maven/com.carrotsearch/procfork@1.0.0.rc1
+- pkg:maven/com.carrotsearch/procfork@1.0.0.rc1?classifier=sources
+- pkg:maven/com.carrotsearch/procfork@1.0.2
+- pkg:maven/com.carrotsearch/procfork@1.0.2?classifier=sources
+- pkg:maven/com.carrotsearch/procfork@1.0.3
+- pkg:maven/com.carrotsearch/procfork@1.0.3?classifier=sources

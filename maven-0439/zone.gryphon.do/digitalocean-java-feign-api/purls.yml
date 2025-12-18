@@ -1,0 +1,4 @@
+- pkg:maven/zone.gryphon.do/digitalocean-java-feign-api@0.1.4-293d32e
+- pkg:maven/zone.gryphon.do/digitalocean-java-feign-api@0.1.4-293d32e?classifier=sources
+- pkg:maven/zone.gryphon.do/digitalocean-java-feign-api@0.1.6-444a405
+- pkg:maven/zone.gryphon.do/digitalocean-java-feign-api@0.1.6-444a405?classifier=sources

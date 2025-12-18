@@ -1,3 +1,5 @@
 - pkg:maven/com.sap.cloud.server-odata/server-odata-api@18.10.0?classifier=sources
 - pkg:maven/com.sap.cloud.server-odata/server-odata-api@18.11.0?classifier=sources
 - pkg:maven/com.sap.cloud.server-odata/server-odata-api@19.1.0?classifier=sources
+- pkg:maven/com.sap.cloud.server-odata/server-odata-api@19.3.0?classifier=sources
+- pkg:maven/com.sap.cloud.server-odata/server-odata-api@19.4.0?classifier=sources

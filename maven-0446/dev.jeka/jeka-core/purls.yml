@@ -1,0 +1,12 @@
+- pkg:maven/dev.jeka/jeka-core@0.8.0.RC1
+- pkg:maven/dev.jeka/jeka-core@0.8.0.RC1?classifier=sources
+- pkg:maven/dev.jeka/jeka-core@0.8.0.RELEASE
+- pkg:maven/dev.jeka/jeka-core@0.8.0.RELEASE?classifier=sources
+- pkg:maven/dev.jeka/jeka-core@0.8.1.RELEASE
+- pkg:maven/dev.jeka/jeka-core@0.8.1.RELEASE?classifier=sources
+- pkg:maven/dev.jeka/jeka-core@0.8.2.RELEASE
+- pkg:maven/dev.jeka/jeka-core@0.8.2.RELEASE?classifier=sources
+- pkg:maven/dev.jeka/jeka-core@0.8.3.RELEASE
+- pkg:maven/dev.jeka/jeka-core@0.8.3.RELEASE?classifier=sources
+- pkg:maven/dev.jeka/jeka-core@0.8.4.RELEASE
+- pkg:maven/dev.jeka/jeka-core@0.8.4.RELEASE?classifier=sources

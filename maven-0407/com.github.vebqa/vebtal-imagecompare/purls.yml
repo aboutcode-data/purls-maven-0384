@@ -6,3 +6,5 @@
 - pkg:maven/com.github.vebqa/vebtal-imagecompare@0.9.7?classifier=sources
 - pkg:maven/com.github.vebqa/vebtal-imagecompare@0.9.8
 - pkg:maven/com.github.vebqa/vebtal-imagecompare@0.9.8?classifier=sources
+- pkg:maven/com.github.vebqa/vebtal-imagecompare@1.0.0
+- pkg:maven/com.github.vebqa/vebtal-imagecompare@1.0.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.zookeeper/parent@3.5.5?classifier=source-release&type=zip

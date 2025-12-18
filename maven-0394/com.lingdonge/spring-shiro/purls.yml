@@ -1,0 +1,2 @@
+- pkg:maven/com.lingdonge/spring-shiro@3.0.3
+- pkg:maven/com.lingdonge/spring-shiro@3.0.3?classifier=sources

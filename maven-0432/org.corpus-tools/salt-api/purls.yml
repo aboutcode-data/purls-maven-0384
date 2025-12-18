@@ -13,3 +13,4 @@
 - pkg:maven/org.corpus-tools/salt-api@3.3.4?classifier=sources
 - pkg:maven/org.corpus-tools/salt-api@3.3.5?classifier=sources
 - pkg:maven/org.corpus-tools/salt-api@3.3.6?classifier=sources
+- pkg:maven/org.corpus-tools/salt-api@3.3.7?classifier=sources

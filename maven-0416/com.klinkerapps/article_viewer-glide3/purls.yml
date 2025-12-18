@@ -23,3 +23,5 @@
 - pkg:maven/com.klinkerapps/article_viewer-glide3@0.25.2?type=aar
 - pkg:maven/com.klinkerapps/article_viewer-glide3@0.25.3?classifier=sources
 - pkg:maven/com.klinkerapps/article_viewer-glide3@0.25.3?type=aar
+- pkg:maven/com.klinkerapps/article_viewer-glide3@0.26.0?classifier=sources
+- pkg:maven/com.klinkerapps/article_viewer-glide3@0.26.0?type=aar

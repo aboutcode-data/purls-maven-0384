@@ -11,3 +11,4 @@
 - pkg:maven/org.apache.meecrowave/meecrowave@1.2.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.meecrowave/meecrowave@1.2.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.meecrowave/meecrowave@1.2.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.meecrowave/meecrowave@1.2.8?classifier=source-release&type=zip

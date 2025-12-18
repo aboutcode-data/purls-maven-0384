@@ -3,3 +3,4 @@
 - pkg:maven/org.teiid/thorntail-olap@1.0.2
 - pkg:maven/org.teiid/thorntail-olap@1.0.3
 - pkg:maven/org.teiid/thorntail-olap@2.0.0
+- pkg:maven/org.teiid/thorntail-olap@2.1.0

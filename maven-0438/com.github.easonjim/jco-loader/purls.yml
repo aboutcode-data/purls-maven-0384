@@ -1,0 +1,4 @@
+- pkg:maven/com.github.easonjim/jco-loader@3.0.11
+- pkg:maven/com.github.easonjim/jco-loader@3.0.11-rev001
+- pkg:maven/com.github.easonjim/jco-loader@3.0.11-rev001?classifier=sources
+- pkg:maven/com.github.easonjim/jco-loader@3.0.11?classifier=sources

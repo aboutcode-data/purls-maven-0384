@@ -128,6 +128,12 @@
 - pkg:maven/org.springframework.data/spring-data-neo4j@4.2.18.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@4.2.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-neo4j@4.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@4.2.20.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@4.2.20.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@4.2.21.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@4.2.21.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@4.2.22.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@4.2.22.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@4.2.3.RELEASE
 - pkg:maven/org.springframework.data/spring-data-neo4j@4.2.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@4.2.4.RELEASE
@@ -154,6 +160,8 @@
 - pkg:maven/org.springframework.data/spring-data-neo4j@5.0.12.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@5.0.13.RELEASE
 - pkg:maven/org.springframework.data/spring-data-neo4j@5.0.13.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.0.14.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.0.14.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@5.0.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-neo4j@5.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@5.0.3.RELEASE
@@ -182,3 +190,11 @@
 - pkg:maven/org.springframework.data/spring-data-neo4j@5.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@5.1.5.RELEASE
 - pkg:maven/org.springframework.data/spring-data-neo4j@5.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.1.6.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.1.7.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.1.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.1.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.1.9.RELEASE
+- pkg:maven/org.springframework.data/spring-data-neo4j@5.1.9.RELEASE?classifier=sources

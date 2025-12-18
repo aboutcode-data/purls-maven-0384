@@ -1,0 +1,2 @@
+- pkg:maven/ai.foremast.metrics/foremast-spring-4x-k8s-metrics@0.1.6
+- pkg:maven/ai.foremast.metrics/foremast-spring-4x-k8s-metrics@0.1.6?classifier=sources

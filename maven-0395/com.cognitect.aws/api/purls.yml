@@ -42,3 +42,15 @@
 - pkg:maven/com.cognitect.aws/api@0.8.283?classifier=sources
 - pkg:maven/com.cognitect.aws/api@0.8.289
 - pkg:maven/com.cognitect.aws/api@0.8.289?classifier=sources
+- pkg:maven/com.cognitect.aws/api@0.8.292
+- pkg:maven/com.cognitect.aws/api@0.8.292?classifier=sources
+- pkg:maven/com.cognitect.aws/api@0.8.301
+- pkg:maven/com.cognitect.aws/api@0.8.301?classifier=sources
+- pkg:maven/com.cognitect.aws/api@0.8.305
+- pkg:maven/com.cognitect.aws/api@0.8.305?classifier=sources
+- pkg:maven/com.cognitect.aws/api@0.8.335
+- pkg:maven/com.cognitect.aws/api@0.8.335?classifier=sources
+- pkg:maven/com.cognitect.aws/api@0.8.342
+- pkg:maven/com.cognitect.aws/api@0.8.342?classifier=sources
+- pkg:maven/com.cognitect.aws/api@0.8.345
+- pkg:maven/com.cognitect.aws/api@0.8.345?classifier=sources

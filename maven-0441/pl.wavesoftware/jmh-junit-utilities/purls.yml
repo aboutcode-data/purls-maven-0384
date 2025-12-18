@@ -1,2 +1,4 @@
 - pkg:maven/pl.wavesoftware/jmh-junit-utilities@1.0.0
 - pkg:maven/pl.wavesoftware/jmh-junit-utilities@1.0.0?classifier=sources
+- pkg:maven/pl.wavesoftware/jmh-junit-utilities@2.0.0
+- pkg:maven/pl.wavesoftware/jmh-junit-utilities@2.0.0?classifier=sources

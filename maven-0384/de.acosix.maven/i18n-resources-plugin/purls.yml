@@ -1,2 +1,4 @@
 - pkg:maven/de.acosix.maven/i18n-resources-plugin@1.0.0
 - pkg:maven/de.acosix.maven/i18n-resources-plugin@1.0.1
+- pkg:maven/de.acosix.maven/i18n-resources-plugin@1.0.2
+- pkg:maven/de.acosix.maven/i18n-resources-plugin@1.0.3

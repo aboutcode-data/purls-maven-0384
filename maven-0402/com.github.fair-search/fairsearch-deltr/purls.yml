@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fair-search/fairsearch-deltr@1.0.2
+- pkg:maven/com.github.fair-search/fairsearch-deltr@1.0.2?classifier=sources

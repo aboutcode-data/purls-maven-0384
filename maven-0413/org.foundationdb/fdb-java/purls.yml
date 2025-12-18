@@ -4,3 +4,9 @@
 - pkg:maven/org.foundationdb/fdb-java@5.2.8?classifier=sources
 - pkg:maven/org.foundationdb/fdb-java@6.0.15
 - pkg:maven/org.foundationdb/fdb-java@6.0.15?classifier=sources
+- pkg:maven/org.foundationdb/fdb-java@6.0.18
+- pkg:maven/org.foundationdb/fdb-java@6.0.18?classifier=sources
+- pkg:maven/org.foundationdb/fdb-java@6.1.8
+- pkg:maven/org.foundationdb/fdb-java@6.1.8?classifier=sources
+- pkg:maven/org.foundationdb/fdb-java@6.1.9
+- pkg:maven/org.foundationdb/fdb-java@6.1.9?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/pl.decerto.hyperon.persistence/codegen-maven-plugin@0.1.29?classifier=sources
 - pkg:maven/pl.decerto.hyperon.persistence/codegen-maven-plugin@0.1.35
 - pkg:maven/pl.decerto.hyperon.persistence/codegen-maven-plugin@0.1.35?classifier=sources
+- pkg:maven/pl.decerto.hyperon.persistence/codegen-maven-plugin@0.1.36
+- pkg:maven/pl.decerto.hyperon.persistence/codegen-maven-plugin@0.1.36?classifier=sources
+- pkg:maven/pl.decerto.hyperon.persistence/codegen-maven-plugin@0.1.45
+- pkg:maven/pl.decerto.hyperon.persistence/codegen-maven-plugin@0.1.45?classifier=sources

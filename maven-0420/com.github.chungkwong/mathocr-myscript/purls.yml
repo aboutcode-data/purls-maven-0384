@@ -1,0 +1,2 @@
+- pkg:maven/com.github.chungkwong/mathocr-myscript@1.0
+- pkg:maven/com.github.chungkwong/mathocr-myscript@1.0?classifier=sources

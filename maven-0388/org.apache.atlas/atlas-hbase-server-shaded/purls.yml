@@ -6,9 +6,13 @@
 - pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@0.8.2?classifier=sources
 - pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@0.8.3
 - pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@0.8.3?classifier=sources
+- pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@0.8.4
+- pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@0.8.4?classifier=sources
 - pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@1.0.0
 - pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@1.0.0-alpha
 - pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@1.0.0-alpha?classifier=sources
 - pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@1.0.0?classifier=sources
 - pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@1.1.0
 - pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@1.1.0?classifier=sources
+- pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@1.2.0
+- pkg:maven/org.apache.atlas/atlas-hbase-server-shaded@1.2.0?classifier=sources

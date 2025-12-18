@@ -20,3 +20,5 @@
 - pkg:maven/com.igormaznitsa/jcp@6.1.4?classifier=sources
 - pkg:maven/com.igormaznitsa/jcp@7.0.0
 - pkg:maven/com.igormaznitsa/jcp@7.0.0?classifier=sources
+- pkg:maven/com.igormaznitsa/jcp@7.0.1
+- pkg:maven/com.igormaznitsa/jcp@7.0.1?classifier=sources

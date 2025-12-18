@@ -124,3 +124,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-mongodb@6.1.6.RELEASE?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-mongodb@7.0.0.RC2
 - pkg:maven/org.grails/grails-datastore-gorm-mongodb@7.0.0.RC2?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-mongodb@7.0.0.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-mongodb@7.0.0.RELEASE?classifier=sources

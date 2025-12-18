@@ -1,0 +1,4 @@
+- pkg:maven/nl.psek.fitnesse/psek-fitnesse-fixtures-api@2.0.0
+- pkg:maven/nl.psek.fitnesse/psek-fitnesse-fixtures-api@2.0.0?classifier=sources
+- pkg:maven/nl.psek.fitnesse/psek-fitnesse-fixtures-api@2.0.1
+- pkg:maven/nl.psek.fitnesse/psek-fitnesse-fixtures-api@2.0.1?classifier=sources

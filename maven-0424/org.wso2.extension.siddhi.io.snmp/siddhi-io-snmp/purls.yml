@@ -1,2 +1,6 @@
 - pkg:maven/org.wso2.extension.siddhi.io.snmp/siddhi-io-snmp@1.0.0
 - pkg:maven/org.wso2.extension.siddhi.io.snmp/siddhi-io-snmp@1.0.0?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.io.snmp/siddhi-io-snmp@1.0.1
+- pkg:maven/org.wso2.extension.siddhi.io.snmp/siddhi-io-snmp@1.0.1?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.io.snmp/siddhi-io-snmp@2.0.0
+- pkg:maven/org.wso2.extension.siddhi.io.snmp/siddhi-io-snmp@2.0.0?classifier=sources

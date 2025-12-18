@@ -12,3 +12,5 @@
 - pkg:maven/com.nimbusds/infinispan-cachestore-common@2.2?classifier=sources
 - pkg:maven/com.nimbusds/infinispan-cachestore-common@2.3
 - pkg:maven/com.nimbusds/infinispan-cachestore-common@2.3?classifier=sources
+- pkg:maven/com.nimbusds/infinispan-cachestore-common@2.4
+- pkg:maven/com.nimbusds/infinispan-cachestore-common@2.4?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.wikidata.wdtk/wdtk-wikibaseapi@0.10.0
+- pkg:maven/org.wikidata.wdtk/wdtk-wikibaseapi@0.10.0?classifier=sources
 - pkg:maven/org.wikidata.wdtk/wdtk-wikibaseapi@0.5.0
 - pkg:maven/org.wikidata.wdtk/wdtk-wikibaseapi@0.5.0?classifier=sources
 - pkg:maven/org.wikidata.wdtk/wdtk-wikibaseapi@0.6.0

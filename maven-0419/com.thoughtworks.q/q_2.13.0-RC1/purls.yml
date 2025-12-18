@@ -1,0 +1,4 @@
+- pkg:maven/com.thoughtworks.q/q_2.13.0-RC1@1.0.3%2B99-33f62ea0
+- pkg:maven/com.thoughtworks.q/q_2.13.0-RC1@1.0.3%2B99-33f62ea0?classifier=sources
+- pkg:maven/com.thoughtworks.q/q_2.13.0-RC1@1.0.3%2B99-842c1135
+- pkg:maven/com.thoughtworks.q/q_2.13.0-RC1@1.0.3%2B99-842c1135?classifier=sources

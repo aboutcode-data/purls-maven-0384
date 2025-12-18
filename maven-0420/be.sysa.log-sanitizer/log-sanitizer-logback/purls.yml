@@ -1,0 +1,2 @@
+- pkg:maven/be.sysa.log-sanitizer/log-sanitizer-logback@1.0.2-beta
+- pkg:maven/be.sysa.log-sanitizer/log-sanitizer-logback@1.0.2-beta?classifier=sources

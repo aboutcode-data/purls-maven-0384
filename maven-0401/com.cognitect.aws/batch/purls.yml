@@ -2,3 +2,7 @@
 - pkg:maven/com.cognitect.aws/batch@668.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/batch@697.2.391.0
 - pkg:maven/com.cognitect.aws/batch@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/batch@715.2.435.0
+- pkg:maven/com.cognitect.aws/batch@715.2.435.0?classifier=sources
+- pkg:maven/com.cognitect.aws/batch@717.2.443.0
+- pkg:maven/com.cognitect.aws/batch@717.2.443.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.odpi.egeria/open-metadata-conformance-suite@1.0
+- pkg:maven/org.odpi.egeria/open-metadata-conformance-suite@1.0?classifier=sources

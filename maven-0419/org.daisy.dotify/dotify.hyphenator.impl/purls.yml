@@ -8,3 +8,5 @@
 - pkg:maven/org.daisy.dotify/dotify.hyphenator.impl@3.0.0?classifier=sources
 - pkg:maven/org.daisy.dotify/dotify.hyphenator.impl@4.0.0
 - pkg:maven/org.daisy.dotify/dotify.hyphenator.impl@4.0.0?classifier=sources
+- pkg:maven/org.daisy.dotify/dotify.hyphenator.impl@5.0.0
+- pkg:maven/org.daisy.dotify/dotify.hyphenator.impl@5.0.0?classifier=sources

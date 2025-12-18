@@ -6,3 +6,6 @@
 - pkg:maven/io.zipkin.zipkin2/zipkin-lens@2.12.4
 - pkg:maven/io.zipkin.zipkin2/zipkin-lens@2.12.5
 - pkg:maven/io.zipkin.zipkin2/zipkin-lens@2.12.6
+- pkg:maven/io.zipkin.zipkin2/zipkin-lens@2.12.7
+- pkg:maven/io.zipkin.zipkin2/zipkin-lens@2.12.8
+- pkg:maven/io.zipkin.zipkin2/zipkin-lens@2.12.9

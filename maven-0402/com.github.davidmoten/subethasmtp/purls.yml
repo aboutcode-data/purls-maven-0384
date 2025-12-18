@@ -18,3 +18,5 @@
 - pkg:maven/com.github.davidmoten/subethasmtp@4.0-RC8?classifier=sources
 - pkg:maven/com.github.davidmoten/subethasmtp@4.0.1
 - pkg:maven/com.github.davidmoten/subethasmtp@4.0.1?classifier=sources
+- pkg:maven/com.github.davidmoten/subethasmtp@5.0
+- pkg:maven/com.github.davidmoten/subethasmtp@5.0?classifier=sources

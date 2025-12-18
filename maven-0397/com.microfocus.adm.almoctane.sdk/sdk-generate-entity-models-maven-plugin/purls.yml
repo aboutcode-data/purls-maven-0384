@@ -1,0 +1,2 @@
+- pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-generate-entity-models-maven-plugin@12.60.41
+- pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-generate-entity-models-maven-plugin@12.60.41?classifier=sources

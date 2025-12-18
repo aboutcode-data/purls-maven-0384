@@ -2,3 +2,5 @@
 - pkg:maven/com.carrotgarden.maven/maven-plugin-tools-annotations@1.0.20171214023519?classifier=sources
 - pkg:maven/com.carrotgarden.maven/maven-plugin-tools-annotations@1.1.20180226045720
 - pkg:maven/com.carrotgarden.maven/maven-plugin-tools-annotations@1.1.20180226045720?classifier=sources
+- pkg:maven/com.carrotgarden.maven/maven-plugin-tools-annotations@1.2.20190427171248
+- pkg:maven/com.carrotgarden.maven/maven-plugin-tools-annotations@1.2.20190427171248?classifier=sources

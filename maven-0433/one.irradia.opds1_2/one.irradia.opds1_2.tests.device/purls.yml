@@ -1,0 +1,4 @@
+- pkg:maven/one.irradia.opds1_2/one.irradia.opds1_2.tests.device@0.0.3?classifier=sources
+- pkg:maven/one.irradia.opds1_2/one.irradia.opds1_2.tests.device@0.0.3?type=aar
+- pkg:maven/one.irradia.opds1_2/one.irradia.opds1_2.tests.device@0.0.4?classifier=sources
+- pkg:maven/one.irradia.opds1_2/one.irradia.opds1_2.tests.device@0.0.4?type=aar

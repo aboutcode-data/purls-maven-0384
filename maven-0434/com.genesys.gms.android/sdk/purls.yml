@@ -1,3 +1,4 @@
+- pkg:maven/com.genesys.gms.android/sdk@1.0.0?type=aar
 - pkg:maven/com.genesys.gms.android/sdk@8.5.201.00.rev.224?type=aar
 - pkg:maven/com.genesys.gms.android/sdk@8.5.201.00.rev.233?type=aar
 - pkg:maven/com.genesys.gms.android/sdk@8.5.201.00.rev.236?type=aar
@@ -5,3 +6,5 @@
 - pkg:maven/com.genesys.gms.android/sdk@8.5.201.00.rev.245?type=aar
 - pkg:maven/com.genesys.gms.android/sdk@8.5.201.00.rev.247?type=aar
 - pkg:maven/com.genesys.gms.android/sdk@8.5.201.00.rev.267?type=aar
+- pkg:maven/com.genesys.gms.android/sdk@8.5.201.00.rev.8453f22?type=aar
+- pkg:maven/com.genesys.gms.android/sdk@8.5.201.00.rev.dd8ff6c?type=aar

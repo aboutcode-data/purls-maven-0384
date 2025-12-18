@@ -16,3 +16,5 @@
 - pkg:maven/com.amap.api/map3d@4.1.3?classifier=sources
 - pkg:maven/com.amap.api/map3d@5.0.0
 - pkg:maven/com.amap.api/map3d@5.0.0?classifier=sources
+- pkg:maven/com.amap.api/map3d@6.8.0
+- pkg:maven/com.amap.api/map3d@6.8.0?classifier=sources

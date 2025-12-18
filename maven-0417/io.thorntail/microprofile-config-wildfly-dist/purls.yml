@@ -10,3 +10,9 @@
 - pkg:maven/io.thorntail/microprofile-config-wildfly-dist@1.6.1?classifier=src&type=tar.gz
 - pkg:maven/io.thorntail/microprofile-config-wildfly-dist@1.6.1?classifier=src&type=zip
 - pkg:maven/io.thorntail/microprofile-config-wildfly-dist@1.6.1?type=zip
+- pkg:maven/io.thorntail/microprofile-config-wildfly-dist@1.7.0?classifier=src&type=tar.gz
+- pkg:maven/io.thorntail/microprofile-config-wildfly-dist@1.7.0?classifier=src&type=zip
+- pkg:maven/io.thorntail/microprofile-config-wildfly-dist@1.7.0?type=zip
+- pkg:maven/io.thorntail/microprofile-config-wildfly-dist@1.7.1?classifier=src&type=tar.gz
+- pkg:maven/io.thorntail/microprofile-config-wildfly-dist@1.7.1?classifier=src&type=zip
+- pkg:maven/io.thorntail/microprofile-config-wildfly-dist@1.7.1?type=zip

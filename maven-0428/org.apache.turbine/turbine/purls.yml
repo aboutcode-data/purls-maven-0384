@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.turbine/turbine@4.0.1
 - pkg:maven/org.apache.turbine/turbine@4.0.1?classifier=sources
 - pkg:maven/org.apache.turbine/turbine@4.0?classifier=sources
+- pkg:maven/org.apache.turbine/turbine@5.0
+- pkg:maven/org.apache.turbine/turbine@5.0?classifier=sources

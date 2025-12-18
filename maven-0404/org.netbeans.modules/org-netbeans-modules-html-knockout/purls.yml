@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-knockout@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-knockout@RELEASE110?classifier=sources

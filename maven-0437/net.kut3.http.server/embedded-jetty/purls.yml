@@ -1,0 +1,2 @@
+- pkg:maven/net.kut3.http.server/embedded-jetty@0.1.0
+- pkg:maven/net.kut3.http.server/embedded-jetty@0.1.0?classifier=sources

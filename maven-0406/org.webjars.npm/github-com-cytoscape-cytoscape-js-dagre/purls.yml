@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-cytoscape-cytoscape-js-dagre@2.2.2
+- pkg:maven/org.webjars.npm/github-com-cytoscape-cytoscape-js-dagre@2.2.2?classifier=sources

@@ -34,6 +34,8 @@
 - pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@1.8.10?classifier=sources
 - pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@1.8.12
 - pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@1.8.12?classifier=sources
+- pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@1.8.14
+- pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@1.8.14?classifier=sources
 - pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@1.8.2
 - pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@1.8.2?classifier=sources
 - pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@1.8.4

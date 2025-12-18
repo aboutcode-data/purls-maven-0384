@@ -8,3 +8,5 @@
 - pkg:maven/com.speedment.runtime/connector-sqlite@3.1.14?classifier=sources
 - pkg:maven/com.speedment.runtime/connector-sqlite@3.1.15
 - pkg:maven/com.speedment.runtime/connector-sqlite@3.1.15?classifier=sources
+- pkg:maven/com.speedment.runtime/connector-sqlite@3.1.16
+- pkg:maven/com.speedment.runtime/connector-sqlite@3.1.16?classifier=sources

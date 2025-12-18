@@ -1,0 +1,2 @@
+- pkg:maven/org.dspace/dspace-spring-rest@7.0-preview-1?classifier=sources
+- pkg:maven/org.dspace/dspace-spring-rest@7.0-preview-1?type=war

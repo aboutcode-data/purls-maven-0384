@@ -1,2 +1,10 @@
+- pkg:maven/org.webjars.npm/github-com-jsdom-jsdom@0.2.15
+- pkg:maven/org.webjars.npm/github-com-jsdom-jsdom@0.2.15?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-jsdom-jsdom@0.2.18
+- pkg:maven/org.webjars.npm/github-com-jsdom-jsdom@0.2.18?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-jsdom-jsdom@0.2.19
+- pkg:maven/org.webjars.npm/github-com-jsdom-jsdom@0.2.19?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-jsdom-jsdom@0.3.0
+- pkg:maven/org.webjars.npm/github-com-jsdom-jsdom@0.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-jsdom-jsdom@13.2.0
 - pkg:maven/org.webjars.npm/github-com-jsdom-jsdom@13.2.0?classifier=sources
