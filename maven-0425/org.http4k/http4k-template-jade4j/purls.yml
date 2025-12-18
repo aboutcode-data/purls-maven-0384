@@ -1,0 +1,8 @@
+- pkg:maven/org.http4k/http4k-template-jade4j@3.192.0
+- pkg:maven/org.http4k/http4k-template-jade4j@3.192.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jade4j@3.193.0
+- pkg:maven/org.http4k/http4k-template-jade4j@3.193.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jade4j@3.193.1
+- pkg:maven/org.http4k/http4k-template-jade4j@3.193.1?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jade4j@3.194.0
+- pkg:maven/org.http4k/http4k-template-jade4j@3.194.0?classifier=sources

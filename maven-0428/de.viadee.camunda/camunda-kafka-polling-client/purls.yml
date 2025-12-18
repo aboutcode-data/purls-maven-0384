@@ -6,3 +6,7 @@
 - pkg:maven/de.viadee.camunda/camunda-kafka-polling-client@1.1.0?classifier=sources
 - pkg:maven/de.viadee.camunda/camunda-kafka-polling-client@1.1.1
 - pkg:maven/de.viadee.camunda/camunda-kafka-polling-client@1.1.1?classifier=sources
+- pkg:maven/de.viadee.camunda/camunda-kafka-polling-client@1.1.2
+- pkg:maven/de.viadee.camunda/camunda-kafka-polling-client@1.1.2?classifier=sources
+- pkg:maven/de.viadee.camunda/camunda-kafka-polling-client@1.2.0
+- pkg:maven/de.viadee.camunda/camunda-kafka-polling-client@1.2.0?classifier=sources

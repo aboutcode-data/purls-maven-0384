@@ -1,0 +1,2 @@
+- pkg:maven/gr.mmichailidis/amqprunner@1.0.0?classifier=sources
+- pkg:maven/gr.mmichailidis/amqprunner@1.1.0?classifier=sources

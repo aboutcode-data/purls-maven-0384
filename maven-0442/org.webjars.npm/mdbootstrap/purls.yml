@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/mdbootstrap@4.8.8
+- pkg:maven/org.webjars.npm/mdbootstrap@4.8.8?classifier=sources

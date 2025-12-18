@@ -6,3 +6,5 @@
 - pkg:maven/com.exec8/com.xianghy.itextpdf@1.0.5?classifier=sources
 - pkg:maven/com.exec8/com.xianghy.itextpdf@1.7
 - pkg:maven/com.exec8/com.xianghy.itextpdf@1.7?classifier=sources
+- pkg:maven/com.exec8/com.xianghy.itextpdf@1.8
+- pkg:maven/com.exec8/com.xianghy.itextpdf@1.8?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/com.github.cafaudit/caf-audit-service-ui@3.1.0-50?type=war
 - pkg:maven/com.github.cafaudit/caf-audit-service-ui@3.2.0-83?type=war
 - pkg:maven/com.github.cafaudit/caf-audit-service-ui@3.3.0-280?type=war
+- pkg:maven/com.github.cafaudit/caf-audit-service-ui@3.4.0-380?type=war

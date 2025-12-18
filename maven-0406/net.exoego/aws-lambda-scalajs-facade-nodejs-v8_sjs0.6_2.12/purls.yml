@@ -1,0 +1,2 @@
+- pkg:maven/net.exoego/aws-lambda-scalajs-facade-nodejs-v8_sjs0.6_2.12@0.3.3
+- pkg:maven/net.exoego/aws-lambda-scalajs-facade-nodejs-v8_sjs0.6_2.12@0.3.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.daisy.pipeline.build/ds-to-spi-annotations-processor@1.0.0
+- pkg:maven/org.daisy.pipeline.build/ds-to-spi-annotations-processor@1.0.0?classifier=sources

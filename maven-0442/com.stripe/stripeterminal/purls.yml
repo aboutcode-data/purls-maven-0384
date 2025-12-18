@@ -24,3 +24,6 @@
 - pkg:maven/com.stripe/stripeterminal@1.0.0-b7?type=aar
 - pkg:maven/com.stripe/stripeterminal@1.0.0-b8?type=aar
 - pkg:maven/com.stripe/stripeterminal@1.0.0-b9?type=aar
+- pkg:maven/com.stripe/stripeterminal@1.0.0-rc1?type=aar
+- pkg:maven/com.stripe/stripeterminal@1.0.0-rc2?type=aar
+- pkg:maven/com.stripe/stripeterminal@1.0.0?type=aar

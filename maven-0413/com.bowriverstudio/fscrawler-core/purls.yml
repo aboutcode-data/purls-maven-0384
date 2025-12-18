@@ -1,0 +1,2 @@
+- pkg:maven/com.bowriverstudio/fscrawler-core@2.6
+- pkg:maven/com.bowriverstudio/fscrawler-core@2.6?classifier=sources

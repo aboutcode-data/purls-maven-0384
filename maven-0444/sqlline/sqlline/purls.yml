@@ -21,3 +21,6 @@
 - pkg:maven/sqlline/sqlline@1.8.0
 - pkg:maven/sqlline/sqlline@1.8.0?classifier=source-release&type=zip
 - pkg:maven/sqlline/sqlline@1.8.0?classifier=sources
+- pkg:maven/sqlline/sqlline@1.9.0
+- pkg:maven/sqlline/sqlline@1.9.0?classifier=source-release&type=zip
+- pkg:maven/sqlline/sqlline@1.9.0?classifier=sources

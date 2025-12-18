@@ -12,3 +12,4 @@
 - pkg:maven/net.wasdev.wlp.maven/liberty-archetype-ear@2.6.4?classifier=sources
 - pkg:maven/net.wasdev.wlp.maven/liberty-archetype-ear@2.6?classifier=sources
 - pkg:maven/net.wasdev.wlp.maven/liberty-archetype-ear@2.7?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven/liberty-archetype-ear@3.0.M1?classifier=sources

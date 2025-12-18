@@ -1,0 +1,2 @@
+- pkg:maven/top.populus/bees-rocketmq@1.0.3
+- pkg:maven/top.populus/bees-rocketmq@1.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/space.crickets/oauth2-jwt-verifier-springboot@0.1.0
+- pkg:maven/space.crickets/oauth2-jwt-verifier-springboot@0.1.0?classifier=sources

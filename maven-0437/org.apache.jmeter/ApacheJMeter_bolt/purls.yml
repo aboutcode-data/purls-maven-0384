@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.jmeter/ApacheJMeter_bolt@5.2
+- pkg:maven/org.apache.jmeter/ApacheJMeter_bolt@5.2?classifier=sources

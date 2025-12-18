@@ -6,3 +6,7 @@
 - pkg:maven/com.cognitect.aws/elasticmapreduce@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/elasticmapreduce@715.2.433.0
 - pkg:maven/com.cognitect.aws/elasticmapreduce@715.2.433.0?classifier=sources
+- pkg:maven/com.cognitect.aws/elasticmapreduce@742.2.512.0
+- pkg:maven/com.cognitect.aws/elasticmapreduce@742.2.512.0?classifier=sources
+- pkg:maven/com.cognitect.aws/elasticmapreduce@746.2.533.0
+- pkg:maven/com.cognitect.aws/elasticmapreduce@746.2.533.0?classifier=sources

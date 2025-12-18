@@ -10,3 +10,7 @@
 - pkg:maven/cn.signit.sdk/signit-java-sdk@2.1.0?classifier=sources
 - pkg:maven/cn.signit.sdk/signit-java-sdk@2.2.0
 - pkg:maven/cn.signit.sdk/signit-java-sdk@2.2.0?classifier=sources
+- pkg:maven/cn.signit.sdk/signit-java-sdk@2.4.0
+- pkg:maven/cn.signit.sdk/signit-java-sdk@2.4.0?classifier=sources
+- pkg:maven/cn.signit.sdk/signit-java-sdk@2.4.1
+- pkg:maven/cn.signit.sdk/signit-java-sdk@2.4.1?classifier=sources

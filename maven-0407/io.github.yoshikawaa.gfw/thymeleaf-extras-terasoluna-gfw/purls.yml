@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yoshikawaa.gfw/thymeleaf-extras-terasoluna-gfw@1.0.0
+- pkg:maven/io.github.yoshikawaa.gfw/thymeleaf-extras-terasoluna-gfw@1.0.0?classifier=sources

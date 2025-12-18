@@ -1,0 +1,2 @@
+- pkg:maven/company.hnlz/sendmessage@1.0.0
+- pkg:maven/company.hnlz/sendmessage@1.0.0?classifier=sources

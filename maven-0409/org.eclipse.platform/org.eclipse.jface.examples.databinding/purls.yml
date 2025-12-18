@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.examples.databinding@1.0.800?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.examples.databinding@1.1.0
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.examples.databinding@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.jface.examples.databinding@1.1.100
+- pkg:maven/org.eclipse.platform/org.eclipse.jface.examples.databinding@1.1.100?classifier=sources

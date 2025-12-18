@@ -46,3 +46,5 @@
 - pkg:maven/com.microsoft.azure.sdk.iot/iot-deps@0.8.3?classifier=sources
 - pkg:maven/com.microsoft.azure.sdk.iot/iot-deps@0.8.4
 - pkg:maven/com.microsoft.azure.sdk.iot/iot-deps@0.8.4?classifier=sources
+- pkg:maven/com.microsoft.azure.sdk.iot/iot-deps@0.8.5
+- pkg:maven/com.microsoft.azure.sdk.iot/iot-deps@0.8.5?classifier=sources

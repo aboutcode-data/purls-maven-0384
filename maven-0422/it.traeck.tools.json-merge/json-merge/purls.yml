@@ -1,0 +1,4 @@
+- pkg:maven/it.traeck.tools.json-merge/json-merge@1.0.0
+- pkg:maven/it.traeck.tools.json-merge/json-merge@1.0.0?classifier=sources
+- pkg:maven/it.traeck.tools.json-merge/json-merge@1.0.1
+- pkg:maven/it.traeck.tools.json-merge/json-merge@1.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.expedia/graphql-kotlin-federation@1.0.0-RC4
+- pkg:maven/com.expedia/graphql-kotlin-federation@1.0.0-RC4?classifier=sources
+- pkg:maven/com.expedia/graphql-kotlin-federation@1.0.0-RC5
+- pkg:maven/com.expedia/graphql-kotlin-federation@1.0.0-RC5?classifier=sources

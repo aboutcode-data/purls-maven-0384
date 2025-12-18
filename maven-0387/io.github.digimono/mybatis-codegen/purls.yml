@@ -1,0 +1,2 @@
+- pkg:maven/io.github.digimono/mybatis-codegen@0.0.3
+- pkg:maven/io.github.digimono/mybatis-codegen@0.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.pig4cloud/mybatis@0.5.2
+- pkg:maven/com.pig4cloud/mybatis@0.5.2?classifier=sources

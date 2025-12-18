@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nosan/embedded-cassandra-cql@3.0.0.RC2
+- pkg:maven/com.github.nosan/embedded-cassandra-cql@3.0.0.RC2?classifier=sources

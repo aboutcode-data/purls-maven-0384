@@ -1,0 +1,4 @@
+- pkg:maven/co.boorse/selenium-table@1.0
+- pkg:maven/co.boorse/selenium-table@1.0?classifier=sources
+- pkg:maven/co.boorse/selenium-table@1.1
+- pkg:maven/co.boorse/selenium-table@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.bomu/motan@0.1
+- pkg:maven/dev.bomu/motan@0.1?classifier=sources

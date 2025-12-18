@@ -46,3 +46,5 @@
 - pkg:maven/io.github.anand1st/sshd-shell-spring-boot-starter@3.7?classifier=sources
 - pkg:maven/io.github.anand1st/sshd-shell-spring-boot-starter@4.0
 - pkg:maven/io.github.anand1st/sshd-shell-spring-boot-starter@4.0?classifier=sources
+- pkg:maven/io.github.anand1st/sshd-shell-spring-boot-starter@4.1
+- pkg:maven/io.github.anand1st/sshd-shell-spring-boot-starter@4.1?classifier=sources

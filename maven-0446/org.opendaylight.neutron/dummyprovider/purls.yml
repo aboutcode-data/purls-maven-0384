@@ -1,0 +1,10 @@
+- pkg:maven/org.opendaylight.neutron/dummyprovider@0.5.0-Lithium
+- pkg:maven/org.opendaylight.neutron/dummyprovider@0.5.1-Lithium-SR1
+- pkg:maven/org.opendaylight.neutron/dummyprovider@0.5.2-Lithium-SR2
+- pkg:maven/org.opendaylight.neutron/dummyprovider@0.5.3-Lithium-SR3
+- pkg:maven/org.opendaylight.neutron/dummyprovider@0.5.4-Lithium-SR4
+- pkg:maven/org.opendaylight.neutron/dummyprovider@0.6.0-Beryllium
+- pkg:maven/org.opendaylight.neutron/dummyprovider@0.6.1-Beryllium-SR1
+- pkg:maven/org.opendaylight.neutron/dummyprovider@0.6.2-Beryllium-SR2
+- pkg:maven/org.opendaylight.neutron/dummyprovider@0.6.3-Beryllium-SR3
+- pkg:maven/org.opendaylight.neutron/dummyprovider@0.6.4-Beryllium-SR4

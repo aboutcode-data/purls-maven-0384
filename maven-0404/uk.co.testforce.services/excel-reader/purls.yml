@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.testforce.services/excel-reader@1.9.1
+- pkg:maven/uk.co.testforce.services/excel-reader@1.9.1?classifier=sources

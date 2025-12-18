@@ -6,3 +6,7 @@
 - pkg:maven/io.wcm.qa/io.wcm.qa.galenium.integration.resources@0.1.22?classifier=sources
 - pkg:maven/io.wcm.qa/io.wcm.qa.galenium.integration.resources@1.0.0
 - pkg:maven/io.wcm.qa/io.wcm.qa.galenium.integration.resources@1.0.0?classifier=sources
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.integration.resources@2.0.0
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.integration.resources@2.0.0?classifier=sources
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.integration.resources@3.0.0
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.integration.resources@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hal4j/hal4j-api@0.10.0
+- pkg:maven/com.github.hal4j/hal4j-api@0.10.0?classifier=sources

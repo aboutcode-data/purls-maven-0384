@@ -1,0 +1,2 @@
+- pkg:maven/org.bidib.com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.7.26
+- pkg:maven/org.bidib.com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@1.7.26?classifier=sources

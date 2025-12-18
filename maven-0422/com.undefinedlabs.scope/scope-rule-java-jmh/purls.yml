@@ -1,0 +1,4 @@
+- pkg:maven/com.undefinedlabs.scope/scope-rule-java-jmh@0.2.1
+- pkg:maven/com.undefinedlabs.scope/scope-rule-java-jmh@0.2.1-beta.7
+- pkg:maven/com.undefinedlabs.scope/scope-rule-java-jmh@0.2.1-beta.7?classifier=sources
+- pkg:maven/com.undefinedlabs.scope/scope-rule-java-jmh@0.2.1?classifier=sources

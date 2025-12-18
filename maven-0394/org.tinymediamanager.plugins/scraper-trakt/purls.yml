@@ -6,3 +6,5 @@
 - pkg:maven/org.tinymediamanager.plugins/scraper-trakt@1.2?classifier=sources
 - pkg:maven/org.tinymediamanager.plugins/scraper-trakt@3.0
 - pkg:maven/org.tinymediamanager.plugins/scraper-trakt@3.0?classifier=sources
+- pkg:maven/org.tinymediamanager.plugins/scraper-trakt@3.1
+- pkg:maven/org.tinymediamanager.plugins/scraper-trakt@3.1?classifier=sources

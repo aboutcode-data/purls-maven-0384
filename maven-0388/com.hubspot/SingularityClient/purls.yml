@@ -113,6 +113,8 @@
 - pkg:maven/com.hubspot/SingularityClient@0.21.0?classifier=sources
 - pkg:maven/com.hubspot/SingularityClient@0.22.0
 - pkg:maven/com.hubspot/SingularityClient@0.22.0?classifier=sources
+- pkg:maven/com.hubspot/SingularityClient@0.23.0
+- pkg:maven/com.hubspot/SingularityClient@0.23.0?classifier=sources
 - pkg:maven/com.hubspot/SingularityClient@0.3.0
 - pkg:maven/com.hubspot/SingularityClient@0.3.0?classifier=sources
 - pkg:maven/com.hubspot/SingularityClient@0.3.1
@@ -169,3 +171,5 @@
 - pkg:maven/com.hubspot/SingularityClient@0.8.0?classifier=sources
 - pkg:maven/com.hubspot/SingularityClient@0.9.0
 - pkg:maven/com.hubspot/SingularityClient@0.9.0?classifier=sources
+- pkg:maven/com.hubspot/SingularityClient@1.0.0
+- pkg:maven/com.hubspot/SingularityClient@1.0.0?classifier=sources

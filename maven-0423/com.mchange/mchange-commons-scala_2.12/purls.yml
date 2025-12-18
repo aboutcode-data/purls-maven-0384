@@ -1,5 +1,9 @@
 - pkg:maven/com.mchange/mchange-commons-scala_2.12@0.4.10
 - pkg:maven/com.mchange/mchange-commons-scala_2.12@0.4.10?classifier=sources
+- pkg:maven/com.mchange/mchange-commons-scala_2.12@0.4.11
+- pkg:maven/com.mchange/mchange-commons-scala_2.12@0.4.11?classifier=sources
+- pkg:maven/com.mchange/mchange-commons-scala_2.12@0.4.12
+- pkg:maven/com.mchange/mchange-commons-scala_2.12@0.4.12?classifier=sources
 - pkg:maven/com.mchange/mchange-commons-scala_2.12@0.4.3
 - pkg:maven/com.mchange/mchange-commons-scala_2.12@0.4.3?classifier=sources
 - pkg:maven/com.mchange/mchange-commons-scala_2.12@0.4.4

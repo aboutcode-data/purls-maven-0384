@@ -1,0 +1,4 @@
+- pkg:maven/no.nav.syfo.kafka/sykepengesoknadarbeidsledig@406d24a7c97f510d5a49b379f0e172afc75a26fe
+- pkg:maven/no.nav.syfo.kafka/sykepengesoknadarbeidsledig@406d24a7c97f510d5a49b379f0e172afc75a26fe?classifier=sources
+- pkg:maven/no.nav.syfo.kafka/sykepengesoknadarbeidsledig@bd56c603c1c1ef9e6a45920925c5049015b47dfb
+- pkg:maven/no.nav.syfo.kafka/sykepengesoknadarbeidsledig@bd56c603c1c1ef9e6a45920925c5049015b47dfb?classifier=sources

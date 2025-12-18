@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/sdp@1.5.4
+- pkg:maven/org.webjars.npm/sdp@1.5.4?classifier=sources
+- pkg:maven/org.webjars.npm/sdp@2.10.0
+- pkg:maven/org.webjars.npm/sdp@2.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/sdp@2.9.0
 - pkg:maven/org.webjars.npm/sdp@2.9.0?classifier=sources

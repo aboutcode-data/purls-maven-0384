@@ -15,3 +15,10 @@
 - pkg:maven/com.facebook.presto/presto-proxy@0.219?classifier=sources
 - pkg:maven/com.facebook.presto/presto-proxy@0.220?classifier=sources
 - pkg:maven/com.facebook.presto/presto-proxy@0.221?classifier=sources
+- pkg:maven/com.facebook.presto/presto-proxy@0.222?classifier=sources
+- pkg:maven/com.facebook.presto/presto-proxy@0.223.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-proxy@0.223?classifier=sources
+- pkg:maven/com.facebook.presto/presto-proxy@0.224?classifier=sources
+- pkg:maven/com.facebook.presto/presto-proxy@0.225?classifier=sources
+- pkg:maven/com.facebook.presto/presto-proxy@0.226?classifier=sources
+- pkg:maven/com.facebook.presto/presto-proxy@0.227?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/fi.metatavu.wso2.keycloak/keycloak-mediator@1.0.2
+- pkg:maven/fi.metatavu.wso2.keycloak/keycloak-mediator@1.0.2?classifier=sources
+- pkg:maven/fi.metatavu.wso2.keycloak/keycloak-mediator@1.0.9
+- pkg:maven/fi.metatavu.wso2.keycloak/keycloak-mediator@1.0.9?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/grpc@1.11.3?classifier=sources
 - pkg:maven/org.webjars.npm/grpc@1.18.0
 - pkg:maven/org.webjars.npm/grpc@1.18.0?classifier=sources
+- pkg:maven/org.webjars.npm/grpc@1.24.0
+- pkg:maven/org.webjars.npm/grpc@1.24.0?classifier=sources

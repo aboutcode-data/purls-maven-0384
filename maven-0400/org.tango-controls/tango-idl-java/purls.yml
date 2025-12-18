@@ -1,0 +1,2 @@
+- pkg:maven/org.tango-controls/tango-idl-java@5
+- pkg:maven/org.tango-controls/tango-idl-java@5?classifier=sources

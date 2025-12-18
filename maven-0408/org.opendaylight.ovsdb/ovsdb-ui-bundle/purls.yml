@@ -1,0 +1,6 @@
+- pkg:maven/org.opendaylight.ovsdb/ovsdb-ui-bundle@0.1.0-Lithium-SR3
+- pkg:maven/org.opendaylight.ovsdb/ovsdb-ui-bundle@0.1.0-Lithium-SR3?classifier=sources
+- pkg:maven/org.opendaylight.ovsdb/ovsdb-ui-bundle@0.1.1-Lithium-SR4
+- pkg:maven/org.opendaylight.ovsdb/ovsdb-ui-bundle@0.1.1-Lithium-SR4?classifier=sources
+- pkg:maven/org.opendaylight.ovsdb/ovsdb-ui-bundle@1.2.1-Beryllium
+- pkg:maven/org.opendaylight.ovsdb/ovsdb-ui-bundle@1.2.2-Beryllium-SR1

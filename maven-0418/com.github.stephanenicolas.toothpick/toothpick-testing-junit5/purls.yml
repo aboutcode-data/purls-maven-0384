@@ -2,3 +2,13 @@
 - pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@2.0.0?classifier=sources
 - pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@2.1.0
 - pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@2.1.0?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@3.0.0
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@3.0.0-RC1
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@3.0.0-RC1?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@3.0.0?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@3.0.1
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@3.0.1?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@3.0.2
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@3.0.2?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@3.1.0
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-testing-junit5@3.1.0?classifier=sources

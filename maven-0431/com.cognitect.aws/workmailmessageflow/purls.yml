@@ -1,0 +1,4 @@
+- pkg:maven/com.cognitect.aws/workmailmessageflow@742.2.528.0
+- pkg:maven/com.cognitect.aws/workmailmessageflow@742.2.528.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workmailmessageflow@746.2.533.0
+- pkg:maven/com.cognitect.aws/workmailmessageflow@746.2.533.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/se.hackney.vittfaren/vittfaren@1.0.0-RELEASE
+- pkg:maven/se.hackney.vittfaren/vittfaren@1.0.0-RELEASE?classifier=sources

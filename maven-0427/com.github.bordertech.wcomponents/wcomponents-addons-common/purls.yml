@@ -10,3 +10,5 @@
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-addons-common@1.0.4?classifier=sources
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-addons-common@1.0.5
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-addons-common@1.0.5?classifier=sources
+- pkg:maven/com.github.bordertech.wcomponents/wcomponents-addons-common@1.0.6-beta-1
+- pkg:maven/com.github.bordertech.wcomponents/wcomponents-addons-common@1.0.6-beta-1?classifier=sources

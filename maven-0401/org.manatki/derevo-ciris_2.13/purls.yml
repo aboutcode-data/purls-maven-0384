@@ -1,0 +1,6 @@
+- pkg:maven/org.manatki/derevo-ciris_2.13@0.10.2
+- pkg:maven/org.manatki/derevo-ciris_2.13@0.10.2?classifier=sources
+- pkg:maven/org.manatki/derevo-ciris_2.13@0.10.3
+- pkg:maven/org.manatki/derevo-ciris_2.13@0.10.3?classifier=sources
+- pkg:maven/org.manatki/derevo-ciris_2.13@0.10.4
+- pkg:maven/org.manatki/derevo-ciris_2.13@0.10.4?classifier=sources

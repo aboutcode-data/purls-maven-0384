@@ -1,0 +1,4 @@
+- pkg:maven/org.ttzero.plugin/bree-mybatis-maven-plugin@0.1.13
+- pkg:maven/org.ttzero.plugin/bree-mybatis-maven-plugin@0.1.13?classifier=sources
+- pkg:maven/org.ttzero.plugin/bree-mybatis-maven-plugin@0.1.14
+- pkg:maven/org.ttzero.plugin/bree-mybatis-maven-plugin@0.1.14?classifier=sources

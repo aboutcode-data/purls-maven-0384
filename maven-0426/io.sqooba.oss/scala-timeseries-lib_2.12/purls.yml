@@ -1,0 +1,4 @@
+- pkg:maven/io.sqooba.oss/scala-timeseries-lib_2.12@1.0.0
+- pkg:maven/io.sqooba.oss/scala-timeseries-lib_2.12@1.0.0?classifier=sources
+- pkg:maven/io.sqooba.oss/scala-timeseries-lib_2.12@1.1.0
+- pkg:maven/io.sqooba.oss/scala-timeseries-lib_2.12@1.1.0?classifier=sources

@@ -16,3 +16,9 @@
 - pkg:maven/io.github.ForteScarlet.simple-robot-core/component-forhttpapi@0.7.2-BETA-1.2.3-BETA?classifier=sources
 - pkg:maven/io.github.ForteScarlet.simple-robot-core/component-forhttpapi@0.7.2-BETA-1.2.4-BETA
 - pkg:maven/io.github.ForteScarlet.simple-robot-core/component-forhttpapi@0.7.2-BETA-1.2.4-BETA?classifier=sources
+- pkg:maven/io.github.ForteScarlet.simple-robot-core/component-forhttpapi@0.7.2-BETA-1.3-BETA
+- pkg:maven/io.github.ForteScarlet.simple-robot-core/component-forhttpapi@0.7.2-BETA-1.3-BETA?classifier=sources
+- pkg:maven/io.github.ForteScarlet.simple-robot-core/component-forhttpapi@0.7.2-BETA-1.3.5-BETA
+- pkg:maven/io.github.ForteScarlet.simple-robot-core/component-forhttpapi@0.7.2-BETA-1.3.5-BETA?classifier=sources
+- pkg:maven/io.github.ForteScarlet.simple-robot-core/component-forhttpapi@1.0-1.3.5-BETA
+- pkg:maven/io.github.ForteScarlet.simple-robot-core/component-forhttpapi@1.0-1.3.5-BETA?classifier=sources

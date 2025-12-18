@@ -1,0 +1,2 @@
+- pkg:maven/net.cnri/cnri-cors-filter@9.4.15
+- pkg:maven/net.cnri/cnri-cors-filter@9.4.15?classifier=sources

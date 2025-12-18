@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/solonjt.engine.javascript@1.0.1
+- pkg:maven/org.noear/solonjt.engine.javascript@1.0.1?classifier=sources

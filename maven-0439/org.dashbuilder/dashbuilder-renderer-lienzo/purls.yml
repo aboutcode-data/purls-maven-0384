@@ -102,6 +102,12 @@
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.20.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.21.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.21.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.22.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.22.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.23.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.23.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.24.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.24.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.3.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.3.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.4.0.Final
@@ -116,3 +122,5 @@
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.8.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.9.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@2.9.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@7.28.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-lienzo@7.28.0.Final?classifier=sources

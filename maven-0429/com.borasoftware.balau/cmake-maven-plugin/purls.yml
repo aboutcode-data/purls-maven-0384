@@ -4,3 +4,7 @@
 - pkg:maven/com.borasoftware.balau/cmake-maven-plugin@19.6.2?classifier=sources
 - pkg:maven/com.borasoftware.balau/cmake-maven-plugin@19.6.3
 - pkg:maven/com.borasoftware.balau/cmake-maven-plugin@19.6.3?classifier=sources
+- pkg:maven/com.borasoftware.balau/cmake-maven-plugin@19.6.4
+- pkg:maven/com.borasoftware.balau/cmake-maven-plugin@19.6.4?classifier=sources
+- pkg:maven/com.borasoftware.balau/cmake-maven-plugin@19.7.1
+- pkg:maven/com.borasoftware.balau/cmake-maven-plugin@19.7.1?classifier=sources

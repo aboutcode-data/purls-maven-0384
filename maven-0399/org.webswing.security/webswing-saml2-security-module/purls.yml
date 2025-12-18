@@ -1,0 +1,2 @@
+- pkg:maven/org.webswing.security/webswing-saml2-security-module@2.7
+- pkg:maven/org.webswing.security/webswing-saml2-security-module@2.7?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.jdcloud.sdk/iothub@0.6.4?classifier=sources
 - pkg:maven/com.jdcloud.sdk/iothub@0.6.6
 - pkg:maven/com.jdcloud.sdk/iothub@0.6.6?classifier=sources
+- pkg:maven/com.jdcloud.sdk/iothub@1.0.1
+- pkg:maven/com.jdcloud.sdk/iothub@1.0.1?classifier=sources

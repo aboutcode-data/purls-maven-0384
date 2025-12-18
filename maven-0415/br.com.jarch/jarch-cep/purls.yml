@@ -18,5 +18,11 @@
 - pkg:maven/br.com.jarch/jarch-cep@19.5.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-cep@19.6.0
 - pkg:maven/br.com.jarch/jarch-cep@19.6.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-cep@19.7.0
+- pkg:maven/br.com.jarch/jarch-cep@19.7.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-cep@19.8.0
+- pkg:maven/br.com.jarch/jarch-cep@19.8.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-cep@19.9.0
+- pkg:maven/br.com.jarch/jarch-cep@19.9.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-cep@2.23.5
 - pkg:maven/br.com.jarch/jarch-cep@2.23.5?classifier=sources

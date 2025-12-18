@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mengwang0211/easy-message@1.0.0
+- pkg:maven/io.github.mengwang0211/easy-message@1.0.0?classifier=sources

@@ -14,3 +14,13 @@
 - pkg:maven/com.fasterxml.woodstox/woodstox-core@5.2.1?classifier=sources
 - pkg:maven/com.fasterxml.woodstox/woodstox-core@5.3.0
 - pkg:maven/com.fasterxml.woodstox/woodstox-core@5.3.0?classifier=sources
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.0.0
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.0.0.pr1
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.0.0.pr1?classifier=sources
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.0.0.pr2
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.0.0.pr2?classifier=sources
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.0.0?classifier=sources
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.0.1
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.0.1?classifier=sources
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.0.2
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.0.2?classifier=sources

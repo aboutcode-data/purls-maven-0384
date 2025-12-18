@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/firebase__logger@0.1.10
 - pkg:maven/org.webjars.npm/firebase__logger@0.1.10?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__logger@0.1.26
+- pkg:maven/org.webjars.npm/firebase__logger@0.1.26?classifier=sources

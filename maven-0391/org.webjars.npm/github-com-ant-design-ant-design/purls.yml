@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/github-com-ant-design-ant-design@2.10.2?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-ant-design-ant-design@3.13.5
 - pkg:maven/org.webjars.npm/github-com-ant-design-ant-design@3.13.5?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-ant-design-ant-design@3.21.4
+- pkg:maven/org.webjars.npm/github-com-ant-design-ant-design@3.21.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/fr.jmini.htmlchecker/htmlchecker-cli@1.2.0
+- pkg:maven/fr.jmini.htmlchecker/htmlchecker-cli@1.2.0?classifier=sources
+- pkg:maven/fr.jmini.htmlchecker/htmlchecker-cli@1.2.1
+- pkg:maven/fr.jmini.htmlchecker/htmlchecker-cli@1.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.bgpcep/bgp-linkstate-config@0.3.0
+- pkg:maven/org.opendaylight.bgpcep/bgp-linkstate-config@0.3.0?classifier=sources

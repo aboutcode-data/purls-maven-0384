@@ -1,0 +1,2 @@
+- pkg:maven/com.yinxiang/android-sdk@2.0.0-RC4?classifier=sources
+- pkg:maven/com.yinxiang/android-sdk@2.0.0-RC4?type=aar

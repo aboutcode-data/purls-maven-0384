@@ -5,4 +5,6 @@
 - pkg:maven/com.rnkrsoft.platform/interface-platform-client4j-sdk@1.0.2
 - pkg:maven/com.rnkrsoft.platform/interface-platform-client4j-sdk@1.0.2?classifier=sources
 - pkg:maven/com.rnkrsoft.platform/interface-platform-client4j-sdk@1.0.3
+- pkg:maven/com.rnkrsoft.platform/interface-platform-client4j-sdk@1.0.3-fix1
+- pkg:maven/com.rnkrsoft.platform/interface-platform-client4j-sdk@1.0.3-fix1?classifier=sources
 - pkg:maven/com.rnkrsoft.platform/interface-platform-client4j-sdk@1.0.3?classifier=sources

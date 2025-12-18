@@ -1,0 +1,2 @@
+- pkg:maven/au.net.causal.maven.plugins/browserbox-browser-versions@1
+- pkg:maven/au.net.causal.maven.plugins/browserbox-browser-versions@1?classifier=sources

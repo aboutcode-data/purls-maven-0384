@@ -10,3 +10,11 @@
 - pkg:maven/com.didiglobal.booster/booster-task-list-shared-library@0.21.3?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-task-list-shared-library@0.22.0
 - pkg:maven/com.didiglobal.booster/booster-task-list-shared-library@0.22.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-task-list-shared-library@0.23.0
+- pkg:maven/com.didiglobal.booster/booster-task-list-shared-library@0.23.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-task-list-shared-library@0.24.0
+- pkg:maven/com.didiglobal.booster/booster-task-list-shared-library@0.24.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-task-list-shared-library@0.25.0
+- pkg:maven/com.didiglobal.booster/booster-task-list-shared-library@0.25.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-task-list-shared-library@0.26.0
+- pkg:maven/com.didiglobal.booster/booster-task-list-shared-library@0.26.0?classifier=sources

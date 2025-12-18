@@ -1,0 +1,4 @@
+- pkg:maven/ai.faculty/dynamic-configuration_2.11@0.3.2
+- pkg:maven/ai.faculty/dynamic-configuration_2.11@0.3.2?classifier=sources
+- pkg:maven/ai.faculty/dynamic-configuration_2.11@0.3.3
+- pkg:maven/ai.faculty/dynamic-configuration_2.11@0.3.3?classifier=sources

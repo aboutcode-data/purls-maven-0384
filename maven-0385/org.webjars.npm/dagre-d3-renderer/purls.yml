@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/dagre-d3-renderer@0.1.6
 - pkg:maven/org.webjars.npm/dagre-d3-renderer@0.1.6?classifier=sources
+- pkg:maven/org.webjars.npm/dagre-d3-renderer@0.5.8
+- pkg:maven/org.webjars.npm/dagre-d3-renderer@0.5.8?classifier=sources

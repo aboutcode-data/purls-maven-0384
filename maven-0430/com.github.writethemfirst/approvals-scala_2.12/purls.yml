@@ -1,0 +1,4 @@
+- pkg:maven/com.github.writethemfirst/approvals-scala_2.12@0.12.0
+- pkg:maven/com.github.writethemfirst/approvals-scala_2.12@0.12.0?classifier=sources
+- pkg:maven/com.github.writethemfirst/approvals-scala_2.12@0.12.1
+- pkg:maven/com.github.writethemfirst/approvals-scala_2.12@0.12.1?classifier=sources

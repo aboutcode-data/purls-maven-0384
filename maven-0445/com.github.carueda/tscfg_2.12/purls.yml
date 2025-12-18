@@ -15,4 +15,14 @@
 - pkg:maven/com.github.carueda/tscfg_2.12@0.9.7
 - pkg:maven/com.github.carueda/tscfg_2.12@0.9.7?classifier=sources
 - pkg:maven/com.github.carueda/tscfg_2.12@0.9.9
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.91
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.91?classifier=sources
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.92
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.92?classifier=sources
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.93
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.93?classifier=sources
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.94
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.94?classifier=sources
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.95
+- pkg:maven/com.github.carueda/tscfg_2.12@0.9.95?classifier=sources
 - pkg:maven/com.github.carueda/tscfg_2.12@0.9.9?classifier=sources

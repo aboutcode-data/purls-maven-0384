@@ -120,3 +120,9 @@
 - pkg:maven/de.halfbit/magnet-kotlin@3.3-rc3?classifier=sources
 - pkg:maven/de.halfbit/magnet-kotlin@3.3-rc4
 - pkg:maven/de.halfbit/magnet-kotlin@3.3-rc4?classifier=sources
+- pkg:maven/de.halfbit/magnet-kotlin@3.3-rc5
+- pkg:maven/de.halfbit/magnet-kotlin@3.3-rc5?classifier=sources
+- pkg:maven/de.halfbit/magnet-kotlin@3.3-rc6
+- pkg:maven/de.halfbit/magnet-kotlin@3.3-rc6?classifier=sources
+- pkg:maven/de.halfbit/magnet-kotlin@3.3-rc7
+- pkg:maven/de.halfbit/magnet-kotlin@3.3-rc7?classifier=sources
