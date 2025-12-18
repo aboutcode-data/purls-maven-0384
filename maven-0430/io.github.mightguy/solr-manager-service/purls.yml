@@ -1,0 +1,6 @@
+- pkg:maven/io.github.mightguy/solr-manager-service@1.2.20
+- pkg:maven/io.github.mightguy/solr-manager-service@1.2.20?classifier=sources
+- pkg:maven/io.github.mightguy/solr-manager-service@1.2.22
+- pkg:maven/io.github.mightguy/solr-manager-service@1.2.22?classifier=sources
+- pkg:maven/io.github.mightguy/solr-manager-service@1.2.26
+- pkg:maven/io.github.mightguy/solr-manager-service@1.2.26?classifier=sources

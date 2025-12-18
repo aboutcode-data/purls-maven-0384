@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/service-bus-jms-connection-factory@0.0.1
+- pkg:maven/com.microsoft.azure/service-bus-jms-connection-factory@0.0.1?classifier=sources

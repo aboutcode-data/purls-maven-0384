@@ -1,0 +1,2 @@
+- pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq-samples@1.4.2.RELEASE
+- pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq-samples@1.4.2.RELEASE?classifier=sources

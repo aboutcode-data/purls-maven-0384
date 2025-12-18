@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/kendra@780.2.584.0?classifier=sources
 - pkg:maven/com.cognitect.aws/kendra@783.2.587.0
 - pkg:maven/com.cognitect.aws/kendra@783.2.587.0?classifier=sources
+- pkg:maven/com.cognitect.aws/kendra@795.2.648.0
+- pkg:maven/com.cognitect.aws/kendra@795.2.648.0?classifier=sources

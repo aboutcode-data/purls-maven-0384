@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.web/jakarta.servlet.jsp.jstl@1.2.6
 - pkg:maven/org.glassfish.web/jakarta.servlet.jsp.jstl@1.2.6?classifier=sources
+- pkg:maven/org.glassfish.web/jakarta.servlet.jsp.jstl@2.0.0-M1
+- pkg:maven/org.glassfish.web/jakarta.servlet.jsp.jstl@2.0.0-M1?classifier=sources

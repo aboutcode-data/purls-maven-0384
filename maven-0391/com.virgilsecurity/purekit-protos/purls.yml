@@ -1,2 +1,4 @@
 - pkg:maven/com.virgilsecurity/purekit-protos@0.1.0
 - pkg:maven/com.virgilsecurity/purekit-protos@0.1.0?classifier=sources
+- pkg:maven/com.virgilsecurity/purekit-protos@3.0.0
+- pkg:maven/com.virgilsecurity/purekit-protos@3.0.0?classifier=sources

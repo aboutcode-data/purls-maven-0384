@@ -1,0 +1,4 @@
+- pkg:maven/io.fusionauth/fusionauth-plugin-api@1.15.8
+- pkg:maven/io.fusionauth/fusionauth-plugin-api@1.15.8?classifier=sources
+- pkg:maven/io.fusionauth/fusionauth-plugin-api@1.16.0
+- pkg:maven/io.fusionauth/fusionauth-plugin-api@1.16.0?classifier=sources

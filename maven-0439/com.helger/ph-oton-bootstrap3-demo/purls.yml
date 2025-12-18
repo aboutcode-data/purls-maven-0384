@@ -60,3 +60,5 @@
 - pkg:maven/com.helger/ph-oton-bootstrap3-demo@8.2.1?type=war
 - pkg:maven/com.helger/ph-oton-bootstrap3-demo@8.2.2?classifier=sources
 - pkg:maven/com.helger/ph-oton-bootstrap3-demo@8.2.2?type=war
+- pkg:maven/com.helger/ph-oton-bootstrap3-demo@8.2.3?classifier=sources
+- pkg:maven/com.helger/ph-oton-bootstrap3-demo@8.2.3?type=war

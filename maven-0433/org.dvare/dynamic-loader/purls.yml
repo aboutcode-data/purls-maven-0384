@@ -8,3 +8,7 @@
 - pkg:maven/org.dvare/dynamic-loader@1.3?classifier=sources
 - pkg:maven/org.dvare/dynamic-loader@2.0
 - pkg:maven/org.dvare/dynamic-loader@2.0?classifier=sources
+- pkg:maven/org.dvare/dynamic-loader@2.1
+- pkg:maven/org.dvare/dynamic-loader@2.1?classifier=sources
+- pkg:maven/org.dvare/dynamic-loader@3.0
+- pkg:maven/org.dvare/dynamic-loader@3.0?classifier=sources

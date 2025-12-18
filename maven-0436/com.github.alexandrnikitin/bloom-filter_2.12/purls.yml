@@ -4,3 +4,9 @@
 - pkg:maven/com.github.alexandrnikitin/bloom-filter_2.12@0.10.1?classifier=sources
 - pkg:maven/com.github.alexandrnikitin/bloom-filter_2.12@0.11.0
 - pkg:maven/com.github.alexandrnikitin/bloom-filter_2.12@0.11.0?classifier=sources
+- pkg:maven/com.github.alexandrnikitin/bloom-filter_2.12@0.12.0
+- pkg:maven/com.github.alexandrnikitin/bloom-filter_2.12@0.12.0?classifier=sources
+- pkg:maven/com.github.alexandrnikitin/bloom-filter_2.12@0.13.0
+- pkg:maven/com.github.alexandrnikitin/bloom-filter_2.12@0.13.0?classifier=sources
+- pkg:maven/com.github.alexandrnikitin/bloom-filter_2.12@0.13.1
+- pkg:maven/com.github.alexandrnikitin/bloom-filter_2.12@0.13.1?classifier=sources

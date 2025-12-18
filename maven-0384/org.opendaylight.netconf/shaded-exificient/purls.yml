@@ -8,3 +8,6 @@
 - pkg:maven/org.opendaylight.netconf/shaded-exificient@1.7.0
 - pkg:maven/org.opendaylight.netconf/shaded-exificient@1.7.1
 - pkg:maven/org.opendaylight.netconf/shaded-exificient@1.7.2
+- pkg:maven/org.opendaylight.netconf/shaded-exificient@1.8.0
+- pkg:maven/org.opendaylight.netconf/shaded-exificient@1.8.1
+- pkg:maven/org.opendaylight.netconf/shaded-exificient@1.8.1?classifier=sources

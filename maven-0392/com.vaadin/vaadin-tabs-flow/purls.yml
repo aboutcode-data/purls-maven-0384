@@ -26,3 +26,5 @@
 - pkg:maven/com.vaadin/vaadin-tabs-flow@2.0.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-tabs-flow@2.0.4
 - pkg:maven/com.vaadin/vaadin-tabs-flow@2.0.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-tabs-flow@3.0.0
+- pkg:maven/com.vaadin/vaadin-tabs-flow@3.0.0?classifier=sources

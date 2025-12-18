@@ -1,0 +1,2 @@
+- pkg:maven/com.github.almasb/fxgl-profiles@11.8
+- pkg:maven/com.github.almasb/fxgl-profiles@11.8?classifier=sources

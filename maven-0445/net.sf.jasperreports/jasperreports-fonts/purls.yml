@@ -3,6 +3,9 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.0.0
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.10.0
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.11.0
+- pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.12.0
+- pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.12.1
+- pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.12.2
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.8.0
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.8.1
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.8.1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.alibaba.blink/flink-connector-postgres@blink-3.5.0-RELEASE?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/org.apache.skywalking/apm-test-tools@6.4.0
 - pkg:maven/org.apache.skywalking/apm-test-tools@6.5.0
 - pkg:maven/org.apache.skywalking/apm-test-tools@6.6.0
+- pkg:maven/org.apache.skywalking/apm-test-tools@7.0.0

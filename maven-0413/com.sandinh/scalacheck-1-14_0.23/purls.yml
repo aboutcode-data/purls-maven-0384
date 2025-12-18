@@ -1,0 +1,2 @@
+- pkg:maven/com.sandinh/scalacheck-1-14_0.23@3.1.1.1
+- pkg:maven/com.sandinh/scalacheck-1-14_0.23@3.1.1.1?classifier=sources

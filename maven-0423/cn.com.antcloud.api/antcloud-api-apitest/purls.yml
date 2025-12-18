@@ -1,2 +1,6 @@
+- pkg:maven/cn.com.antcloud.api/antcloud-api-apitest@1.0.0
+- pkg:maven/cn.com.antcloud.api/antcloud-api-apitest@1.0.0?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-apitest@1.0.1
+- pkg:maven/cn.com.antcloud.api/antcloud-api-apitest@1.0.1?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-apitest@3.0.1
 - pkg:maven/cn.com.antcloud.api/antcloud-api-apitest@3.0.1?classifier=sources

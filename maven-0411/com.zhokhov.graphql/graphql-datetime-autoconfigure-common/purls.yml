@@ -1,0 +1,2 @@
+- pkg:maven/com.zhokhov.graphql/graphql-datetime-autoconfigure-common@1.9.0
+- pkg:maven/com.zhokhov.graphql/graphql-datetime-autoconfigure-common@1.9.0?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/com.lihaoyi/upickle-implicits_2.13@0.9.8?classifier=sources
 - pkg:maven/com.lihaoyi/upickle-implicits_2.13@0.9.9
 - pkg:maven/com.lihaoyi/upickle-implicits_2.13@0.9.9?classifier=sources
+- pkg:maven/com.lihaoyi/upickle-implicits_2.13@1.0.0
+- pkg:maven/com.lihaoyi/upickle-implicits_2.13@1.0.0?classifier=sources
+- pkg:maven/com.lihaoyi/upickle-implicits_2.13@1.1.0
+- pkg:maven/com.lihaoyi/upickle-implicits_2.13@1.1.0?classifier=sources

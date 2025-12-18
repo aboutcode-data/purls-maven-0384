@@ -4,3 +4,5 @@
 - pkg:maven/com.stealthmountain.sqldim/sqldim@4.1.0?type=aar
 - pkg:maven/com.stealthmountain.sqldim/sqldim@4.2.0?classifier=sources
 - pkg:maven/com.stealthmountain.sqldim/sqldim@4.2.0?type=aar
+- pkg:maven/com.stealthmountain.sqldim/sqldim@5.0.0?classifier=sources
+- pkg:maven/com.stealthmountain.sqldim/sqldim@5.0.0?type=aar

@@ -1,1 +1,4 @@
 - pkg:maven/org.librarysimplified/org.librarysimplified.ui.datepicker.demo@4.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.ui.datepicker.demo@5.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.ui.datepicker.demo@5.1.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.ui.datepicker.demo@5.1.1?classifier=sources

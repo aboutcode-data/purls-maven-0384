@@ -4,6 +4,12 @@
 - pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@0.0.3?classifier=sources
 - pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@2.0.3
 - pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@2.0.3?classifier=sources
+- pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@2.10.0
+- pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@2.10.0?classifier=sources
+- pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@2.10.5
+- pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@2.10.5?classifier=sources
+- pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@2.11.0
+- pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@2.11.0?classifier=sources
 - pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@2.2.0
 - pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@2.2.0?classifier=sources
 - pkg:maven/com.shopizer/shopizer-shipping-canadapost-module@2.3.0

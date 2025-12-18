@@ -17,3 +17,6 @@
 - pkg:maven/io.github.jzdayz/light-rpc-spring-boot@2.0.3
 - pkg:maven/io.github.jzdayz/light-rpc-spring-boot@2.0.3?classifier=sources
 - pkg:maven/io.github.jzdayz/light-rpc-spring-boot@2.1.0?classifier=sources
+- pkg:maven/io.github.jzdayz/light-rpc-spring-boot@3.0.0?classifier=sources
+- pkg:maven/io.github.jzdayz/light-rpc-spring-boot@5.0.0?classifier=sources
+- pkg:maven/io.github.jzdayz/light-rpc-spring-boot@6.0.0?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.machinezoo.noexception/noexception@1.3.4?classifier=sources
 - pkg:maven/com.machinezoo.noexception/noexception@1.4.4
 - pkg:maven/com.machinezoo.noexception/noexception@1.4.4?classifier=sources
+- pkg:maven/com.machinezoo.noexception/noexception@1.5.0
+- pkg:maven/com.machinezoo.noexception/noexception@1.5.0?classifier=sources

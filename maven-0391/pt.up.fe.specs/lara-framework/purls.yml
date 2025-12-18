@@ -2,3 +2,5 @@
 - pkg:maven/pt.up.fe.specs/lara-framework@201906101921?classifier=sources
 - pkg:maven/pt.up.fe.specs/lara-framework@201909101509
 - pkg:maven/pt.up.fe.specs/lara-framework@201909101509?classifier=sources
+- pkg:maven/pt.up.fe.specs/lara-framework@202003061350
+- pkg:maven/pt.up.fe.specs/lara-framework@202003061350?classifier=sources

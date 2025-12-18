@@ -1,0 +1,4 @@
+- pkg:maven/com.sporniket.testing/sporniket-testing-dbunit@20.04.01
+- pkg:maven/com.sporniket.testing/sporniket-testing-dbunit@20.04.01?classifier=sources
+- pkg:maven/com.sporniket.testing/sporniket-testing-dbunit@20.04.02
+- pkg:maven/com.sporniket.testing/sporniket-testing-dbunit@20.04.02?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.iterable/iterableapi-ui@3.2.0?classifier=sources
+- pkg:maven/com.iterable/iterableapi-ui@3.2.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/de.quipsy.cli/cli-framework@2020
+- pkg:maven/de.quipsy.cli/cli-framework@2020?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-inspect@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-inspect@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-inspect@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-inspect@RELEASE113?classifier=sources

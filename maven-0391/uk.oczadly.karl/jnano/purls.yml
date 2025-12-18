@@ -2,3 +2,7 @@
 - pkg:maven/uk.oczadly.karl/jnano@1.0.0?classifier=sources
 - pkg:maven/uk.oczadly.karl/jnano@2.0.0-V19
 - pkg:maven/uk.oczadly.karl/jnano@2.0.0-V19?classifier=sources
+- pkg:maven/uk.oczadly.karl/jnano@2.0.1-V20
+- pkg:maven/uk.oczadly.karl/jnano@2.0.1-V20?classifier=sources
+- pkg:maven/uk.oczadly.karl/jnano@2.1.0-V20
+- pkg:maven/uk.oczadly.karl/jnano@2.1.0-V20?classifier=sources

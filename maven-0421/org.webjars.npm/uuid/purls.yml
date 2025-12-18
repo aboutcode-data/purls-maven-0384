@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/uuid@3.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/uuid@3.4.0
 - pkg:maven/org.webjars.npm/uuid@3.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/uuid@7.0.2
+- pkg:maven/org.webjars.npm/uuid@7.0.2?classifier=sources

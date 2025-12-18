@@ -180,3 +180,13 @@
 - pkg:maven/com.google.javascript/closure-compiler@v20200112?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler@v20200204
 - pkg:maven/com.google.javascript/closure-compiler@v20200204?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20200224
+- pkg:maven/com.google.javascript/closure-compiler@v20200224?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20200315
+- pkg:maven/com.google.javascript/closure-compiler@v20200315?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20200406
+- pkg:maven/com.google.javascript/closure-compiler@v20200406?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20200426
+- pkg:maven/com.google.javascript/closure-compiler@v20200426?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler@v20200504
+- pkg:maven/com.google.javascript/closure-compiler@v20200504?classifier=sources

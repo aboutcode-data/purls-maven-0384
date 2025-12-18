@@ -14,3 +14,5 @@
 - pkg:maven/com.imsweb/validation-edits-ncfd-translated@006-01?classifier=sources
 - pkg:maven/com.imsweb/validation-edits-ncfd-translated@007-01
 - pkg:maven/com.imsweb/validation-edits-ncfd-translated@007-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-ncfd-translated@007-02
+- pkg:maven/com.imsweb/validation-edits-ncfd-translated@007-02?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.zendesk/mysql-binlog-connector-java@0.22.1
+- pkg:maven/com.zendesk/mysql-binlog-connector-java@0.22.1?classifier=sources
+- pkg:maven/com.zendesk/mysql-binlog-connector-java@0.22.2
+- pkg:maven/com.zendesk/mysql-binlog-connector-java@0.22.2?classifier=sources
+- pkg:maven/com.zendesk/mysql-binlog-connector-java@0.23.0-rc1
+- pkg:maven/com.zendesk/mysql-binlog-connector-java@0.23.0-rc1?classifier=sources

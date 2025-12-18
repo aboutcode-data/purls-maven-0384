@@ -1,2 +1,7 @@
 - pkg:maven/org.librarysimplified/org.librarysimplified.opds.auth_document@4.0.0?classifier=sources
 - pkg:maven/org.librarysimplified/org.librarysimplified.opds.auth_document@4.0.0?type=aar
+- pkg:maven/org.librarysimplified/org.librarysimplified.opds.auth_document@5.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.opds.auth_document@5.1.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.opds.auth_document@5.1.1?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.opds.auth_document@5.2.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.opds.auth_document@5.3.0?classifier=sources

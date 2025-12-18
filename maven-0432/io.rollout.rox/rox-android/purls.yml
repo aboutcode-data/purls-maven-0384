@@ -39,3 +39,4 @@
 - pkg:maven/io.rollout.rox/rox-android@4.6.4?type=aar
 - pkg:maven/io.rollout.rox/rox-android@4.8.0?type=aar
 - pkg:maven/io.rollout.rox/rox-android@4.8.1?type=aar
+- pkg:maven/io.rollout.rox/rox-android@4.9.1?type=aar

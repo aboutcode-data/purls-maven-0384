@@ -1,0 +1,2 @@
+- pkg:maven/edu.illinois/nondex-core@1.1.2
+- pkg:maven/edu.illinois/nondex-core@1.1.2?classifier=sources

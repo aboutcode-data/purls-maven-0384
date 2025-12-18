@@ -5,3 +5,11 @@
 - pkg:maven/com.trasier/trasier-client-spring-boot@0.9.16
 - pkg:maven/com.trasier/trasier-client-spring-boot@0.9.17
 - pkg:maven/com.trasier/trasier-client-spring-boot@0.9.18
+- pkg:maven/com.trasier/trasier-client-spring-boot@2.3.2
+- pkg:maven/com.trasier/trasier-client-spring-boot@2.3.2?classifier=sources
+- pkg:maven/com.trasier/trasier-client-spring-boot@2.3.3
+- pkg:maven/com.trasier/trasier-client-spring-boot@2.3.3?classifier=sources
+- pkg:maven/com.trasier/trasier-client-spring-boot@2.3.4
+- pkg:maven/com.trasier/trasier-client-spring-boot@2.3.4?classifier=sources
+- pkg:maven/com.trasier/trasier-client-spring-boot@2.3.5
+- pkg:maven/com.trasier/trasier-client-spring-boot@2.3.5?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/net.vortexdata.tsqpf/tsqpf@2.0.0-mint-pr4
 - pkg:maven/net.vortexdata.tsqpf/tsqpf@2.0.0-mint-pr4?classifier=sources
 - pkg:maven/net.vortexdata.tsqpf/tsqpf@2.0.0?classifier=sources
+- pkg:maven/net.vortexdata.tsqpf/tsqpf@2.1.0
+- pkg:maven/net.vortexdata.tsqpf/tsqpf@2.1.0-alpha.1
+- pkg:maven/net.vortexdata.tsqpf/tsqpf@2.1.0-alpha.1?classifier=sources
+- pkg:maven/net.vortexdata.tsqpf/tsqpf@2.1.0?classifier=sources

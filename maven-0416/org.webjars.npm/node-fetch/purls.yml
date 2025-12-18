@@ -18,3 +18,7 @@
 - pkg:maven/org.webjars.npm/node-fetch@2.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/node-fetch@2.6.0
 - pkg:maven/org.webjars.npm/node-fetch@2.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/node-fetch@3.0.0-beta.4
+- pkg:maven/org.webjars.npm/node-fetch@3.0.0-beta.4?classifier=sources
+- pkg:maven/org.webjars.npm/node-fetch@3.0.0-beta.5
+- pkg:maven/org.webjars.npm/node-fetch@3.0.0-beta.5?classifier=sources

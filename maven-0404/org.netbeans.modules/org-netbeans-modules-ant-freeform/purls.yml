@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-freeform@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-freeform@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-freeform@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-freeform@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-freeform@RELEASE90?classifier=sources

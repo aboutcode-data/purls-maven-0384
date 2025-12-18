@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.rest.api.standalone/gravitee-rest-api-standalone-bootstrap@3.0.0-beta
+- pkg:maven/io.gravitee.rest.api.standalone/gravitee-rest-api-standalone-bootstrap@3.0.0-beta?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ZhouFan1111/wx-java-mp-spring-boot-starter@1.0.0
+- pkg:maven/com.github.ZhouFan1111/wx-java-mp-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/com.github.ZhouFan1111/wx-java-mp-spring-boot-starter@3.7.1.B
+- pkg:maven/com.github.ZhouFan1111/wx-java-mp-spring-boot-starter@3.7.1.B?classifier=sources

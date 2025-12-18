@@ -1,0 +1,2 @@
+- pkg:maven/org.knowm.xchange/xchange-cryptowatch@4.4.2
+- pkg:maven/org.knowm.xchange/xchange-cryptowatch@4.4.2?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/de.carne.common/java-default@8.8.0?classifier=sources
 - pkg:maven/de.carne.common/java-default@8.9.0
 - pkg:maven/de.carne.common/java-default@8.9.0?classifier=sources
+- pkg:maven/de.carne.common/java-default@9.0.0
+- pkg:maven/de.carne.common/java-default@9.0.0?classifier=sources

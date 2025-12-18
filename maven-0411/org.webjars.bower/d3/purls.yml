@@ -76,6 +76,8 @@
 - pkg:maven/org.webjars.bower/d3@5.0.0?classifier=sources
 - pkg:maven/org.webjars.bower/d3@5.1.0
 - pkg:maven/org.webjars.bower/d3@5.1.0?classifier=sources
+- pkg:maven/org.webjars.bower/d3@5.15.0
+- pkg:maven/org.webjars.bower/d3@5.15.0?classifier=sources
 - pkg:maven/org.webjars.bower/d3@5.5.0
 - pkg:maven/org.webjars.bower/d3@5.5.0?classifier=sources
 - pkg:maven/org.webjars.bower/d3@5.7.0

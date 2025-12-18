@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.testng/arquillian-testng7-container@1.7.0.Alpha1
+- pkg:maven/org.jboss.arquillian.testng/arquillian-testng7-container@1.7.0.Alpha1?classifier=sources

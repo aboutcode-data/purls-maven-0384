@@ -89,3 +89,5 @@
 - pkg:maven/net.masterthought/cucumber-sandwich@4.9.0?classifier=sources
 - pkg:maven/net.masterthought/cucumber-sandwich@5.0.2
 - pkg:maven/net.masterthought/cucumber-sandwich@5.0.2?classifier=sources
+- pkg:maven/net.masterthought/cucumber-sandwich@5.1.0
+- pkg:maven/net.masterthought/cucumber-sandwich@5.1.0?classifier=sources

@@ -177,4 +177,8 @@
 - pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@1.9
 - pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@1.90
 - pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@1.90?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@1.91
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@1.91?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@1.92
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@1.92?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@1.9?classifier=sources

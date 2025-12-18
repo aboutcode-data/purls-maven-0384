@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars/jquery@1.0.0
+- pkg:maven/org.webjars/jquery@1.0.0?classifier=sources
 - pkg:maven/org.webjars/jquery@1.10.1
 - pkg:maven/org.webjars/jquery@1.10.2
 - pkg:maven/org.webjars/jquery@1.10.2-1
@@ -82,3 +84,7 @@
 - pkg:maven/org.webjars/jquery@3.4.0?classifier=sources
 - pkg:maven/org.webjars/jquery@3.4.1
 - pkg:maven/org.webjars/jquery@3.4.1?classifier=sources
+- pkg:maven/org.webjars/jquery@3.5.0
+- pkg:maven/org.webjars/jquery@3.5.0?classifier=sources
+- pkg:maven/org.webjars/jquery@3.5.1
+- pkg:maven/org.webjars/jquery@3.5.1?classifier=sources

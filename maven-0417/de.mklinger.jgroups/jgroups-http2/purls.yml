@@ -38,3 +38,5 @@
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@1.9?classifier=sources
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@2.0
 - pkg:maven/de.mklinger.jgroups/jgroups-http2@2.0?classifier=sources
+- pkg:maven/de.mklinger.jgroups/jgroups-http2@2.1
+- pkg:maven/de.mklinger.jgroups/jgroups-http2@2.1?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/io.polyglotted/es-common@1.2.1?classifier=sources
 - pkg:maven/io.polyglotted/es-common@1.3.0
 - pkg:maven/io.polyglotted/es-common@1.3.0?classifier=sources
+- pkg:maven/io.polyglotted/es-common@2020.05.1
+- pkg:maven/io.polyglotted/es-common@2020.05.1?classifier=sources

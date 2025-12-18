@@ -1,0 +1,2 @@
+- pkg:maven/me.phoboslabs.illuminati/illuminati-annotation@1.2.4
+- pkg:maven/me.phoboslabs.illuminati/illuminati-annotation@1.2.4?classifier=sources

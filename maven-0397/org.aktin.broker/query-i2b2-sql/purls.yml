@@ -1,3 +1,5 @@
+- pkg:maven/org.aktin.broker/query-i2b2-sql@0.10
+- pkg:maven/org.aktin.broker/query-i2b2-sql@0.10?classifier=sources
 - pkg:maven/org.aktin.broker/query-i2b2-sql@0.4
 - pkg:maven/org.aktin.broker/query-i2b2-sql@0.4?classifier=sources
 - pkg:maven/org.aktin.broker/query-i2b2-sql@0.5

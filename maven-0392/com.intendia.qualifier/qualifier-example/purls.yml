@@ -1,0 +1,2 @@
+- pkg:maven/com.intendia.qualifier/qualifier-example@0.23
+- pkg:maven/com.intendia.qualifier/qualifier-example@0.23?classifier=sources

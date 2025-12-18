@@ -20,6 +20,8 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@2.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@2.0.2.Final
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@2.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@2.0.3.Final
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@2.0.3.Final?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@3.0.0.Alpha1
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@3.0.0.Alpha1?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@3.0.0.Alpha2
@@ -80,3 +82,9 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@4.2.3.Final?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@4.2.4.Final
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@4.2.4.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@4.2.5.Final
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@4.2.5.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@4.2.6.Final
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@4.2.6.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@4.2.7.Final
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@4.2.7.Final?classifier=sources

@@ -7,6 +7,7 @@
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@7.0.6?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@7.0.7?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@7.0.8?classifier=src&type=tar.gz
+- pkg:maven/org.apache.qpid/apache-qpid-broker-j@7.0.9?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@7.1.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@7.1.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@7.1.2?classifier=src&type=tar.gz
@@ -16,3 +17,4 @@
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@7.1.6?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@7.1.7?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@7.1.8?classifier=src&type=tar.gz
+- pkg:maven/org.apache.qpid/apache-qpid-broker-j@8.0.0?classifier=src&type=tar.gz

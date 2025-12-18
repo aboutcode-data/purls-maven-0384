@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.xmlgraphics/fop-transcoder-allinone@2.4
+- pkg:maven/org.apache.xmlgraphics/fop-transcoder-allinone@2.5

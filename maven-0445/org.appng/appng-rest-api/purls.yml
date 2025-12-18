@@ -10,3 +10,5 @@
 - pkg:maven/org.appng/appng-rest-api@1.20.1?classifier=sources
 - pkg:maven/org.appng/appng-rest-api@1.20.2
 - pkg:maven/org.appng/appng-rest-api@1.20.2?classifier=sources
+- pkg:maven/org.appng/appng-rest-api@1.21.0
+- pkg:maven/org.appng/appng-rest-api@1.21.0?classifier=sources

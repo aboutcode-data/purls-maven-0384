@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mhoffrog.attached/org.eclipse.cdt.core@5.11.0
+- pkg:maven/com.github.mhoffrog.attached/org.eclipse.cdt.core@5.11.0?classifier=sources

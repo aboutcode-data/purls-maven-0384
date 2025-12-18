@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-junit5@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-junit5@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-junit5@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-junit5@RELEASE113?classifier=sources

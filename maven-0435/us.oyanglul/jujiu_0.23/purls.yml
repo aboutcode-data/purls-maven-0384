@@ -1,0 +1,4 @@
+- pkg:maven/us.oyanglul/jujiu_0.23@0.23.0
+- pkg:maven/us.oyanglul/jujiu_0.23@0.23.0?classifier=sources
+- pkg:maven/us.oyanglul/jujiu_0.23@0.24.0
+- pkg:maven/us.oyanglul/jujiu_0.23@0.24.0?classifier=sources

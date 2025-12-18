@@ -1,0 +1,4 @@
+- pkg:maven/com.github.woostju/ansible-client@0.9.0-RELEASE
+- pkg:maven/com.github.woostju/ansible-client@0.9.0-RELEASE?classifier=sources
+- pkg:maven/com.github.woostju/ansible-client@1.0.0-RELEASE
+- pkg:maven/com.github.woostju/ansible-client@1.0.0-RELEASE?classifier=sources

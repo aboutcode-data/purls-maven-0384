@@ -20,3 +20,5 @@
 - pkg:maven/no.nav/brukernotifikasjon-schemas@1.2020.02.07-13.16-fa9d319688b1?classifier=sources
 - pkg:maven/no.nav/brukernotifikasjon-schemas@1.2020.02.11-13.20-46252a031986
 - pkg:maven/no.nav/brukernotifikasjon-schemas@1.2020.02.11-13.20-46252a031986?classifier=sources
+- pkg:maven/no.nav/brukernotifikasjon-schemas@1.2020.03.25-11.14-c3621e6d211a
+- pkg:maven/no.nav/brukernotifikasjon-schemas@1.2020.03.25-11.14-c3621e6d211a?classifier=sources

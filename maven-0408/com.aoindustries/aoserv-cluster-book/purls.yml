@@ -1,0 +1,2 @@
+- pkg:maven/com.aoindustries/aoserv-cluster-book@1.84.1
+- pkg:maven/com.aoindustries/aoserv-cluster-book@1.84.1?classifier=sources

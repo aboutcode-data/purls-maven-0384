@@ -142,6 +142,8 @@
 - pkg:maven/com.graphaware.neo4j/timetree@3.5.13.55.29?classifier=sources
 - pkg:maven/com.graphaware.neo4j/timetree@3.5.14.55.29
 - pkg:maven/com.graphaware.neo4j/timetree@3.5.14.55.29?classifier=sources
+- pkg:maven/com.graphaware.neo4j/timetree@3.5.14.58.29
+- pkg:maven/com.graphaware.neo4j/timetree@3.5.14.58.29?classifier=sources
 - pkg:maven/com.graphaware.neo4j/timetree@3.5.5.53.0
 - pkg:maven/com.graphaware.neo4j/timetree@3.5.5.53.0?classifier=sources
 - pkg:maven/com.graphaware.neo4j/timetree@3.5.5.53.29

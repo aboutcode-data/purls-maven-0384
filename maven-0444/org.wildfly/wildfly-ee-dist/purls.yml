@@ -1,3 +1,12 @@
 - pkg:maven/org.wildfly/wildfly-ee-dist@19.0.0.Beta2?classifier=src&type=tar.gz
 - pkg:maven/org.wildfly/wildfly-ee-dist@19.0.0.Beta2?classifier=src&type=zip
 - pkg:maven/org.wildfly/wildfly-ee-dist@19.0.0.Beta2?type=zip
+- pkg:maven/org.wildfly/wildfly-ee-dist@19.0.0.Beta3?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-ee-dist@19.0.0.Beta3?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-ee-dist@19.0.0.Beta3?type=zip
+- pkg:maven/org.wildfly/wildfly-ee-dist@19.0.0.Final?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-ee-dist@19.0.0.Final?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-ee-dist@19.0.0.Final?type=zip
+- pkg:maven/org.wildfly/wildfly-ee-dist@19.1.0.Final?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-ee-dist@19.1.0.Final?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-ee-dist@19.1.0.Final?type=zip

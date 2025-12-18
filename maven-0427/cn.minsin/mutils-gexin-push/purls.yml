@@ -54,3 +54,5 @@
 - pkg:maven/cn.minsin/mutils-gexin-push@0.3.6?classifier=sources
 - pkg:maven/cn.minsin/mutils-gexin-push@0.3.7
 - pkg:maven/cn.minsin/mutils-gexin-push@0.3.7?classifier=sources
+- pkg:maven/cn.minsin/mutils-gexin-push@0.4.0.RELEASE
+- pkg:maven/cn.minsin/mutils-gexin-push@0.4.0.RELEASE?classifier=sources

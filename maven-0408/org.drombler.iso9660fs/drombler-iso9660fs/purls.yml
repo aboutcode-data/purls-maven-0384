@@ -1,0 +1,2 @@
+- pkg:maven/org.drombler.iso9660fs/drombler-iso9660fs@0.4
+- pkg:maven/org.drombler.iso9660fs/drombler-iso9660fs@0.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.playtika.testcontainers/embedded-oracle-xe@1.54
+- pkg:maven/com.playtika.testcontainers/embedded-oracle-xe@1.54?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-oracle-xe@1.62
+- pkg:maven/com.playtika.testcontainers/embedded-oracle-xe@1.62?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-oracle-xe@1.63
+- pkg:maven/com.playtika.testcontainers/embedded-oracle-xe@1.63?classifier=sources

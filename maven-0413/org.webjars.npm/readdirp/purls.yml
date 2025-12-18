@@ -8,5 +8,9 @@
 - pkg:maven/org.webjars.npm/readdirp@2.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/readdirp@3.1.2
 - pkg:maven/org.webjars.npm/readdirp@3.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/readdirp@3.2.0
+- pkg:maven/org.webjars.npm/readdirp@3.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/readdirp@3.3.0
 - pkg:maven/org.webjars.npm/readdirp@3.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/readdirp@3.4.0
+- pkg:maven/org.webjars.npm/readdirp@3.4.0?classifier=sources

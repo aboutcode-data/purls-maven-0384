@@ -122,6 +122,8 @@
 - pkg:maven/org.apache.camel/camel-performance@2.24.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-performance@2.25.0
 - pkg:maven/org.apache.camel/camel-performance@2.25.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-performance@2.25.1
+- pkg:maven/org.apache.camel/camel-performance@2.25.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-performance@3.0.0
 - pkg:maven/org.apache.camel/camel-performance@3.0.0-M1
 - pkg:maven/org.apache.camel/camel-performance@3.0.0-M2
@@ -131,3 +133,6 @@
 - pkg:maven/org.apache.camel/camel-performance@3.0.0-RC2
 - pkg:maven/org.apache.camel/camel-performance@3.0.0-RC3
 - pkg:maven/org.apache.camel/camel-performance@3.0.1
+- pkg:maven/org.apache.camel/camel-performance@3.1.0
+- pkg:maven/org.apache.camel/camel-performance@3.2.0
+- pkg:maven/org.apache.camel/camel-performance@3.3.0

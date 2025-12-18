@@ -1,0 +1,9 @@
+- pkg:maven/me.minidigger/minimessage-ext-markdown@2.0.0
+- pkg:maven/me.minidigger/minimessage-ext-markdown@2.0.1
+- pkg:maven/me.minidigger/minimessage-ext-markdown@2.0.1?classifier=sources
+- pkg:maven/me.minidigger/minimessage-ext-markdown@2.0.2
+- pkg:maven/me.minidigger/minimessage-ext-markdown@2.0.2?classifier=sources
+- pkg:maven/me.minidigger/minimessage-ext-markdown@2.0.3
+- pkg:maven/me.minidigger/minimessage-ext-markdown@2.0.3?classifier=sources
+- pkg:maven/me.minidigger/minimessage-ext-markdown@2.0.4
+- pkg:maven/me.minidigger/minimessage-ext-markdown@2.0.4?classifier=sources

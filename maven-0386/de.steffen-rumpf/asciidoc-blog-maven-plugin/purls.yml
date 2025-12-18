@@ -1,0 +1,2 @@
+- pkg:maven/de.steffen-rumpf/asciidoc-blog-maven-plugin@1.0
+- pkg:maven/de.steffen-rumpf/asciidoc-blog-maven-plugin@1.0?classifier=sources

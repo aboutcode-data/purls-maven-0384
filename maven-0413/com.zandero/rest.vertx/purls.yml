@@ -44,3 +44,5 @@
 - pkg:maven/com.zandero/rest.vertx@0.8.9
 - pkg:maven/com.zandero/rest.vertx@0.8.9?classifier=sources
 - pkg:maven/com.zandero/rest.vertx@0.8?classifier=sources
+- pkg:maven/com.zandero/rest.vertx@0.9.0
+- pkg:maven/com.zandero/rest.vertx@0.9.0?classifier=sources

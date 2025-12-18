@@ -3,6 +3,14 @@
 - pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0
 - pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B1-50f0e13e
 - pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B1-50f0e13e?classifier=sources
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B11-5326d995
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B11-5326d995?classifier=sources
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B13-b6ee86fe
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B13-b6ee86fe?classifier=sources
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B15-3d294b15
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B15-3d294b15?classifier=sources
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B17-4535237e
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B17-4535237e?classifier=sources
 - pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B3-4f47471e
 - pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B3-4f47471e?classifier=sources
 - pkg:maven/com.thoughtworks.binding/xmlextractor_2.13@12.0.0%2B5-baef1e32

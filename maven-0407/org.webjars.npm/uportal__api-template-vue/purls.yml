@@ -34,3 +34,5 @@
 - pkg:maven/org.webjars.npm/uportal__api-template-vue@1.34.0?classifier=sources
 - pkg:maven/org.webjars.npm/uportal__api-template-vue@1.34.2
 - pkg:maven/org.webjars.npm/uportal__api-template-vue@1.34.2?classifier=sources
+- pkg:maven/org.webjars.npm/uportal__api-template-vue@1.34.3
+- pkg:maven/org.webjars.npm/uportal__api-template-vue@1.34.3?classifier=sources

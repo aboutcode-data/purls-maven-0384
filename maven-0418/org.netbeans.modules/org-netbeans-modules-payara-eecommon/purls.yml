@@ -1,2 +1,3 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE113?classifier=sources

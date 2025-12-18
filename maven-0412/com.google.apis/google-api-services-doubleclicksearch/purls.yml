@@ -624,6 +624,10 @@
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev20190821-1.30.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev20190821-1.30.8
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev20190821-1.30.8?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev20190821-1.30.9
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev20190821-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev20200325-1.30.9
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev20200325-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev206-1.22.0
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev206-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev206-1.23.0
@@ -790,6 +794,12 @@
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev245-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev246-1.25.0
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev246-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev247-1.25.0
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev247-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev248-1.25.0
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev248-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev249-1.25.0
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev249-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev25-1.14.2-beta
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev25-1.14.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev25-1.15.0-rc
@@ -800,6 +810,10 @@
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev25-1.17.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev25-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev25-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev250-1.25.0
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev250-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev251-1.25.0
+- pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev251-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev26-1.15.0-rc
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev26-1.15.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclicksearch@v2-rev26-1.16.0-rc

@@ -1,0 +1,6 @@
+- pkg:maven/com.hotels.beans/bull-report@1.6.5-jdk8
+- pkg:maven/com.hotels.beans/bull-report@1.6.6
+- pkg:maven/com.hotels.beans/bull-report@1.7.0-RC
+- pkg:maven/com.hotels.beans/bull-report@1.7.0-jdk8
+- pkg:maven/com.hotels.beans/bull-report@1.7.0.0
+- pkg:maven/com.hotels.beans/bull-report@1.7.1

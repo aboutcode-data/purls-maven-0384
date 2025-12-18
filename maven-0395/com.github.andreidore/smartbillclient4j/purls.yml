@@ -1,0 +1,2 @@
+- pkg:maven/com.github.andreidore/smartbillclient4j@0.7.0
+- pkg:maven/com.github.andreidore/smartbillclient4j@0.7.0?classifier=sources

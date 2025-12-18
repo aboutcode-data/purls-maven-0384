@@ -1,0 +1,2 @@
+- pkg:maven/top.klw8.alita.dubbodoc/dubbo-doc-core@1.0.1
+- pkg:maven/top.klw8.alita.dubbodoc/dubbo-doc-core@1.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/me.phoboslabs.illuminati/illuminati-elasticsearch@0.8.11
+- pkg:maven/me.phoboslabs.illuminati/illuminati-elasticsearch@0.8.11?classifier=sources
+- pkg:maven/me.phoboslabs.illuminati/illuminati-elasticsearch@0.8.12
+- pkg:maven/me.phoboslabs.illuminati/illuminati-elasticsearch@0.8.12?classifier=sources
+- pkg:maven/me.phoboslabs.illuminati/illuminati-elasticsearch@0.8.13
+- pkg:maven/me.phoboslabs.illuminati/illuminati-elasticsearch@0.8.13?classifier=sources

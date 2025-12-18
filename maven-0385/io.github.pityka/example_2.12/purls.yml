@@ -10,3 +10,5 @@
 - pkg:maven/io.github.pityka/example_2.12@0.0.26?classifier=sources
 - pkg:maven/io.github.pityka/example_2.12@0.0.59
 - pkg:maven/io.github.pityka/example_2.12@0.0.59?classifier=sources
+- pkg:maven/io.github.pityka/example_2.12@0.0.60
+- pkg:maven/io.github.pityka/example_2.12@0.0.60?classifier=sources

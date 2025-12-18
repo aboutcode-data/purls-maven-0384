@@ -1,0 +1,2 @@
+- pkg:maven/eu.hansolo/tilesfxweather@11.35
+- pkg:maven/eu.hansolo/tilesfxweather@11.35?classifier=sources

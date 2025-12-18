@@ -1,0 +1,2 @@
+- pkg:maven/net.synedra/WMI4Java@1.6.4
+- pkg:maven/net.synedra/WMI4Java@1.6.4?classifier=sources

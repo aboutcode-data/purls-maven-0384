@@ -12,3 +12,5 @@
 - pkg:maven/com.hreeinfo.commons/commons-embed-server-payara@1.0?classifier=sources
 - pkg:maven/com.hreeinfo.commons/commons-embed-server-payara@1.1
 - pkg:maven/com.hreeinfo.commons/commons-embed-server-payara@1.1?classifier=sources
+- pkg:maven/com.hreeinfo.commons/commons-embed-server-payara@2.1
+- pkg:maven/com.hreeinfo.commons/commons-embed-server-payara@2.1?classifier=sources

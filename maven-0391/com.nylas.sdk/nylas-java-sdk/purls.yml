@@ -1,0 +1,2 @@
+- pkg:maven/com.nylas.sdk/nylas-java-sdk@0.1.0?classifier=sources
+- pkg:maven/com.nylas.sdk/nylas-java-sdk@0.2.0?classifier=sources

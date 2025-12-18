@@ -56,3 +56,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-platform-kubernetes@2.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-platform-kubernetes@2.3.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-platform-kubernetes@2.3.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-platform-kubernetes@2.3.2.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-platform-kubernetes@2.3.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-platform-kubernetes@2.4.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-platform-kubernetes@2.4.0.RELEASE?classifier=sources

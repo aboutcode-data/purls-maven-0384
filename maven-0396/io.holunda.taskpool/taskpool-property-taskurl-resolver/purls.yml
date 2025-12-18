@@ -1,0 +1,2 @@
+- pkg:maven/io.holunda.taskpool/taskpool-property-taskurl-resolver@2.0.6
+- pkg:maven/io.holunda.taskpool/taskpool-property-taskurl-resolver@2.0.6?classifier=sources

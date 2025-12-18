@@ -1,0 +1,2 @@
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.3.0
+- pkg:maven/com.newrelic.telemetry/opentelemetry-exporters-newrelic@0.3.0?classifier=sources

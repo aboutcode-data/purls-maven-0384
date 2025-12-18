@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE113?classifier=sources
