@@ -1,0 +1,2 @@
+- pkg:maven/com.sourcegraph/scip-java-proto@0.8.9
+- pkg:maven/com.sourcegraph/scip-java-proto@0.8.9?classifier=sources

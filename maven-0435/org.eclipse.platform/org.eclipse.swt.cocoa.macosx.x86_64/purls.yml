@@ -46,3 +46,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.cocoa.macosx.x86_64@3.120.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.cocoa.macosx.x86_64@3.121.0
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.cocoa.macosx.x86_64@3.121.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.cocoa.macosx.x86_64@3.122.0
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.cocoa.macosx.x86_64@3.122.0?classifier=sources

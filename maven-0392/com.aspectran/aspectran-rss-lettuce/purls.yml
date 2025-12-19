@@ -28,6 +28,8 @@
 - pkg:maven/com.aspectran/aspectran-rss-lettuce@6.13.8?classifier=sources
 - pkg:maven/com.aspectran/aspectran-rss-lettuce@6.13.9
 - pkg:maven/com.aspectran/aspectran-rss-lettuce@6.13.9?classifier=sources
+- pkg:maven/com.aspectran/aspectran-rss-lettuce@6.14.0
+- pkg:maven/com.aspectran/aspectran-rss-lettuce@6.14.0?classifier=sources
 - pkg:maven/com.aspectran/aspectran-rss-lettuce@6.6.0
 - pkg:maven/com.aspectran/aspectran-rss-lettuce@6.6.0-M1
 - pkg:maven/com.aspectran/aspectran-rss-lettuce@6.6.0-M1?classifier=sources
@@ -130,3 +132,5 @@
 - pkg:maven/com.aspectran/aspectran-rss-lettuce@7.0.8?classifier=sources
 - pkg:maven/com.aspectran/aspectran-rss-lettuce@7.0.9
 - pkg:maven/com.aspectran/aspectran-rss-lettuce@7.0.9?classifier=sources
+- pkg:maven/com.aspectran/aspectran-rss-lettuce@7.1.0
+- pkg:maven/com.aspectran/aspectran-rss-lettuce@7.1.0?classifier=sources

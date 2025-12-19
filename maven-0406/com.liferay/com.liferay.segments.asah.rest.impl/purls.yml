@@ -148,6 +148,9 @@
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@2.0.44
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@2.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@2.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@2.0.52
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@2.0.52?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@2.0.52?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.0
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.0?classifier=sources-commercial
@@ -209,6 +212,15 @@
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.3
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.35
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.36
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.37
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.37?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.4

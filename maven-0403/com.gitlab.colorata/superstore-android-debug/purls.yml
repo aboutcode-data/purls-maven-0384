@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.colorata/superstore-android-debug@2.0.0-alpha01?classifier=sources
+- pkg:maven/com.gitlab.colorata/superstore-android-debug@2.0.0-alpha02?classifier=sources

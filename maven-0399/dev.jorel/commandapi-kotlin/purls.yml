@@ -1,0 +1,6 @@
+- pkg:maven/dev.jorel/commandapi-kotlin@8.6.0
+- pkg:maven/dev.jorel/commandapi-kotlin@8.6.0?classifier=sources
+- pkg:maven/dev.jorel/commandapi-kotlin@8.7.0
+- pkg:maven/dev.jorel/commandapi-kotlin@8.7.0?classifier=sources
+- pkg:maven/dev.jorel/commandapi-kotlin@8.7.1
+- pkg:maven/dev.jorel/commandapi-kotlin@8.7.1?classifier=sources

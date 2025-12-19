@@ -1,0 +1,2 @@
+- pkg:maven/io.github.censodev/jwt-provider@1.0.0
+- pkg:maven/io.github.censodev/jwt-provider@1.0.0?classifier=sources

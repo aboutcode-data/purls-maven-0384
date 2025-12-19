@@ -16,6 +16,8 @@
 - pkg:maven/pt.ulisboa/forward-ewp-api-client@0.14.2?classifier=sources
 - pkg:maven/pt.ulisboa/forward-ewp-api-client@0.15.0
 - pkg:maven/pt.ulisboa/forward-ewp-api-client@0.15.0?classifier=sources
+- pkg:maven/pt.ulisboa/forward-ewp-api-client@0.16.0
+- pkg:maven/pt.ulisboa/forward-ewp-api-client@0.16.0?classifier=sources
 - pkg:maven/pt.ulisboa/forward-ewp-api-client@0.2.0
 - pkg:maven/pt.ulisboa/forward-ewp-api-client@0.2.0?classifier=sources
 - pkg:maven/pt.ulisboa/forward-ewp-api-client@0.2.1

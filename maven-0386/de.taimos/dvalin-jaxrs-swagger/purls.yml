@@ -1,0 +1,2 @@
+- pkg:maven/de.taimos/dvalin-jaxrs-swagger@1.33
+- pkg:maven/de.taimos/dvalin-jaxrs-swagger@1.33?classifier=sources

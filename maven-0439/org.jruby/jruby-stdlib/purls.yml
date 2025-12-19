@@ -218,3 +218,5 @@
 - pkg:maven/org.jruby/jruby-stdlib@9.3.8.0?classifier=sources
 - pkg:maven/org.jruby/jruby-stdlib@9.3.9.0
 - pkg:maven/org.jruby/jruby-stdlib@9.3.9.0?classifier=sources
+- pkg:maven/org.jruby/jruby-stdlib@9.4.0.0
+- pkg:maven/org.jruby/jruby-stdlib@9.4.0.0?classifier=sources

@@ -32,6 +32,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.common@3.16.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.common@3.16.200
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.common@3.16.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.common@3.17.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.common@3.17.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.common@3.8.0
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.common@3.8.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.common@3.9.0

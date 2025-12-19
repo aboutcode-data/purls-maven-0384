@@ -9,3 +9,6 @@
 - pkg:maven/global.maplink/jacoco-report@1.0.8
 - pkg:maven/global.maplink/jacoco-report@1.0.9
 - pkg:maven/global.maplink/jacoco-report@1.1.0
+- pkg:maven/global.maplink/jacoco-report@1.1.1
+- pkg:maven/global.maplink/jacoco-report@1.1.2
+- pkg:maven/global.maplink/jacoco-report@1.1.3

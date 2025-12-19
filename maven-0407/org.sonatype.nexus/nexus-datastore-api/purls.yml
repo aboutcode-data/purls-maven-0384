@@ -123,3 +123,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-datastore-api@3.42.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-datastore-api@3.43.0-01
 - pkg:maven/org.sonatype.nexus/nexus-datastore-api@3.43.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-datastore-api@3.44.0-01
+- pkg:maven/org.sonatype.nexus/nexus-datastore-api@3.44.0-01?classifier=sources

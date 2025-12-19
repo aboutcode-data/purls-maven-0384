@@ -126,5 +126,6 @@
 - pkg:maven/com.netflix.nebula/gradle-resolution-rules@0.75.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-resolution-rules@0.76.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-resolution-rules@0.77.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-resolution-rules@0.78.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-resolution-rules@0.8.0
 - pkg:maven/com.netflix.nebula/gradle-resolution-rules@0.9.0

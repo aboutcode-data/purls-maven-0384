@@ -75,7 +75,12 @@
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@3.74.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@3.75.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@3.76.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@3.77.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@3.78.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@3.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@3.9.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@4.0.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@4.1.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@4.2.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@4.3.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.archetypes/scp-neo-javaee7@4.4.0?classifier=sources

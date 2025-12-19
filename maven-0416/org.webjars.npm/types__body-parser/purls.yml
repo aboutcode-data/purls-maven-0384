@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__body-parser@0.0.34
 - pkg:maven/org.webjars.npm/types__body-parser@0.0.34?classifier=sources
+- pkg:maven/org.webjars.npm/types__body-parser@1.19.2
+- pkg:maven/org.webjars.npm/types__body-parser@1.19.2?classifier=sources

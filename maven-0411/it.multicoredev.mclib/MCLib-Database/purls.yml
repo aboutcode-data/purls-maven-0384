@@ -1,0 +1,2 @@
+- pkg:maven/it.multicoredev.mclib/MCLib-Database@1.7.2.5
+- pkg:maven/it.multicoredev.mclib/MCLib-Database@1.7.2.5?classifier=sources

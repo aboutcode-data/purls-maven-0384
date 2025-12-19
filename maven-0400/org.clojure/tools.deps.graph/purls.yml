@@ -16,3 +16,5 @@
 - pkg:maven/org.clojure/tools.deps.graph@1.0.63?classifier=sources
 - pkg:maven/org.clojure/tools.deps.graph@1.1.68
 - pkg:maven/org.clojure/tools.deps.graph@1.1.68?classifier=sources
+- pkg:maven/org.clojure/tools.deps.graph@1.1.76
+- pkg:maven/org.clojure/tools.deps.graph@1.1.76?classifier=sources

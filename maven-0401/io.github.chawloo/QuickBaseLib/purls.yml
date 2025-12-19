@@ -36,3 +36,4 @@
 - pkg:maven/io.github.chawloo/QuickBaseLib@1.1.8-alpha09?classifier=sources
 - pkg:maven/io.github.chawloo/QuickBaseLib@1.1.8-alpha10?classifier=sources
 - pkg:maven/io.github.chawloo/QuickBaseLib@1.1.8-alpha11?classifier=sources
+- pkg:maven/io.github.chawloo/QuickBaseLib@1.1.9?classifier=sources

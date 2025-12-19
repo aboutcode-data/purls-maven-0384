@@ -5,3 +5,4 @@
 - pkg:maven/io.deephaven/deephaven-csv-fast-double-parser@0.6.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-csv-fast-double-parser@0.7.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-csv-fast-double-parser@0.8.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-csv-fast-double-parser@0.9.0?classifier=sources

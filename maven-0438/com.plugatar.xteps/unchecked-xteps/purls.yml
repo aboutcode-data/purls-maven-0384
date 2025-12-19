@@ -10,3 +10,15 @@
 - pkg:maven/com.plugatar.xteps/unchecked-xteps@5.1?classifier=sources
 - pkg:maven/com.plugatar.xteps/unchecked-xteps@5.2
 - pkg:maven/com.plugatar.xteps/unchecked-xteps@5.2?classifier=sources
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.3
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.3?classifier=sources
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.4
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.4?classifier=sources
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.5
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.5?classifier=sources
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.6
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.6?classifier=sources
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.7
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.7?classifier=sources
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.8
+- pkg:maven/com.plugatar.xteps/unchecked-xteps@5.8?classifier=sources

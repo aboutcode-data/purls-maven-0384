@@ -1,0 +1,5 @@
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.100.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.101.28?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.102.12?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.98.34?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.99.32?classifier=sources

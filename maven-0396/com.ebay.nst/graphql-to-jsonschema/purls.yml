@@ -4,3 +4,5 @@
 - pkg:maven/com.ebay.nst/graphql-to-jsonschema@1.0.3?classifier=sources
 - pkg:maven/com.ebay.nst/graphql-to-jsonschema@1.1.0
 - pkg:maven/com.ebay.nst/graphql-to-jsonschema@1.1.0?classifier=sources
+- pkg:maven/com.ebay.nst/graphql-to-jsonschema@1.1.1
+- pkg:maven/com.ebay.nst/graphql-to-jsonschema@1.1.1?classifier=sources

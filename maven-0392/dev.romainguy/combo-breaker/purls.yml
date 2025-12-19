@@ -1,0 +1,9 @@
+- pkg:maven/dev.romainguy/combo-breaker@0.1.0?classifier=sources
+- pkg:maven/dev.romainguy/combo-breaker@0.1.1?classifier=sources
+- pkg:maven/dev.romainguy/combo-breaker@0.2.0?classifier=sources
+- pkg:maven/dev.romainguy/combo-breaker@0.3.0?classifier=sources
+- pkg:maven/dev.romainguy/combo-breaker@0.4.0?classifier=sources
+- pkg:maven/dev.romainguy/combo-breaker@0.5.0?classifier=sources
+- pkg:maven/dev.romainguy/combo-breaker@0.6.0?classifier=sources
+- pkg:maven/dev.romainguy/combo-breaker@0.7.0?classifier=sources
+- pkg:maven/dev.romainguy/combo-breaker@0.8.0?classifier=sources

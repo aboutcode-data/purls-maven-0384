@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.camel.springboot/camel-debezium-oracle-starter@3.18.4
+- pkg:maven/org.apache.camel.springboot/camel-debezium-oracle-starter@3.18.4?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-debezium-oracle-starter@3.20.0
+- pkg:maven/org.apache.camel.springboot/camel-debezium-oracle-starter@3.20.0?classifier=sources

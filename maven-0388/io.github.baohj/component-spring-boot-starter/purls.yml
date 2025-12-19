@@ -1,0 +1,2 @@
+- pkg:maven/io.github.baohj/component-spring-boot-starter@2.0.1-RELEASE
+- pkg:maven/io.github.baohj/component-spring-boot-starter@2.0.1-RELEASE?classifier=sources

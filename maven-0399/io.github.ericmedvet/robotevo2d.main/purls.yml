@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ericmedvet/robotevo2d.main@1.0.4
+- pkg:maven/io.github.ericmedvet/robotevo2d.main@1.0.4?classifier=sources

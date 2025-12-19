@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-io@7.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-io@7.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.zclibre/libre-oss-boot-starter@1.0.6?classifier=sources
+- pkg:maven/com.zclibre/libre-oss-boot-starter@2.7.6?classifier=sources

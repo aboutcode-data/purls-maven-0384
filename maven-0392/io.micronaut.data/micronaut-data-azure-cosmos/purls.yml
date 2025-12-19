@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut.data/micronaut-data-azure-cosmos@3.9.0?classifier=sources
+- pkg:maven/io.micronaut.data/micronaut-data-azure-cosmos@3.9.1?classifier=sources

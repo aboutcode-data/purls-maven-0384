@@ -1,0 +1,4 @@
+- pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@7.7.36
+- pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@7.7.36?classifier=sources
+- pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@8.18.0
+- pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@8.18.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.apiman/apiman-distro-keycloak@3.0.0.Final
+- pkg:maven/io.apiman/apiman-distro-keycloak@3.0.0.RC6

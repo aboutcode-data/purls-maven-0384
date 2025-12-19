@@ -1,1 +1,2 @@
 - pkg:maven/tr.com.infumia/EventShiruka@0.1.2?classifier=sources
+- pkg:maven/tr.com.infumia/EventShiruka@0.1.3?classifier=sources

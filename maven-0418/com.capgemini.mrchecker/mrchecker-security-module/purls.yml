@@ -10,3 +10,13 @@
 - pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@1.2.2?classifier=sources
 - pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@1.2.3?classifier=sources
 - pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@1.2.4?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@2022.12.14
+- pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@2022.12.14?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@2022.12.16
+- pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@2022.12.16?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@2022.12.19
+- pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@2022.12.19?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@2022.12.22
+- pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@2022.12.22?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@2022.12.23
+- pkg:maven/com.capgemini.mrchecker/mrchecker-security-module@2022.12.23?classifier=sources

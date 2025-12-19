@@ -64,6 +64,8 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@22.0.33
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@22.0.34
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@22.0.37
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@22.0.39
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@22.0.41
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@7.0.0.001_M7
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@7.0.0.003_RC1
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@7.0.0.004_RC1

@@ -106,3 +106,5 @@
 - pkg:maven/org.apache.maven/maven-repository-metadata@3.8.6?classifier=sources
 - pkg:maven/org.apache.maven/maven-repository-metadata@4.0.0-alpha-2
 - pkg:maven/org.apache.maven/maven-repository-metadata@4.0.0-alpha-2?classifier=sources
+- pkg:maven/org.apache.maven/maven-repository-metadata@4.0.0-alpha-3
+- pkg:maven/org.apache.maven/maven-repository-metadata@4.0.0-alpha-3?classifier=sources

@@ -8,3 +8,9 @@
 - pkg:maven/io.microlam/microlam-aws-auth@0.3?classifier=sources
 - pkg:maven/io.microlam/microlam-aws-auth@0.4.0
 - pkg:maven/io.microlam/microlam-aws-auth@0.4.0?classifier=sources
+- pkg:maven/io.microlam/microlam-aws-auth@0.4.2
+- pkg:maven/io.microlam/microlam-aws-auth@0.4.2?classifier=sources
+- pkg:maven/io.microlam/microlam-aws-auth@0.4.4
+- pkg:maven/io.microlam/microlam-aws-auth@0.4.4?classifier=sources
+- pkg:maven/io.microlam/microlam-aws-auth@0.5.1
+- pkg:maven/io.microlam/microlam-aws-auth@0.5.1?classifier=sources

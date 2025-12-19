@@ -1,2 +1,4 @@
 - pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.3.3.20221024
 - pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.3.3.20221024?classifier=sources
+- pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.0.20221214
+- pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.0.20221214?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bes2008.solution.agileway/agileway-metrics-core@4.0.2
+- pkg:maven/io.github.bes2008.solution.agileway/agileway-metrics-core@4.0.2?classifier=sources

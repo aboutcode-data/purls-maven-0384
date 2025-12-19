@@ -1,0 +1,2 @@
+- pkg:maven/io.pebbletemplates/pebble-spring6@3.2.0
+- pkg:maven/io.pebbletemplates/pebble-spring6@3.2.0?classifier=sources

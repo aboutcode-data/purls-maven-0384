@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.web.samples/war-default@8.0.14?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-default@9.0.4?type=war

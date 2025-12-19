@@ -1,0 +1,2 @@
+- pkg:maven/com.flash3388/apriltags4j@0.1.0?classifier=sources
+- pkg:maven/com.flash3388/apriltags4j@0.1.1?classifier=sources

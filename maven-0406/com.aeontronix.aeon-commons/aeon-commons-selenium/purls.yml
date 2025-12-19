@@ -33,6 +33,8 @@
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-selenium@1.4.0-beta2
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-selenium@1.4.0-beta2?classifier=sources
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-selenium@2.0.0-beta1
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-selenium@2.0.0-beta10
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-selenium@2.0.0-beta10?classifier=sources
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-selenium@2.0.0-beta1?classifier=sources
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-selenium@2.0.0-beta2
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-selenium@2.0.0-beta2?classifier=sources

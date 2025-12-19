@@ -16,3 +16,5 @@
 - pkg:maven/int.esa.ccsds.mo/ENCODING_STRING@1.7?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/ENCODING_STRING@8.0
 - pkg:maven/int.esa.ccsds.mo/ENCODING_STRING@8.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/ENCODING_STRING@8.1
+- pkg:maven/int.esa.ccsds.mo/ENCODING_STRING@8.1?classifier=sources

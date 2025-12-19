@@ -7,3 +7,4 @@
 - pkg:maven/com.github.rnett.ktjs-github-action/kotlin-js-action@1.4.2?classifier=sources
 - pkg:maven/com.github.rnett.ktjs-github-action/kotlin-js-action@1.4.3?classifier=sources
 - pkg:maven/com.github.rnett.ktjs-github-action/kotlin-js-action@1.5.0?classifier=sources
+- pkg:maven/com.github.rnett.ktjs-github-action/kotlin-js-action@1.6.0?classifier=sources

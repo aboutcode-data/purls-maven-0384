@@ -8,3 +8,9 @@
 - pkg:maven/com.huaweicloud.sermant/sermant-agentcore-implement@0.6.4?classifier=sources
 - pkg:maven/com.huaweicloud.sermant/sermant-agentcore-implement@0.7.0
 - pkg:maven/com.huaweicloud.sermant/sermant-agentcore-implement@0.7.0?classifier=sources
+- pkg:maven/com.huaweicloud.sermant/sermant-agentcore-implement@0.8.0
+- pkg:maven/com.huaweicloud.sermant/sermant-agentcore-implement@0.8.0?classifier=sources
+- pkg:maven/com.huaweicloud.sermant/sermant-agentcore-implement@0.9.0
+- pkg:maven/com.huaweicloud.sermant/sermant-agentcore-implement@0.9.0?classifier=sources
+- pkg:maven/com.huaweicloud.sermant/sermant-agentcore-implement@1.0.0
+- pkg:maven/com.huaweicloud.sermant/sermant-agentcore-implement@1.0.0?classifier=sources

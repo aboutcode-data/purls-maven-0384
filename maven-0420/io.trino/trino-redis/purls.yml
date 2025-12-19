@@ -50,3 +50,4 @@
 - pkg:maven/io.trino/trino-redis@400?classifier=sources
 - pkg:maven/io.trino/trino-redis@401?classifier=sources
 - pkg:maven/io.trino/trino-redis@402?classifier=sources
+- pkg:maven/io.trino/trino-redis@403?classifier=sources

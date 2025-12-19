@@ -170,3 +170,5 @@
 - pkg:maven/org.apache.camel/camel-elasticsearch@2.25.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-elasticsearch@3.19.0
 - pkg:maven/org.apache.camel/camel-elasticsearch@3.19.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-elasticsearch@3.20.0
+- pkg:maven/org.apache.camel/camel-elasticsearch@3.20.0?classifier=sources

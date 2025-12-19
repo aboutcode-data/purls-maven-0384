@@ -1,2 +1,6 @@
 - pkg:maven/eu.aronnax.smartconstraints/smartconstraints-domain@0.1.1
 - pkg:maven/eu.aronnax.smartconstraints/smartconstraints-domain@0.1.1?classifier=sources
+- pkg:maven/eu.aronnax.smartconstraints/smartconstraints-domain@0.2.0
+- pkg:maven/eu.aronnax.smartconstraints/smartconstraints-domain@0.2.0?classifier=sources
+- pkg:maven/eu.aronnax.smartconstraints/smartconstraints-domain@0.3.0
+- pkg:maven/eu.aronnax.smartconstraints/smartconstraints-domain@0.3.0?classifier=sources

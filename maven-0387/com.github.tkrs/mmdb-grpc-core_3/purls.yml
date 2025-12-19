@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tkrs/mmdb-grpc-core_3@0.1.2
+- pkg:maven/com.github.tkrs/mmdb-grpc-core_3@0.1.2?classifier=sources

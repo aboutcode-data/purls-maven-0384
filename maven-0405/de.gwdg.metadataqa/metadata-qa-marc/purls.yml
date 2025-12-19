@@ -6,3 +6,5 @@
 - pkg:maven/de.gwdg.metadataqa/metadata-qa-marc@0.4?classifier=sources
 - pkg:maven/de.gwdg.metadataqa/metadata-qa-marc@0.5.0
 - pkg:maven/de.gwdg.metadataqa/metadata-qa-marc@0.5.0?classifier=sources
+- pkg:maven/de.gwdg.metadataqa/metadata-qa-marc@0.6.0
+- pkg:maven/de.gwdg.metadataqa/metadata-qa-marc@0.6.0?classifier=sources
