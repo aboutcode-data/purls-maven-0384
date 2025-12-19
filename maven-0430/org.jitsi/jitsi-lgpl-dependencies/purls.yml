@@ -8,6 +8,16 @@
 - pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-14-g7ac7142?classifier=sources
 - pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-15-g79dec2d
 - pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-15-g79dec2d?classifier=sources
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-16-g7c69691
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-16-g7c69691?classifier=sources
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-17-gde83568
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-17-gde83568?classifier=sources
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-18-g6b36b91
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-18-g6b36b91?classifier=sources
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-20-gcdff576
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-20-gcdff576?classifier=sources
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-21-gc4508d5
+- pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-21-gc4508d5?classifier=sources
 - pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-7-g9d2cdc4
 - pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-7-g9d2cdc4?classifier=sources
 - pkg:maven/org.jitsi/jitsi-lgpl-dependencies@1.2-8-ga3f4e8c

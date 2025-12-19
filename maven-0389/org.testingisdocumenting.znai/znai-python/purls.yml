@@ -12,3 +12,5 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-python@1.55?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-python@1.56
 - pkg:maven/org.testingisdocumenting.znai/znai-python@1.56?classifier=sources
+- pkg:maven/org.testingisdocumenting.znai/znai-python@1.57
+- pkg:maven/org.testingisdocumenting.znai/znai-python@1.57?classifier=sources

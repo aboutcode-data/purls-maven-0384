@@ -1,2 +1,8 @@
 - pkg:maven/io.github.iruzhnikov/spring-webmvc-cors-properties-autoconfigure@0.0.11
 - pkg:maven/io.github.iruzhnikov/spring-webmvc-cors-properties-autoconfigure@0.0.11?classifier=sources
+- pkg:maven/io.github.iruzhnikov/spring-webmvc-cors-properties-autoconfigure@0.0.12
+- pkg:maven/io.github.iruzhnikov/spring-webmvc-cors-properties-autoconfigure@0.0.12?classifier=sources
+- pkg:maven/io.github.iruzhnikov/spring-webmvc-cors-properties-autoconfigure@1.0.14
+- pkg:maven/io.github.iruzhnikov/spring-webmvc-cors-properties-autoconfigure@1.0.14?classifier=sources
+- pkg:maven/io.github.iruzhnikov/spring-webmvc-cors-properties-autoconfigure@1.1.0
+- pkg:maven/io.github.iruzhnikov/spring-webmvc-cors-properties-autoconfigure@1.1.0?classifier=sources

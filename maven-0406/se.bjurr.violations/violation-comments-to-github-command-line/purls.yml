@@ -11,5 +11,7 @@
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.21.7?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.22.0?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.23.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.23.1?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.23.2?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.9
 - pkg:maven/se.bjurr.violations/violation-comments-to-github-command-line@1.9?classifier=sources

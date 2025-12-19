@@ -8,6 +8,7 @@
 - pkg:maven/io.hyperfoil/hyperfoil-all@0.17?classifier=source-release&type=zip
 - pkg:maven/io.hyperfoil/hyperfoil-all@0.19?classifier=source-release&type=zip
 - pkg:maven/io.hyperfoil/hyperfoil-all@0.1?classifier=source-release&type=zip
+- pkg:maven/io.hyperfoil/hyperfoil-all@0.20?classifier=source-release&type=zip
 - pkg:maven/io.hyperfoil/hyperfoil-all@0.2?classifier=source-release&type=zip
 - pkg:maven/io.hyperfoil/hyperfoil-all@0.3?classifier=source-release&type=zip
 - pkg:maven/io.hyperfoil/hyperfoil-all@0.4?classifier=source-release&type=zip

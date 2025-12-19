@@ -407,6 +407,9 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@3.0.34
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@3.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@3.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@3.0.35
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@3.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@3.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@3.0.4
@@ -449,6 +452,9 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@4.0.15
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@4.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@4.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@4.0.16
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@4.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@4.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.scope.impl@4.0.2

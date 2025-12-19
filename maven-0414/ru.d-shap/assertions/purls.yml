@@ -6,3 +6,7 @@
 - pkg:maven/ru.d-shap/assertions@1.2?classifier=sources
 - pkg:maven/ru.d-shap/assertions@2.0
 - pkg:maven/ru.d-shap/assertions@2.0?classifier=sources
+- pkg:maven/ru.d-shap/assertions@2.1
+- pkg:maven/ru.d-shap/assertions@2.1?classifier=sources
+- pkg:maven/ru.d-shap/assertions@2.2
+- pkg:maven/ru.d-shap/assertions@2.2?classifier=sources

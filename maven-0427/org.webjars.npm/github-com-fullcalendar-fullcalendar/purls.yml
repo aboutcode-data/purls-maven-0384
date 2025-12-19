@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/github-com-fullcalendar-fullcalendar@5.10.1
 - pkg:maven/org.webjars.npm/github-com-fullcalendar-fullcalendar@5.10.1?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-fullcalendar-fullcalendar@5.10.2
+- pkg:maven/org.webjars.npm/github-com-fullcalendar-fullcalendar@5.10.2?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-fullcalendar-fullcalendar@5.3.2
 - pkg:maven/org.webjars.npm/github-com-fullcalendar-fullcalendar@5.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-fullcalendar-fullcalendar@5.5.1

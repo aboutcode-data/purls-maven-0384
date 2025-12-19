@@ -108,3 +108,5 @@
 - pkg:maven/org.jbehave/jbehave-rest@4.8.2?classifier=sources
 - pkg:maven/org.jbehave/jbehave-rest@4.8.3?classifier=sources
 - pkg:maven/org.jbehave/jbehave-rest@4.8?classifier=sources
+- pkg:maven/org.jbehave/jbehave-rest@5.0
+- pkg:maven/org.jbehave/jbehave-rest@5.0?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/org.apache.ignite/ignite-calcite@2.13.0
 - pkg:maven/org.apache.ignite/ignite-calcite@3.0.0-alpha3

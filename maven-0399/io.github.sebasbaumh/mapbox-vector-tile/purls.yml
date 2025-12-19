@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sebasbaumh/mapbox-vector-tile@22.0.0
+- pkg:maven/io.github.sebasbaumh/mapbox-vector-tile@22.0.0?classifier=sources

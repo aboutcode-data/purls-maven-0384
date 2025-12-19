@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.jkube.openshift/org.eclipse.jkube.openshift.gradle.plugin@1.6.0?classifier=sources
 - pkg:maven/org.eclipse.jkube.openshift/org.eclipse.jkube.openshift.gradle.plugin@1.7.0
 - pkg:maven/org.eclipse.jkube.openshift/org.eclipse.jkube.openshift.gradle.plugin@1.7.0?classifier=sources
+- pkg:maven/org.eclipse.jkube.openshift/org.eclipse.jkube.openshift.gradle.plugin@1.8.0
+- pkg:maven/org.eclipse.jkube.openshift/org.eclipse.jkube.openshift.gradle.plugin@1.8.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/br.gov.lexml/lexml-xml-schemas@3.1.15?classifier=sources
 - pkg:maven/br.gov.lexml/lexml-xml-schemas@3.1.17
 - pkg:maven/br.gov.lexml/lexml-xml-schemas@3.1.17?classifier=sources
+- pkg:maven/br.gov.lexml/lexml-xml-schemas@3.2.0
+- pkg:maven/br.gov.lexml/lexml-xml-schemas@3.2.0?classifier=sources

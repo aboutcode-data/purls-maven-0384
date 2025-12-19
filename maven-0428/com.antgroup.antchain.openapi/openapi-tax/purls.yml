@@ -1,2 +1,4 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.1.6
 - pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.1.6?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.2.3
+- pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.2.3?classifier=sources

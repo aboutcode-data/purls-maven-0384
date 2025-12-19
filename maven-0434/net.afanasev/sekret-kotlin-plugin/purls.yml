@@ -4,3 +4,4 @@
 - pkg:maven/net.afanasev/sekret-kotlin-plugin@0.1.1-RC2?classifier=sources
 - pkg:maven/net.afanasev/sekret-kotlin-plugin@0.1.1-RC3?classifier=sources
 - pkg:maven/net.afanasev/sekret-kotlin-plugin@0.1.1?classifier=sources
+- pkg:maven/net.afanasev/sekret-kotlin-plugin@0.1.2?classifier=sources

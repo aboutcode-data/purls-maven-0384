@@ -28,4 +28,5 @@
 - pkg:maven/no.nordicsemi.android/dfu@2.0.0?classifier=sources
 - pkg:maven/no.nordicsemi.android/dfu@2.0.1?classifier=sources
 - pkg:maven/no.nordicsemi.android/dfu@2.0.2?classifier=sources
+- pkg:maven/no.nordicsemi.android/dfu@2.0.3?classifier=sources
 - pkg:maven/no.nordicsemi.android/dfu@v.2.0.1?classifier=sources

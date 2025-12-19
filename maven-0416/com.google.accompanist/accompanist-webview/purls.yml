@@ -4,3 +4,5 @@
 - pkg:maven/com.google.accompanist/accompanist-webview@0.24.4-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-webview@0.24.5-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-webview@0.24.6-alpha?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-webview@0.24.7-alpha?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-webview@0.24.8-beta?classifier=sources

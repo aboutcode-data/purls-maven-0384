@@ -1,0 +1,2 @@
+- pkg:maven/be.tomcools/dropwizard-websocket-jsr356-bundle@4.0.0-beta.1
+- pkg:maven/be.tomcools/dropwizard-websocket-jsr356-bundle@4.0.0-beta.1?classifier=sources

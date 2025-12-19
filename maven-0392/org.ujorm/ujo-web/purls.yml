@@ -46,3 +46,5 @@
 - pkg:maven/org.ujorm/ujo-web@2.21?classifier=sources
 - pkg:maven/org.ujorm/ujo-web@2.22
 - pkg:maven/org.ujorm/ujo-web@2.22?classifier=sources
+- pkg:maven/org.ujorm/ujo-web@2.24
+- pkg:maven/org.ujorm/ujo-web@2.24?classifier=sources

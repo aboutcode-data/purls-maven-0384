@@ -1,2 +1,3 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.examples.formtest@0.2.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.examples.formtest@0.3.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconlet.examples.formtest@0.3.1?classifier=sources

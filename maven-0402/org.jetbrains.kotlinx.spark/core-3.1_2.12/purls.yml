@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.kotlinx.spark/core-3.1_2.12@1.1.0
+- pkg:maven/org.jetbrains.kotlinx.spark/core-3.1_2.12@1.1.0?classifier=sources

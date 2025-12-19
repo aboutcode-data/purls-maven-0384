@@ -17,3 +17,4 @@
 - pkg:maven/org.tensorflow/tensorflow-lite@2.7.0-rc0?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite@2.7.0?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite@2.8.0?type=aar
+- pkg:maven/org.tensorflow/tensorflow-lite@2.9.0?type=aar

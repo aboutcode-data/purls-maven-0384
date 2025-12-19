@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.cdap/cdap-storage-ext-spanner@6.7.0
+- pkg:maven/io.cdap.cdap/cdap-storage-ext-spanner@6.7.0?classifier=sources

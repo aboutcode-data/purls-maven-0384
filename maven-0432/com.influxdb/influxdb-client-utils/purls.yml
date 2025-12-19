@@ -12,3 +12,5 @@
 - pkg:maven/com.influxdb/influxdb-client-utils@4.3.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-utils@5.0.0
 - pkg:maven/com.influxdb/influxdb-client-utils@5.0.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-utils@6.0.0
+- pkg:maven/com.influxdb/influxdb-client-utils@6.0.0?classifier=sources

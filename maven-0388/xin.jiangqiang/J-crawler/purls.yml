@@ -2,3 +2,7 @@
 - pkg:maven/xin.jiangqiang/J-crawler@1.0?classifier=sources
 - pkg:maven/xin.jiangqiang/J-crawler@2.0
 - pkg:maven/xin.jiangqiang/J-crawler@2.0?classifier=sources
+- pkg:maven/xin.jiangqiang/J-crawler@3.0
+- pkg:maven/xin.jiangqiang/J-crawler@3.0.2
+- pkg:maven/xin.jiangqiang/J-crawler@3.0.2?classifier=sources
+- pkg:maven/xin.jiangqiang/J-crawler@3.0?classifier=sources

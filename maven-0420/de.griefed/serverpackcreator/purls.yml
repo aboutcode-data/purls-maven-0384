@@ -13,3 +13,8 @@
 - pkg:maven/de.griefed/serverpackcreator@3.0.1?classifier=sources
 - pkg:maven/de.griefed/serverpackcreator@3.1.0?classifier=sources
 - pkg:maven/de.griefed/serverpackcreator@3.2.0?classifier=sources
+- pkg:maven/de.griefed/serverpackcreator@3.3.0?classifier=sources
+- pkg:maven/de.griefed/serverpackcreator@3.4.0?classifier=sources
+- pkg:maven/de.griefed/serverpackcreator@3.4.1?classifier=sources
+- pkg:maven/de.griefed/serverpackcreator@3.5.0-alpha.7?classifier=sources
+- pkg:maven/de.griefed/serverpackcreator@3.5.0-beta.1?classifier=sources

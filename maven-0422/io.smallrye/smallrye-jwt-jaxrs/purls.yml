@@ -26,5 +26,9 @@
 - pkg:maven/io.smallrye/smallrye-jwt-jaxrs@3.3.3?classifier=sources
 - pkg:maven/io.smallrye/smallrye-jwt-jaxrs@3.4.0
 - pkg:maven/io.smallrye/smallrye-jwt-jaxrs@3.4.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-jwt-jaxrs@3.5.0
+- pkg:maven/io.smallrye/smallrye-jwt-jaxrs@3.5.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-jwt-jaxrs@4.0.0-RC1
 - pkg:maven/io.smallrye/smallrye-jwt-jaxrs@4.0.0-RC1?classifier=sources
+- pkg:maven/io.smallrye/smallrye-jwt-jaxrs@4.0.0-RC2
+- pkg:maven/io.smallrye/smallrye-jwt-jaxrs@4.0.0-RC2?classifier=sources

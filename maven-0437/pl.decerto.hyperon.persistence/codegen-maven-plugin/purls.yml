@@ -8,3 +8,4 @@
 - pkg:maven/pl.decerto.hyperon.persistence/codegen-maven-plugin@0.1.45?classifier=sources
 - pkg:maven/pl.decerto.hyperon.persistence/codegen-maven-plugin@0.1.51
 - pkg:maven/pl.decerto.hyperon.persistence/codegen-maven-plugin@0.1.51?classifier=sources
+- pkg:maven/pl.decerto.hyperon.persistence/codegen-maven-plugin@7.0.0?classifier=sources

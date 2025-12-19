@@ -1,0 +1,2 @@
+- pkg:maven/edu.ucr.cs.bdlab/spatialtest@0.9.5-RC1
+- pkg:maven/edu.ucr.cs.bdlab/spatialtest@0.9.5-RC1?classifier=sources

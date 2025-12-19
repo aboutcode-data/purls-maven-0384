@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/no-case@2.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/no-case@3.0.3
 - pkg:maven/org.webjars.npm/no-case@3.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/no-case@3.0.4
+- pkg:maven/org.webjars.npm/no-case@3.0.4?classifier=sources

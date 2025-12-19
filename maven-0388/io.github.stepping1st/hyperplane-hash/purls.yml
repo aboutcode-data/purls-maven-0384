@@ -1,0 +1,2 @@
+- pkg:maven/io.github.stepping1st/hyperplane-hash@0.1.0
+- pkg:maven/io.github.stepping1st/hyperplane-hash@0.1.0?classifier=sources

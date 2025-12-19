@@ -200,6 +200,8 @@
 - pkg:maven/de.knightsoft-net/gwt-bean-validators@1.1.8?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators@1.1.9
 - pkg:maven/de.knightsoft-net/gwt-bean-validators@1.1.9?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators@1.10.0
+- pkg:maven/de.knightsoft-net/gwt-bean-validators@1.10.0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators@1.2.0
 - pkg:maven/de.knightsoft-net/gwt-bean-validators@1.2.0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators@1.2.1
@@ -288,3 +290,5 @@
 - pkg:maven/de.knightsoft-net/gwt-bean-validators@1.9.5?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators@1.9.6
 - pkg:maven/de.knightsoft-net/gwt-bean-validators@1.9.6?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators@1.9.7
+- pkg:maven/de.knightsoft-net/gwt-bean-validators@1.9.7?classifier=sources

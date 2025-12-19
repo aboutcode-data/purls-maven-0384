@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkus/quarkus-schema-registry-devservice@2.9.0.CR1
+- pkg:maven/io.quarkus/quarkus-schema-registry-devservice@2.9.0.Final
+- pkg:maven/io.quarkus/quarkus-schema-registry-devservice@2.9.1.Final
+- pkg:maven/io.quarkus/quarkus-schema-registry-devservice@2.9.2.Final

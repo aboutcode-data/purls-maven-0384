@@ -1,0 +1,2 @@
+- pkg:maven/uk.bot-by/slf4j-aws-lambda@1.0.1
+- pkg:maven/uk.bot-by/slf4j-aws-lambda@1.0.1?classifier=sources

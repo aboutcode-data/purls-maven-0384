@@ -57,3 +57,7 @@
 - pkg:maven/info.unterrainer.server/elite-server-dtos@0.0.56?classifier=sources
 - pkg:maven/info.unterrainer.server/elite-server-dtos@0.0.57
 - pkg:maven/info.unterrainer.server/elite-server-dtos@0.0.57?classifier=sources
+- pkg:maven/info.unterrainer.server/elite-server-dtos@0.0.58
+- pkg:maven/info.unterrainer.server/elite-server-dtos@0.0.58?classifier=sources
+- pkg:maven/info.unterrainer.server/elite-server-dtos@0.0.59
+- pkg:maven/info.unterrainer.server/elite-server-dtos@0.0.59?classifier=sources

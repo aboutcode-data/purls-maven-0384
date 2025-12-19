@@ -26,6 +26,7 @@
 - pkg:maven/io.norberg/auto-matter-test@0.25.1
 - pkg:maven/io.norberg/auto-matter-test@0.25.2
 - pkg:maven/io.norberg/auto-matter-test@0.25.3
+- pkg:maven/io.norberg/auto-matter-test@0.26.0
 - pkg:maven/io.norberg/auto-matter-test@0.4
 - pkg:maven/io.norberg/auto-matter-test@0.5
 - pkg:maven/io.norberg/auto-matter-test@0.6

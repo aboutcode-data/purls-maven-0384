@@ -36,6 +36,8 @@
 - pkg:maven/com.jdcloud.sdk/core@1.2.7?classifier=sources
 - pkg:maven/com.jdcloud.sdk/core@1.2.8
 - pkg:maven/com.jdcloud.sdk/core@1.2.8?classifier=sources
+- pkg:maven/com.jdcloud.sdk/core@1.2.9
+- pkg:maven/com.jdcloud.sdk/core@1.2.9?classifier=sources
 - pkg:maven/com.jdcloud.sdk/core@2.0.0
 - pkg:maven/com.jdcloud.sdk/core@2.0.0?classifier=sources
 - pkg:maven/com.jdcloud.sdk/core@2.0.1

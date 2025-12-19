@@ -1,0 +1,2 @@
+- pkg:maven/be.atbash.runtime/logging-testing@0.3
+- pkg:maven/be.atbash.runtime/logging-testing@0.3?classifier=sources

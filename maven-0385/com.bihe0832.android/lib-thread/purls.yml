@@ -1,1 +1,3 @@
 - pkg:maven/com.bihe0832.android/lib-thread@4.1.0?type=aar
+- pkg:maven/com.bihe0832.android/lib-thread@4.19.0?type=aar
+- pkg:maven/com.bihe0832.android/lib-thread@4.20.0?type=aar

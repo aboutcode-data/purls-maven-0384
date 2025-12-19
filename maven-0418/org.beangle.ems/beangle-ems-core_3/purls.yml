@@ -30,3 +30,11 @@
 - pkg:maven/org.beangle.ems/beangle-ems-core_3@4.1.35?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-core_3@4.1.36
 - pkg:maven/org.beangle.ems/beangle-ems-core_3@4.1.36?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-core_3@4.1.37
+- pkg:maven/org.beangle.ems/beangle-ems-core_3@4.1.37?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-core_3@4.1.38
+- pkg:maven/org.beangle.ems/beangle-ems-core_3@4.1.38?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-core_3@4.2.0
+- pkg:maven/org.beangle.ems/beangle-ems-core_3@4.2.0?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-core_3@4.2.1
+- pkg:maven/org.beangle.ems/beangle-ems-core_3@4.2.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.hasor/hasordb-spring@4.3.4
+- pkg:maven/net.hasor/hasordb-spring@4.3.4?classifier=sources
+- pkg:maven/net.hasor/hasordb-spring@4.3.5
+- pkg:maven/net.hasor/hasordb-spring@4.3.5?classifier=sources

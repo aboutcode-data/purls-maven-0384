@@ -56,3 +56,7 @@
 - pkg:maven/org.odpi.egeria/community-profile-spring@3.6?classifier=sources
 - pkg:maven/org.odpi.egeria/community-profile-spring@3.7
 - pkg:maven/org.odpi.egeria/community-profile-spring@3.7?classifier=sources
+- pkg:maven/org.odpi.egeria/community-profile-spring@3.8
+- pkg:maven/org.odpi.egeria/community-profile-spring@3.8?classifier=sources
+- pkg:maven/org.odpi.egeria/community-profile-spring@3.9
+- pkg:maven/org.odpi.egeria/community-profile-spring@3.9?classifier=sources

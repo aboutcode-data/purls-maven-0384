@@ -1,0 +1,2 @@
+- pkg:maven/com.higlowx/mybatis-generator-maven-plugin-extension@0.1.1-1.4.1
+- pkg:maven/com.higlowx/mybatis-generator-maven-plugin-extension@0.1.1-1.4.1?classifier=sources

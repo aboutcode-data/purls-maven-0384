@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/ts-invariant@0.10.1
 - pkg:maven/org.webjars.npm/ts-invariant@0.10.1?classifier=sources
+- pkg:maven/org.webjars.npm/ts-invariant@0.10.2
+- pkg:maven/org.webjars.npm/ts-invariant@0.10.2?classifier=sources
 - pkg:maven/org.webjars.npm/ts-invariant@0.2.1
 - pkg:maven/org.webjars.npm/ts-invariant@0.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/ts-invariant@0.4.4

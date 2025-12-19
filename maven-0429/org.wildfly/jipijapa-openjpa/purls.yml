@@ -136,3 +136,7 @@
 - pkg:maven/org.wildfly/jipijapa-openjpa@26.1.0.Beta1?classifier=sources
 - pkg:maven/org.wildfly/jipijapa-openjpa@26.1.0.Final
 - pkg:maven/org.wildfly/jipijapa-openjpa@26.1.0.Final?classifier=sources
+- pkg:maven/org.wildfly/jipijapa-openjpa@26.1.1.Final
+- pkg:maven/org.wildfly/jipijapa-openjpa@26.1.1.Final?classifier=sources
+- pkg:maven/org.wildfly/jipijapa-openjpa@27.0.0.Alpha1
+- pkg:maven/org.wildfly/jipijapa-openjpa@27.0.0.Alpha1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.audiophobe/calcifer-plugin@0.1.0
+- pkg:maven/de.audiophobe/calcifer-plugin@0.1.0?classifier=sources

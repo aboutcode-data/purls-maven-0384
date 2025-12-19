@@ -43,3 +43,5 @@
 - pkg:maven/org.netbeans.html/html4j-maven-plugin@1.7.3
 - pkg:maven/org.netbeans.html/html4j-maven-plugin@1.7.3?classifier=sources
 - pkg:maven/org.netbeans.html/html4j-maven-plugin@1.7?classifier=sources
+- pkg:maven/org.netbeans.html/html4j-maven-plugin@1.8
+- pkg:maven/org.netbeans.html/html4j-maven-plugin@1.8?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/org.wso2.choreo.connect/org.wso2.choreo.connect.enforcer.commons@1.0.0
 - pkg:maven/org.wso2.choreo.connect/org.wso2.choreo.connect.enforcer.commons@1.0.0?classifier=sources
+- pkg:maven/org.wso2.choreo.connect/org.wso2.choreo.connect.enforcer.commons@1.1.0
 - pkg:maven/org.wso2.choreo.connect/org.wso2.choreo.connect.enforcer.commons@1.1.0-alpha
 - pkg:maven/org.wso2.choreo.connect/org.wso2.choreo.connect.enforcer.commons@1.1.0-alpha2
 - pkg:maven/org.wso2.choreo.connect/org.wso2.choreo.connect.enforcer.commons@1.1.0-alpha2?classifier=sources
@@ -10,3 +11,4 @@
 - pkg:maven/org.wso2.choreo.connect/org.wso2.choreo.connect.enforcer.commons@1.1.0-m3?classifier=sources
 - pkg:maven/org.wso2.choreo.connect/org.wso2.choreo.connect.enforcer.commons@1.1.0-m4
 - pkg:maven/org.wso2.choreo.connect/org.wso2.choreo.connect.enforcer.commons@1.1.0-m4?classifier=sources
+- pkg:maven/org.wso2.choreo.connect/org.wso2.choreo.connect.enforcer.commons@1.1.0?classifier=sources

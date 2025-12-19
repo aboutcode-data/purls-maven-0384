@@ -23,3 +23,5 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.bootstrap4@0.36.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.bootstrap4@0.37.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.bootstrap4@0.38.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.bootstrap4@0.39.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.bootstrap4@0.40.0?classifier=sources

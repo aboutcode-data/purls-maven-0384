@@ -26,3 +26,5 @@
 - pkg:maven/com.github.cafapi.config/config-decoder@1.8.0-191?classifier=sources
 - pkg:maven/com.github.cafapi.config/config-decoder@1.9.0-197
 - pkg:maven/com.github.cafapi.config/config-decoder@1.9.0-197?classifier=sources
+- pkg:maven/com.github.cafapi.config/config-decoder@2.0.0-425
+- pkg:maven/com.github.cafapi.config/config-decoder@2.0.0-425?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.github.boybeak/adapter-compiler@5.4.5?classifier=sources
+- pkg:maven/com.github.boybeak/adapter-compiler@5.4.6?classifier=sources

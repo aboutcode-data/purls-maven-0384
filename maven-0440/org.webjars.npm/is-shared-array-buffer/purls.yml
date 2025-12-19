@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/is-shared-array-buffer@1.0.2
+- pkg:maven/org.webjars.npm/is-shared-array-buffer@1.0.2?classifier=sources

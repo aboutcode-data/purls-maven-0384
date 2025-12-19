@@ -66,6 +66,10 @@
 - pkg:maven/org.codelibs.fess/fess-crawler-lasta@1.5.8?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-crawler-lasta@14.0.0
 - pkg:maven/org.codelibs.fess/fess-crawler-lasta@14.0.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-crawler-lasta@14.1.0
+- pkg:maven/org.codelibs.fess/fess-crawler-lasta@14.1.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-crawler-lasta@14.1.1
+- pkg:maven/org.codelibs.fess/fess-crawler-lasta@14.1.1?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-crawler-lasta@2.0.0
 - pkg:maven/org.codelibs.fess/fess-crawler-lasta@2.0.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-crawler-lasta@2.0.1

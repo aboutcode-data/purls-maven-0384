@@ -1,3 +1,6 @@
 - pkg:maven/io.kalix/kalix-maven-plugin@0.11.0-M1
 - pkg:maven/io.kalix/kalix-maven-plugin@0.11.0-M2
+- pkg:maven/io.kalix/kalix-maven-plugin@1.0.0
 - pkg:maven/io.kalix/kalix-maven-plugin@1.0.0-M1
+- pkg:maven/io.kalix/kalix-maven-plugin@1.0.1
+- pkg:maven/io.kalix/kalix-maven-plugin@1.0.2

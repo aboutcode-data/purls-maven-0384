@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.plugin/salesforce-plugins@1.4.0
+- pkg:maven/io.cdap.plugin/salesforce-plugins@1.4.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/io.github.vantiv/cnp-sdk-for-java@12.21.2?classifier=sources
 - pkg:maven/io.github.vantiv/cnp-sdk-for-java@12.22.0?classifier=sources
 - pkg:maven/io.github.vantiv/cnp-sdk-for-java@12.24.0?classifier=sources
+- pkg:maven/io.github.vantiv/cnp-sdk-for-java@12.25.0?classifier=sources

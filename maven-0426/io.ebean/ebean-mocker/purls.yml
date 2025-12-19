@@ -12,3 +12,5 @@
 - pkg:maven/io.ebean/ebean-mocker@11.18.1?classifier=sources
 - pkg:maven/io.ebean/ebean-mocker@12.6.0
 - pkg:maven/io.ebean/ebean-mocker@12.6.0?classifier=sources
+- pkg:maven/io.ebean/ebean-mocker@13.6.0
+- pkg:maven/io.ebean/ebean-mocker@13.6.0?classifier=sources

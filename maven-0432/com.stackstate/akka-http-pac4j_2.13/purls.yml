@@ -1,0 +1,2 @@
+- pkg:maven/com.stackstate/akka-http-pac4j_2.13@0.8.1
+- pkg:maven/com.stackstate/akka-http-pac4j_2.13@0.8.1?classifier=sources

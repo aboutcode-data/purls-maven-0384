@@ -6,5 +6,9 @@
 - pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@0.2-dev-75901610?classifier=sources
 - pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@0.2-dev-daeb4bee
 - pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@0.2-dev-daeb4bee?classifier=sources
+- pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@2.0-dev-5df91220
+- pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@2.0-dev-5df91220?classifier=sources
 - pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@2.0-dev-a504abc
 - pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@2.0-dev-a504abc?classifier=sources
+- pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@2.0-dev-f8a23272
+- pkg:maven/com.arkondata/slothql-cypher-apoc_2.13@2.0-dev-f8a23272?classifier=sources

@@ -2,6 +2,7 @@
 - pkg:maven/io.github.bmob/android-sdk@3.8.11?type=aar
 - pkg:maven/io.github.bmob/android-sdk@3.8.12?type=aar
 - pkg:maven/io.github.bmob/android-sdk@3.8.13?type=aar
+- pkg:maven/io.github.bmob/android-sdk@3.8.14?type=aar
 - pkg:maven/io.github.bmob/android-sdk@3.8.2?classifier=sources
 - pkg:maven/io.github.bmob/android-sdk@3.8.2?type=aar
 - pkg:maven/io.github.bmob/android-sdk@3.8.3?type=aar

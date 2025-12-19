@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/jridgewell__sourcemap-codec@1.4.10
 - pkg:maven/org.webjars.npm/jridgewell__sourcemap-codec@1.4.10?classifier=sources
+- pkg:maven/org.webjars.npm/jridgewell__sourcemap-codec@1.4.13
+- pkg:maven/org.webjars.npm/jridgewell__sourcemap-codec@1.4.13?classifier=sources

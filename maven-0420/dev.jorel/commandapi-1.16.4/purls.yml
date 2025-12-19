@@ -1,0 +1,4 @@
+- pkg:maven/dev.jorel/commandapi-1.16.4@8.3.0
+- pkg:maven/dev.jorel/commandapi-1.16.4@8.3.0?classifier=sources
+- pkg:maven/dev.jorel/commandapi-1.16.4@8.3.1
+- pkg:maven/dev.jorel/commandapi-1.16.4@8.3.1?classifier=sources

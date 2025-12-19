@@ -8,6 +8,10 @@
 - pkg:maven/io.avaje/avaje-jsonb@0.13?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb@0.14
 - pkg:maven/io.avaje/avaje-jsonb@0.14?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb@0.15
+- pkg:maven/io.avaje/avaje-jsonb@0.15?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb@0.16
+- pkg:maven/io.avaje/avaje-jsonb@0.16?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb@0.2
 - pkg:maven/io.avaje/avaje-jsonb@0.2?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb@0.4
@@ -22,3 +26,5 @@
 - pkg:maven/io.avaje/avaje-jsonb@0.8?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb@0.9
 - pkg:maven/io.avaje/avaje-jsonb@0.9?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb@1.0-RC1
+- pkg:maven/io.avaje/avaje-jsonb@1.0-RC1?classifier=sources

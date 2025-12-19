@@ -110,3 +110,5 @@
 - pkg:maven/com.powsybl/powsybl-action-dsl@4.8.0-RC2
 - pkg:maven/com.powsybl/powsybl-action-dsl@4.8.0-RC2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-action-dsl@4.8.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-action-dsl@4.9.0-RC1
+- pkg:maven/com.powsybl/powsybl-action-dsl@4.9.0-RC1?classifier=sources

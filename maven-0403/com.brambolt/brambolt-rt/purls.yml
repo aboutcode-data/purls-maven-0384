@@ -9,3 +9,4 @@
 - pkg:maven/com.brambolt/brambolt-rt@2022.04.01-7014?classifier=sources
 - pkg:maven/com.brambolt/brambolt-rt@2022.04.01-7015?classifier=sources
 - pkg:maven/com.brambolt/brambolt-rt@2022.04.01-7016?classifier=sources
+- pkg:maven/com.brambolt/brambolt-rt@2022.05.01-7057?classifier=sources
