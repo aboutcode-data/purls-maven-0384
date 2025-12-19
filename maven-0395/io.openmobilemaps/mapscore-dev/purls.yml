@@ -134,3 +134,9 @@
 - pkg:maven/io.openmobilemaps/mapscore-dev@1.4.0.150?classifier=sources
 - pkg:maven/io.openmobilemaps/mapscore-dev@1.4.0.151?classifier=sources
 - pkg:maven/io.openmobilemaps/mapscore-dev@1.4.0.152?classifier=sources
+- pkg:maven/io.openmobilemaps/mapscore-dev@1.4.0.153?classifier=sources
+- pkg:maven/io.openmobilemaps/mapscore-dev@1.4.0.154?classifier=sources
+- pkg:maven/io.openmobilemaps/mapscore-dev@1.4.0.155?classifier=sources
+- pkg:maven/io.openmobilemaps/mapscore-dev@1.4.0.156?classifier=sources
+- pkg:maven/io.openmobilemaps/mapscore-dev@1.4.0.157?classifier=sources
+- pkg:maven/io.openmobilemaps/mapscore-dev@1.4.1.158?classifier=sources

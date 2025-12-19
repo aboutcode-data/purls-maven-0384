@@ -2,3 +2,5 @@
 - pkg:maven/ai.meson.sdk/meson-wrap-gam@1.0.1?type=aar
 - pkg:maven/ai.meson.sdk/meson-wrap-gam@2.0.0?type=aar
 - pkg:maven/ai.meson.sdk/meson-wrap-gam@2.0.1?type=aar
+- pkg:maven/ai.meson.sdk/meson-wrap-gam@2.0.2?type=aar
+- pkg:maven/ai.meson.sdk/meson-wrap-gam@2.0.3?type=aar

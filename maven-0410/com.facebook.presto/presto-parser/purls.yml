@@ -450,6 +450,10 @@
 - pkg:maven/com.facebook.presto/presto-parser@0.273.4
 - pkg:maven/com.facebook.presto/presto-parser@0.273.4?classifier=sources
 - pkg:maven/com.facebook.presto/presto-parser@0.273?classifier=sources
+- pkg:maven/com.facebook.presto/presto-parser@0.274
+- pkg:maven/com.facebook.presto/presto-parser@0.274?classifier=sources
+- pkg:maven/com.facebook.presto/presto-parser@0.275
+- pkg:maven/com.facebook.presto/presto-parser@0.275?classifier=sources
 - pkg:maven/com.facebook.presto/presto-parser@0.52
 - pkg:maven/com.facebook.presto/presto-parser@0.52?classifier=sources
 - pkg:maven/com.facebook.presto/presto-parser@0.53

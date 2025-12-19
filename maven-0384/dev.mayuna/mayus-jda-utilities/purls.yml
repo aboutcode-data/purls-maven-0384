@@ -27,3 +27,4 @@
 - pkg:maven/dev.mayuna/mayus-jda-utilities@2.5.3?classifier=sources
 - pkg:maven/dev.mayuna/mayus-jda-utilities@2.5.4?classifier=sources
 - pkg:maven/dev.mayuna/mayus-jda-utilities@2.5?classifier=sources
+- pkg:maven/dev.mayuna/mayus-jda-utilities@3.0-beta?classifier=sources

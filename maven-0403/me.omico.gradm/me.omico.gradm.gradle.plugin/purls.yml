@@ -8,3 +8,6 @@
 - pkg:maven/me.omico.gradm/me.omico.gradm.gradle.plugin@1.7.0?classifier=sources
 - pkg:maven/me.omico.gradm/me.omico.gradm.gradle.plugin@2.0.0?classifier=sources
 - pkg:maven/me.omico.gradm/me.omico.gradm.gradle.plugin@2.1.0?classifier=sources
+- pkg:maven/me.omico.gradm/me.omico.gradm.gradle.plugin@2.2.0?classifier=sources
+- pkg:maven/me.omico.gradm/me.omico.gradm.gradle.plugin@2.3.0?classifier=sources
+- pkg:maven/me.omico.gradm/me.omico.gradm.gradle.plugin@2.4.0?classifier=sources

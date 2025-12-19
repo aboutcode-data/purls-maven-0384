@@ -118,6 +118,8 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-test@2.31.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-test@2.32.0
 - pkg:maven/nl.vpro.shared/vpro-shared-test@2.32.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-test@2.33.0
+- pkg:maven/nl.vpro.shared/vpro-shared-test@2.33.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-test@2.4.2
 - pkg:maven/nl.vpro.shared/vpro-shared-test@2.4.2?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-test@2.5.0

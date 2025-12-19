@@ -22,3 +22,5 @@
 - pkg:maven/org.fisco-bcos/solcJ@0.6.10.2?classifier=sources
 - pkg:maven/org.fisco-bcos/solcJ@0.8.11.0
 - pkg:maven/org.fisco-bcos/solcJ@0.8.11.0?classifier=sources
+- pkg:maven/org.fisco-bcos/solcJ@0.8.11.1
+- pkg:maven/org.fisco-bcos/solcJ@0.8.11.1?classifier=sources

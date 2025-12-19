@@ -602,3 +602,4 @@
 - pkg:maven/org.mockito/mockito-core@4.5.1?classifier=sources
 - pkg:maven/org.mockito/mockito-core@4.6.0?classifier=sources
 - pkg:maven/org.mockito/mockito-core@4.6.1?classifier=sources
+- pkg:maven/org.mockito/mockito-core@4.7.0?classifier=sources

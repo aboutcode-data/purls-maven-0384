@@ -90,3 +90,9 @@
 - pkg:maven/com.onegini/idp-sdk@5.79.0?classifier=sources
 - pkg:maven/com.onegini/idp-sdk@5.80.0
 - pkg:maven/com.onegini/idp-sdk@5.80.0?classifier=sources
+- pkg:maven/com.onegini/idp-sdk@5.81.0
+- pkg:maven/com.onegini/idp-sdk@5.81.0?classifier=sources
+- pkg:maven/com.onegini/idp-sdk@5.82.0
+- pkg:maven/com.onegini/idp-sdk@5.82.0?classifier=sources
+- pkg:maven/com.onegini/idp-sdk@5.83.0
+- pkg:maven/com.onegini/idp-sdk@5.83.0?classifier=sources

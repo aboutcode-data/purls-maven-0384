@@ -54,6 +54,8 @@
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@7.71.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@7.72.0.Final
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@7.72.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@7.73.0.Final
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@7.73.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.13.0.Beta
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.13.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.14.0.Beta
@@ -84,3 +86,11 @@
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.23.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.24.0.Beta
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.24.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.24.1.Beta
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.24.1.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.25.0.Beta
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.25.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.26.0.Beta
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.26.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.27.0.Beta
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.27.0.Beta?classifier=sources

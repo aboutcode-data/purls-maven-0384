@@ -1,3 +1,5 @@
+- pkg:maven/com.javiersc.kotlin/kotlin-stdlib-watchosarm64@0.1.0-alpha.10?classifier=sources
+- pkg:maven/com.javiersc.kotlin/kotlin-stdlib-watchosarm64@0.1.0-alpha.11?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kotlin-stdlib-watchosarm64@0.1.0-alpha.1?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kotlin-stdlib-watchosarm64@0.1.0-alpha.2?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kotlin-stdlib-watchosarm64@0.1.0-alpha.3?classifier=sources
@@ -6,3 +8,4 @@
 - pkg:maven/com.javiersc.kotlin/kotlin-stdlib-watchosarm64@0.1.0-alpha.6?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kotlin-stdlib-watchosarm64@0.1.0-alpha.7?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kotlin-stdlib-watchosarm64@0.1.0-alpha.8?classifier=sources
+- pkg:maven/com.javiersc.kotlin/kotlin-stdlib-watchosarm64@0.1.0-alpha.9?classifier=sources

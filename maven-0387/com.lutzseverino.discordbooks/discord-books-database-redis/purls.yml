@@ -1,0 +1,4 @@
+- pkg:maven/com.lutzseverino.discordbooks/discord-books-database-redis@2.7.0
+- pkg:maven/com.lutzseverino.discordbooks/discord-books-database-redis@2.7.0?classifier=sources
+- pkg:maven/com.lutzseverino.discordbooks/discord-books-database-redis@2.7.1
+- pkg:maven/com.lutzseverino.discordbooks/discord-books-database-redis@2.7.1?classifier=sources

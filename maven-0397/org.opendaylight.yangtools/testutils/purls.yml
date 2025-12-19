@@ -274,4 +274,7 @@
 - pkg:maven/org.opendaylight.yangtools/testutils@8.0.5
 - pkg:maven/org.opendaylight.yangtools/testutils@8.0.5?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/testutils@8.0.6?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/testutils@8.0.7?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/testutils@9.0.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/testutils@9.0.1
+- pkg:maven/org.opendaylight.yangtools/testutils@9.0.1?classifier=sources

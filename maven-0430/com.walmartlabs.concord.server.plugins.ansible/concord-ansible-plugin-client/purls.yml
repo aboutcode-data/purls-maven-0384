@@ -117,3 +117,4 @@
 - pkg:maven/com.walmartlabs.concord.server.plugins.ansible/concord-ansible-plugin-client@1.93.3?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins.ansible/concord-ansible-plugin-client@1.94.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins.ansible/concord-ansible-plugin-client@1.95.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server.plugins.ansible/concord-ansible-plugin-client@1.96.0?classifier=sources

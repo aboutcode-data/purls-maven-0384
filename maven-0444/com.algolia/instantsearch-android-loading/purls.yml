@@ -1,3 +1,4 @@
 - pkg:maven/com.algolia/instantsearch-android-loading@3.0.0-beta01?classifier=sources
 - pkg:maven/com.algolia/instantsearch-android-loading@3.0.0-beta02?classifier=sources
 - pkg:maven/com.algolia/instantsearch-android-loading@3.0.0?classifier=sources
+- pkg:maven/com.algolia/instantsearch-android-loading@3.1.3?classifier=sources

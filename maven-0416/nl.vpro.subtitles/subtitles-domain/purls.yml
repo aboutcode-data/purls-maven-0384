@@ -146,3 +146,7 @@
 - pkg:maven/nl.vpro.subtitles/subtitles-domain@5.33.0?classifier=sources
 - pkg:maven/nl.vpro.subtitles/subtitles-domain@5.34.0
 - pkg:maven/nl.vpro.subtitles/subtitles-domain@5.34.0?classifier=sources
+- pkg:maven/nl.vpro.subtitles/subtitles-domain@5.34.1
+- pkg:maven/nl.vpro.subtitles/subtitles-domain@5.34.1?classifier=sources
+- pkg:maven/nl.vpro.subtitles/subtitles-domain@6.0.0
+- pkg:maven/nl.vpro.subtitles/subtitles-domain@6.0.0?classifier=sources

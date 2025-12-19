@@ -19,3 +19,5 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-delivery-metrics@4.2.30?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-delivery-metrics@4.2.31?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-delivery-metrics@4.2.32?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-delivery-metrics@4.2.33?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-delivery-metrics@4.3-beta.0?classifier=sources

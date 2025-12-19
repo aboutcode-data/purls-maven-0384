@@ -187,3 +187,5 @@
 - pkg:maven/org.wso2.is/identity-server-parent@5.8.1-m2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.is/identity-server-parent@5.9.0-beta?classifier=source-release&type=zip
 - pkg:maven/org.wso2.is/identity-server-parent@5.9.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.is/identity-server-parent@6.0.0-alpha3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.is/identity-server-parent@6.0.0?classifier=source-release&type=zip

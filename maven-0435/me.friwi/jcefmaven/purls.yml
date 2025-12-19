@@ -5,7 +5,11 @@
 - pkg:maven/me.friwi/jcefmaven@100.0.14.2?classifier=sources
 - pkg:maven/me.friwi/jcefmaven@100.0.14.3
 - pkg:maven/me.friwi/jcefmaven@100.0.14.3?classifier=sources
+- pkg:maven/me.friwi/jcefmaven@100.0.14.4
+- pkg:maven/me.friwi/jcefmaven@100.0.14.4?classifier=sources
 - pkg:maven/me.friwi/jcefmaven@100.0.14?classifier=sources
+- pkg:maven/me.friwi/jcefmaven@104.4.23
+- pkg:maven/me.friwi/jcefmaven@104.4.23?classifier=sources
 - pkg:maven/me.friwi/jcefmaven@95.7.14
 - pkg:maven/me.friwi/jcefmaven@95.7.14.1
 - pkg:maven/me.friwi/jcefmaven@95.7.14.10

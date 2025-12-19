@@ -1,4 +1,12 @@
+- pkg:maven/cat.rokubun.core/core@6.10.10?classifier=sources
+- pkg:maven/cat.rokubun.core/core@6.10.11?classifier=sources
+- pkg:maven/cat.rokubun.core/core@6.10.15?classifier=sources
+- pkg:maven/cat.rokubun.core/core@6.10.17?classifier=sources
 - pkg:maven/cat.rokubun.core/core@6.10.2?classifier=sources
+- pkg:maven/cat.rokubun.core/core@6.10.6?classifier=sources
+- pkg:maven/cat.rokubun.core/core@6.10.9?classifier=sources
+- pkg:maven/cat.rokubun.core/core@6.11.41?classifier=sources
+- pkg:maven/cat.rokubun.core/core@6.11.48?classifier=sources
 - pkg:maven/cat.rokubun.core/core@6.6.10?classifier=sources
 - pkg:maven/cat.rokubun.core/core@6.6.11?classifier=sources
 - pkg:maven/cat.rokubun.core/core@6.6.12?classifier=sources

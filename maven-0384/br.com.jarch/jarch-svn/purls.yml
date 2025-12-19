@@ -86,3 +86,5 @@
 - pkg:maven/br.com.jarch/jarch-svn@22.5.2?classifier=sources
 - pkg:maven/br.com.jarch/jarch-svn@22.6.0
 - pkg:maven/br.com.jarch/jarch-svn@22.6.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-svn@22.7.0
+- pkg:maven/br.com.jarch/jarch-svn@22.7.0?classifier=sources

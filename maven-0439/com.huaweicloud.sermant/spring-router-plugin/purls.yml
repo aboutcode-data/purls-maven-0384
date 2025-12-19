@@ -1,0 +1,2 @@
+- pkg:maven/com.huaweicloud.sermant/spring-router-plugin@0.4.0
+- pkg:maven/com.huaweicloud.sermant/spring-router-plugin@0.4.0?classifier=sources

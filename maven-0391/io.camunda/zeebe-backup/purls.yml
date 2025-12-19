@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda/zeebe-backup@8.1.0-alpha4
+- pkg:maven/io.camunda/zeebe-backup@8.1.0-alpha4?classifier=sources

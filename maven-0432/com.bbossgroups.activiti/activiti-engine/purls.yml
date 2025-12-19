@@ -13,6 +13,9 @@
 - pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12.20?classifier=sources
 - pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12.22?classifier=sources
 - pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12.23?classifier=sources
+- pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12.25?classifier=sources
+- pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12.26?classifier=sources
+- pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12.27?classifier=sources
 - pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12.2?classifier=sources
 - pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12.3
 - pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12.3?classifier=sources

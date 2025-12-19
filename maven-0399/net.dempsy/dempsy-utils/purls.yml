@@ -14,3 +14,5 @@
 - pkg:maven/net.dempsy/dempsy-utils@2.2.2?classifier=sources
 - pkg:maven/net.dempsy/dempsy-utils@2.2.3
 - pkg:maven/net.dempsy/dempsy-utils@2.2.3?classifier=sources
+- pkg:maven/net.dempsy/dempsy-utils@2.4.0
+- pkg:maven/net.dempsy/dempsy-utils@2.4.0?classifier=sources

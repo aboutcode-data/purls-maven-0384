@@ -12,6 +12,8 @@
 - pkg:maven/org.eclipse.hono/hono-client-application-kafka@1.12.0?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-client-application-kafka@1.12.1
 - pkg:maven/org.eclipse.hono/hono-client-application-kafka@1.12.1?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-client-application-kafka@1.12.3
+- pkg:maven/org.eclipse.hono/hono-client-application-kafka@1.12.3?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-client-application-kafka@1.7.0
 - pkg:maven/org.eclipse.hono/hono-client-application-kafka@1.7.0?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-client-application-kafka@1.7.1
@@ -34,3 +36,7 @@
 - pkg:maven/org.eclipse.hono/hono-client-application-kafka@1.9.0?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-client-application-kafka@1.9.1
 - pkg:maven/org.eclipse.hono/hono-client-application-kafka@1.9.1?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-client-application-kafka@2.0.2
+- pkg:maven/org.eclipse.hono/hono-client-application-kafka@2.0.2?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-client-application-kafka@2.1.0
+- pkg:maven/org.eclipse.hono/hono-client-application-kafka@2.1.0?classifier=sources

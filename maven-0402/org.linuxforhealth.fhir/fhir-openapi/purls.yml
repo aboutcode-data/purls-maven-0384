@@ -1,0 +1,2 @@
+- pkg:maven/org.linuxforhealth.fhir/fhir-openapi@5.0.0-RC1?type=war
+- pkg:maven/org.linuxforhealth.fhir/fhir-openapi@5.0.0-RC2?type=war

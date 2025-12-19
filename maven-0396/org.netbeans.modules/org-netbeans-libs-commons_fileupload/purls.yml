@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE150?classifier=sources

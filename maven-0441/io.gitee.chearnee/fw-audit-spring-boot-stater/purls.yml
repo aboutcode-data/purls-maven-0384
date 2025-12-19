@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.chearnee/fw-audit-spring-boot-stater@0.0.1
+- pkg:maven/io.gitee.chearnee/fw-audit-spring-boot-stater@0.0.1?classifier=sources

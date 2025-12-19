@@ -14,3 +14,4 @@
 - pkg:maven/info.novatec/micronaut-zeebe-client-feature@1.6.0?classifier=sources
 - pkg:maven/info.novatec/micronaut-zeebe-client-feature@1.7.0?classifier=sources
 - pkg:maven/info.novatec/micronaut-zeebe-client-feature@1.8.0?classifier=sources
+- pkg:maven/info.novatec/micronaut-zeebe-client-feature@1.9.0?classifier=sources

@@ -53,6 +53,8 @@
 - pkg:maven/org.dspace.modules/additions@5.1
 - pkg:maven/org.dspace.modules/additions@5.10
 - pkg:maven/org.dspace.modules/additions@5.10?classifier=sources
+- pkg:maven/org.dspace.modules/additions@5.11
+- pkg:maven/org.dspace.modules/additions@5.11?classifier=sources
 - pkg:maven/org.dspace.modules/additions@5.1?classifier=sources
 - pkg:maven/org.dspace.modules/additions@5.2
 - pkg:maven/org.dspace.modules/additions@5.2?classifier=sources
@@ -86,6 +88,8 @@
 - pkg:maven/org.dspace.modules/additions@6.2?classifier=sources
 - pkg:maven/org.dspace.modules/additions@6.3
 - pkg:maven/org.dspace.modules/additions@6.3?classifier=sources
+- pkg:maven/org.dspace.modules/additions@6.4
+- pkg:maven/org.dspace.modules/additions@6.4?classifier=sources
 - pkg:maven/org.dspace.modules/additions@7.0
 - pkg:maven/org.dspace.modules/additions@7.0-beta1
 - pkg:maven/org.dspace.modules/additions@7.0-beta1?classifier=sources

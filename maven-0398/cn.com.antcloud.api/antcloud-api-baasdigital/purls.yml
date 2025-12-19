@@ -1,0 +1,2 @@
+- pkg:maven/cn.com.antcloud.api/antcloud-api-baasdigital@1.0.34
+- pkg:maven/cn.com.antcloud.api/antcloud-api-baasdigital@1.0.34?classifier=sources

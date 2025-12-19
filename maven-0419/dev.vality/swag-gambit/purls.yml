@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/swag-gambit@1.2-5f05ba8-client
+- pkg:maven/dev.vality/swag-gambit@1.2-5f05ba8-client?classifier=sources
+- pkg:maven/dev.vality/swag-gambit@1.2-5f05ba8-server
+- pkg:maven/dev.vality/swag-gambit@1.2-5f05ba8-server?classifier=sources

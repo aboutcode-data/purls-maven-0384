@@ -319,4 +319,5 @@
 - pkg:maven/org.roaringbitmap/RoaringBitmap@0.9.29?classifier=sources
 - pkg:maven/org.roaringbitmap/RoaringBitmap@0.9.3
 - pkg:maven/org.roaringbitmap/RoaringBitmap@0.9.30?classifier=sources
+- pkg:maven/org.roaringbitmap/RoaringBitmap@0.9.31?classifier=sources
 - pkg:maven/org.roaringbitmap/RoaringBitmap@0.9.3?classifier=sources

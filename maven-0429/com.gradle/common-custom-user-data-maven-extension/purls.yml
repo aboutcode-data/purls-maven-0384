@@ -9,6 +9,8 @@
 - pkg:maven/com.gradle/common-custom-user-data-maven-extension@1.10.1
 - pkg:maven/com.gradle/common-custom-user-data-maven-extension@1.10.1?classifier=sources
 - pkg:maven/com.gradle/common-custom-user-data-maven-extension@1.10?classifier=sources
+- pkg:maven/com.gradle/common-custom-user-data-maven-extension@1.11
+- pkg:maven/com.gradle/common-custom-user-data-maven-extension@1.11?classifier=sources
 - pkg:maven/com.gradle/common-custom-user-data-maven-extension@1.1?classifier=sources
 - pkg:maven/com.gradle/common-custom-user-data-maven-extension@1.2
 - pkg:maven/com.gradle/common-custom-user-data-maven-extension@1.2?classifier=sources

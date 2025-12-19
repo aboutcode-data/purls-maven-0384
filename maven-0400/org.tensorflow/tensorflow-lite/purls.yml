@@ -9,6 +9,8 @@
 - pkg:maven/org.tensorflow/tensorflow-lite@1.9.0?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite@2.0.0?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite@2.1.0?type=aar
+- pkg:maven/org.tensorflow/tensorflow-lite@2.10.0-rc3?type=aar
+- pkg:maven/org.tensorflow/tensorflow-lite@2.10.0?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite@2.2.0?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite@2.3.0?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite@2.4.0?type=aar

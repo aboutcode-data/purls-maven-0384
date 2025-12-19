@@ -1,2 +1,4 @@
 - pkg:maven/ru.tinkoff.core.components.log/log@2.5.0
 - pkg:maven/ru.tinkoff.core.components.log/log@2.5.0?classifier=sources
+- pkg:maven/ru.tinkoff.core.components.log/log@2.7.0
+- pkg:maven/ru.tinkoff.core.components.log/log@2.7.0?classifier=sources

@@ -232,3 +232,5 @@
 - pkg:maven/com.c4-soft.springaddons/spring-web-test-addons@4.4.9?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-web-test-addons@4.5.0
 - pkg:maven/com.c4-soft.springaddons/spring-web-test-addons@4.5.0?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-web-test-addons@4.5.1
+- pkg:maven/com.c4-soft.springaddons/spring-web-test-addons@4.5.1?classifier=sources

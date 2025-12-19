@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE150?classifier=sources

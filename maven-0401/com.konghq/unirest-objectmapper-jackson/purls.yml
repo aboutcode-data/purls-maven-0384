@@ -91,6 +91,8 @@
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.1
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.10
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.10?classifier=sources
+- pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.11
+- pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.11?classifier=sources
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.1?classifier=sources
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.2
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.2?classifier=sources
@@ -106,6 +108,8 @@
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.7?classifier=sources
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.8
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.8?classifier=sources
+- pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.9
+- pkg:maven/com.konghq/unirest-objectmapper-jackson@3.13.9?classifier=sources
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.2.00
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.2.00?classifier=sources
 - pkg:maven/com.konghq/unirest-objectmapper-jackson@3.3.00

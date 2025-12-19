@@ -4,3 +4,7 @@
 - pkg:maven/cz.active24.client.fred/fred-client@2.44.1
 - pkg:maven/cz.active24.client.fred/fred-client@2.44.1?classifier=sources
 - pkg:maven/cz.active24.client.fred/fred-client@2.44?classifier=sources
+- pkg:maven/cz.active24.client.fred/fred-client@2.46
+- pkg:maven/cz.active24.client.fred/fred-client@2.46.1
+- pkg:maven/cz.active24.client.fred/fred-client@2.46.1?classifier=sources
+- pkg:maven/cz.active24.client.fred/fred-client@2.46?classifier=sources

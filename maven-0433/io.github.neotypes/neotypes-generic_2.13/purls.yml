@@ -1,0 +1,2 @@
+- pkg:maven/io.github.neotypes/neotypes-generic_2.13@0.22.0
+- pkg:maven/io.github.neotypes/neotypes-generic_2.13@0.22.0?classifier=sources

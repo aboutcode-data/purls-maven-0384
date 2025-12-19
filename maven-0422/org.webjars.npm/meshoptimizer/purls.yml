@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/meshoptimizer@0.16.1
+- pkg:maven/org.webjars.npm/meshoptimizer@0.16.1?classifier=sources

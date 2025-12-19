@@ -4,3 +4,5 @@
 - pkg:maven/cloud.metaapi.sdk/metaapi-metastats-sdk@1.0.1?classifier=sources
 - pkg:maven/cloud.metaapi.sdk/metaapi-metastats-sdk@2.0.0
 - pkg:maven/cloud.metaapi.sdk/metaapi-metastats-sdk@2.0.0?classifier=sources
+- pkg:maven/cloud.metaapi.sdk/metaapi-metastats-sdk@2.0.1
+- pkg:maven/cloud.metaapi.sdk/metaapi-metastats-sdk@2.0.1?classifier=sources

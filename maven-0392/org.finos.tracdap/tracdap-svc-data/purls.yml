@@ -1,1 +1,2 @@
 - pkg:maven/org.finos.tracdap/tracdap-svc-data@0.4.3?classifier=sources
+- pkg:maven/org.finos.tracdap/tracdap-svc-data@0.4.4?classifier=sources

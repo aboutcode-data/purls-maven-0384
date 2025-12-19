@@ -19,3 +19,4 @@
 - pkg:maven/com.c4-soft.springaddons/spring-webmvc-archetype-singlemodule@4.4.8?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-webmvc-archetype-singlemodule@4.4.9?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-webmvc-archetype-singlemodule@4.5.0?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-webmvc-archetype-singlemodule@4.5.1?classifier=sources

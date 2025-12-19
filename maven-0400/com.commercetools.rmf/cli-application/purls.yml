@@ -169,3 +169,5 @@
 - pkg:maven/com.commercetools.rmf/cli-application@1.0.0-20220712062404?classifier=sources
 - pkg:maven/com.commercetools.rmf/cli-application@1.0.0-20220712132813?classifier=sources
 - pkg:maven/com.commercetools.rmf/cli-application@1.0.0-20220712195535?classifier=sources
+- pkg:maven/com.commercetools.rmf/cli-application@1.0.0-20220727090248?classifier=sources
+- pkg:maven/com.commercetools.rmf/cli-application@1.0.0-20220728120233?classifier=sources

@@ -198,6 +198,8 @@
 - pkg:maven/org.kie/kie-dmn-signavio@7.71.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-signavio@7.72.0.Final
 - pkg:maven/org.kie/kie-dmn-signavio@7.72.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-signavio@7.73.0.Final
+- pkg:maven/org.kie/kie-dmn-signavio@7.73.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-signavio@7.8.0.Final
 - pkg:maven/org.kie/kie-dmn-signavio@7.8.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-signavio@7.9.0.Final
@@ -232,3 +234,11 @@
 - pkg:maven/org.kie/kie-dmn-signavio@8.23.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-dmn-signavio@8.24.0.Beta
 - pkg:maven/org.kie/kie-dmn-signavio@8.24.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-signavio@8.24.1.Beta
+- pkg:maven/org.kie/kie-dmn-signavio@8.24.1.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-signavio@8.25.0.Beta
+- pkg:maven/org.kie/kie-dmn-signavio@8.25.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-signavio@8.26.0.Beta
+- pkg:maven/org.kie/kie-dmn-signavio@8.26.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-signavio@8.27.0.Beta
+- pkg:maven/org.kie/kie-dmn-signavio@8.27.0.Beta?classifier=sources

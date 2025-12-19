@@ -64,3 +64,7 @@
 - pkg:maven/org.beangle.security/beangle-security-ids@3.8.7?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-ids@3.8.8
 - pkg:maven/org.beangle.security/beangle-security-ids@3.8.8?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-ids@3.8.9
+- pkg:maven/org.beangle.security/beangle-security-ids@3.8.9?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-ids@3.9.0
+- pkg:maven/org.beangle.security/beangle-security-ids@3.9.0?classifier=sources

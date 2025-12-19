@@ -50,3 +50,5 @@
 - pkg:maven/eu.eu-emi.security/canl@2.6.0?classifier=sources
 - pkg:maven/eu.eu-emi.security/canl@2.7.0
 - pkg:maven/eu.eu-emi.security/canl@2.7.0?classifier=sources
+- pkg:maven/eu.eu-emi.security/canl@2.8.0
+- pkg:maven/eu.eu-emi.security/canl@2.8.0?classifier=sources

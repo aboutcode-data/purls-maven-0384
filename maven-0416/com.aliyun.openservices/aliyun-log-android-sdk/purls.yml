@@ -37,3 +37,4 @@
 - pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@bricks_1.0.7?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@bricks_1.0.8?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@bricks_1.0.9?classifier=sources
+- pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@bricks_1.1.0?classifier=sources

@@ -43,6 +43,9 @@
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-facebook@2.40.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-facebook@2.41.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-facebook@2.41.1?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-facebook@2.41.2?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-facebook@2.42.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-facebook@2.42.1?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-facebook@2.6.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-facebook@2.6.1?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-facebook@2.6.2?type=aar

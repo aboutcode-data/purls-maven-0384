@@ -16,3 +16,5 @@
 - pkg:maven/net.badbird5907/JDACommand@3.0.2-REL?classifier=sources
 - pkg:maven/net.badbird5907/JDACommand@4.0.0-REL
 - pkg:maven/net.badbird5907/JDACommand@4.0.0-REL?classifier=sources
+- pkg:maven/net.badbird5907/JDACommand@4.0.2-REL
+- pkg:maven/net.badbird5907/JDACommand@4.0.2-REL?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-1
+- pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-1?classifier=sources
+- pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-2
+- pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-2?classifier=sources
+- pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-3
+- pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-3?classifier=sources
+- pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-4
+- pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-4?classifier=sources

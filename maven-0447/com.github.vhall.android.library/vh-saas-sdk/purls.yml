@@ -19,3 +19,5 @@
 - pkg:maven/com.github.vhall.android.library/vh-saas-sdk@6.4.0?type=aar
 - pkg:maven/com.github.vhall.android.library/vh-saas-sdk@6.4.1?type=aar
 - pkg:maven/com.github.vhall.android.library/vh-saas-sdk@6.5.0?type=aar
+- pkg:maven/com.github.vhall.android.library/vh-saas-sdk@6.5.1?type=aar
+- pkg:maven/com.github.vhall.android.library/vh-saas-sdk@6.6.0?type=aar

@@ -16,6 +16,10 @@
 - pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1-rev20220404-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1-rev20220505-1.32.1
 - pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1-rev20220505-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1-rev20220715-1.32.1
+- pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1-rev20220715-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1-rev20220715-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1-rev20220715-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1alpha1-rev20210129-1.31.0
 - pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1alpha1-rev20210129-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1alpha1-rev20210303-1.31.0
@@ -48,3 +52,7 @@
 - pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1alpha1-rev20220426-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1alpha1-rev20220505-1.32.1
 - pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1alpha1-rev20220505-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1alpha1-rev20220715-1.32.1
+- pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1alpha1-rev20220715-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1alpha1-rev20220715-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networkconnectivity@v1alpha1-rev20220715-2.0.0?classifier=sources

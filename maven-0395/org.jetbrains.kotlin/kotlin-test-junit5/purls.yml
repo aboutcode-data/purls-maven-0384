@@ -102,3 +102,4 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.7.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.7.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.7.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.7.20-Beta?classifier=sources

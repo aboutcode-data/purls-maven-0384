@@ -12,6 +12,8 @@
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.105?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.106
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.106?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.107
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.107?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.53
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.54

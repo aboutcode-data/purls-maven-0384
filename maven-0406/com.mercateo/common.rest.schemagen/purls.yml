@@ -54,5 +54,7 @@
 - pkg:maven/com.mercateo/common.rest.schemagen@0.19.2?classifier=sources
 - pkg:maven/com.mercateo/common.rest.schemagen@0.19.3
 - pkg:maven/com.mercateo/common.rest.schemagen@0.19.3?classifier=sources
+- pkg:maven/com.mercateo/common.rest.schemagen@0.20.0
+- pkg:maven/com.mercateo/common.rest.schemagen@0.20.0?classifier=sources
 - pkg:maven/com.mercateo/common.rest.schemagen@0.9.0
 - pkg:maven/com.mercateo/common.rest.schemagen@0.9.0?classifier=sources
