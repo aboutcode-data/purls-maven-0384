@@ -2,3 +2,5 @@
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-purchase-huawei@2.32.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-purchase-huawei@2.33.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-purchase-huawei@2.34.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-purchase-huawei@2.35.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-purchase-huawei@2.36.0?type=aar

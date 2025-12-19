@@ -6,3 +6,4 @@
 - pkg:maven/com.linecorp.linesdk/linesdk@5.6.2?type=aar
 - pkg:maven/com.linecorp.linesdk/linesdk@5.7.0?classifier=sources
 - pkg:maven/com.linecorp.linesdk/linesdk@5.7.1?classifier=sources
+- pkg:maven/com.linecorp.linesdk/linesdk@5.8.0?classifier=sources

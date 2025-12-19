@@ -1,0 +1,2 @@
+- pkg:maven/com.instabug.library/instabug-apm-grpc-interceptor@10.13.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-apm-grpc-interceptor@11.0.0?classifier=sources

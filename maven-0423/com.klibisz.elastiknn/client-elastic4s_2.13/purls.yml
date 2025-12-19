@@ -9,3 +9,5 @@
 - pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.13@7.16.2.0?classifier=sources
 - pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.13@7.16.3.0?classifier=sources
 - pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.13@7.17.0.0?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.13@7.17.1.0?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.13@7.17.2.0?classifier=sources

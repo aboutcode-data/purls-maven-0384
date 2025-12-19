@@ -1,0 +1,2 @@
+- pkg:maven/com.wwt.jetflowlibrary/jetflowlibrary@0.0.2?classifier=sources
+- pkg:maven/com.wwt.jetflowlibrary/jetflowlibrary@0.0.3?classifier=sources

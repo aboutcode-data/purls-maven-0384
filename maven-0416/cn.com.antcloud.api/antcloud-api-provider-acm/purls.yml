@@ -1,2 +1,6 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-acm@1.0.19
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-acm@1.0.19?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-acm@1.0.21
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-acm@1.0.21?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-acm@1.0.22
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-acm@1.0.22?classifier=sources

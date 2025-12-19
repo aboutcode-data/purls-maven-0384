@@ -1,0 +1,2 @@
+- pkg:maven/org.psloboda.code/sitemapgen4j@1.0.0
+- pkg:maven/org.psloboda.code/sitemapgen4j@1.0.0?classifier=sources

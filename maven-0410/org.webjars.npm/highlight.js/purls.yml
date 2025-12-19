@@ -20,6 +20,10 @@
 - pkg:maven/org.webjars.npm/highlight.js@11.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/highlight.js@11.4.0
 - pkg:maven/org.webjars.npm/highlight.js@11.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/highlight.js@11.5.0
+- pkg:maven/org.webjars.npm/highlight.js@11.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/highlight.js@11.5.1
+- pkg:maven/org.webjars.npm/highlight.js@11.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/highlight.js@8.6.0
 - pkg:maven/org.webjars.npm/highlight.js@8.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/highlight.js@8.7.0

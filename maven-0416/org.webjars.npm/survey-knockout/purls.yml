@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/survey-knockout@1.9.18
+- pkg:maven/org.webjars.npm/survey-knockout@1.9.18?classifier=sources
+- pkg:maven/org.webjars.npm/survey-knockout@1.9.19
+- pkg:maven/org.webjars.npm/survey-knockout@1.9.19?classifier=sources
+- pkg:maven/org.webjars.npm/survey-knockout@1.9.20
+- pkg:maven/org.webjars.npm/survey-knockout@1.9.20?classifier=sources

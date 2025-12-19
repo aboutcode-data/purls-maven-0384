@@ -3,4 +3,6 @@
 - pkg:maven/org.webjars.npm/tabler__core@1.0.0-beta2?classifier=sources
 - pkg:maven/org.webjars.npm/tabler__core@1.0.0-beta8
 - pkg:maven/org.webjars.npm/tabler__core@1.0.0-beta8?classifier=sources
+- pkg:maven/org.webjars.npm/tabler__core@1.0.0-beta9
+- pkg:maven/org.webjars.npm/tabler__core@1.0.0-beta9?classifier=sources
 - pkg:maven/org.webjars.npm/tabler__core@1.0.0-beta?classifier=sources

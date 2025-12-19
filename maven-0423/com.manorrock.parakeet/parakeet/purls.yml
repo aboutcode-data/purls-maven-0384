@@ -1,0 +1,2 @@
+- pkg:maven/com.manorrock.parakeet/parakeet@22.3.1
+- pkg:maven/com.manorrock.parakeet/parakeet@22.3.1?classifier=sources

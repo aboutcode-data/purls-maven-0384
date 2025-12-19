@@ -1,2 +1,4 @@
 - pkg:maven/com.northdata.api/northdata-api-model@1.167.0
 - pkg:maven/com.northdata.api/northdata-api-model@1.167.0?classifier=sources
+- pkg:maven/com.northdata.api/northdata-api-model@1.171.0
+- pkg:maven/com.northdata.api/northdata-api-model@1.171.0?classifier=sources

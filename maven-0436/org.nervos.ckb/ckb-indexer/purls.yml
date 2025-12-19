@@ -28,3 +28,5 @@
 - pkg:maven/org.nervos.ckb/ckb-indexer@0.43.3-beta.3?classifier=sources
 - pkg:maven/org.nervos.ckb/ckb-indexer@0.43.3-beta.4
 - pkg:maven/org.nervos.ckb/ckb-indexer@0.43.3-beta.4?classifier=sources
+- pkg:maven/org.nervos.ckb/ckb-indexer@1.0.0
+- pkg:maven/org.nervos.ckb/ckb-indexer@1.0.0?classifier=sources

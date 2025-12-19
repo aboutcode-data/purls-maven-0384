@@ -1,0 +1,2 @@
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-replication@1.0.0
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-replication@1.0.0?classifier=sources

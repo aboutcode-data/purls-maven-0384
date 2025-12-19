@@ -76,3 +76,9 @@
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.95?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.96
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.96?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.97
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.97?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.98
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.98?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.99
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.99?classifier=sources

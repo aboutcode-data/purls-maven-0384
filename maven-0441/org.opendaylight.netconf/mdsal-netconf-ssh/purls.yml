@@ -110,3 +110,6 @@
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-ssh@2.0.8
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-ssh@2.0.8?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-ssh@2.0.9?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-ssh@3.0.0
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-ssh@3.0.0?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-ssh@3.0.1?classifier=sources

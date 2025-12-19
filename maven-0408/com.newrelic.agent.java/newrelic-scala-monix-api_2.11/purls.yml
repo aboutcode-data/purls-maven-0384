@@ -1,1 +1,2 @@
 - pkg:maven/com.newrelic.agent.java/newrelic-scala-monix-api_2.11@7.5.0?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-scala-monix-api_2.11@7.6.0?classifier=sources

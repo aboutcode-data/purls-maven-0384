@@ -3,3 +3,4 @@
 - pkg:maven/dev.schlaubi.lavakord/jda@3.4.1?classifier=sources
 - pkg:maven/dev.schlaubi.lavakord/jda@3.5.0?classifier=sources
 - pkg:maven/dev.schlaubi.lavakord/jda@3.5.1?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/jda@3.6.0?classifier=sources

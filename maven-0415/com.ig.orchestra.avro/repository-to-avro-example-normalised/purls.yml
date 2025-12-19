@@ -1,0 +1,2 @@
+- pkg:maven/com.ig.orchestra.avro/repository-to-avro-example-normalised@1.0.5
+- pkg:maven/com.ig.orchestra.avro/repository-to-avro-example-normalised@1.0.5?classifier=sources

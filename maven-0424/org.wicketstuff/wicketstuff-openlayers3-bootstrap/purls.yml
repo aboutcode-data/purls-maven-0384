@@ -150,3 +150,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.8.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.8.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.9.0
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.9.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.9.1
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.9.1?classifier=sources

@@ -14,6 +14,12 @@
 - pkg:maven/info.unterrainer.commons/rdb-utils@0.1.14-2-geade9c8
 - pkg:maven/info.unterrainer.commons/rdb-utils@0.1.14-2-geade9c8?classifier=sources
 - pkg:maven/info.unterrainer.commons/rdb-utils@0.1.14?classifier=sources
+- pkg:maven/info.unterrainer.commons/rdb-utils@0.1.15
+- pkg:maven/info.unterrainer.commons/rdb-utils@0.1.15?classifier=sources
+- pkg:maven/info.unterrainer.commons/rdb-utils@0.1.16
+- pkg:maven/info.unterrainer.commons/rdb-utils@0.1.16?classifier=sources
+- pkg:maven/info.unterrainer.commons/rdb-utils@0.1.17
+- pkg:maven/info.unterrainer.commons/rdb-utils@0.1.17?classifier=sources
 - pkg:maven/info.unterrainer.commons/rdb-utils@0.1.1?classifier=sources
 - pkg:maven/info.unterrainer.commons/rdb-utils@0.1.2
 - pkg:maven/info.unterrainer.commons/rdb-utils@0.1.2?classifier=sources

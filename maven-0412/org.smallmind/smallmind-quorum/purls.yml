@@ -212,3 +212,7 @@
 - pkg:maven/org.smallmind/smallmind-quorum@4.4.8?classifier=sources
 - pkg:maven/org.smallmind/smallmind-quorum@4.4.9
 - pkg:maven/org.smallmind/smallmind-quorum@4.4.9?classifier=sources
+- pkg:maven/org.smallmind/smallmind-quorum@4.5.0
+- pkg:maven/org.smallmind/smallmind-quorum@4.5.0?classifier=sources
+- pkg:maven/org.smallmind/smallmind-quorum@4.6.0
+- pkg:maven/org.smallmind/smallmind-quorum@4.6.0?classifier=sources

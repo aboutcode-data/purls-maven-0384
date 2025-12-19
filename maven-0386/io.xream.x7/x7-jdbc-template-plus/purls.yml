@@ -6,6 +6,12 @@
 - pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.12.0.RELEASE?classifier=sources
 - pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.13.0.RELEASE
 - pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.13.0.RELEASE?classifier=sources
+- pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.14.0.RELEASE
+- pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.14.0.RELEASE?classifier=sources
+- pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.15.0.RELEASE
+- pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.15.0.RELEASE?classifier=sources
+- pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.16.0.RELEASE
+- pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.16.0.RELEASE?classifier=sources
 - pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.3.0.RELEASE
 - pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.3.0.RELEASE?classifier=sources
 - pkg:maven/io.xream.x7/x7-jdbc-template-plus@2.3.1.RELEASE

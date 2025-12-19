@@ -305,6 +305,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@4.0.40
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@4.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@4.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.lang@4.0.41
+- pkg:maven/com.liferay/com.liferay.portal.workflow.lang@4.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.lang@4.0.41?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@4.0.5
@@ -440,6 +443,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@5.0.46
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@5.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@5.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.lang@5.0.47
+- pkg:maven/com.liferay/com.liferay.portal.workflow.lang@5.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.lang@5.0.47?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.lang@5.0.5

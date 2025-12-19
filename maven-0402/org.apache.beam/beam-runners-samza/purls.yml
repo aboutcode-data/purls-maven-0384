@@ -41,6 +41,7 @@
 - pkg:maven/org.apache.beam/beam-runners-samza@2.35.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-samza@2.36.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-samza@2.37.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-samza@2.38.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-samza@2.6.0
 - pkg:maven/org.apache.beam/beam-runners-samza@2.6.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-samza@2.7.0

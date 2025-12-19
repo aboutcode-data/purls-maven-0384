@@ -4,3 +4,5 @@
 - pkg:maven/com.gitee.freakchicken.dbapi/dbapi-plugin@2.3.2?classifier=sources
 - pkg:maven/com.gitee.freakchicken.dbapi/dbapi-plugin@3.0.0
 - pkg:maven/com.gitee.freakchicken.dbapi/dbapi-plugin@3.0.0?classifier=sources
+- pkg:maven/com.gitee.freakchicken.dbapi/dbapi-plugin@3.1.0
+- pkg:maven/com.gitee.freakchicken.dbapi/dbapi-plugin@3.1.0?classifier=sources

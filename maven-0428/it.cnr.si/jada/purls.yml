@@ -16,6 +16,7 @@
 - pkg:maven/it.cnr.si/jada@7.0.23?classifier=sources
 - pkg:maven/it.cnr.si/jada@7.0.24?classifier=sources
 - pkg:maven/it.cnr.si/jada@7.0.25?classifier=sources
+- pkg:maven/it.cnr.si/jada@7.0.26?classifier=sources
 - pkg:maven/it.cnr.si/jada@7.0.2?classifier=sources
 - pkg:maven/it.cnr.si/jada@7.0.3?classifier=sources
 - pkg:maven/it.cnr.si/jada@7.0.4?classifier=sources

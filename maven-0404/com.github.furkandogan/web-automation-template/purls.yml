@@ -42,3 +42,5 @@
 - pkg:maven/com.github.furkandogan/web-automation-template@4.8?classifier=sources
 - pkg:maven/com.github.furkandogan/web-automation-template@5.0
 - pkg:maven/com.github.furkandogan/web-automation-template@5.0?classifier=sources
+- pkg:maven/com.github.furkandogan/web-automation-template@5.1
+- pkg:maven/com.github.furkandogan/web-automation-template@5.1?classifier=sources

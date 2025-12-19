@@ -26,3 +26,5 @@
 - pkg:maven/org.faktorips/faktorips-testsupport@21.12.4?classifier=sources
 - pkg:maven/org.faktorips/faktorips-testsupport@22.6.0-m01
 - pkg:maven/org.faktorips/faktorips-testsupport@22.6.0-m01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-testsupport@22.6.0-m02
+- pkg:maven/org.faktorips/faktorips-testsupport@22.6.0-m02?classifier=sources

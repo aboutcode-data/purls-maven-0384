@@ -95,3 +95,4 @@
 - pkg:maven/org.apache.poi/poi-scratchpad@5.1.0?classifier=sources
 - pkg:maven/org.apache.poi/poi-scratchpad@5.2.0?classifier=sources
 - pkg:maven/org.apache.poi/poi-scratchpad@5.2.1?classifier=sources
+- pkg:maven/org.apache.poi/poi-scratchpad@5.2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.misk/misk-action-scopes@0.23.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-action-scopes@0.24.0?classifier=sources

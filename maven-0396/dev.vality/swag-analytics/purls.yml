@@ -1,0 +1,8 @@
+- pkg:maven/dev.vality/swag-analytics@1.63-55e361e-client
+- pkg:maven/dev.vality/swag-analytics@1.63-55e361e-client?classifier=sources
+- pkg:maven/dev.vality/swag-analytics@1.63-55e361e-server
+- pkg:maven/dev.vality/swag-analytics@1.63-55e361e-server?classifier=sources
+- pkg:maven/dev.vality/swag-analytics@1.67-bb25468-client
+- pkg:maven/dev.vality/swag-analytics@1.67-bb25468-client?classifier=sources
+- pkg:maven/dev.vality/swag-analytics@1.67-bb25468-server
+- pkg:maven/dev.vality/swag-analytics@1.67-bb25468-server?classifier=sources

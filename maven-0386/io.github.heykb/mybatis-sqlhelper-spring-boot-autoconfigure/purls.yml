@@ -1,2 +1,4 @@
 - pkg:maven/io.github.heykb/mybatis-sqlhelper-spring-boot-autoconfigure@1.0.0
 - pkg:maven/io.github.heykb/mybatis-sqlhelper-spring-boot-autoconfigure@1.0.0?classifier=sources
+- pkg:maven/io.github.heykb/mybatis-sqlhelper-spring-boot-autoconfigure@3.0.0
+- pkg:maven/io.github.heykb/mybatis-sqlhelper-spring-boot-autoconfigure@3.0.0?classifier=sources

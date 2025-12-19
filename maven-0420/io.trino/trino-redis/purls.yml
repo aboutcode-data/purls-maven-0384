@@ -20,3 +20,9 @@
 - pkg:maven/io.trino/trino-redis@370?classifier=sources
 - pkg:maven/io.trino/trino-redis@371?classifier=sources
 - pkg:maven/io.trino/trino-redis@372?classifier=sources
+- pkg:maven/io.trino/trino-redis@373?classifier=sources
+- pkg:maven/io.trino/trino-redis@374?classifier=sources
+- pkg:maven/io.trino/trino-redis@375?classifier=sources
+- pkg:maven/io.trino/trino-redis@376?classifier=sources
+- pkg:maven/io.trino/trino-redis@377?classifier=sources
+- pkg:maven/io.trino/trino-redis@378?classifier=sources

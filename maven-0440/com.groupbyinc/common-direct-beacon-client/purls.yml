@@ -164,6 +164,10 @@
 - pkg:maven/com.groupbyinc/common-direct-beacon-client@195?classifier=sources
 - pkg:maven/com.groupbyinc/common-direct-beacon-client@196
 - pkg:maven/com.groupbyinc/common-direct-beacon-client@196?classifier=sources
+- pkg:maven/com.groupbyinc/common-direct-beacon-client@197
+- pkg:maven/com.groupbyinc/common-direct-beacon-client@197?classifier=sources
+- pkg:maven/com.groupbyinc/common-direct-beacon-client@198
+- pkg:maven/com.groupbyinc/common-direct-beacon-client@198?classifier=sources
 - pkg:maven/com.groupbyinc/common-direct-beacon-client@78
 - pkg:maven/com.groupbyinc/common-direct-beacon-client@78?classifier=sources
 - pkg:maven/com.groupbyinc/common-direct-beacon-client@79

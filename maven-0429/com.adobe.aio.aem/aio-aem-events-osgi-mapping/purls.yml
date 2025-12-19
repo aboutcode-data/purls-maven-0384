@@ -1,0 +1,6 @@
+- pkg:maven/com.adobe.aio.aem/aio-aem-events-osgi-mapping@0.0.36
+- pkg:maven/com.adobe.aio.aem/aio-aem-events-osgi-mapping@0.0.36?classifier=sources
+- pkg:maven/com.adobe.aio.aem/aio-aem-events-osgi-mapping@0.0.38
+- pkg:maven/com.adobe.aio.aem/aio-aem-events-osgi-mapping@0.0.38?classifier=sources
+- pkg:maven/com.adobe.aio.aem/aio-aem-events-osgi-mapping@0.0.40
+- pkg:maven/com.adobe.aio.aem/aio-aem-events-osgi-mapping@0.0.40?classifier=sources

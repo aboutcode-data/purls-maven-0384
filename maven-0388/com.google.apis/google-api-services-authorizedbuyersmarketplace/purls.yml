@@ -6,3 +6,7 @@
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20211123-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20220212-1.32.1
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20220212-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20220315-1.32.1
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20220315-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20220319-1.32.1
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20220319-1.32.1?classifier=sources

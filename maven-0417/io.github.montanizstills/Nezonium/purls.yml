@@ -1,2 +1,10 @@
+- pkg:maven/io.github.montanizstills/Nezonium@0.0.10x
+- pkg:maven/io.github.montanizstills/Nezonium@0.0.10x?classifier=sources
 - pkg:maven/io.github.montanizstills/Nezonium@0.0.5x
 - pkg:maven/io.github.montanizstills/Nezonium@0.0.5x?classifier=sources
+- pkg:maven/io.github.montanizstills/Nezonium@0.0.6x
+- pkg:maven/io.github.montanizstills/Nezonium@0.0.6x?classifier=sources
+- pkg:maven/io.github.montanizstills/Nezonium@0.0.7x
+- pkg:maven/io.github.montanizstills/Nezonium@0.0.7x?classifier=sources
+- pkg:maven/io.github.montanizstills/Nezonium@0.0.9x
+- pkg:maven/io.github.montanizstills/Nezonium@0.0.9x?classifier=sources

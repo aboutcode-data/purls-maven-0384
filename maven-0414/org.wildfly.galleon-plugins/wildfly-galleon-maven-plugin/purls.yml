@@ -132,6 +132,8 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@5.2.1.Final?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@5.2.10.Final
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@5.2.10.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@5.2.11.Final
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@5.2.11.Final?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@5.2.2.Beta1
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@5.2.2.Beta1?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-maven-plugin@5.2.2.Beta2

@@ -1,0 +1,2 @@
+- pkg:maven/org.phenoscape/scowl-owlapi5_2.13@1.4.1
+- pkg:maven/org.phenoscape/scowl-owlapi5_2.13@1.4.1?classifier=sources

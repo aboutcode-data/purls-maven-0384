@@ -5,3 +5,5 @@
 - pkg:maven/io.norberg/auto-matter-record-test@0.24.0
 - pkg:maven/io.norberg/auto-matter-record-test@0.25.0
 - pkg:maven/io.norberg/auto-matter-record-test@0.25.1
+- pkg:maven/io.norberg/auto-matter-record-test@0.25.2
+- pkg:maven/io.norberg/auto-matter-record-test@0.25.3

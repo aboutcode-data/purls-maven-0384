@@ -99,6 +99,10 @@
 - pkg:maven/com.github.nalukit/nalu@2.8.0-gwt-2.8.2
 - pkg:maven/com.github.nalukit/nalu@2.8.0-gwt-2.8.2?classifier=sources
 - pkg:maven/com.github.nalukit/nalu@2.8.0?classifier=sources
+- pkg:maven/com.github.nalukit/nalu@2.9.0
+- pkg:maven/com.github.nalukit/nalu@2.9.0-gwt-2.8.2
+- pkg:maven/com.github.nalukit/nalu@2.9.0-gwt-2.8.2?classifier=sources
+- pkg:maven/com.github.nalukit/nalu@2.9.0?classifier=sources
 - pkg:maven/com.github.nalukit/nalu@HEAD-SNAPSHOT-gwt-2.8.2
 - pkg:maven/com.github.nalukit/nalu@HEAD-SNAPSHOT-gwt-2.8.2?classifier=sources
 - pkg:maven/com.github.nalukit/nalu@v2.8.0-gwt-2.8.2

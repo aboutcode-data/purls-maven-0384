@@ -1,0 +1,2 @@
+- pkg:maven/com.cosmian/cosmian_spark_crypto_2.12@1.0.0
+- pkg:maven/com.cosmian/cosmian_spark_crypto_2.12@1.0.0?classifier=sources

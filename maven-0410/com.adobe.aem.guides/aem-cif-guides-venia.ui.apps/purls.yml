@@ -2,3 +2,4 @@
 - pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.ui.apps@2021.12.01?classifier=sources
 - pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.ui.apps@2022.01.27?classifier=sources
 - pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.ui.apps@2022.02.24?classifier=sources
+- pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.ui.apps@2022.03.31?classifier=sources

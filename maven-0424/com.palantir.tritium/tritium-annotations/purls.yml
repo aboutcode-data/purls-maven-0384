@@ -24,3 +24,8 @@
 - pkg:maven/com.palantir.tritium/tritium-annotations@0.40.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-annotations@0.41.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-annotations@0.42.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-annotations@0.43.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-annotations@0.44.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-annotations@0.45.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-annotations@0.46.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-annotations@0.47.0?classifier=sources

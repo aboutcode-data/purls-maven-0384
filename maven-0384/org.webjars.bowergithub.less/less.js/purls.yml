@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bowergithub.less/less.js@3.10.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.less/less.js@3.8.1
 - pkg:maven/org.webjars.bowergithub.less/less.js@3.8.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.less/less.js@4.1.2
+- pkg:maven/org.webjars.bowergithub.less/less.js@4.1.2?classifier=sources

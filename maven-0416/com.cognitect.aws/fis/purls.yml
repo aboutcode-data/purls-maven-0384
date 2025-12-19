@@ -6,3 +6,7 @@
 - pkg:maven/com.cognitect.aws/fis@814.2.1062.0?classifier=sources
 - pkg:maven/com.cognitect.aws/fis@814.2.1069.0
 - pkg:maven/com.cognitect.aws/fis@814.2.1069.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fis@820.2.1083.0
+- pkg:maven/com.cognitect.aws/fis@820.2.1083.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fis@821.2.1107.0
+- pkg:maven/com.cognitect.aws/fis@821.2.1107.0?classifier=sources

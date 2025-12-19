@@ -1,0 +1,2 @@
+- pkg:maven/io.github.youads-global.ironsource/youads-ironsource@1.0?classifier=sources
+- pkg:maven/io.github.youads-global.ironsource/youads-ironsource@1.0?type=aar

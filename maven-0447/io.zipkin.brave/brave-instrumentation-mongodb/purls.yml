@@ -36,3 +36,5 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-mongodb@5.13.6?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-mongodb@5.13.7
 - pkg:maven/io.zipkin.brave/brave-instrumentation-mongodb@5.13.7?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-mongodb@5.13.8
+- pkg:maven/io.zipkin.brave/brave-instrumentation-mongodb@5.13.8?classifier=sources

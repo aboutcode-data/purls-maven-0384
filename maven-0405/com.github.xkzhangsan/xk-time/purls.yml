@@ -61,4 +61,6 @@
 - pkg:maven/com.github.xkzhangsan/xk-time@3.2.2.Mini?classifier=sources
 - pkg:maven/com.github.xkzhangsan/xk-time@3.2.2?classifier=sources
 - pkg:maven/com.github.xkzhangsan/xk-time@3.2.3
+- pkg:maven/com.github.xkzhangsan/xk-time@3.2.3.Mini
+- pkg:maven/com.github.xkzhangsan/xk-time@3.2.3.Mini?classifier=sources
 - pkg:maven/com.github.xkzhangsan/xk-time@3.2.3?classifier=sources

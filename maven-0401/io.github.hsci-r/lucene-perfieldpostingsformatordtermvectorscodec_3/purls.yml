@@ -1,0 +1,4 @@
+- pkg:maven/io.github.hsci-r/lucene-perfieldpostingsformatordtermvectorscodec_3@1.2.11
+- pkg:maven/io.github.hsci-r/lucene-perfieldpostingsformatordtermvectorscodec_3@1.2.11?classifier=sources
+- pkg:maven/io.github.hsci-r/lucene-perfieldpostingsformatordtermvectorscodec_3@1.2.12
+- pkg:maven/io.github.hsci-r/lucene-perfieldpostingsformatordtermvectorscodec_3@1.2.12?classifier=sources

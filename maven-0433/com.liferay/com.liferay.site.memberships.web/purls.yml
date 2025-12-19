@@ -353,6 +353,9 @@
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.54
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.54?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.55
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.55?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@2.0.6
@@ -725,6 +728,9 @@
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@5.0.24
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@5.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@5.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@5.0.25
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@5.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.memberships.web@5.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.memberships.web@5.0.3

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.iruzhnikov/spring-webmvc-cors-properties-autoconfigure@0.0.11
+- pkg:maven/io.github.iruzhnikov/spring-webmvc-cors-properties-autoconfigure@0.0.11?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jiangxincode/jdepend-maven-plugin@2.1
+- pkg:maven/io.github.jiangxincode/jdepend-maven-plugin@2.1?classifier=sources

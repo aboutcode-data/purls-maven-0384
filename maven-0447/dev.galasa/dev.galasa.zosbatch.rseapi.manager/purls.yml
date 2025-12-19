@@ -8,3 +8,4 @@
 - pkg:maven/dev.galasa/dev.galasa.zosbatch.rseapi.manager@0.14.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.zosbatch.rseapi.manager@0.15.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.zosbatch.rseapi.manager@0.16.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.zosbatch.rseapi.manager@0.21.0?classifier=sources

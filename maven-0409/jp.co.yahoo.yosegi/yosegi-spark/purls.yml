@@ -1,0 +1,6 @@
+- pkg:maven/jp.co.yahoo.yosegi/yosegi-spark@1.2.0_spark-2.2-scala-2.11
+- pkg:maven/jp.co.yahoo.yosegi/yosegi-spark@1.2.0_spark-2.2-scala-2.11?classifier=sources
+- pkg:maven/jp.co.yahoo.yosegi/yosegi-spark@1.2.0_spark-2.4-scala-2.11
+- pkg:maven/jp.co.yahoo.yosegi/yosegi-spark@1.2.0_spark-2.4-scala-2.11?classifier=sources
+- pkg:maven/jp.co.yahoo.yosegi/yosegi-spark@1.2.0_spark-3.2-scala-2.12
+- pkg:maven/jp.co.yahoo.yosegi/yosegi-spark@1.2.0_spark-3.2-scala-2.12?classifier=sources

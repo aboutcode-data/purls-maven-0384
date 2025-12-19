@@ -12,3 +12,7 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-demo@1.0.55?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-demo@1.0.58
 - pkg:maven/cn.com.antcloud.api/antcloud-api-demo@1.0.58?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-demo@1.0.70
+- pkg:maven/cn.com.antcloud.api/antcloud-api-demo@1.0.70?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-demo@1.0.71
+- pkg:maven/cn.com.antcloud.api/antcloud-api-demo@1.0.71?classifier=sources

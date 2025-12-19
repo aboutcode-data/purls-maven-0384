@@ -35,6 +35,8 @@
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-toastpush@2.32.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-toastpush@2.33.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-toastpush@2.34.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-toastpush@2.35.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-toastpush@2.36.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-toastpush@2.6.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-toastpush@2.6.1?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-toastpush@2.6.2?type=aar
