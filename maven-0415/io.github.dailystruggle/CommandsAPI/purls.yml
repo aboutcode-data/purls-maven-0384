@@ -90,3 +90,7 @@
 - pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA62?classifier=sources
 - pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA63
 - pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA63?classifier=sources
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA64
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA64?classifier=sources
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA65
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA65?classifier=sources

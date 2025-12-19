@@ -22,3 +22,5 @@
 - pkg:maven/de.dm.infrastructure/log-capture@3.4.1?classifier=sources
 - pkg:maven/de.dm.infrastructure/log-capture@3.5.0
 - pkg:maven/de.dm.infrastructure/log-capture@3.5.0?classifier=sources
+- pkg:maven/de.dm.infrastructure/log-capture@3.6.0
+- pkg:maven/de.dm.infrastructure/log-capture@3.6.0?classifier=sources

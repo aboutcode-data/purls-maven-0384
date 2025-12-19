@@ -48,3 +48,6 @@
 - pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@3.0.0-Beta7?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@3.0.0-Beta?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@3.0.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@3.0.1?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@3.1.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@3.2.0?classifier=sources

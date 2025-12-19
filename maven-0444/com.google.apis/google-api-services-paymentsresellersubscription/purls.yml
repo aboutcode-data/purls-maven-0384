@@ -44,3 +44,11 @@
 - pkg:maven/com.google.apis/google-api-services-paymentsresellersubscription@v1-rev20220706-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-paymentsresellersubscription@v1-rev20220706-2.0.0
 - pkg:maven/com.google.apis/google-api-services-paymentsresellersubscription@v1-rev20220706-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-paymentsresellersubscription@v1-rev20220829-2.0.0
+- pkg:maven/com.google.apis/google-api-services-paymentsresellersubscription@v1-rev20220829-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-paymentsresellersubscription@v1-rev20220901-2.0.0
+- pkg:maven/com.google.apis/google-api-services-paymentsresellersubscription@v1-rev20220901-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-paymentsresellersubscription@v1-rev20220913-2.0.0
+- pkg:maven/com.google.apis/google-api-services-paymentsresellersubscription@v1-rev20220913-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-paymentsresellersubscription@v1-rev20221002-2.0.0
+- pkg:maven/com.google.apis/google-api-services-paymentsresellersubscription@v1-rev20221002-2.0.0?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/com.epam.reportportal/plugin-bts-jira@5.0.0?classifier=sources
 - pkg:maven/com.epam.reportportal/plugin-bts-jira@5.0.1?classifier=sources
 - pkg:maven/com.epam.reportportal/plugin-bts-jira@5.1.0?classifier=sources
+- pkg:maven/com.epam.reportportal/plugin-bts-jira@5.7.2?classifier=sources

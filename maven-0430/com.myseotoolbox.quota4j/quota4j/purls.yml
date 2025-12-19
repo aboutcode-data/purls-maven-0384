@@ -1,0 +1,5 @@
+- pkg:maven/com.myseotoolbox.quota4j/quota4j@1.0.4?classifier=sources
+- pkg:maven/com.myseotoolbox.quota4j/quota4j@1.0.6?classifier=sources
+- pkg:maven/com.myseotoolbox.quota4j/quota4j@1.1.0?classifier=sources
+- pkg:maven/com.myseotoolbox.quota4j/quota4j@2.0.0?classifier=sources
+- pkg:maven/com.myseotoolbox.quota4j/quota4j@3.0.0?classifier=sources

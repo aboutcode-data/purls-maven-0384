@@ -1,0 +1,10 @@
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps-v1.11.4
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps-v1.11.4?classifier=sources
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps20
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps20?classifier=sources
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps21
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps21?classifier=sources
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps22
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps22?classifier=sources
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps23
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps23?classifier=sources

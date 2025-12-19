@@ -3,3 +3,4 @@
 - pkg:maven/com.xtdb.labs/xtdb-corda@1.20.0?classifier=sources
 - pkg:maven/com.xtdb.labs/xtdb-corda@1.21.0-beta3?classifier=sources
 - pkg:maven/com.xtdb.labs/xtdb-corda@1.21.0?classifier=sources
+- pkg:maven/com.xtdb.labs/xtdb-corda@1.22.0?classifier=sources

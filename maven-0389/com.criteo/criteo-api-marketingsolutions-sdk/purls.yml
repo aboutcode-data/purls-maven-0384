@@ -14,6 +14,10 @@
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@0.0.220624?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@0.0.220725
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@0.0.220725?classifier=sources
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@0.0.220926
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@0.0.220926?classifier=sources
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@0.0.220927
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@0.0.220927?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.07.0.220426
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.07.0.220426?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.07.0.220520
@@ -22,6 +26,8 @@
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.07.0.220624?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.07.0.220725
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.07.0.220725?classifier=sources
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.07.0.220926
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.07.0.220926?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.10.0.211126
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.10.0.211126?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.10.0.211224
@@ -40,6 +46,10 @@
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.10.0.220624?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.10.0.220725
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.10.0.220725?classifier=sources
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.10.0.220926
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.10.0.220926?classifier=sources
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.10.0.220927
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2021.10.0.220927?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.01.0.220120
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.01.0.220120?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.01.0.220426
@@ -50,6 +60,10 @@
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.01.0.220624?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.01.0.220725
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.01.0.220725?classifier=sources
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.01.0.220926
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.01.0.220926?classifier=sources
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.01.0.220927
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.01.0.220927?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.04.0.220426
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.04.0.220426?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.04.0.220520
@@ -58,5 +72,13 @@
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.04.0.220624?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.04.0.220725
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.04.0.220725?classifier=sources
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.04.0.220926
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.04.0.220926?classifier=sources
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.04.0.220927
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.04.0.220927?classifier=sources
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.07.0.220725
 - pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.07.0.220725?classifier=sources
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.07.0.220926
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.07.0.220926?classifier=sources
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.07.0.220927
+- pkg:maven/com.criteo/criteo-api-marketingsolutions-sdk@2022.07.0.220927?classifier=sources

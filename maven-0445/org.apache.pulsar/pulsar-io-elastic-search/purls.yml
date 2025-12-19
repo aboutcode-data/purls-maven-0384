@@ -54,6 +54,8 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-elastic-search@2.8.2?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-elastic-search@2.8.3
 - pkg:maven/org.apache.pulsar/pulsar-io-elastic-search@2.8.3?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-elastic-search@2.8.4
+- pkg:maven/org.apache.pulsar/pulsar-io-elastic-search@2.8.4?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-elastic-search@2.9.0
 - pkg:maven/org.apache.pulsar/pulsar-io-elastic-search@2.9.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-elastic-search@2.9.1

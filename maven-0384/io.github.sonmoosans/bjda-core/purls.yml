@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sonmoosans/bjda-core@6.0.1
+- pkg:maven/io.github.sonmoosans/bjda-core@6.0.1?classifier=sources

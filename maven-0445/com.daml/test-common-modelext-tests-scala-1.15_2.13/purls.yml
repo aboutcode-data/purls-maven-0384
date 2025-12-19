@@ -1,0 +1,10 @@
+- pkg:maven/com.daml/test-common-modelext-tests-scala-1.15_2.13@2.5.0-snapshot.20220927.10671.0.8ba9641f
+- pkg:maven/com.daml/test-common-modelext-tests-scala-1.15_2.13@2.5.0-snapshot.20220927.10671.0.8ba9641f?classifier=sources
+- pkg:maven/com.daml/test-common-modelext-tests-scala-1.15_2.13@2.5.0-snapshot.20220928.10683.0.f2a1d6c8
+- pkg:maven/com.daml/test-common-modelext-tests-scala-1.15_2.13@2.5.0-snapshot.20220928.10683.0.f2a1d6c8?classifier=sources
+- pkg:maven/com.daml/test-common-modelext-tests-scala-1.15_2.13@2.5.0-snapshot.20220929.10692.0.a55eabb1
+- pkg:maven/com.daml/test-common-modelext-tests-scala-1.15_2.13@2.5.0-snapshot.20220929.10692.0.a55eabb1?classifier=sources
+- pkg:maven/com.daml/test-common-modelext-tests-scala-1.15_2.13@2.5.0-snapshot.20220930.10696.0.10f874f4
+- pkg:maven/com.daml/test-common-modelext-tests-scala-1.15_2.13@2.5.0-snapshot.20220930.10696.0.10f874f4?classifier=sources
+- pkg:maven/com.daml/test-common-modelext-tests-scala-1.15_2.13@2.5.0-snapshot.20221003.10705.0.a55ccc38
+- pkg:maven/com.daml/test-common-modelext-tests-scala-1.15_2.13@2.5.0-snapshot.20221003.10705.0.a55ccc38?classifier=sources

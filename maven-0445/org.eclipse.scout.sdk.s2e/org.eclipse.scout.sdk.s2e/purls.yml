@@ -111,7 +111,11 @@
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e@12.0.25?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e@12.0.26
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e@12.0.26?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e@12.0.29
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e@12.0.29?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e@12.0.2?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e@12.0.33
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e@12.0.33?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e@5.2.0.M4
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e@5.2.0.M4?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e@6.0.0.M6

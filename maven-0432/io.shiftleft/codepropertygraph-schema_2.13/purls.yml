@@ -1024,6 +1024,8 @@
 - pkg:maven/io.shiftleft/codepropertygraph-schema_2.13@1.3.56
 - pkg:maven/io.shiftleft/codepropertygraph-schema_2.13@1.3.560
 - pkg:maven/io.shiftleft/codepropertygraph-schema_2.13@1.3.560?classifier=sources
+- pkg:maven/io.shiftleft/codepropertygraph-schema_2.13@1.3.561
+- pkg:maven/io.shiftleft/codepropertygraph-schema_2.13@1.3.561?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph-schema_2.13@1.3.56?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph-schema_2.13@1.3.57
 - pkg:maven/io.shiftleft/codepropertygraph-schema_2.13@1.3.57?classifier=sources

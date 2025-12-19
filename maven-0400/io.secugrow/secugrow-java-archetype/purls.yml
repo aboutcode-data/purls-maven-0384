@@ -1,1 +1,2 @@
 - pkg:maven/io.secugrow/secugrow-java-archetype@0.3?classifier=sources
+- pkg:maven/io.secugrow/secugrow-java-archetype@1.4.0?classifier=sources

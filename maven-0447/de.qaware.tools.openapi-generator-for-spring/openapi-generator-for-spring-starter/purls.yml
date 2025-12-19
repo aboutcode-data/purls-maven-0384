@@ -25,3 +25,5 @@
 - pkg:maven/de.qaware.tools.openapi-generator-for-spring/openapi-generator-for-spring-starter@5.1.4
 - pkg:maven/de.qaware.tools.openapi-generator-for-spring/openapi-generator-for-spring-starter@5.1.5
 - pkg:maven/de.qaware.tools.openapi-generator-for-spring/openapi-generator-for-spring-starter@5.1.6
+- pkg:maven/de.qaware.tools.openapi-generator-for-spring/openapi-generator-for-spring-starter@5.1.7
+- pkg:maven/de.qaware.tools.openapi-generator-for-spring/openapi-generator-for-spring-starter@5.1.8

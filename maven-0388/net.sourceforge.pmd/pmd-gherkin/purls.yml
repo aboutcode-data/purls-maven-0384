@@ -1,2 +1,6 @@
 - pkg:maven/net.sourceforge.pmd/pmd-gherkin@6.48.0
 - pkg:maven/net.sourceforge.pmd/pmd-gherkin@6.48.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-gherkin@6.49.0
+- pkg:maven/net.sourceforge.pmd/pmd-gherkin@6.49.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-gherkin@6.50.0
+- pkg:maven/net.sourceforge.pmd/pmd-gherkin@6.50.0?classifier=sources

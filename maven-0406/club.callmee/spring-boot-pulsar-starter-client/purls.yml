@@ -1,0 +1,2 @@
+- pkg:maven/club.callmee/spring-boot-pulsar-starter-client@2.10.0-11-1
+- pkg:maven/club.callmee/spring-boot-pulsar-starter-client@2.10.0-11-1?classifier=sources

@@ -74,6 +74,10 @@
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.11.0?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.11.1
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.11.1?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.12.0
+- pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.12.0?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.12.1
+- pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.12.1?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.2.0
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.2.0?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.3.0
@@ -110,6 +114,7 @@
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.9.1?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.9.2
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@2.9.2?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-source-yaml@3.0.0
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@3.0.0-RC1
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@3.0.0-RC1?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@3.0.0-RC2
@@ -118,3 +123,4 @@
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@3.0.0-RC3?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@3.0.0-RC4
 - pkg:maven/io.smallrye.config/smallrye-config-source-yaml@3.0.0-RC4?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-source-yaml@3.0.0?classifier=sources

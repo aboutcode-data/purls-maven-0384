@@ -128,5 +128,7 @@
 - pkg:maven/org.webjars.npm/material__textfield@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__textfield@7.0.0
 - pkg:maven/org.webjars.npm/material__textfield@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__textfield@8.0.0
+- pkg:maven/org.webjars.npm/material__textfield@8.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__textfield@9.0.0
 - pkg:maven/org.webjars.npm/material__textfield@9.0.0?classifier=sources

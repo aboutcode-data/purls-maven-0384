@@ -20,3 +20,7 @@
 - pkg:maven/com.alextherapeutics/diga-api-client@1.2.3?classifier=sources
 - pkg:maven/com.alextherapeutics/diga-api-client@1.2.4
 - pkg:maven/com.alextherapeutics/diga-api-client@1.2.4?classifier=sources
+- pkg:maven/com.alextherapeutics/diga-api-client@1.2.5-v2-xml
+- pkg:maven/com.alextherapeutics/diga-api-client@1.2.5-v2-xml?classifier=sources
+- pkg:maven/com.alextherapeutics/diga-api-client@1.2.5-v3-xml
+- pkg:maven/com.alextherapeutics/diga-api-client@1.2.5-v3-xml?classifier=sources

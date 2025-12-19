@@ -30,3 +30,7 @@
 - pkg:maven/com.github.charlemaznable/bunny-plugin@0.1.7?classifier=sources
 - pkg:maven/com.github.charlemaznable/bunny-plugin@0.1.8
 - pkg:maven/com.github.charlemaznable/bunny-plugin@0.1.8?classifier=sources
+- pkg:maven/com.github.charlemaznable/bunny-plugin@0.2.0
+- pkg:maven/com.github.charlemaznable/bunny-plugin@0.2.0?classifier=sources
+- pkg:maven/com.github.charlemaznable/bunny-plugin@0.2.1
+- pkg:maven/com.github.charlemaznable/bunny-plugin@0.2.1?classifier=sources

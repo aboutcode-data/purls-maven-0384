@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.certmanager/quarkus-certmanager-integration-tests-kubernetes-certmanager-ssl@0.0.2
+- pkg:maven/io.quarkiverse.certmanager/quarkus-certmanager-integration-tests-kubernetes-certmanager-ssl@0.0.2?classifier=sources

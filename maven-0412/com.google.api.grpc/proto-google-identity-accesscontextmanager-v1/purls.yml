@@ -76,3 +76,7 @@
 - pkg:maven/com.google.api.grpc/proto-google-identity-accesscontextmanager-v1@1.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-identity-accesscontextmanager-v1@1.4.1
 - pkg:maven/com.google.api.grpc/proto-google-identity-accesscontextmanager-v1@1.4.1?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-identity-accesscontextmanager-v1@1.4.3
+- pkg:maven/com.google.api.grpc/proto-google-identity-accesscontextmanager-v1@1.4.3?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-identity-accesscontextmanager-v1@1.4.4
+- pkg:maven/com.google.api.grpc/proto-google-identity-accesscontextmanager-v1@1.4.4?classifier=sources

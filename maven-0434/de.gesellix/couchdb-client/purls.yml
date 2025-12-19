@@ -2,3 +2,4 @@
 - pkg:maven/de.gesellix/couchdb-client@2022-03-06T22-36-00?classifier=sources
 - pkg:maven/de.gesellix/couchdb-client@2022-07-04T00-00-00?classifier=sources
 - pkg:maven/de.gesellix/couchdb-client@2022-07-25T00-00-00?classifier=sources
+- pkg:maven/de.gesellix/couchdb-client@2022-08-31T20-25-00?classifier=sources

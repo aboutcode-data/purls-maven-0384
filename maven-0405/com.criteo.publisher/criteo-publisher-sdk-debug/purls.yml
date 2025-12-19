@@ -34,3 +34,10 @@
 - pkg:maven/com.criteo.publisher/criteo-publisher-sdk-debug@4.6.1?classifier=sources
 - pkg:maven/com.criteo.publisher/criteo-publisher-sdk-debug@4.7.0-20220826.0938?classifier=sources
 - pkg:maven/com.criteo.publisher/criteo-publisher-sdk-debug@4.7.0-20220826.1405?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-debug@4.7.0-20220906.0945?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-debug@4.7.0-20220906.1622?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-debug@4.7.0-20220926.0911?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-debug@4.7.0?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-debug@4.8.0-20221003.0937?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-debug@4.8.0-20221003.1558?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-debug@4.8.0?classifier=sources

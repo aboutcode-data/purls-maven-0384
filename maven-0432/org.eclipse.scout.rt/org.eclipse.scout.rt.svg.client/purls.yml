@@ -121,7 +121,11 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.svg.client@22.0.24?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.svg.client@22.0.26
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.svg.client@22.0.26?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.svg.client@22.0.29
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.svg.client@22.0.29?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.svg.client@22.0.2?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.svg.client@22.0.33
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.svg.client@22.0.33?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.svg.client@5.2.0.M3
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.svg.client@5.2.0.M3?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.svg.client@5.2.0.M4

@@ -11,6 +11,7 @@
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.19?type=war
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.1?type=war
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.20?type=war
+- pkg:maven/com.vaadin/vaadin-platform-test@10.0.21?type=war
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.2?type=war
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.3?type=war
 - pkg:maven/com.vaadin/vaadin-platform-test@10.0.4?type=war

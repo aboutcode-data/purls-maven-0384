@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.khoem.sombath/system-library@1.0.0
+- pkg:maven/io.gitlab.khoem.sombath/system-library@1.0.0?classifier=sources

@@ -4,4 +4,6 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-cli-app@5.7.9
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-cli-app@6.0.3
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-cli-app@6.0.4
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-cli-app@6.0.5
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-cli-app@6.1.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-cli-app@6.1.1

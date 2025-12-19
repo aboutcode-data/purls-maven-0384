@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hudi/hudi-tests-common@0.12.1-rc2
+- pkg:maven/org.apache.hudi/hudi-tests-common@0.12.1-rc2?classifier=sources

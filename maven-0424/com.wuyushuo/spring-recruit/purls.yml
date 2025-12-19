@@ -1,0 +1,4 @@
+- pkg:maven/com.wuyushuo/spring-recruit@1.9.9
+- pkg:maven/com.wuyushuo/spring-recruit@1.9.9?classifier=sources
+- pkg:maven/com.wuyushuo/spring-recruit@2.0.0
+- pkg:maven/com.wuyushuo/spring-recruit@2.0.0?classifier=sources

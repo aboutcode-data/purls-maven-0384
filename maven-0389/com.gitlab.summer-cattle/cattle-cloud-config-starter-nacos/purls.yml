@@ -4,3 +4,5 @@
 - pkg:maven/com.gitlab.summer-cattle/cattle-cloud-config-starter-nacos@0.0.2?classifier=sources
 - pkg:maven/com.gitlab.summer-cattle/cattle-cloud-config-starter-nacos@0.0.3
 - pkg:maven/com.gitlab.summer-cattle/cattle-cloud-config-starter-nacos@0.0.3?classifier=sources
+- pkg:maven/com.gitlab.summer-cattle/cattle-cloud-config-starter-nacos@0.0.4
+- pkg:maven/com.gitlab.summer-cattle/cattle-cloud-config-starter-nacos@0.0.4?classifier=sources

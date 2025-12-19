@@ -71,3 +71,5 @@
 - pkg:maven/com.helpcrunch/chat-sdk@3.2.3-rc-06?classifier=sources
 - pkg:maven/com.helpcrunch/chat-sdk@3.2.3-rc-07?classifier=sources
 - pkg:maven/com.helpcrunch/chat-sdk@3.2.3?classifier=sources
+- pkg:maven/com.helpcrunch/chat-sdk@3.2.4?classifier=sources
+- pkg:maven/com.helpcrunch/chat-sdk@3.2.5?classifier=sources

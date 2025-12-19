@@ -1,0 +1,2 @@
+- pkg:maven/dev.thanbv1510/little-helper@1.0
+- pkg:maven/dev.thanbv1510/little-helper@1.0?classifier=sources

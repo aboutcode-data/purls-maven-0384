@@ -72,6 +72,14 @@
 - pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.41.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.42.0
 - pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.42.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.43.0
+- pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.43.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.44.0
+- pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.44.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.45.0
+- pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.45.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.46.0
+- pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.46.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.5.0
 - pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.5.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-core-classes@0.6.0

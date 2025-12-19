@@ -1,3 +1,4 @@
 - pkg:maven/com.christophecvb.touchportal/plugin-packager@1.0.0-alpha-1?classifier=sources
 - pkg:maven/com.christophecvb.touchportal/plugin-packager@7.0.0-alpha-2?classifier=sources
 - pkg:maven/com.christophecvb.touchportal/plugin-packager@7.0.0-alpha-3?classifier=sources
+- pkg:maven/com.christophecvb.touchportal/plugin-packager@8.3.0-SNAPSHOT-1663265603608?classifier=sources

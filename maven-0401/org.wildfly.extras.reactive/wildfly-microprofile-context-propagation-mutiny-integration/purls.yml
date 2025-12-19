@@ -6,3 +6,5 @@
 - pkg:maven/org.wildfly.extras.reactive/wildfly-microprofile-context-propagation-mutiny-integration@1.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.extras.reactive/wildfly-microprofile-context-propagation-mutiny-integration@2.0.0.Final
 - pkg:maven/org.wildfly.extras.reactive/wildfly-microprofile-context-propagation-mutiny-integration@2.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.extras.reactive/wildfly-microprofile-context-propagation-mutiny-integration@3.0.0.Final
+- pkg:maven/org.wildfly.extras.reactive/wildfly-microprofile-context-propagation-mutiny-integration@3.0.0.Final?classifier=sources

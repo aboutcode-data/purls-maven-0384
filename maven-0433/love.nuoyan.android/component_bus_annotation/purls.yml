@@ -1,0 +1,2 @@
+- pkg:maven/love.nuoyan.android/component_bus_annotation@0.0.1?classifier=sources
+- pkg:maven/love.nuoyan.android/component_bus_annotation@0.0.2?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/com.indeed/util-unsafe@1.0.49-1cfb888?classifier=sources
+- pkg:maven/com.indeed/util-unsafe@1.0.50-34ca15b?classifier=sources
+- pkg:maven/com.indeed/util-unsafe@1.0.51-e4c2289?classifier=sources

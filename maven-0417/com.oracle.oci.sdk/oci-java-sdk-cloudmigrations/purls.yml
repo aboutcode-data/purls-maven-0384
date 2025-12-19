@@ -1,0 +1,4 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudmigrations@2.44.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudmigrations@2.44.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudmigrations@2.45.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudmigrations@2.45.0?classifier=sources

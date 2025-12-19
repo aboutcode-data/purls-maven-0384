@@ -32,3 +32,4 @@
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-annotation-processor-kotlin@0.30?classifier=sources
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-annotation-processor-kotlin@0.31
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-annotation-processor-kotlin@0.31?classifier=sources
+- pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-annotation-processor-kotlin@1.0.0-alpha.1?classifier=sources

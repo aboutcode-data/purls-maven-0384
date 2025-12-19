@@ -1,2 +1,4 @@
 - pkg:maven/org.ogc-schemas/kml-v_2_3@3.0.0
 - pkg:maven/org.ogc-schemas/kml-v_2_3@3.0.0?classifier=sources
+- pkg:maven/org.ogc-schemas/kml-v_2_3@4.0.0
+- pkg:maven/org.ogc-schemas/kml-v_2_3@4.0.0?classifier=sources

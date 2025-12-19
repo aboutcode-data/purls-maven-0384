@@ -1,0 +1,4 @@
+- pkg:maven/com.yandex.div/video-custom@5.0.0?classifier=sources
+- pkg:maven/com.yandex.div/video-custom@6.0.0?classifier=sources
+- pkg:maven/com.yandex.div/video-custom@7.0.0?classifier=sources
+- pkg:maven/com.yandex.div/video-custom@8.0.0?classifier=sources

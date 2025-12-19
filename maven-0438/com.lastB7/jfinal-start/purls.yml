@@ -20,3 +20,5 @@
 - pkg:maven/com.lastB7/jfinal-start@1.5.0?classifier=sources
 - pkg:maven/com.lastB7/jfinal-start@1.5.1
 - pkg:maven/com.lastB7/jfinal-start@1.5.1?classifier=sources
+- pkg:maven/com.lastB7/jfinal-start@1.5.3
+- pkg:maven/com.lastB7/jfinal-start@1.5.3?classifier=sources

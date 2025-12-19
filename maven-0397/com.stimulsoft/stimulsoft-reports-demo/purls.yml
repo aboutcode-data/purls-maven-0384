@@ -190,3 +190,7 @@
 - pkg:maven/com.stimulsoft/stimulsoft-reports-demo@2022.3.3?classifier=sources
 - pkg:maven/com.stimulsoft/stimulsoft-reports-demo@2022.3.4
 - pkg:maven/com.stimulsoft/stimulsoft-reports-demo@2022.3.4?classifier=sources
+- pkg:maven/com.stimulsoft/stimulsoft-reports-demo@2022.3.5
+- pkg:maven/com.stimulsoft/stimulsoft-reports-demo@2022.3.5?classifier=sources
+- pkg:maven/com.stimulsoft/stimulsoft-reports-demo@2022.4.1
+- pkg:maven/com.stimulsoft/stimulsoft-reports-demo@2022.4.1?classifier=sources

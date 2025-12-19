@@ -3,3 +3,4 @@
 - pkg:maven/io.github.joke/spock-outputcapture@2.0.0?classifier=sources
 - pkg:maven/io.github.joke/spock-outputcapture@2.2.0?classifier=sources
 - pkg:maven/io.github.joke/spock-outputcapture@3.0.0?classifier=sources
+- pkg:maven/io.github.joke/spock-outputcapture@3.0.1?classifier=sources

@@ -8,5 +8,7 @@
 - pkg:maven/org.webjars.npm/mdbootstrap@4.19.0?classifier=sources
 - pkg:maven/org.webjars.npm/mdbootstrap@4.19.2
 - pkg:maven/org.webjars.npm/mdbootstrap@4.19.2?classifier=sources
+- pkg:maven/org.webjars.npm/mdbootstrap@4.20.0
+- pkg:maven/org.webjars.npm/mdbootstrap@4.20.0?classifier=sources
 - pkg:maven/org.webjars.npm/mdbootstrap@4.8.8
 - pkg:maven/org.webjars.npm/mdbootstrap@4.8.8?classifier=sources

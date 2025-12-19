@@ -1,3 +1,4 @@
 - pkg:maven/tools.aqua/bgw-docs-examples@0.7.1?classifier=sources
 - pkg:maven/tools.aqua/bgw-docs-examples@0.7.2?classifier=sources
+- pkg:maven/tools.aqua/bgw-docs-examples@0.7.3?classifier=sources
 - pkg:maven/tools.aqua/bgw-docs-examples@0.7?classifier=sources

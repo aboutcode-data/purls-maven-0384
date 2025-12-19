@@ -68,3 +68,5 @@
 - pkg:maven/org.webjars.npm/react-is@17.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/react-is@18.0.0-alpha-e6be2d531
 - pkg:maven/org.webjars.npm/react-is@18.0.0-alpha-e6be2d531?classifier=sources
+- pkg:maven/org.webjars.npm/react-is@18.2.0
+- pkg:maven/org.webjars.npm/react-is@18.2.0?classifier=sources

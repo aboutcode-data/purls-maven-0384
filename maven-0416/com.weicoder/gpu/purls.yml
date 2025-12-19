@@ -1,2 +1,10 @@
 - pkg:maven/com.weicoder/gpu@3.5.3
 - pkg:maven/com.weicoder/gpu@3.5.3?classifier=sources
+- pkg:maven/com.weicoder/gpu@3.5.4
+- pkg:maven/com.weicoder/gpu@3.5.4-jdk11
+- pkg:maven/com.weicoder/gpu@3.5.4-jdk11?classifier=sources
+- pkg:maven/com.weicoder/gpu@3.5.4-jdk8
+- pkg:maven/com.weicoder/gpu@3.5.4-jdk8?classifier=sources
+- pkg:maven/com.weicoder/gpu@3.5.4?classifier=sources
+- pkg:maven/com.weicoder/gpu@3.5.5
+- pkg:maven/com.weicoder/gpu@3.5.5?classifier=sources

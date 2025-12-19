@@ -110,3 +110,15 @@
 - pkg:maven/software.amazon.awscdk/opensearchservice@1.170.1?classifier=sources
 - pkg:maven/software.amazon.awscdk/opensearchservice@1.171.0
 - pkg:maven/software.amazon.awscdk/opensearchservice@1.171.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.172.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.172.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.173.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.173.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.174.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.174.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.175.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.175.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.176.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.177.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.177.0?classifier=sources

@@ -33,3 +33,6 @@
 - pkg:maven/me.proton.core/report-dagger@8.3.0?classifier=sources
 - pkg:maven/me.proton.core/report-dagger@8.4.0?classifier=sources
 - pkg:maven/me.proton.core/report-dagger@8.5.0?classifier=sources
+- pkg:maven/me.proton.core/report-dagger@9.0.0?classifier=sources
+- pkg:maven/me.proton.core/report-dagger@9.0.1?classifier=sources
+- pkg:maven/me.proton.core/report-dagger@9.0.2?classifier=sources

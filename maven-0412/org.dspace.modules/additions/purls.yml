@@ -116,3 +116,5 @@
 - pkg:maven/org.dspace.modules/additions@7.2?classifier=sources
 - pkg:maven/org.dspace.modules/additions@7.3
 - pkg:maven/org.dspace.modules/additions@7.3?classifier=sources
+- pkg:maven/org.dspace.modules/additions@7.4
+- pkg:maven/org.dspace.modules/additions@7.4?classifier=sources

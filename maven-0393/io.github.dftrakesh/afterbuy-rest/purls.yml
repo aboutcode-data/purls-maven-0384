@@ -1,0 +1,6 @@
+- pkg:maven/io.github.dftrakesh/afterbuy-rest@2022.9.22
+- pkg:maven/io.github.dftrakesh/afterbuy-rest@2022.9.22?classifier=sources
+- pkg:maven/io.github.dftrakesh/afterbuy-rest@2022.9.23
+- pkg:maven/io.github.dftrakesh/afterbuy-rest@2022.9.23?classifier=sources
+- pkg:maven/io.github.dftrakesh/afterbuy-rest@2022.9.24
+- pkg:maven/io.github.dftrakesh/afterbuy-rest@2022.9.24?classifier=sources

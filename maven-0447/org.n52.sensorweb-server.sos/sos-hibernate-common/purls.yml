@@ -59,6 +59,10 @@
 - pkg:maven/org.n52.sensorweb-server.sos/sos-hibernate-common@6.0.0-PR.14?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-hibernate-common@6.0.0-PR.15
 - pkg:maven/org.n52.sensorweb-server.sos/sos-hibernate-common@6.0.0-PR.15?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-hibernate-common@6.0.0-PR.17
+- pkg:maven/org.n52.sensorweb-server.sos/sos-hibernate-common@6.0.0-PR.17?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-hibernate-common@6.0.0-PR.18
+- pkg:maven/org.n52.sensorweb-server.sos/sos-hibernate-common@6.0.0-PR.18?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-hibernate-common@6.0.0-PR.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-hibernate-common@6.0.0-PR.2
 - pkg:maven/org.n52.sensorweb-server.sos/sos-hibernate-common@6.0.0-PR.2?classifier=sources

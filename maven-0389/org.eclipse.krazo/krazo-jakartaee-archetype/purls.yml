@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.krazo/krazo-jakartaee-archetype@3.0.0?classifier=sources
+- pkg:maven/org.eclipse.krazo/krazo-jakartaee-archetype@3.0.1?classifier=sources

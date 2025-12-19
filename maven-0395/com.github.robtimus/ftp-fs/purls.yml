@@ -42,3 +42,5 @@
 - pkg:maven/com.github.robtimus/ftp-fs@2.2.2
 - pkg:maven/com.github.robtimus/ftp-fs@2.2.2?classifier=sources
 - pkg:maven/com.github.robtimus/ftp-fs@2.2?classifier=sources
+- pkg:maven/com.github.robtimus/ftp-fs@3.0
+- pkg:maven/com.github.robtimus/ftp-fs@3.0?classifier=sources

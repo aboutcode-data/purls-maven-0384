@@ -211,6 +211,8 @@
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.36
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.36?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.36?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.37
+- pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.37?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@2.4
@@ -282,3 +284,5 @@
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@3.1.0-M3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@3.1.0-M7
 - pkg:maven/org.glassfish.jersey.examples/exception-mapping@3.1.0-M7?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/exception-mapping@3.1.0-M8
+- pkg:maven/org.glassfish.jersey.examples/exception-mapping@3.1.0-M8?classifier=sources

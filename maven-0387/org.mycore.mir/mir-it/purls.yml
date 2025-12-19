@@ -47,3 +47,4 @@
 - pkg:maven/org.mycore.mir/mir-it@2021.11?classifier=sources
 - pkg:maven/org.mycore.mir/mir-it@2022.05
 - pkg:maven/org.mycore.mir/mir-it@2022.05?classifier=sources
+- pkg:maven/org.mycore.mir/mir-it@2022.06.0
