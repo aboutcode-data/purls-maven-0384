@@ -16,3 +16,5 @@
 - pkg:maven/software.amazon.glue/jsonschema-kafkaconnect-converter@1.1.7?classifier=sources
 - pkg:maven/software.amazon.glue/jsonschema-kafkaconnect-converter@1.1.8
 - pkg:maven/software.amazon.glue/jsonschema-kafkaconnect-converter@1.1.8?classifier=sources
+- pkg:maven/software.amazon.glue/jsonschema-kafkaconnect-converter@1.1.9
+- pkg:maven/software.amazon.glue/jsonschema-kafkaconnect-converter@1.1.9?classifier=sources

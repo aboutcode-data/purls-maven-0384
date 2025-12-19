@@ -51,7 +51,12 @@
 - pkg:maven/com.mooltiverse.oss.nyx/java@0.2.1-alpha.14?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/java@0.2.1-alpha.15?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/java@0.2.1-alpha.16?classifier=sources
+- pkg:maven/com.mooltiverse.oss.nyx/java@0.2.1-alpha.17?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/java@0.2.1-alpha.9?classifier=sources
+- pkg:maven/com.mooltiverse.oss.nyx/java@1.0.0-alpha.1?classifier=sources
+- pkg:maven/com.mooltiverse.oss.nyx/java@1.0.0?classifier=sources
+- pkg:maven/com.mooltiverse.oss.nyx/java@1.0.1-fix81.1?classifier=sources
+- pkg:maven/com.mooltiverse.oss.nyx/java@1.0.1?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/java@unspecified?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/java@v0.0.2-alpha.1?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/java@v0.0.2-alpha.2?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-adapter@0.36?classifier=sources
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-adapter@0.37
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-adapter@0.37?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-adapter@0.38
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-rest-facade-adapter@0.38?classifier=sources

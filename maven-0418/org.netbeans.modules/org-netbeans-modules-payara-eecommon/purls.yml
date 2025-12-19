@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE130?classifier=sources

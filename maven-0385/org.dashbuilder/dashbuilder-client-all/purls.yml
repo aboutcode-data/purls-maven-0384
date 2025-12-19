@@ -246,3 +246,7 @@
 - pkg:maven/org.dashbuilder/dashbuilder-client-all@7.63.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-client-all@7.64.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-client-all@7.64.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-client-all@7.65.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-client-all@7.65.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-client-all@7.66.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-client-all@7.66.0.Final?classifier=sources

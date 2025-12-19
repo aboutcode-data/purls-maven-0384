@@ -1,0 +1,2 @@
+- pkg:maven/io.accur8/a8-versions_2.13@1.0.0-20220201_0754_master
+- pkg:maven/io.accur8/a8-versions_2.13@1.0.0-20220201_0754_master?classifier=sources

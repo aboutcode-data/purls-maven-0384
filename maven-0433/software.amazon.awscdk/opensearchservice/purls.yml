@@ -38,3 +38,17 @@
 - pkg:maven/software.amazon.awscdk/opensearchservice@1.139.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/opensearchservice@1.140.0
 - pkg:maven/software.amazon.awscdk/opensearchservice@1.140.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.141.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.141.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.142.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.142.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.143.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.143.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.144.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.144.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.145.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.145.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.146.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.146.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.147.0
+- pkg:maven/software.amazon.awscdk/opensearchservice@1.147.0?classifier=sources

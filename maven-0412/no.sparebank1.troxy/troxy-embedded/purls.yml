@@ -18,5 +18,7 @@
 - pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.15?classifier=sources
 - pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.25
 - pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.25?classifier=sources
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.33
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.33?classifier=sources
 - pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.9
 - pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.9?classifier=sources

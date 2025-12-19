@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/swag-claim-management@1.1-18ebff9-client
+- pkg:maven/dev.vality/swag-claim-management@1.1-18ebff9-client?classifier=sources
+- pkg:maven/dev.vality/swag-claim-management@1.1-18ebff9-server
+- pkg:maven/dev.vality/swag-claim-management@1.1-18ebff9-server?classifier=sources

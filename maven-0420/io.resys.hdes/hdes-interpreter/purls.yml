@@ -36,3 +36,17 @@
 - pkg:maven/io.resys.hdes/hdes-interpreter@3.124?classifier=sources
 - pkg:maven/io.resys.hdes/hdes-interpreter@3.125
 - pkg:maven/io.resys.hdes/hdes-interpreter@3.125?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.126
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.126?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.127
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.127?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.128
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.128?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.130
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.130.2
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.130.2?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.130.3
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.130.3?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.130.4
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.130.4?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-interpreter@3.130?classifier=sources

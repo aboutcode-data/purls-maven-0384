@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE130?classifier=sources

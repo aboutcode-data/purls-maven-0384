@@ -1,0 +1,2 @@
+- pkg:maven/cf.ystapi/ystapi@BETA-0.0.1.3?classifier=sources
+- pkg:maven/cf.ystapi/ystapi@BETA-0.0.1.4-PRE?classifier=sources

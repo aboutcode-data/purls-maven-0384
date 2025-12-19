@@ -73,4 +73,8 @@
 - pkg:maven/com.lihaoyi/ammonite-cross-23-terminal_2.13@2.5.0-9-b0470ac2?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-cross-23-terminal_2.13@2.5.0?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-cross-23-terminal_2.13@2.5.1
+- pkg:maven/com.lihaoyi/ammonite-cross-23-terminal_2.13@2.5.1-4-9fbd44f2
+- pkg:maven/com.lihaoyi/ammonite-cross-23-terminal_2.13@2.5.1-4-9fbd44f2?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-cross-23-terminal_2.13@2.5.1-5-9dc876c2
+- pkg:maven/com.lihaoyi/ammonite-cross-23-terminal_2.13@2.5.1-5-9dc876c2?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-cross-23-terminal_2.13@2.5.1?classifier=sources

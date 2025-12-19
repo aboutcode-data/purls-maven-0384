@@ -24,3 +24,7 @@
 - pkg:maven/org.cicirello/jpt@2.6.5?classifier=sources
 - pkg:maven/org.cicirello/jpt@3.0.0
 - pkg:maven/org.cicirello/jpt@3.0.0?classifier=sources
+- pkg:maven/org.cicirello/jpt@3.1.0
+- pkg:maven/org.cicirello/jpt@3.1.0?classifier=sources
+- pkg:maven/org.cicirello/jpt@3.1.1
+- pkg:maven/org.cicirello/jpt@3.1.1?classifier=sources

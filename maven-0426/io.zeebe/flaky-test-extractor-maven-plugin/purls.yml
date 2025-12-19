@@ -10,3 +10,5 @@
 - pkg:maven/io.zeebe/flaky-test-extractor-maven-plugin@2.0.4?classifier=sources
 - pkg:maven/io.zeebe/flaky-test-extractor-maven-plugin@2.0.6
 - pkg:maven/io.zeebe/flaky-test-extractor-maven-plugin@2.0.6?classifier=sources
+- pkg:maven/io.zeebe/flaky-test-extractor-maven-plugin@2.1.1
+- pkg:maven/io.zeebe/flaky-test-extractor-maven-plugin@2.1.1?classifier=sources

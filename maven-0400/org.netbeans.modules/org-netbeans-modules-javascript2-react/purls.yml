@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-react@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-react@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-react@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-react@RELEASE130?classifier=sources

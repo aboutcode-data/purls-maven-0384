@@ -7,3 +7,4 @@
 - pkg:maven/org.wikimedia.search/extra-analysis-serbian@6.5.4?classifier=sources
 - pkg:maven/org.wikimedia.search/extra-analysis-serbian@6.8.21?classifier=sources
 - pkg:maven/org.wikimedia.search/extra-analysis-serbian@6.8.23?classifier=sources
+- pkg:maven/org.wikimedia.search/extra-analysis-serbian@7.10.2?classifier=sources

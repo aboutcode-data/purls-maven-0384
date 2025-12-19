@@ -1,3 +1,4 @@
 - pkg:maven/io.ak1.pix/piximagepicker@1.6.0?classifier=sources
 - pkg:maven/io.ak1.pix/piximagepicker@1.6.1?classifier=sources
 - pkg:maven/io.ak1.pix/piximagepicker@1.6.2?classifier=sources
+- pkg:maven/io.ak1.pix/piximagepicker@1.6.3?classifier=sources

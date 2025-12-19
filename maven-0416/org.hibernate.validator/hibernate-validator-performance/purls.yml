@@ -1,4 +1,12 @@
 - pkg:maven/org.hibernate.validator/hibernate-validator-performance@6.2.1.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-performance@6.2.1.Final?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator-performance@6.2.2.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator-performance@6.2.2.Final?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator-performance@6.2.3.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator-performance@6.2.3.Final?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator-performance@7.0.2.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-performance@7.0.2.Final?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator-performance@7.0.3.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator-performance@7.0.3.Final?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator-performance@8.0.0.Alpha1
+- pkg:maven/org.hibernate.validator/hibernate-validator-performance@8.0.0.Alpha1?classifier=sources

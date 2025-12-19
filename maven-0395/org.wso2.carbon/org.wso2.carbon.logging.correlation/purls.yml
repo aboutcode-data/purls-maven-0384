@@ -1,0 +1,10 @@
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.6.3-alpha
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.6.3-alpha?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.6.3-beta
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.6.3-beta?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.6.3-m6
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.6.3-m6?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.6.3-m7
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.6.3-m7?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.6.3-m8
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.6.3-m8?classifier=sources

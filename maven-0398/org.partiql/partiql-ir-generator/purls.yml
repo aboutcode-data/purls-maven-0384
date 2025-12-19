@@ -12,3 +12,4 @@
 - pkg:maven/org.partiql/partiql-ir-generator@0.3.3?classifier=sources
 - pkg:maven/org.partiql/partiql-ir-generator@0.4.0
 - pkg:maven/org.partiql/partiql-ir-generator@0.4.0?classifier=sources
+- pkg:maven/org.partiql/partiql-ir-generator@0.5.0?classifier=sources

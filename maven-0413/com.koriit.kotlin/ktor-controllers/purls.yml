@@ -1,0 +1,2 @@
+- pkg:maven/com.koriit.kotlin/ktor-controllers@0.6.0?classifier=sources
+- pkg:maven/com.koriit.kotlin/ktor-controllers@0.7.0?classifier=sources

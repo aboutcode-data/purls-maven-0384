@@ -1,2 +1,4 @@
 - pkg:maven/org.jisel/jisel@1.0
 - pkg:maven/org.jisel/jisel@1.0?classifier=sources
+- pkg:maven/org.jisel/jisel@1.1
+- pkg:maven/org.jisel/jisel@1.1?classifier=sources

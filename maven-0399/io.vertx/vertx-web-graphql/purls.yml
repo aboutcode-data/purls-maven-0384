@@ -108,3 +108,5 @@
 - pkg:maven/io.vertx/vertx-web-graphql@4.2.3?classifier=sources
 - pkg:maven/io.vertx/vertx-web-graphql@4.2.4
 - pkg:maven/io.vertx/vertx-web-graphql@4.2.4?classifier=sources
+- pkg:maven/io.vertx/vertx-web-graphql@4.2.5
+- pkg:maven/io.vertx/vertx-web-graphql@4.2.5?classifier=sources

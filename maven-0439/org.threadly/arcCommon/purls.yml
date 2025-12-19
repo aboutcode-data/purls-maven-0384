@@ -8,6 +8,7 @@
 - pkg:maven/org.threadly/arcCommon@0.13?classifier=sources
 - pkg:maven/org.threadly/arcCommon@0.14?classifier=sources
 - pkg:maven/org.threadly/arcCommon@0.15?classifier=sources
+- pkg:maven/org.threadly/arcCommon@0.16?classifier=sources
 - pkg:maven/org.threadly/arcCommon@0.6
 - pkg:maven/org.threadly/arcCommon@0.6?classifier=sources
 - pkg:maven/org.threadly/arcCommon@0.7

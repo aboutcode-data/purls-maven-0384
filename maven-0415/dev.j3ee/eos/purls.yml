@@ -1,0 +1,7 @@
+- pkg:maven/dev.j3ee/eos@0.94
+- pkg:maven/dev.j3ee/eos@0.94?classifier=sources
+- pkg:maven/dev.j3ee/eos@0.95
+- pkg:maven/dev.j3ee/eos@0.95?classifier=sources
+- pkg:maven/dev.j3ee/eos@0.96
+- pkg:maven/dev.j3ee/eos@0.96?classifier=sources
+- pkg:maven/dev.j3ee/eos@1.96?classifier=sources

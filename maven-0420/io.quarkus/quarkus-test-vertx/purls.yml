@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-test-vertx@2.7.3.Final
+- pkg:maven/io.quarkus/quarkus-test-vertx@2.7.3.Final?classifier=sources

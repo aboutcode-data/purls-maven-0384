@@ -10,3 +10,7 @@
 - pkg:maven/com.vesoft/nebula-algorithm@2.6.0?classifier=sources
 - pkg:maven/com.vesoft/nebula-algorithm@2.6.1
 - pkg:maven/com.vesoft/nebula-algorithm@2.6.1?classifier=sources
+- pkg:maven/com.vesoft/nebula-algorithm@2.6.2
+- pkg:maven/com.vesoft/nebula-algorithm@2.6.2?classifier=sources
+- pkg:maven/com.vesoft/nebula-algorithm@3.0.0
+- pkg:maven/com.vesoft/nebula-algorithm@3.0.0?classifier=sources

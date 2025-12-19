@@ -6,6 +6,7 @@
 - pkg:maven/se.warting.signature/signature-core@0.0.15?classifier=sources
 - pkg:maven/se.warting.signature/signature-core@0.0.16?classifier=sources
 - pkg:maven/se.warting.signature/signature-core@0.0.17?classifier=sources
+- pkg:maven/se.warting.signature/signature-core@0.0.18?classifier=sources
 - pkg:maven/se.warting.signature/signature-core@0.0.7?classifier=sources
 - pkg:maven/se.warting.signature/signature-core@0.0.8?classifier=sources
 - pkg:maven/se.warting.signature/signature-core@0.0.9?classifier=sources

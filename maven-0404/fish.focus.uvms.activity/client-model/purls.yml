@@ -1,0 +1,4 @@
+- pkg:maven/fish.focus.uvms.activity/client-model@1.2.15
+- pkg:maven/fish.focus.uvms.activity/client-model@1.2.15?classifier=sources
+- pkg:maven/fish.focus.uvms.activity/client-model@1.2.16
+- pkg:maven/fish.focus.uvms.activity/client-model@1.2.16?classifier=sources

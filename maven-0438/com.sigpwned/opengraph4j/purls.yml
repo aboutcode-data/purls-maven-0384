@@ -1,0 +1,2 @@
+- pkg:maven/com.sigpwned/opengraph4j@0.0.0
+- pkg:maven/com.sigpwned/opengraph4j@0.0.0?classifier=sources

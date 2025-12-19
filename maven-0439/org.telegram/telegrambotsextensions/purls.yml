@@ -80,3 +80,7 @@
 - pkg:maven/org.telegram/telegrambotsextensions@5.5.0?classifier=sources
 - pkg:maven/org.telegram/telegrambotsextensions@5.6.0
 - pkg:maven/org.telegram/telegrambotsextensions@5.6.0?classifier=sources
+- pkg:maven/org.telegram/telegrambotsextensions@5.7.0
+- pkg:maven/org.telegram/telegrambotsextensions@5.7.0?classifier=sources
+- pkg:maven/org.telegram/telegrambotsextensions@5.7.1
+- pkg:maven/org.telegram/telegrambotsextensions@5.7.1?classifier=sources

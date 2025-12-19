@@ -1,2 +1,4 @@
 - pkg:maven/com.github.davidmoten/rtree2@0.9-RC1
 - pkg:maven/com.github.davidmoten/rtree2@0.9-RC1?classifier=sources
+- pkg:maven/com.github.davidmoten/rtree2@0.9.1
+- pkg:maven/com.github.davidmoten/rtree2@0.9.1?classifier=sources

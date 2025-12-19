@@ -24,6 +24,8 @@
 - pkg:maven/org.opencastproject/opencast-usertracking-impl@11.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-usertracking-impl@11.3
 - pkg:maven/org.opencastproject/opencast-usertracking-impl@11.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-usertracking-impl@11.4
+- pkg:maven/org.opencastproject/opencast-usertracking-impl@11.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-usertracking-impl@6.6
 - pkg:maven/org.opencastproject/opencast-usertracking-impl@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-usertracking-impl@7.2

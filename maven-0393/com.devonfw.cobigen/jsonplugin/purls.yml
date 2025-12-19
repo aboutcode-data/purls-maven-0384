@@ -16,5 +16,7 @@
 - pkg:maven/com.devonfw.cobigen/jsonplugin@2021.12.004?classifier=sources
 - pkg:maven/com.devonfw.cobigen/jsonplugin@2021.12.005
 - pkg:maven/com.devonfw.cobigen/jsonplugin@2021.12.005?classifier=sources
+- pkg:maven/com.devonfw.cobigen/jsonplugin@2021.12.006
+- pkg:maven/com.devonfw.cobigen/jsonplugin@2021.12.006?classifier=sources
 - pkg:maven/com.devonfw.cobigen/jsonplugin@7.0.0
 - pkg:maven/com.devonfw.cobigen/jsonplugin@7.0.0?classifier=sources

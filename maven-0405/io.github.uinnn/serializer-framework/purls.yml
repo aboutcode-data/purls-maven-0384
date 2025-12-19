@@ -27,3 +27,4 @@
 - pkg:maven/io.github.uinnn/serializer-framework@2.4.0?classifier=sources
 - pkg:maven/io.github.uinnn/serializer-framework@2.4.10?classifier=sources
 - pkg:maven/io.github.uinnn/serializer-framework@2.4.20?classifier=sources
+- pkg:maven/io.github.uinnn/serializer-framework@2.5.0?classifier=sources

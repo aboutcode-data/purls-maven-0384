@@ -4,3 +4,5 @@
 - pkg:maven/org.activecomponents.jadex/jadex-tools-servletfilter-web@4.0.249?type=war
 - pkg:maven/org.activecomponents.jadex/jadex-tools-servletfilter-web@4.0.250?classifier=sources
 - pkg:maven/org.activecomponents.jadex/jadex-tools-servletfilter-web@4.0.250?type=war
+- pkg:maven/org.activecomponents.jadex/jadex-tools-servletfilter-web@4.0.252?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-tools-servletfilter-web@4.0.252?type=war

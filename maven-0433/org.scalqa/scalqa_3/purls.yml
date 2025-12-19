@@ -28,3 +28,5 @@
 - pkg:maven/org.scalqa/scalqa_3@0.995?classifier=sources
 - pkg:maven/org.scalqa/scalqa_3@0.99?classifier=sources
 - pkg:maven/org.scalqa/scalqa_3@0.9?classifier=sources
+- pkg:maven/org.scalqa/scalqa_3@1.0
+- pkg:maven/org.scalqa/scalqa_3@1.0?classifier=sources

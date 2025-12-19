@@ -4,3 +4,5 @@
 - pkg:maven/com.blazebit/blaze-expression-declarative-excel@1.0.0-Alpha22?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-declarative-excel@1.0.0-Alpha23
 - pkg:maven/com.blazebit/blaze-expression-declarative-excel@1.0.0-Alpha23?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-declarative-excel@1.0.0-Alpha24
+- pkg:maven/com.blazebit/blaze-expression-declarative-excel@1.0.0-Alpha24?classifier=sources

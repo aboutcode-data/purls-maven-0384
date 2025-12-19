@@ -56,3 +56,4 @@
 - pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.8?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.9.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@2.9?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/osgi-helloworld-webapp@3.0.4?classifier=project-src&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/fish.focus.uvms.usm/Administration-http-Rest-Service@2.2.13?classifier=sources
+- pkg:maven/fish.focus.uvms.usm/Administration-http-Rest-Service@2.2.13?type=war

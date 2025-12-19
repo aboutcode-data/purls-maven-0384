@@ -6,3 +6,5 @@
 - pkg:maven/cn.xnatural/http@1.0.12?classifier=sources
 - pkg:maven/cn.xnatural/http@1.0.13
 - pkg:maven/cn.xnatural/http@1.0.13?classifier=sources
+- pkg:maven/cn.xnatural/http@1.1.0
+- pkg:maven/cn.xnatural/http@1.1.0?classifier=sources

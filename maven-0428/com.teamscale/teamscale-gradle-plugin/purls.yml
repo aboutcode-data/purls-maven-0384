@@ -13,3 +13,5 @@
 - pkg:maven/com.teamscale/teamscale-gradle-plugin@21.8.0?classifier=sources
 - pkg:maven/com.teamscale/teamscale-gradle-plugin@21.9.0?classifier=sources
 - pkg:maven/com.teamscale/teamscale-gradle-plugin@22.0.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-gradle-plugin@22.1.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-gradle-plugin@22.2.0?classifier=sources

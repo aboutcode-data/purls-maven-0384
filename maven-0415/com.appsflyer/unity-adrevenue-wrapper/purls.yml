@@ -1,2 +1,6 @@
 - pkg:maven/com.appsflyer/unity-adrevenue-wrapper@5.1.0?type=aar
+- pkg:maven/com.appsflyer/unity-adrevenue-wrapper@6.4.31?type=aar
 - pkg:maven/com.appsflyer/unity-adrevenue-wrapper@6.4.3?type=aar
+- pkg:maven/com.appsflyer/unity-adrevenue-wrapper@6.4.5?type=aar
+- pkg:maven/com.appsflyer/unity-adrevenue-wrapper@6.5.2?type=aar
+- pkg:maven/com.appsflyer/unity-adrevenue-wrapper@6.5.3?type=aar

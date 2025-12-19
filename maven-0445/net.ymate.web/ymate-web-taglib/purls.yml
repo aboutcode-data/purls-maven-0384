@@ -1,0 +1,2 @@
+- pkg:maven/net.ymate.web/ymate-web-taglib@1.0.0
+- pkg:maven/net.ymate.web/ymate-web-taglib@1.0.0?classifier=sources

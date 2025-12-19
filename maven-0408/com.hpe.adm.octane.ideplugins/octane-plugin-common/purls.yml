@@ -36,3 +36,7 @@
 - pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.6.7
 - pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.6.7?classifier=sources
 - pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.6?classifier=sources
+- pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.7.0
+- pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.7.0-test
+- pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.7.0-test?classifier=sources
+- pkg:maven/com.hpe.adm.octane.ideplugins/octane-plugin-common@1.7.0?classifier=sources

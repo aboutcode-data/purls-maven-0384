@@ -4,3 +4,5 @@
 - pkg:maven/de.quipsy.cli/cli-framework@2020?classifier=sources
 - pkg:maven/de.quipsy.cli/cli-framework@2021
 - pkg:maven/de.quipsy.cli/cli-framework@2021?classifier=sources
+- pkg:maven/de.quipsy.cli/cli-framework@2022
+- pkg:maven/de.quipsy.cli/cli-framework@2022?classifier=sources

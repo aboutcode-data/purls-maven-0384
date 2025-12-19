@@ -7,6 +7,16 @@
 - pkg:maven/me.friwi/jcefmaven@95.7.14.3?classifier=sources
 - pkg:maven/me.friwi/jcefmaven@95.7.14.4
 - pkg:maven/me.friwi/jcefmaven@95.7.14.4?classifier=sources
+- pkg:maven/me.friwi/jcefmaven@95.7.14.5
+- pkg:maven/me.friwi/jcefmaven@95.7.14.5?classifier=sources
+- pkg:maven/me.friwi/jcefmaven@95.7.14.6
+- pkg:maven/me.friwi/jcefmaven@95.7.14.6?classifier=sources
+- pkg:maven/me.friwi/jcefmaven@95.7.14.7
+- pkg:maven/me.friwi/jcefmaven@95.7.14.7?classifier=sources
+- pkg:maven/me.friwi/jcefmaven@95.7.14.8
+- pkg:maven/me.friwi/jcefmaven@95.7.14.8?classifier=sources
+- pkg:maven/me.friwi/jcefmaven@95.7.14.9
+- pkg:maven/me.friwi/jcefmaven@95.7.14.9?classifier=sources
 - pkg:maven/me.friwi/jcefmaven@95.7.14?classifier=sources
 - pkg:maven/me.friwi/jcefmaven@v1.0.0%2Bjcef-544024e%2Bcef-95.7.14%2Bg9f72f35%2Bchromium-95.0.4638.69
 - pkg:maven/me.friwi/jcefmaven@v1.0.0%2Bjcef-544024e%2Bcef-95.7.14%2Bg9f72f35%2Bchromium-95.0.4638.69?classifier=sources

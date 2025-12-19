@@ -1,0 +1,16 @@
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-11-5746f7
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-11-5746f7?classifier=sources
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-14-b3b1be
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-14-b3b1be?classifier=sources
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-15-fcfd72
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-15-fcfd72?classifier=sources
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-17-5b848c
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-17-5b848c?classifier=sources
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-18-d674e1
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-18-d674e1?classifier=sources
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-19-57dc85
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-19-57dc85?classifier=sources
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-20-cb8763
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-20-cb8763?classifier=sources
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-20-d39ce5
+- pkg:maven/io.gitlab.mhammons/api_3@0.0.0-20-d39ce5?classifier=sources

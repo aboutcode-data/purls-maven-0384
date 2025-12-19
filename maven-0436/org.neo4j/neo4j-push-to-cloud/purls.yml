@@ -46,6 +46,8 @@
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@3.5.29?classifier=sources
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@3.5.30
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@3.5.30?classifier=sources
+- pkg:maven/org.neo4j/neo4j-push-to-cloud@3.5.31
+- pkg:maven/org.neo4j/neo4j-push-to-cloud@3.5.31?classifier=sources
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.0.10
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.0.10?classifier=sources
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.0.11
@@ -101,6 +103,8 @@
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.2.13?classifier=sources
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.2.14
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.2.14?classifier=sources
+- pkg:maven/org.neo4j/neo4j-push-to-cloud@4.2.15
+- pkg:maven/org.neo4j/neo4j-push-to-cloud@4.2.15?classifier=sources
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.2.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.2.2
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.2.2?classifier=sources
@@ -148,3 +152,5 @@
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.4.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.4.3
 - pkg:maven/org.neo4j/neo4j-push-to-cloud@4.4.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-push-to-cloud@4.4.4
+- pkg:maven/org.neo4j/neo4j-push-to-cloud@4.4.4?classifier=sources

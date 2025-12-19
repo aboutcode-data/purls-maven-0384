@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-embedded-gf@2.0.2?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-embedded-gf@2.0.2?type=war

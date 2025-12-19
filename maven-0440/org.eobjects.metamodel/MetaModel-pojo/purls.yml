@@ -60,3 +60,5 @@
 - pkg:maven/org.eobjects.metamodel/MetaModel-pojo@3.4?classifier=sources
 - pkg:maven/org.eobjects.metamodel/MetaModel-pojo@5.3.4
 - pkg:maven/org.eobjects.metamodel/MetaModel-pojo@5.3.4?classifier=sources
+- pkg:maven/org.eobjects.metamodel/MetaModel-pojo@5.3.5
+- pkg:maven/org.eobjects.metamodel/MetaModel-pojo@5.3.5?classifier=sources

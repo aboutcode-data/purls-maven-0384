@@ -2,3 +2,5 @@
 - pkg:maven/com.github.megatronking.stringfog/interface@1.0.0?classifier=sources
 - pkg:maven/com.github.megatronking.stringfog/interface@1.1.0
 - pkg:maven/com.github.megatronking.stringfog/interface@1.1.0?classifier=sources
+- pkg:maven/com.github.megatronking.stringfog/interface@3.0.0
+- pkg:maven/com.github.megatronking.stringfog/interface@3.0.0?classifier=sources

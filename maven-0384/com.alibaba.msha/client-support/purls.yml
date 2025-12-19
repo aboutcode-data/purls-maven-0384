@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.msha/client-support@0.2
+- pkg:maven/com.alibaba.msha/client-support@0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.montanizstills/Nezonium@0.0.5x
+- pkg:maven/io.github.montanizstills/Nezonium@0.0.5x?classifier=sources

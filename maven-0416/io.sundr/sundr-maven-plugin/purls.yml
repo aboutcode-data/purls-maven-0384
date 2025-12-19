@@ -268,6 +268,8 @@
 - pkg:maven/io.sundr/sundr-maven-plugin@0.8.2?classifier=sources
 - pkg:maven/io.sundr/sundr-maven-plugin@0.80.0
 - pkg:maven/io.sundr/sundr-maven-plugin@0.80.0?classifier=sources
+- pkg:maven/io.sundr/sundr-maven-plugin@0.80.1
+- pkg:maven/io.sundr/sundr-maven-plugin@0.80.1?classifier=sources
 - pkg:maven/io.sundr/sundr-maven-plugin@0.9.0
 - pkg:maven/io.sundr/sundr-maven-plugin@0.9.0?classifier=sources
 - pkg:maven/io.sundr/sundr-maven-plugin@0.9.1

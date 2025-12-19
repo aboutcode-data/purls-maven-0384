@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/algolia__autocomplete-preset-algolia@1.5.2
+- pkg:maven/org.webjars.npm/algolia__autocomplete-preset-algolia@1.5.2?classifier=sources

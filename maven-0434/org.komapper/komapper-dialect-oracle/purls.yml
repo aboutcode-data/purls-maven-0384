@@ -1,0 +1,3 @@
+- pkg:maven/org.komapper/komapper-dialect-oracle@0.28.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-oracle@0.29.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-oracle@0.29.1?classifier=sources
