@@ -6,3 +6,5 @@
 - pkg:maven/com.imagingbook/imagingbook-common@6.0.0?classifier=sources
 - pkg:maven/com.imagingbook/imagingbook-common@7.0.0
 - pkg:maven/com.imagingbook/imagingbook-common@7.0.0?classifier=sources
+- pkg:maven/com.imagingbook/imagingbook-common@7.1.0
+- pkg:maven/com.imagingbook/imagingbook-common@7.1.0?classifier=sources

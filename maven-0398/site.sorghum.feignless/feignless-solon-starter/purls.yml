@@ -1,0 +1,2 @@
+- pkg:maven/site.sorghum.feignless/feignless-solon-starter@1.1.0
+- pkg:maven/site.sorghum.feignless/feignless-solon-starter@1.1.0?classifier=sources

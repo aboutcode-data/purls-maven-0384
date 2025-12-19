@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.features.ticketing/org.opennms.features.ticketing.api@31.0.3
+- pkg:maven/org.opennms.features.ticketing/org.opennms.features.ticketing.api@31.0.3?classifier=sources

@@ -28,3 +28,9 @@
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.43?classifier=sources
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.44
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.44?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.45
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.45?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.46
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.46?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.47
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.47?classifier=sources

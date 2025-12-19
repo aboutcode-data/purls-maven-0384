@@ -30,6 +30,8 @@
 - pkg:maven/io.smallrye.reactive/mutiny-math@1.7.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-math@1.8.0
 - pkg:maven/io.smallrye.reactive/mutiny-math@1.8.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-math@1.9.0
+- pkg:maven/io.smallrye.reactive/mutiny-math@1.9.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-math@2.0.0
 - pkg:maven/io.smallrye.reactive/mutiny-math@2.0.0-milestone1
 - pkg:maven/io.smallrye.reactive/mutiny-math@2.0.0-milestone1?classifier=sources
@@ -38,3 +40,5 @@
 - pkg:maven/io.smallrye.reactive/mutiny-math@2.0.0-milestone3
 - pkg:maven/io.smallrye.reactive/mutiny-math@2.0.0-milestone3?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-math@2.0.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-math@2.1.0
+- pkg:maven/io.smallrye.reactive/mutiny-math@2.1.0?classifier=sources

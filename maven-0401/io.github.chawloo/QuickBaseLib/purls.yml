@@ -12,6 +12,7 @@
 - pkg:maven/io.github.chawloo/QuickBaseLib@1.1.0-fix3?classifier=sources
 - pkg:maven/io.github.chawloo/QuickBaseLib@1.1.0-fix?classifier=sources
 - pkg:maven/io.github.chawloo/QuickBaseLib@1.1.0?classifier=sources
+- pkg:maven/io.github.chawloo/QuickBaseLib@1.1.11?classifier=sources
 - pkg:maven/io.github.chawloo/QuickBaseLib@1.1.1?classifier=sources
 - pkg:maven/io.github.chawloo/QuickBaseLib@1.1.2-fix1?classifier=sources
 - pkg:maven/io.github.chawloo/QuickBaseLib@1.1.2-fix2?classifier=sources

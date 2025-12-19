@@ -1,4 +1,8 @@
+- pkg:maven/com.luhuiguo/aspose-slides@22.12
+- pkg:maven/com.luhuiguo/aspose-slides@22.12?classifier=sources
 - pkg:maven/com.luhuiguo/aspose-slides@22.4
 - pkg:maven/com.luhuiguo/aspose-slides@22.4?classifier=sources
 - pkg:maven/com.luhuiguo/aspose-slides@22.9
 - pkg:maven/com.luhuiguo/aspose-slides@22.9?classifier=sources
+- pkg:maven/com.luhuiguo/aspose-slides@23.1
+- pkg:maven/com.luhuiguo/aspose-slides@23.1?classifier=sources

@@ -32,6 +32,8 @@
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@13.2.0.Final?classifier=sources
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@13.3.0.Final
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@13.3.0.Final?classifier=sources
+- pkg:maven/org.jboss.metadata/jboss-metadata-appclient@13.4.0.Final
+- pkg:maven/org.jboss.metadata/jboss-metadata-appclient@13.4.0.Final?classifier=sources
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@14.0.0.Alpha1
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@14.0.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@14.0.0.Beta1
@@ -60,6 +62,8 @@
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@15.3.0.Final
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@15.3.0.Final?classifier=sources
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@15.3.0?classifier=sources
+- pkg:maven/org.jboss.metadata/jboss-metadata-appclient@15.4.0
+- pkg:maven/org.jboss.metadata/jboss-metadata-appclient@15.4.0?classifier=sources
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@7.0.0.Beta13
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@7.0.0.Beta13?classifier=sources
 - pkg:maven/org.jboss.metadata/jboss-metadata-appclient@7.0.0.Beta14

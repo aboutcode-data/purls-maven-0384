@@ -6,3 +6,5 @@
 - pkg:maven/dev.hcf.ganymede/ganymede-kernel@2.0.3.20221217?classifier=sources
 - pkg:maven/dev.hcf.ganymede/ganymede-kernel@2.1.0.20221217
 - pkg:maven/dev.hcf.ganymede/ganymede-kernel@2.1.0.20221217?classifier=sources
+- pkg:maven/dev.hcf.ganymede/ganymede-kernel@2.1.1.20221231
+- pkg:maven/dev.hcf.ganymede/ganymede-kernel@2.1.1.20221231?classifier=sources

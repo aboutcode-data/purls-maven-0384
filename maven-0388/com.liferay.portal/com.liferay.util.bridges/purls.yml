@@ -1,5 +1,7 @@
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@1.0.0
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@1.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@10.0.0
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@10.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@2.0.0
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@2.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@2.0.1
@@ -124,3 +126,9 @@
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@9.0.5?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@9.0.6
 - pkg:maven/com.liferay.portal/com.liferay.util.bridges@9.0.6?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@9.0.7
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@9.0.7?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@9.0.8
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@9.0.8?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@9.0.9
+- pkg:maven/com.liferay.portal/com.liferay.util.bridges@9.0.9?classifier=sources

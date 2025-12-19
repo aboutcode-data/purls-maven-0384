@@ -2,3 +2,5 @@
 - pkg:maven/org.silentsoft/arguments-parser@1.0.0?classifier=sources
 - pkg:maven/org.silentsoft/arguments-parser@1.1.0
 - pkg:maven/org.silentsoft/arguments-parser@1.1.0?classifier=sources
+- pkg:maven/org.silentsoft/arguments-parser@2.0.0
+- pkg:maven/org.silentsoft/arguments-parser@2.0.0?classifier=sources

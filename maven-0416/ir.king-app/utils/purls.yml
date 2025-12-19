@@ -6,3 +6,8 @@
 - pkg:maven/ir.king-app/utils@1.1.1?classifier=sources
 - pkg:maven/ir.king-app/utils@1.1.2?classifier=sources
 - pkg:maven/ir.king-app/utils@1.1.3?classifier=sources
+- pkg:maven/ir.king-app/utils@1.1.4?classifier=sources
+- pkg:maven/ir.king-app/utils@1.1.5?classifier=sources
+- pkg:maven/ir.king-app/utils@1.1.6?classifier=sources
+- pkg:maven/ir.king-app/utils@1.1.7?classifier=sources
+- pkg:maven/ir.king-app/utils@1.1.8?classifier=sources

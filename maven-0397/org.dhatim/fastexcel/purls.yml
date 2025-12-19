@@ -83,11 +83,17 @@
 - pkg:maven/org.dhatim/fastexcel@0.14.0
 - pkg:maven/org.dhatim/fastexcel@0.14.0?classifier=sources
 - pkg:maven/org.dhatim/fastexcel@0.14.1
+- pkg:maven/org.dhatim/fastexcel@0.14.16
+- pkg:maven/org.dhatim/fastexcel@0.14.16?classifier=sources
+- pkg:maven/org.dhatim/fastexcel@0.14.17
+- pkg:maven/org.dhatim/fastexcel@0.14.17?classifier=sources
 - pkg:maven/org.dhatim/fastexcel@0.14.1?classifier=sources
 - pkg:maven/org.dhatim/fastexcel@0.14.2
 - pkg:maven/org.dhatim/fastexcel@0.14.2?classifier=sources
 - pkg:maven/org.dhatim/fastexcel@0.14.3
 - pkg:maven/org.dhatim/fastexcel@0.14.3?classifier=sources
+- pkg:maven/org.dhatim/fastexcel@0.14.4
+- pkg:maven/org.dhatim/fastexcel@0.14.4?classifier=sources
 - pkg:maven/org.dhatim/fastexcel@0.7.2
 - pkg:maven/org.dhatim/fastexcel@0.7.2?classifier=sources
 - pkg:maven/org.dhatim/fastexcel@0.7.4

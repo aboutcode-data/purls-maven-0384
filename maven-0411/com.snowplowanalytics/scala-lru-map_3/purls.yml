@@ -1,0 +1,4 @@
+- pkg:maven/com.snowplowanalytics/scala-lru-map_3@0.6.1
+- pkg:maven/com.snowplowanalytics/scala-lru-map_3@0.6.1-M1
+- pkg:maven/com.snowplowanalytics/scala-lru-map_3@0.6.1-M1?classifier=sources
+- pkg:maven/com.snowplowanalytics/scala-lru-map_3@0.6.1?classifier=sources

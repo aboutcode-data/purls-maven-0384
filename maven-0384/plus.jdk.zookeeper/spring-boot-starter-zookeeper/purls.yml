@@ -1,0 +1,4 @@
+- pkg:maven/plus.jdk.zookeeper/spring-boot-starter-zookeeper@1.0.0
+- pkg:maven/plus.jdk.zookeeper/spring-boot-starter-zookeeper@1.0.0?classifier=sources
+- pkg:maven/plus.jdk.zookeeper/spring-boot-starter-zookeeper@1.0.1
+- pkg:maven/plus.jdk.zookeeper/spring-boot-starter-zookeeper@1.0.1?classifier=sources

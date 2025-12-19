@@ -1,0 +1,2 @@
+- pkg:maven/so.dang.cool.clobar/clobar@1.0.0
+- pkg:maven/so.dang.cool.clobar/clobar@1.0.0?classifier=sources

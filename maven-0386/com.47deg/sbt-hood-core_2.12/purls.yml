@@ -14,3 +14,5 @@
 - pkg:maven/com.47deg/sbt-hood-core_2.12@0.2.7?classifier=sources
 - pkg:maven/com.47deg/sbt-hood-core_2.12@0.3.0
 - pkg:maven/com.47deg/sbt-hood-core_2.12@0.3.0?classifier=sources
+- pkg:maven/com.47deg/sbt-hood-core_2.12@0.4.0
+- pkg:maven/com.47deg/sbt-hood-core_2.12@0.4.0?classifier=sources

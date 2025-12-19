@@ -274,3 +274,5 @@
 - pkg:maven/org.kie/kie-dmn-validation@8.31.1.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-validation@8.32.0.Final
 - pkg:maven/org.kie/kie-dmn-validation@8.32.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-validation@8.33.0.Final
+- pkg:maven/org.kie/kie-dmn-validation@8.33.0.Final?classifier=sources

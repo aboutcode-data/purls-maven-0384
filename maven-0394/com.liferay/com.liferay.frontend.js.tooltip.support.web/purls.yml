@@ -61,6 +61,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@2.0.2
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@2.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@2.0.3
+- pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@2.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@2.0.4
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@2.0.4?classifier=sources-commercial
@@ -79,6 +82,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@3.0.3
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@3.0.4
+- pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@3.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@3.0.5
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@3.0.5?classifier=sources-commercial
@@ -110,6 +116,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@4.0.16
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@4.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@4.0.17
+- pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@4.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@4.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.tooltip.support.web@4.0.2

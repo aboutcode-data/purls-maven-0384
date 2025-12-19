@@ -1,0 +1,2 @@
+- pkg:maven/net.pricefx/pricefx-pckg@3.17.0?classifier=sources
+- pkg:maven/net.pricefx/pricefx-pckg@3.17.1?classifier=sources

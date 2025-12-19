@@ -4,3 +4,5 @@
 - pkg:maven/com.jdcloud.sdk/billing@1.0.10?classifier=sources
 - pkg:maven/com.jdcloud.sdk/billing@1.0.3
 - pkg:maven/com.jdcloud.sdk/billing@1.0.3?classifier=sources
+- pkg:maven/com.jdcloud.sdk/billing@1.1.4
+- pkg:maven/com.jdcloud.sdk/billing@1.1.4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.luhuiguo/aspose-words@22.10?classifier=sources
+- pkg:maven/com.luhuiguo/aspose-words@22.12?classifier=sources
 - pkg:maven/com.luhuiguo/aspose-words@22.9?classifier=sources
+- pkg:maven/com.luhuiguo/aspose-words@23.1?classifier=sources

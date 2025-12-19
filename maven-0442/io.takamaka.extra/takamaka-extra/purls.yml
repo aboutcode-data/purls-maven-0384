@@ -1,0 +1,2 @@
+- pkg:maven/io.takamaka.extra/takamaka-extra@1.0
+- pkg:maven/io.takamaka.extra/takamaka-extra@1.0?classifier=sources

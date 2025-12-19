@@ -2,3 +2,7 @@
 - pkg:maven/net.corda/corda-combined-worker@5.0.0.0-DevPreview-2?classifier=sources
 - pkg:maven/net.corda/corda-combined-worker@5.0.0.0-Eagle
 - pkg:maven/net.corda/corda-combined-worker@5.0.0.0-Eagle?classifier=sources
+- pkg:maven/net.corda/corda-combined-worker@5.0.0.0-Fox1.0
+- pkg:maven/net.corda/corda-combined-worker@5.0.0.0-Fox1.0?classifier=sources
+- pkg:maven/net.corda/corda-combined-worker@5.0.0.0-Fox1.1
+- pkg:maven/net.corda/corda-combined-worker@5.0.0.0-Fox1.1?classifier=sources

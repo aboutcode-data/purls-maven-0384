@@ -18,3 +18,5 @@
 - pkg:maven/eu.de4a/de4a-connector@0.3.2?type=war
 - pkg:maven/eu.de4a/de4a-connector@0.3.3?classifier=sources
 - pkg:maven/eu.de4a/de4a-connector@0.3.3?type=war
+- pkg:maven/eu.de4a/de4a-connector@0.3.4?classifier=sources
+- pkg:maven/eu.de4a/de4a-connector@0.3.4?type=war

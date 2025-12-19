@@ -62,3 +62,4 @@
 - pkg:maven/ru.vyarus/dropwizard-guicey@5.5.0?classifier=sources
 - pkg:maven/ru.vyarus/dropwizard-guicey@5.6.0?classifier=sources
 - pkg:maven/ru.vyarus/dropwizard-guicey@5.6.1?classifier=sources
+- pkg:maven/ru.vyarus/dropwizard-guicey@5.7.0?classifier=sources

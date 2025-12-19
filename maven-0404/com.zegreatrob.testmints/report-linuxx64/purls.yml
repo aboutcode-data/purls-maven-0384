@@ -207,3 +207,7 @@
 - pkg:maven/com.zegreatrob.testmints/report-linuxx64@8.3.7?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/report-linuxx64@8.3.8?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/report-linuxx64@8.3.9?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/report-linuxx64@8.4.0?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/report-linuxx64@9.0.2?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/report-linuxx64@9.0.3?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/report-linuxx64@9.0.4?classifier=sources

@@ -148,3 +148,5 @@
 - pkg:maven/org.opencb.biodata/biodata-formats@2.4.9?classifier=sources
 - pkg:maven/org.opencb.biodata/biodata-formats@2.5.0
 - pkg:maven/org.opencb.biodata/biodata-formats@2.5.0?classifier=sources
+- pkg:maven/org.opencb.biodata/biodata-formats@2.6.0
+- pkg:maven/org.opencb.biodata/biodata-formats@2.6.0?classifier=sources

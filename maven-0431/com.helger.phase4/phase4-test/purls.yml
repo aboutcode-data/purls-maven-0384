@@ -76,3 +76,7 @@
 - pkg:maven/com.helger.phase4/phase4-test@1.4.0?type=war
 - pkg:maven/com.helger.phase4/phase4-test@1.4.1?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-test@1.4.1?type=war
+- pkg:maven/com.helger.phase4/phase4-test@1.4.2?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-test@1.4.2?type=war
+- pkg:maven/com.helger.phase4/phase4-test@1.4.3?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-test@1.4.3?type=war

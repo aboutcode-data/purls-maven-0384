@@ -4,3 +4,5 @@
 - pkg:maven/io.github.mvertl/micro-http@0.0.7?classifier=sources
 - pkg:maven/io.github.mvertl/micro-http@0.1.4
 - pkg:maven/io.github.mvertl/micro-http@0.1.4?classifier=sources
+- pkg:maven/io.github.mvertl/micro-http@0.1.6
+- pkg:maven/io.github.mvertl/micro-http@0.1.6?classifier=sources

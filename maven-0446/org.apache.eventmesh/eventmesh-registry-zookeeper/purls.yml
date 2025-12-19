@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.eventmesh/eventmesh-registry-zookeeper@1.7.0-release?classifier=sources
+- pkg:maven/org.apache.eventmesh/eventmesh-registry-zookeeper@1.8.0-release?classifier=sources

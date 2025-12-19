@@ -1,2 +1,4 @@
 - pkg:maven/com.pulumi/cloudinit@1.4.0-alpha.1664358928%2B43c642db?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.4.0-alpha.1668644432%2B64d2b13b?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.4.0-alpha.1673416076%2B92274a7c?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.4.0-alpha.1673555816%2Bf3342c17?classifier=sources

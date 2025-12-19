@@ -22,3 +22,5 @@
 - pkg:maven/org.wso2.carbon.identity.tool.validator.sso.saml2/org.wso2.carbon.identity.tools.saml.validator.stub@5.4.4?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.tool.validator.sso.saml2/org.wso2.carbon.identity.tools.saml.validator.stub@5.5.0
 - pkg:maven/org.wso2.carbon.identity.tool.validator.sso.saml2/org.wso2.carbon.identity.tools.saml.validator.stub@5.5.0?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.tool.validator.sso.saml2/org.wso2.carbon.identity.tools.saml.validator.stub@5.5.1
+- pkg:maven/org.wso2.carbon.identity.tool.validator.sso.saml2/org.wso2.carbon.identity.tools.saml.validator.stub@5.5.1?classifier=sources

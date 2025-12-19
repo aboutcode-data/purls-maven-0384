@@ -22,6 +22,8 @@
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@20.3.7?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@20.3.8
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@20.3.8?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@20.3.9
+- pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@20.3.9?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@21.0.0
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@21.0.0.2
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@21.0.0.2?classifier=sources
@@ -44,6 +46,8 @@
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@21.3.3?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@21.3.4
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@21.3.4?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@21.3.5
+- pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@21.3.5?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@22.0.0
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@22.0.0.2
 - pkg:maven/org.graalvm.nativeimage/svm-diagnostics-agent@22.0.0.2?classifier=sources

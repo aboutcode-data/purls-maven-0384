@@ -9,6 +9,7 @@
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-command-line@1.101.4?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-command-line@1.101.5?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-command-line@1.101.6?classifier=sources
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-command-line@1.101.7?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-command-line@1.10?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-command-line@1.11?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-command-line@1.12?classifier=sources

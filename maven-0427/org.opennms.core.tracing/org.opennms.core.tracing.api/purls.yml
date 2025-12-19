@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.core.tracing/org.opennms.core.tracing.api@31.0.3
+- pkg:maven/org.opennms.core.tracing/org.opennms.core.tracing.api@31.0.3?classifier=sources

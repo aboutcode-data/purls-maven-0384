@@ -1,3 +1,4 @@
+- pkg:maven/one.cafebabe/webdriver-installer@1.10?classifier=sources
 - pkg:maven/one.cafebabe/webdriver-installer@1.5?classifier=sources
 - pkg:maven/one.cafebabe/webdriver-installer@1.6?classifier=sources
 - pkg:maven/one.cafebabe/webdriver-installer@1.7?classifier=sources

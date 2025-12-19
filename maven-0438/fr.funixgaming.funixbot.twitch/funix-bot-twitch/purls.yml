@@ -12,3 +12,5 @@
 - pkg:maven/fr.funixgaming.funixbot.twitch/funix-bot-twitch@1.1.7?classifier=sources
 - pkg:maven/fr.funixgaming.funixbot.twitch/funix-bot-twitch@1.2.0
 - pkg:maven/fr.funixgaming.funixbot.twitch/funix-bot-twitch@1.2.0?classifier=sources
+- pkg:maven/fr.funixgaming.funixbot.twitch/funix-bot-twitch@1.2.1
+- pkg:maven/fr.funixgaming.funixbot.twitch/funix-bot-twitch@1.2.1?classifier=sources

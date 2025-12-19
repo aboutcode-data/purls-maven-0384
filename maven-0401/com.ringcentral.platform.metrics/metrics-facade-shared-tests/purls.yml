@@ -2,3 +2,4 @@
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-shared-tests@1.0.5-RELEASE
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-shared-tests@2.0.0-RELEASE
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-shared-tests@2.1.0-RELEASE
+- pkg:maven/com.ringcentral.platform.metrics/metrics-facade-shared-tests@2.1.1-RELEASE

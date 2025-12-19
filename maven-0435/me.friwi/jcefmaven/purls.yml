@@ -24,6 +24,10 @@
 - pkg:maven/me.friwi/jcefmaven@107.1.9?classifier=sources
 - pkg:maven/me.friwi/jcefmaven@108.4.13
 - pkg:maven/me.friwi/jcefmaven@108.4.13?classifier=sources
+- pkg:maven/me.friwi/jcefmaven@109.1.11
+- pkg:maven/me.friwi/jcefmaven@109.1.11.1
+- pkg:maven/me.friwi/jcefmaven@109.1.11.1?classifier=sources
+- pkg:maven/me.friwi/jcefmaven@109.1.11?classifier=sources
 - pkg:maven/me.friwi/jcefmaven@95.7.14
 - pkg:maven/me.friwi/jcefmaven@95.7.14.1
 - pkg:maven/me.friwi/jcefmaven@95.7.14.10

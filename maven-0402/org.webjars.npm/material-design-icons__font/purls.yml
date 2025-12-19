@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/material-design-icons__font@0.14.2
+- pkg:maven/org.webjars.npm/material-design-icons__font@0.14.2?classifier=sources
 - pkg:maven/org.webjars.npm/material-design-icons__font@0.2.7
 - pkg:maven/org.webjars.npm/material-design-icons__font@0.2.7?classifier=sources

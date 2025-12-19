@@ -94,6 +94,10 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@2.50.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@2.51.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@2.51.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@2.51.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@2.51.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@2.51.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@2.51.2?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@2.8.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@2.8.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@2.8.1
@@ -112,3 +116,7 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@3.1.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@3.2.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@3.2.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@3.2.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@3.2.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@3.2.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificatesmanagement@3.2.2?classifier=sources

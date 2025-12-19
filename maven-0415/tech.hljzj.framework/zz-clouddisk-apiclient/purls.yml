@@ -1,0 +1,2 @@
+- pkg:maven/tech.hljzj.framework/zz-clouddisk-apiclient@0.0.1
+- pkg:maven/tech.hljzj.framework/zz-clouddisk-apiclient@0.0.1?classifier=sources

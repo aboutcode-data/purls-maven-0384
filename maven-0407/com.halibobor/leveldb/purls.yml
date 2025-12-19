@@ -1,5 +1,7 @@
 - pkg:maven/com.halibobor/leveldb@1.18.2
 - pkg:maven/com.halibobor/leveldb@1.18.2?classifier=sources
+- pkg:maven/com.halibobor/leveldb@1.18.3
+- pkg:maven/com.halibobor/leveldb@1.18.3?classifier=sources
 - pkg:maven/com.halibobor/leveldb@1.23.1
 - pkg:maven/com.halibobor/leveldb@1.23.1?classifier=sources
 - pkg:maven/com.halibobor/leveldb@1.23.2

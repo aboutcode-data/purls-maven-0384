@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/postcss-merge-longhand@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/postcss-merge-longhand@4.0.11
 - pkg:maven/org.webjars.npm/postcss-merge-longhand@4.0.11?classifier=sources
+- pkg:maven/org.webjars.npm/postcss-merge-longhand@5.1.7
+- pkg:maven/org.webjars.npm/postcss-merge-longhand@5.1.7?classifier=sources

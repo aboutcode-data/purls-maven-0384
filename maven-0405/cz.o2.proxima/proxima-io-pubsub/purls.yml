@@ -1,3 +1,7 @@
+- pkg:maven/cz.o2.proxima/proxima-io-pubsub@0.10.0
+- pkg:maven/cz.o2.proxima/proxima-io-pubsub@0.10.0-jdk11
+- pkg:maven/cz.o2.proxima/proxima-io-pubsub@0.10.0-jdk11?classifier=sources
+- pkg:maven/cz.o2.proxima/proxima-io-pubsub@0.10.0?classifier=sources
 - pkg:maven/cz.o2.proxima/proxima-io-pubsub@0.6.0
 - pkg:maven/cz.o2.proxima/proxima-io-pubsub@0.6.0-jdk11
 - pkg:maven/cz.o2.proxima/proxima-io-pubsub@0.6.0-jdk11?classifier=sources

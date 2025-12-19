@@ -1,1 +1,2 @@
 - pkg:maven/io.github.zero88/jooqx-spi@1.0.0?classifier=sources
+- pkg:maven/io.github.zero88/jooqx-spi@2.0.0-rc1?classifier=sources

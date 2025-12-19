@@ -9,3 +9,7 @@
 - pkg:maven/org.jamgo/jamgo-model@5.0.0-M4
 - pkg:maven/org.jamgo/jamgo-model@5.0.0-M4?classifier=sources
 - pkg:maven/org.jamgo/jamgo-model@5.0.0?classifier=sources
+- pkg:maven/org.jamgo/jamgo-model@6.0.0
+- pkg:maven/org.jamgo/jamgo-model@6.0.0?classifier=sources
+- pkg:maven/org.jamgo/jamgo-model@7.0.0-M1
+- pkg:maven/org.jamgo/jamgo-model@7.0.0-M1?classifier=sources

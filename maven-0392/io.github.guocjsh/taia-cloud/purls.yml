@@ -1,0 +1,2 @@
+- pkg:maven/io.github.guocjsh/taia-cloud@1.0
+- pkg:maven/io.github.guocjsh/taia-cloud@1.0?classifier=sources

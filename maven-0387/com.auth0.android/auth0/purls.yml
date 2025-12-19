@@ -110,3 +110,4 @@
 - pkg:maven/com.auth0.android/auth0@2.6.0?classifier=sources
 - pkg:maven/com.auth0.android/auth0@2.7.0?classifier=sources
 - pkg:maven/com.auth0.android/auth0@2.8.0?classifier=sources
+- pkg:maven/com.auth0.android/auth0@2.8.1?classifier=sources

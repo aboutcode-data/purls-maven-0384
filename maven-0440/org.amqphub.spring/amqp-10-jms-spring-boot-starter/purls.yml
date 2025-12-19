@@ -99,6 +99,10 @@
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.12?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.13
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.13?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.14
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.14?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.15
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.15?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.1?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.2
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.2?classifier=sources
@@ -116,3 +120,7 @@
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.8?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.9
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@2.5.9?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@3.0.0
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@3.0.0?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@3.0.1
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-starter@3.0.1?classifier=sources
