@@ -34,3 +34,5 @@
 - pkg:maven/org.fryske-akademy/teidictionaries@5.3?classifier=sources
 - pkg:maven/org.fryske-akademy/teidictionaries@5.4
 - pkg:maven/org.fryske-akademy/teidictionaries@5.4?classifier=sources
+- pkg:maven/org.fryske-akademy/teidictionaries@5.7
+- pkg:maven/org.fryske-akademy/teidictionaries@5.7?classifier=sources

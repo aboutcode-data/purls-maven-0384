@@ -64,3 +64,5 @@
 - pkg:maven/com.github.luues.boot/spring-boot-starter-rabbitmq@1.0.3.2.RELEASE?classifier=sources
 - pkg:maven/com.github.luues.boot/spring-boot-starter-rabbitmq@1.0.3.3.RELEASE
 - pkg:maven/com.github.luues.boot/spring-boot-starter-rabbitmq@1.0.3.3.RELEASE?classifier=sources
+- pkg:maven/com.github.luues.boot/spring-boot-starter-rabbitmq@1.0.3.4.RELEASE
+- pkg:maven/com.github.luues.boot/spring-boot-starter-rabbitmq@1.0.3.4.RELEASE?classifier=sources

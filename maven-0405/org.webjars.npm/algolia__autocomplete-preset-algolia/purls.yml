@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/algolia__autocomplete-preset-algolia@1.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/algolia__autocomplete-preset-algolia@1.7.2
 - pkg:maven/org.webjars.npm/algolia__autocomplete-preset-algolia@1.7.2?classifier=sources
+- pkg:maven/org.webjars.npm/algolia__autocomplete-preset-algolia@1.7.3
+- pkg:maven/org.webjars.npm/algolia__autocomplete-preset-algolia@1.7.3?classifier=sources
+- pkg:maven/org.webjars.npm/algolia__autocomplete-preset-algolia@1.9.2
+- pkg:maven/org.webjars.npm/algolia__autocomplete-preset-algolia@1.9.2?classifier=sources

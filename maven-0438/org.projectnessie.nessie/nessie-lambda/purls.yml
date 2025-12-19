@@ -9,3 +9,4 @@
 - pkg:maven/org.projectnessie.nessie/nessie-lambda@0.56.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-lambda@0.57.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-lambda@0.58.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-lambda@0.58.1?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230526
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230526?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230527
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230527?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230528
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230528?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230529
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230529?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230601
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230601?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230603
+- pkg:maven/org.anyline/anyline-data-jdbc-lightdb@8.6.3-20230603?classifier=sources

@@ -69,3 +69,4 @@
 - pkg:maven/org.odpi.egeria/audit-log-event-topic-connector@3.9
 - pkg:maven/org.odpi.egeria/audit-log-event-topic-connector@3.9?classifier=sources
 - pkg:maven/org.odpi.egeria/audit-log-event-topic-connector@4.0?classifier=sources
+- pkg:maven/org.odpi.egeria/audit-log-event-topic-connector@4.1?classifier=sources

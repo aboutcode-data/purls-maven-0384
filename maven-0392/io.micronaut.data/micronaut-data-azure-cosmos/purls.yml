@@ -9,3 +9,4 @@
 - pkg:maven/io.micronaut.data/micronaut-data-azure-cosmos@3.9.7?classifier=sources
 - pkg:maven/io.micronaut.data/micronaut-data-azure-cosmos@4.0.0-M1?classifier=sources
 - pkg:maven/io.micronaut.data/micronaut-data-azure-cosmos@4.0.0-M2?classifier=sources
+- pkg:maven/io.micronaut.data/micronaut-data-azure-cosmos@4.0.0-M3?classifier=sources

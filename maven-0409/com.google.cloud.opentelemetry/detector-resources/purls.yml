@@ -2,3 +2,4 @@
 - pkg:maven/com.google.cloud.opentelemetry/detector-resources@0.22.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/detector-resources@0.23.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/detector-resources@0.24.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud.opentelemetry/detector-resources@0.25.0-alpha?classifier=sources

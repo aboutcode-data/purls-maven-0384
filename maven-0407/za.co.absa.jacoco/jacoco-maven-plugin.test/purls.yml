@@ -1,0 +1,2 @@
+- pkg:maven/za.co.absa.jacoco/jacoco-maven-plugin.test@0.8.10
+- pkg:maven/za.co.absa.jacoco/jacoco-maven-plugin.test@0.8.9

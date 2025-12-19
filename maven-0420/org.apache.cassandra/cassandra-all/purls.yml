@@ -373,6 +373,8 @@
 - pkg:maven/org.apache.cassandra/cassandra-all@3.0.27?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@3.0.28
 - pkg:maven/org.apache.cassandra/cassandra-all@3.0.28?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-all@3.0.29
+- pkg:maven/org.apache.cassandra/cassandra-all@3.0.29?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@3.0.2?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@3.0.3
 - pkg:maven/org.apache.cassandra/cassandra-all@3.0.3?classifier=sources
@@ -406,6 +408,8 @@
 - pkg:maven/org.apache.cassandra/cassandra-all@3.11.13?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@3.11.14
 - pkg:maven/org.apache.cassandra/cassandra-all@3.11.14?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-all@3.11.15
+- pkg:maven/org.apache.cassandra/cassandra-all@3.11.15?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@3.11.1?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@3.11.2
 - pkg:maven/org.apache.cassandra/cassandra-all@3.11.2?classifier=sources
@@ -465,6 +469,8 @@
 - pkg:maven/org.apache.cassandra/cassandra-all@4.0.0
 - pkg:maven/org.apache.cassandra/cassandra-all@4.0.0?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@4.0.1
+- pkg:maven/org.apache.cassandra/cassandra-all@4.0.10
+- pkg:maven/org.apache.cassandra/cassandra-all@4.0.10?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@4.0.1?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@4.0.2
 - pkg:maven/org.apache.cassandra/cassandra-all@4.0.2?classifier=sources
@@ -492,3 +498,5 @@
 - pkg:maven/org.apache.cassandra/cassandra-all@4.1.0?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-all@4.1.1
 - pkg:maven/org.apache.cassandra/cassandra-all@4.1.1?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-all@4.1.2
+- pkg:maven/org.apache.cassandra/cassandra-all@4.1.2?classifier=sources

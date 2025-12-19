@@ -1,2 +1,4 @@
 - pkg:maven/info.earty/attachment-client@2.0.0
 - pkg:maven/info.earty/attachment-client@2.0.0?classifier=sources
+- pkg:maven/info.earty/attachment-client@3.0.0
+- pkg:maven/info.earty/attachment-client@3.0.0?classifier=sources

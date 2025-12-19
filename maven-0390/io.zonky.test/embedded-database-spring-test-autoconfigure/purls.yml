@@ -46,3 +46,5 @@
 - pkg:maven/io.zonky.test/embedded-database-spring-test-autoconfigure@2.1.2?classifier=sources
 - pkg:maven/io.zonky.test/embedded-database-spring-test-autoconfigure@2.2.0
 - pkg:maven/io.zonky.test/embedded-database-spring-test-autoconfigure@2.2.0?classifier=sources
+- pkg:maven/io.zonky.test/embedded-database-spring-test-autoconfigure@2.3.0
+- pkg:maven/io.zonky.test/embedded-database-spring-test-autoconfigure@2.3.0?classifier=sources

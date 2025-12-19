@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-spi-palette@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-palette@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-palette@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-palette@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-palette@RELEASE90?classifier=sources

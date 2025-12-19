@@ -12,3 +12,7 @@
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.email.ui@2.6.1?classifier=sources
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.email.ui@2.7.0
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.email.ui@2.7.0?classifier=sources
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.email.ui@2.8.0
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.email.ui@2.8.0?classifier=sources
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.email.ui@3.0.0
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.email.ui@3.0.0?classifier=sources

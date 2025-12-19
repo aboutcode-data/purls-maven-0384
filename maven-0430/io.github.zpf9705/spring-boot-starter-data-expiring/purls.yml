@@ -26,3 +26,11 @@
 - pkg:maven/io.github.zpf9705/spring-boot-starter-data-expiring@2.2.1?classifier=sources
 - pkg:maven/io.github.zpf9705/spring-boot-starter-data-expiring@2.2.2
 - pkg:maven/io.github.zpf9705/spring-boot-starter-data-expiring@2.2.2?classifier=sources
+- pkg:maven/io.github.zpf9705/spring-boot-starter-data-expiring@3.0.0
+- pkg:maven/io.github.zpf9705/spring-boot-starter-data-expiring@3.0.0-release
+- pkg:maven/io.github.zpf9705/spring-boot-starter-data-expiring@3.0.0-release?classifier=sources
+- pkg:maven/io.github.zpf9705/spring-boot-starter-data-expiring@3.0.0?classifier=sources
+- pkg:maven/io.github.zpf9705/spring-boot-starter-data-expiring@3.0.1
+- pkg:maven/io.github.zpf9705/spring-boot-starter-data-expiring@3.0.1?classifier=sources
+- pkg:maven/io.github.zpf9705/spring-boot-starter-data-expiring@3.0.2
+- pkg:maven/io.github.zpf9705/spring-boot-starter-data-expiring@3.0.2?classifier=sources

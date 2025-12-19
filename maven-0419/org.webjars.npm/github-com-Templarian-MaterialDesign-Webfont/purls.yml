@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/github-com-Templarian-MaterialDesign-Webfont@2.8.94?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-Templarian-MaterialDesign-Webfont@3.6.95
 - pkg:maven/org.webjars.npm/github-com-Templarian-MaterialDesign-Webfont@3.6.95?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-Templarian-MaterialDesign-Webfont@7.2.96
+- pkg:maven/org.webjars.npm/github-com-Templarian-MaterialDesign-Webfont@7.2.96?classifier=sources

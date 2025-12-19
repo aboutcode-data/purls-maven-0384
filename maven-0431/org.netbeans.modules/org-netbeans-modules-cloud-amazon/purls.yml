@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-amazon@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-amazon@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-amazon@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-amazon@RELEASE180?classifier=sources

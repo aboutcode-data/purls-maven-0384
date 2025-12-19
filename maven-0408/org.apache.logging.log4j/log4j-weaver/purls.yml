@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.logging.log4j/log4j-weaver@0.1.0?classifier=sources

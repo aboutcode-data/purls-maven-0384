@@ -1,1 +1,2 @@
 - pkg:maven/io.micronaut.maven/micronaut-maven-integration-tests@4.0.0-M1
+- pkg:maven/io.micronaut.maven/micronaut-maven-integration-tests@4.0.0-M2

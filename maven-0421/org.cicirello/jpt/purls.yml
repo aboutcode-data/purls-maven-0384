@@ -52,3 +52,5 @@
 - pkg:maven/org.cicirello/jpt@5.0.3?classifier=sources
 - pkg:maven/org.cicirello/jpt@5.0.4
 - pkg:maven/org.cicirello/jpt@5.0.4?classifier=sources
+- pkg:maven/org.cicirello/jpt@5.1.0
+- pkg:maven/org.cicirello/jpt@5.1.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.opensearch/opensearch-common@2.6.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-common@2.7.0?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/dev.inmo/navigation.core-jvm@0.0.7?classifier=sources
 - pkg:maven/dev.inmo/navigation.core-jvm@0.0.8?classifier=sources
 - pkg:maven/dev.inmo/navigation.core-jvm@0.0.9?classifier=sources
+- pkg:maven/dev.inmo/navigation.core-jvm@0.1.0?classifier=sources

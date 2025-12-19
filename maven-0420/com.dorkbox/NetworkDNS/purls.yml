@@ -19,3 +19,4 @@
 - pkg:maven/com.dorkbox/NetworkDNS@2.7.2?classifier=sources
 - pkg:maven/com.dorkbox/NetworkDNS@2.7?classifier=sources
 - pkg:maven/com.dorkbox/NetworkDNS@2.8?classifier=sources
+- pkg:maven/com.dorkbox/NetworkDNS@2.9?classifier=sources

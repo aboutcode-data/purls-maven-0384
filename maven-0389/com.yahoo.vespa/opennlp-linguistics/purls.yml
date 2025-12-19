@@ -38,5 +38,15 @@
 - pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.146.12?classifier=sources
 - pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.147.1?classifier=sources
 - pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.148.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.149.36?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.151.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.153.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.154.35?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.155.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.156.36?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.157.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.158.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.159.53?classifier=sources
+- pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.161.74?classifier=sources
 - pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.98.34?classifier=sources
 - pkg:maven/com.yahoo.vespa/opennlp-linguistics@8.99.32?classifier=sources

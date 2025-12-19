@@ -1,1 +1,2 @@
 - pkg:maven/net.lenni0451.mcstructs-bedrock/nbt@1.0.0?classifier=sources
+- pkg:maven/net.lenni0451.mcstructs-bedrock/nbt@1.1.0?classifier=sources

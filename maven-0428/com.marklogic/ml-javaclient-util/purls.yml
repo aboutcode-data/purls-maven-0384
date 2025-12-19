@@ -10,3 +10,4 @@
 - pkg:maven/com.marklogic/ml-javaclient-util@4.3.7?classifier=sources
 - pkg:maven/com.marklogic/ml-javaclient-util@4.4.0?classifier=sources
 - pkg:maven/com.marklogic/ml-javaclient-util@4.5.0?classifier=sources
+- pkg:maven/com.marklogic/ml-javaclient-util@4.5.1?classifier=sources

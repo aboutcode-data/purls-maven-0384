@@ -1,2 +1,3 @@
 - pkg:maven/com.samares-engineering.omf.2021x_R2/omf-public-features@0.0.82.1?classifier=sources
 - pkg:maven/com.samares-engineering.omf.2021x_R2/omf-public-features@0.0.83?classifier=sources
+- pkg:maven/com.samares-engineering.omf.2021x_R2/omf-public-features@0.0.92?classifier=sources

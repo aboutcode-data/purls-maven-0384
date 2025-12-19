@@ -6,3 +6,6 @@
 - pkg:maven/org.ajoberstar.grgit/grgit-core@5.0.0-rc.3?classifier=sources
 - pkg:maven/org.ajoberstar.grgit/grgit-core@5.0.0-rc.7?classifier=sources
 - pkg:maven/org.ajoberstar.grgit/grgit-core@5.0.0?classifier=sources
+- pkg:maven/org.ajoberstar.grgit/grgit-core@5.1.0-rc.1?classifier=sources
+- pkg:maven/org.ajoberstar.grgit/grgit-core@5.1.0?classifier=sources
+- pkg:maven/org.ajoberstar.grgit/grgit-core@5.2.0?classifier=sources

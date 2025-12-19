@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/canvas-datagrid@0.25.4
+- pkg:maven/org.webjars.npm/canvas-datagrid@0.25.4?classifier=sources
+- pkg:maven/org.webjars.npm/canvas-datagrid@0.4.6
+- pkg:maven/org.webjars.npm/canvas-datagrid@0.4.6?classifier=sources

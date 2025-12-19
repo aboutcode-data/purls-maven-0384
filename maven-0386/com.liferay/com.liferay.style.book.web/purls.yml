@@ -101,6 +101,12 @@
 - pkg:maven/com.liferay/com.liferay.style.book.web@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.web@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.web@1.0.4
+- pkg:maven/com.liferay/com.liferay.style.book.web@1.0.40
+- pkg:maven/com.liferay/com.liferay.style.book.web@1.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.style.book.web@1.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.style.book.web@1.0.41
+- pkg:maven/com.liferay/com.liferay.style.book.web@1.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.style.book.web@1.0.41?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.web@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.web@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.web@1.0.5
@@ -356,6 +362,12 @@
 - pkg:maven/com.liferay/com.liferay.style.book.web@2.0.80
 - pkg:maven/com.liferay/com.liferay.style.book.web@2.0.80?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.web@2.0.80?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.style.book.web@2.0.81
+- pkg:maven/com.liferay/com.liferay.style.book.web@2.0.81?classifier=sources
+- pkg:maven/com.liferay/com.liferay.style.book.web@2.0.81?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.style.book.web@2.0.82
+- pkg:maven/com.liferay/com.liferay.style.book.web@2.0.82?classifier=sources
+- pkg:maven/com.liferay/com.liferay.style.book.web@2.0.82?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.web@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.web@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.web@2.0.9

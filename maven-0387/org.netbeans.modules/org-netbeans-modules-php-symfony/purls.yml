@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-symfony@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-symfony@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-symfony@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-symfony@RELEASE180?classifier=sources

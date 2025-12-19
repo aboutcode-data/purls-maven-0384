@@ -1,3 +1,9 @@
+- pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.10.0
+- pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.10.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.11.0
+- pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.11.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.12.0
+- pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.12.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.7.0
 - pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.7.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.7.1
@@ -8,3 +14,7 @@
 - pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.7.3?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.7.4
 - pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.7.4?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.8.0
+- pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.8.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.9.0
+- pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3@0.9.0?classifier=sources

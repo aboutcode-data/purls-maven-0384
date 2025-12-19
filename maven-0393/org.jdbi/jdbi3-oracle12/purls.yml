@@ -48,6 +48,8 @@
 - pkg:maven/org.jdbi/jdbi3-oracle12@3.36.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-oracle12@3.37.0
 - pkg:maven/org.jdbi/jdbi3-oracle12@3.37.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-oracle12@3.38.0
+- pkg:maven/org.jdbi/jdbi3-oracle12@3.38.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-oracle12@3.4.0
 - pkg:maven/org.jdbi/jdbi3-oracle12@3.4.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-oracle12@3.5.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xiashuai-mr/audio-streaming-client-java@1.1.12-SNATSHOTS
+- pkg:maven/com.github.xiashuai-mr/audio-streaming-client-java@1.1.12-SNATSHOTS?classifier=sources

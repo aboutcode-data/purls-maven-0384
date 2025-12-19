@@ -1,1 +1,2 @@
+- pkg:maven/com.advancedpwr/web-client@1.0.0?classifier=sources
 - pkg:maven/com.advancedpwr/web-client@main-1.0.410190543?classifier=sources

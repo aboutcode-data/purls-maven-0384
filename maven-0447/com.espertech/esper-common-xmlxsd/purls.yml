@@ -1,2 +1,4 @@
 - pkg:maven/com.espertech/esper-common-xmlxsd@8.8.0
 - pkg:maven/com.espertech/esper-common-xmlxsd@8.8.0?classifier=sources
+- pkg:maven/com.espertech/esper-common-xmlxsd@8.9.0
+- pkg:maven/com.espertech/esper-common-xmlxsd@8.9.0?classifier=sources

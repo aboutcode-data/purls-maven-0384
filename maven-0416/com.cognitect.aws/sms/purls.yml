@@ -12,3 +12,7 @@
 - pkg:maven/com.cognitect.aws/sms@814.2.1053.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sms@822.2.1109.0
 - pkg:maven/com.cognitect.aws/sms@822.2.1109.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sms@845.2.1359.0
+- pkg:maven/com.cognitect.aws/sms@845.2.1359.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sms@847.2.1365.0
+- pkg:maven/com.cognitect.aws/sms@847.2.1365.0?classifier=sources

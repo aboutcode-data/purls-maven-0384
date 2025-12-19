@@ -832,3 +832,5 @@
 - pkg:maven/com.hpe.adm.octane.ciplugins/integrations-dto@2.7.8.2?classifier=sources
 - pkg:maven/com.hpe.adm.octane.ciplugins/integrations-dto@2.7.8.3
 - pkg:maven/com.hpe.adm.octane.ciplugins/integrations-dto@2.7.8.3?classifier=sources
+- pkg:maven/com.hpe.adm.octane.ciplugins/integrations-dto@2.7.9.0
+- pkg:maven/com.hpe.adm.octane.ciplugins/integrations-dto@2.7.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mobilenativefoundation.store/rx2@5.0.0-alpha06?classifier=sources
+- pkg:maven/org.mobilenativefoundation.store/rx2@5.0.0-beta01?classifier=sources

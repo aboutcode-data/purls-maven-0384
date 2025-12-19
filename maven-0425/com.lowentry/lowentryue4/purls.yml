@@ -16,3 +16,7 @@
 - pkg:maven/com.lowentry/lowentryue4@2.4.0?classifier=sources
 - pkg:maven/com.lowentry/lowentryue4@2.5.0
 - pkg:maven/com.lowentry/lowentryue4@2.5.0?classifier=sources
+- pkg:maven/com.lowentry/lowentryue4@3.0.0
+- pkg:maven/com.lowentry/lowentryue4@3.0.0?classifier=sources
+- pkg:maven/com.lowentry/lowentryue4@3.0.1
+- pkg:maven/com.lowentry/lowentryue4@3.0.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-rapid@1.0.0?classifier=sources
 - pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-rapid@1.1.0
 - pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-rapid@1.1.0?classifier=sources
+- pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-rapid@2.0.0
+- pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-rapid@2.0.0?classifier=sources

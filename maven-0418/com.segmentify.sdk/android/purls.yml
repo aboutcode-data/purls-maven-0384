@@ -47,5 +47,7 @@
 - pkg:maven/com.segmentify.sdk/android@2.1.7-beta?type=aar
 - pkg:maven/com.segmentify.sdk/android@2.1.7?classifier=sources
 - pkg:maven/com.segmentify.sdk/android@2.1.7?type=aar
+- pkg:maven/com.segmentify.sdk/android@2.1.8?classifier=sources
+- pkg:maven/com.segmentify.sdk/android@2.1.8?type=aar
 - pkg:maven/com.segmentify.sdk/android@SNAPSHOT-1.0.0?classifier=sources
 - pkg:maven/com.segmentify.sdk/android@SNAPSHOT-1.0.0?type=aar

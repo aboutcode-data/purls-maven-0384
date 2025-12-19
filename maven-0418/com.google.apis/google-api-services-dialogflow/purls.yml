@@ -246,6 +246,10 @@
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2-rev20230316-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2-rev20230331-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2-rev20230331-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v2-rev20230418-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v2-rev20230418-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v2-rev20230501-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v2-rev20230501-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2-rev21-1.21.0
@@ -858,6 +862,10 @@
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2beta1-rev20230316-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2beta1-rev20230331-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2beta1-rev20230331-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v2beta1-rev20230418-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v2beta1-rev20230418-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v2beta1-rev20230501-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v2beta1-rev20230501-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v2beta1-rev21-1.21.0
@@ -1424,6 +1432,10 @@
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v3-rev20230316-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v3-rev20230331-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v3-rev20230331-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v3-rev20230418-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v3-rev20230418-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v3-rev20230501-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v3-rev20230501-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v3beta1-rev20211007-1.32.1
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v3beta1-rev20211007-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v3beta1-rev20211015-1.32.1
@@ -1494,3 +1506,7 @@
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v3beta1-rev20230316-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v3beta1-rev20230331-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dialogflow@v3beta1-rev20230331-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v3beta1-rev20230418-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v3beta1-rev20230418-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v3beta1-rev20230501-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dialogflow@v3beta1-rev20230501-2.0.0?classifier=sources

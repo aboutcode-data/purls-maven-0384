@@ -40,6 +40,9 @@
 - pkg:maven/com.liferay/com.liferay.batch.planner.api@12.4.0
 - pkg:maven/com.liferay/com.liferay.batch.planner.api@12.4.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.planner.api@12.4.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.batch.planner.api@12.5.0
+- pkg:maven/com.liferay/com.liferay.batch.planner.api@12.5.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.batch.planner.api@12.5.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.batch.planner.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.batch.planner.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.planner.api@2.0.0?classifier=sources-commercial

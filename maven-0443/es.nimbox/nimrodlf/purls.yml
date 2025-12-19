@@ -1,2 +1,4 @@
 - pkg:maven/es.nimbox/nimrodlf@0.1.12
 - pkg:maven/es.nimbox/nimrodlf@0.1.12?classifier=sources
+- pkg:maven/es.nimbox/nimrodlf@1.2.4
+- pkg:maven/es.nimbox/nimrodlf@1.2.4?classifier=sources

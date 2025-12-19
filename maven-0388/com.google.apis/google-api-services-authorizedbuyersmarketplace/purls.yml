@@ -18,3 +18,5 @@
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20220806-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20220907-2.0.0
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20220907-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20230502-2.0.0
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20230502-2.0.0?classifier=sources

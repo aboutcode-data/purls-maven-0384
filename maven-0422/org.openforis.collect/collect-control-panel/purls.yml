@@ -193,4 +193,14 @@
 - pkg:maven/org.openforis.collect/collect-control-panel@4.0.8
 - pkg:maven/org.openforis.collect/collect-control-panel@4.0.80
 - pkg:maven/org.openforis.collect/collect-control-panel@4.0.80?classifier=sources
+- pkg:maven/org.openforis.collect/collect-control-panel@4.0.81
+- pkg:maven/org.openforis.collect/collect-control-panel@4.0.81?classifier=sources
+- pkg:maven/org.openforis.collect/collect-control-panel@4.0.82
+- pkg:maven/org.openforis.collect/collect-control-panel@4.0.82?classifier=sources
+- pkg:maven/org.openforis.collect/collect-control-panel@4.0.83
+- pkg:maven/org.openforis.collect/collect-control-panel@4.0.83?classifier=sources
+- pkg:maven/org.openforis.collect/collect-control-panel@4.0.84
+- pkg:maven/org.openforis.collect/collect-control-panel@4.0.84?classifier=sources
+- pkg:maven/org.openforis.collect/collect-control-panel@4.0.85
+- pkg:maven/org.openforis.collect/collect-control-panel@4.0.85?classifier=sources
 - pkg:maven/org.openforis.collect/collect-control-panel@4.0.8?classifier=sources

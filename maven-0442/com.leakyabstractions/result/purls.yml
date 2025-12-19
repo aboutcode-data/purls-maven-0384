@@ -17,6 +17,8 @@
 - pkg:maven/com.leakyabstractions/result@0.13.0.1?classifier=sources
 - pkg:maven/com.leakyabstractions/result@0.14.0.0?classifier=sources
 - pkg:maven/com.leakyabstractions/result@0.14.1.0?classifier=sources
+- pkg:maven/com.leakyabstractions/result@0.14.1.1?classifier=sources
+- pkg:maven/com.leakyabstractions/result@0.14.1.2?classifier=sources
 - pkg:maven/com.leakyabstractions/result@0.2.0.0?classifier=sources
 - pkg:maven/com.leakyabstractions/result@0.2.0.1?classifier=sources
 - pkg:maven/com.leakyabstractions/result@0.3.0.0?classifier=sources

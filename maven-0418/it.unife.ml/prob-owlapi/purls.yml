@@ -1,0 +1,2 @@
+- pkg:maven/it.unife.ml/prob-owlapi@1.0.0
+- pkg:maven/it.unife.ml/prob-owlapi@1.0.0?classifier=sources

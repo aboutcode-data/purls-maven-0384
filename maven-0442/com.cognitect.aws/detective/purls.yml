@@ -22,3 +22,5 @@
 - pkg:maven/com.cognitect.aws/detective@822.2.1193.0?classifier=sources
 - pkg:maven/com.cognitect.aws/detective@825.2.1283.0
 - pkg:maven/com.cognitect.aws/detective@825.2.1283.0?classifier=sources
+- pkg:maven/com.cognitect.aws/detective@847.2.1365.0
+- pkg:maven/com.cognitect.aws/detective@847.2.1365.0?classifier=sources

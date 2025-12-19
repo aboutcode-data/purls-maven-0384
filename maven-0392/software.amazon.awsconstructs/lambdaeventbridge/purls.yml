@@ -198,6 +198,10 @@
 - pkg:maven/software.amazon.awsconstructs/lambdaeventbridge@2.36.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdaeventbridge@2.37.0
 - pkg:maven/software.amazon.awsconstructs/lambdaeventbridge@2.37.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdaeventbridge@2.38.0
+- pkg:maven/software.amazon.awsconstructs/lambdaeventbridge@2.38.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdaeventbridge@2.39.0
+- pkg:maven/software.amazon.awsconstructs/lambdaeventbridge@2.39.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdaeventbridge@2.4.0
 - pkg:maven/software.amazon.awsconstructs/lambdaeventbridge@2.4.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdaeventbridge@2.5.0

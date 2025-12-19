@@ -20,3 +20,6 @@
 - pkg:maven/com.github.alexdlaird/java-ngrok@1.6.2?classifier=sources
 - pkg:maven/com.github.alexdlaird/java-ngrok@1.7.0?classifier=sources
 - pkg:maven/com.github.alexdlaird/java-ngrok@1.7.1?classifier=sources
+- pkg:maven/com.github.alexdlaird/java-ngrok@1.7.2?classifier=sources
+- pkg:maven/com.github.alexdlaird/java-ngrok@2.0.0?classifier=sources
+- pkg:maven/com.github.alexdlaird/java-ngrok@2.1.0?classifier=sources

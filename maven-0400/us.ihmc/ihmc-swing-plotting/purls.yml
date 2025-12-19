@@ -7,3 +7,4 @@
 - pkg:maven/us.ihmc/ihmc-swing-plotting@0.19.7?classifier=sources
 - pkg:maven/us.ihmc/ihmc-swing-plotting@0.19.8?classifier=sources
 - pkg:maven/us.ihmc/ihmc-swing-plotting@0.19.9?classifier=sources
+- pkg:maven/us.ihmc/ihmc-swing-plotting@0.20.02?classifier=sources

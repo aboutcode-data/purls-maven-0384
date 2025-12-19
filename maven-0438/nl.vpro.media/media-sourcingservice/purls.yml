@@ -1,0 +1,4 @@
+- pkg:maven/nl.vpro.media/media-sourcingservice@7.5.0
+- pkg:maven/nl.vpro.media/media-sourcingservice@7.5.0?classifier=sources
+- pkg:maven/nl.vpro.media/media-sourcingservice@7.6.0
+- pkg:maven/nl.vpro.media/media-sourcingservice@7.6.0?classifier=sources

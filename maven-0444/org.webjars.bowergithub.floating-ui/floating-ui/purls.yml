@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bowergithub.floating-ui/floating-ui@2.11.5?classifier=sources
 - pkg:maven/org.webjars.bowergithub.floating-ui/floating-ui@2.11.6
 - pkg:maven/org.webjars.bowergithub.floating-ui/floating-ui@2.11.6?classifier=sources
+- pkg:maven/org.webjars.bowergithub.floating-ui/floating-ui@2.11.7
+- pkg:maven/org.webjars.bowergithub.floating-ui/floating-ui@2.11.7?classifier=sources

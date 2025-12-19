@@ -52,3 +52,7 @@
 - pkg:maven/com.cognitect.aws/kendra@835.2.1307.0?classifier=sources
 - pkg:maven/com.cognitect.aws/kendra@845.2.1326.0
 - pkg:maven/com.cognitect.aws/kendra@845.2.1326.0?classifier=sources
+- pkg:maven/com.cognitect.aws/kendra@845.2.1359.0
+- pkg:maven/com.cognitect.aws/kendra@845.2.1359.0?classifier=sources
+- pkg:maven/com.cognitect.aws/kendra@847.2.1365.0
+- pkg:maven/com.cognitect.aws/kendra@847.2.1365.0?classifier=sources

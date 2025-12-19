@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/ckeditor4@4.19.1?classifier=sources
 - pkg:maven/org.webjars.npm/ckeditor4@4.20.2
 - pkg:maven/org.webjars.npm/ckeditor4@4.20.2?classifier=sources
+- pkg:maven/org.webjars.npm/ckeditor4@4.21.0
+- pkg:maven/org.webjars.npm/ckeditor4@4.21.0?classifier=sources
