@@ -10,3 +10,4 @@
 - pkg:maven/io.github.turansky.seskar/seskar-core-iosarm64@0.30.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-iosarm64@0.32.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-iosarm64@0.40.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-iosarm64@1.0.0?classifier=sources

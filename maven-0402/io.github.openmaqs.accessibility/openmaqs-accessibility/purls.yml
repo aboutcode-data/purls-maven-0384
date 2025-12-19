@@ -1,0 +1,2 @@
+- pkg:maven/io.github.openmaqs.accessibility/openmaqs-accessibility@3.0.0
+- pkg:maven/io.github.openmaqs.accessibility/openmaqs-accessibility@3.0.0?classifier=sources

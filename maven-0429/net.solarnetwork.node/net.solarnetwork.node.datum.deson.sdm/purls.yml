@@ -1,2 +1,4 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.deson.sdm@3.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.deson.sdm@3.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.deson.sdm@4.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.deson.sdm@4.0.0?classifier=sources

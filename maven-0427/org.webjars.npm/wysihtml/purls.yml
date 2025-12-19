@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/wysihtml@0.5.5
+- pkg:maven/org.webjars.npm/wysihtml@0.5.5?classifier=sources
 - pkg:maven/org.webjars.npm/wysihtml@0.6.0-beta1
 - pkg:maven/org.webjars.npm/wysihtml@0.6.0-beta1?classifier=sources

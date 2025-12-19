@@ -122,3 +122,5 @@
 - pkg:maven/com.cognitect.aws/api@0.8.635?classifier=sources
 - pkg:maven/com.cognitect.aws/api@0.8.641
 - pkg:maven/com.cognitect.aws/api@0.8.641?classifier=sources
+- pkg:maven/com.cognitect.aws/api@0.8.652
+- pkg:maven/com.cognitect.aws/api@0.8.652?classifier=sources

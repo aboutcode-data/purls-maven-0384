@@ -15,3 +15,5 @@
 - pkg:maven/org.xrpl/xrpl4j-bom@3.0.0-rc1
 - pkg:maven/org.xrpl/xrpl4j-bom@3.0.0-rc2
 - pkg:maven/org.xrpl/xrpl4j-bom@3.0.0-rc2.1
+- pkg:maven/org.xrpl/xrpl4j-bom@3.0.1
+- pkg:maven/org.xrpl/xrpl4j-bom@3.0.1-amm-dev-preview-rc2

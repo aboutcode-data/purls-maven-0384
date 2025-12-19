@@ -23,3 +23,6 @@
 - pkg:maven/io.github.spair/imgui-java-binding@1.86.4?classifier=sources
 - pkg:maven/io.github.spair/imgui-java-binding@1.86.5?classifier=sources
 - pkg:maven/io.github.spair/imgui-java-binding@1.86.6?classifier=sources
+- pkg:maven/io.github.spair/imgui-java-binding@1.86.7?classifier=sources
+- pkg:maven/io.github.spair/imgui-java-binding@1.86.8?classifier=sources
+- pkg:maven/io.github.spair/imgui-java-binding@1.86.9?classifier=sources

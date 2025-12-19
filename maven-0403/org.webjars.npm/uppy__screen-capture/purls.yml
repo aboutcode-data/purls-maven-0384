@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/uppy__screen-capture@1.0.8?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__screen-capture@1.0.9
 - pkg:maven/org.webjars.npm/uppy__screen-capture@1.0.9?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__screen-capture@3.0.1
+- pkg:maven/org.webjars.npm/uppy__screen-capture@3.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.lhns/http4s-errors_sjs1_2.13@0.5.1
+- pkg:maven/de.lhns/http4s-errors_sjs1_2.13@0.5.1?classifier=sources

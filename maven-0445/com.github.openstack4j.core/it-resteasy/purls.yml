@@ -1,4 +1,5 @@
 - pkg:maven/com.github.openstack4j.core/it-resteasy@3.10
+- pkg:maven/com.github.openstack4j.core/it-resteasy@3.11
 - pkg:maven/com.github.openstack4j.core/it-resteasy@3.5
 - pkg:maven/com.github.openstack4j.core/it-resteasy@3.6
 - pkg:maven/com.github.openstack4j.core/it-resteasy@3.7

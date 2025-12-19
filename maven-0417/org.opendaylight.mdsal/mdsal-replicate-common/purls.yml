@@ -16,6 +16,7 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@11.0.4?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@11.0.5?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@11.0.6?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@11.0.7?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@4.0.15
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@4.0.15?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@4.0.16

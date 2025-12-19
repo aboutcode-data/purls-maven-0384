@@ -1,0 +1,2 @@
+- pkg:maven/com.vauthenticator/spring-boot-client-starter@0.4.1
+- pkg:maven/com.vauthenticator/spring-boot-client-starter@0.4.1?classifier=sources

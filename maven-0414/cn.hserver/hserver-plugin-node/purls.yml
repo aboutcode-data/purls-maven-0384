@@ -1,2 +1,4 @@
+- pkg:maven/cn.hserver/hserver-plugin-node@3.1.1
+- pkg:maven/cn.hserver/hserver-plugin-node@3.1.1?classifier=sources
 - pkg:maven/cn.hserver/hserver-plugin-node@3.1.M3
 - pkg:maven/cn.hserver/hserver-plugin-node@3.1.M3?classifier=sources

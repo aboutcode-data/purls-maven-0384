@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gsf-codecoverage@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gsf-codecoverage@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gsf-codecoverage@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gsf-codecoverage@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gsf-codecoverage@RELEASE90?classifier=sources

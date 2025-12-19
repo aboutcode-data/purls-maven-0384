@@ -120,3 +120,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-testng@1.8.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-testng@1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-testng@1.8.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-test-testng@1.8.20-Beta?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-test-testng@1.8.20-RC?classifier=sources

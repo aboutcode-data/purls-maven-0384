@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.ccsds.mo/encoding-performance-test@9.0
+- pkg:maven/int.esa.ccsds.mo/encoding-performance-test@9.0?classifier=sources

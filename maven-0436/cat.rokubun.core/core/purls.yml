@@ -13,6 +13,7 @@
 - pkg:maven/cat.rokubun.core/core@6.11.62?classifier=sources
 - pkg:maven/cat.rokubun.core/core@6.11.63?classifier=sources
 - pkg:maven/cat.rokubun.core/core@6.11.69?classifier=sources
+- pkg:maven/cat.rokubun.core/core@6.11.71?classifier=sources
 - pkg:maven/cat.rokubun.core/core@6.6.10?classifier=sources
 - pkg:maven/cat.rokubun.core/core@6.6.11?classifier=sources
 - pkg:maven/cat.rokubun.core/core@6.6.12?classifier=sources

@@ -22,5 +22,7 @@
 - pkg:maven/eu.locklogin/LockLogin-API@1.13.4
 - pkg:maven/eu.locklogin/LockLogin-API@1.13.40
 - pkg:maven/eu.locklogin/LockLogin-API@1.13.40?classifier=sources
+- pkg:maven/eu.locklogin/LockLogin-API@1.13.49
+- pkg:maven/eu.locklogin/LockLogin-API@1.13.49?classifier=sources
 - pkg:maven/eu.locklogin/LockLogin-API@1.13.6
 - pkg:maven/eu.locklogin/LockLogin-API@1.13.9

@@ -7,3 +7,5 @@
 - pkg:maven/com.soywiz.korlibs.klock/klock-tvosx64@2.2.2?classifier=sources
 - pkg:maven/com.soywiz.korlibs.klock/klock-tvosx64@2.4.12?classifier=sources
 - pkg:maven/com.soywiz.korlibs.klock/klock-tvosx64@2.4.13?classifier=sources
+- pkg:maven/com.soywiz.korlibs.klock/klock-tvosx64@4.0.0-alpha-3?classifier=sources
+- pkg:maven/com.soywiz.korlibs.klock/klock-tvosx64@4.0.0-alpha-4?classifier=sources

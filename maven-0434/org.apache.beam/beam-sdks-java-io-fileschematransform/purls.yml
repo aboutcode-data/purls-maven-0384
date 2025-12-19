@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.beam/beam-sdks-java-io-fileschematransform@2.45.0?classifier=sources

@@ -112,3 +112,11 @@
 - pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA74?classifier=sources
 - pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA75
 - pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA75?classifier=sources
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA76
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA76?classifier=sources
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA77
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA77?classifier=sources
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA78
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA78?classifier=sources
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA79
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA79?classifier=sources

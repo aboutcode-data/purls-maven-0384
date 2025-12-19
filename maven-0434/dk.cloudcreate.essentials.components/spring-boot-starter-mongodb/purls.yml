@@ -1,3 +1,5 @@
+- pkg:maven/dk.cloudcreate.essentials.components/spring-boot-starter-mongodb@0.8.10
+- pkg:maven/dk.cloudcreate.essentials.components/spring-boot-starter-mongodb@0.8.10?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials.components/spring-boot-starter-mongodb@0.8.4
 - pkg:maven/dk.cloudcreate.essentials.components/spring-boot-starter-mongodb@0.8.4?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials.components/spring-boot-starter-mongodb@0.8.5
@@ -8,3 +10,5 @@
 - pkg:maven/dk.cloudcreate.essentials.components/spring-boot-starter-mongodb@0.8.7?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials.components/spring-boot-starter-mongodb@0.8.8
 - pkg:maven/dk.cloudcreate.essentials.components/spring-boot-starter-mongodb@0.8.8?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials.components/spring-boot-starter-mongodb@0.8.9
+- pkg:maven/dk.cloudcreate.essentials.components/spring-boot-starter-mongodb@0.8.9?classifier=sources

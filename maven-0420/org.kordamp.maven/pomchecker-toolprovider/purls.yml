@@ -9,3 +9,4 @@
 - pkg:maven/org.kordamp.maven/pomchecker-toolprovider@1.5.0?classifier=sources
 - pkg:maven/org.kordamp.maven/pomchecker-toolprovider@1.6.0?classifier=sources
 - pkg:maven/org.kordamp.maven/pomchecker-toolprovider@1.7.0?classifier=sources
+- pkg:maven/org.kordamp.maven/pomchecker-toolprovider@1.8.0?classifier=sources

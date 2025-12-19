@@ -38,6 +38,8 @@
 - pkg:maven/com.armanbilge/gcp4s-bigquery_3@0.1-28e577e?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_3@0.1-2cce9fe
 - pkg:maven/com.armanbilge/gcp4s-bigquery_3@0.1-2cce9fe?classifier=sources
+- pkg:maven/com.armanbilge/gcp4s-bigquery_3@0.1-2e738ad
+- pkg:maven/com.armanbilge/gcp4s-bigquery_3@0.1-2e738ad?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_3@0.1-34e02ae
 - pkg:maven/com.armanbilge/gcp4s-bigquery_3@0.1-34e02ae?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_3@0.1-35ced24

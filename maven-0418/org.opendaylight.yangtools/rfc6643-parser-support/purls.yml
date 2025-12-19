@@ -3,6 +3,7 @@
 - pkg:maven/org.opendaylight.yangtools/rfc6643-parser-support@10.0.2
 - pkg:maven/org.opendaylight.yangtools/rfc6643-parser-support@10.0.2?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc6643-parser-support@10.0.3?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc6643-parser-support@10.0.4?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc6643-parser-support@4.0.14
 - pkg:maven/org.opendaylight.yangtools/rfc6643-parser-support@4.0.14?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc6643-parser-support@4.0.15

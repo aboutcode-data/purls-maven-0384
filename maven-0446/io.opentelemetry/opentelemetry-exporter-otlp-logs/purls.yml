@@ -15,6 +15,8 @@
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-logs@1.20.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-logs@1.21.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-logs@1.22.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-logs@1.23.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-logs@1.23.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-logs@1.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-logs@1.7.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-logs@1.9.0-alpha?classifier=sources

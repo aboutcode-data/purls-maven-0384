@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hudi/hudi-metaserver-server-bundle@0.13.0
+- pkg:maven/org.apache.hudi/hudi-metaserver-server-bundle@0.13.0?classifier=sources

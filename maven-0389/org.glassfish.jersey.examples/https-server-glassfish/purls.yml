@@ -170,6 +170,8 @@
 - pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.37?type=war
 - pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.38?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.38?type=war
+- pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.39?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.39?type=war
 - pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/https-server-glassfish@2.3?type=war

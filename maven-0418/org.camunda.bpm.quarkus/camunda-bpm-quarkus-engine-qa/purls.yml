@@ -17,3 +17,4 @@
 - pkg:maven/org.camunda.bpm.quarkus/camunda-bpm-quarkus-engine-qa@7.18.0-alpha6
 - pkg:maven/org.camunda.bpm.quarkus/camunda-bpm-quarkus-engine-qa@7.19.0-alpha1
 - pkg:maven/org.camunda.bpm.quarkus/camunda-bpm-quarkus-engine-qa@7.19.0-alpha2
+- pkg:maven/org.camunda.bpm.quarkus/camunda-bpm-quarkus-engine-qa@7.19.0-alpha3

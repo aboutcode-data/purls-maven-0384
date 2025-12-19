@@ -9,6 +9,10 @@
 - pkg:maven/com.yandex.div/video-custom@18.0.0?classifier=sources
 - pkg:maven/com.yandex.div/video-custom@19.0.0?classifier=sources
 - pkg:maven/com.yandex.div/video-custom@20.0.0?classifier=sources
+- pkg:maven/com.yandex.div/video-custom@23.2.0?classifier=sources
+- pkg:maven/com.yandex.div/video-custom@23.3.0?classifier=sources
+- pkg:maven/com.yandex.div/video-custom@23.3.1?classifier=sources
+- pkg:maven/com.yandex.div/video-custom@23.4.0?classifier=sources
 - pkg:maven/com.yandex.div/video-custom@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/video-custom@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/video-custom@7.0.0?classifier=sources

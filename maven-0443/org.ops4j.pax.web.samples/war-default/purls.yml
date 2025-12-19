@@ -1,3 +1,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-default@8.0.14?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-default@8.0.15?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-default@8.0.16?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-default@8.0.17?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-default@9.0.4?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-default@9.0.5?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-default@9.0.6?type=war

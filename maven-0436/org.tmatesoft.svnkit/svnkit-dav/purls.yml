@@ -1,3 +1,5 @@
+- pkg:maven/org.tmatesoft.svnkit/svnkit-dav@1.10.10?type=war
+- pkg:maven/org.tmatesoft.svnkit/svnkit-dav@1.10.11?type=war
 - pkg:maven/org.tmatesoft.svnkit/svnkit-dav@1.10.1?type=war
 - pkg:maven/org.tmatesoft.svnkit/svnkit-dav@1.10.7?type=war
 - pkg:maven/org.tmatesoft.svnkit/svnkit-dav@1.10.8?type=war

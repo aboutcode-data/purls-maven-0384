@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE170?classifier=sources

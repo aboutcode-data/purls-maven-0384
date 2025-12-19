@@ -22,6 +22,8 @@
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-config@2.37?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-config@2.38
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-config@2.38?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-config@2.39
+- pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-config@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-config@3.0.0
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-config@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-config@3.0.0-M1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/uk.bot-by/slf4j-aws-lambda@3.0.0?classifier=sources
 - pkg:maven/uk.bot-by/slf4j-aws-lambda@3.0.3
 - pkg:maven/uk.bot-by/slf4j-aws-lambda@3.0.3?classifier=sources
+- pkg:maven/uk.bot-by/slf4j-aws-lambda@3.0.5
+- pkg:maven/uk.bot-by/slf4j-aws-lambda@3.0.5?classifier=sources

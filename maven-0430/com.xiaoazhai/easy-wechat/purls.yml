@@ -20,3 +20,7 @@
 - pkg:maven/com.xiaoazhai/easy-wechat@0.1.2?classifier=sources
 - pkg:maven/com.xiaoazhai/easy-wechat@0.1.4
 - pkg:maven/com.xiaoazhai/easy-wechat@0.1.4?classifier=sources
+- pkg:maven/com.xiaoazhai/easy-wechat@0.2.1
+- pkg:maven/com.xiaoazhai/easy-wechat@0.2.1?classifier=sources
+- pkg:maven/com.xiaoazhai/easy-wechat@0.2.2
+- pkg:maven/com.xiaoazhai/easy-wechat@0.2.2?classifier=sources

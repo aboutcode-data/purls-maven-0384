@@ -18,3 +18,4 @@
 - pkg:maven/com.fillr/fillr-browser-sdk-fillrcartscraper@8.8.4?classifier=sources
 - pkg:maven/com.fillr/fillr-browser-sdk-fillrcartscraper@8.8.5-rakuten-rewards?classifier=sources
 - pkg:maven/com.fillr/fillr-browser-sdk-fillrcartscraper@8.8.7-alpha?classifier=sources
+- pkg:maven/com.fillr/fillr-browser-sdk-fillrcartscraper@8.9.0?classifier=sources

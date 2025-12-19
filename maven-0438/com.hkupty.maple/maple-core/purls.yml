@@ -1,0 +1,2 @@
+- pkg:maven/com.hkupty.maple/maple-core@0.2?classifier=sources
+- pkg:maven/com.hkupty.maple/maple-core@0.3?classifier=sources

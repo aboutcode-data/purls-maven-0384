@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.npm/jss@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/jss@10.0.4
 - pkg:maven/org.webjars.npm/jss@10.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/jss@10.10.0
+- pkg:maven/org.webjars.npm/jss@10.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/jss@10.2.0
 - pkg:maven/org.webjars.npm/jss@10.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/jss@10.4.0
@@ -14,6 +16,8 @@
 - pkg:maven/org.webjars.npm/jss@10.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/jss@10.7.1
 - pkg:maven/org.webjars.npm/jss@10.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/jss@10.9.2
+- pkg:maven/org.webjars.npm/jss@10.9.2?classifier=sources
 - pkg:maven/org.webjars.npm/jss@2.1.3
 - pkg:maven/org.webjars.npm/jss@2.1.3?classifier=sources
 - pkg:maven/org.webjars.npm/jss@3.0.0

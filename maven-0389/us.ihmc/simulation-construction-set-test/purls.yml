@@ -20,3 +20,4 @@
 - pkg:maven/us.ihmc/simulation-construction-set-test@0.22.7?classifier=sources
 - pkg:maven/us.ihmc/simulation-construction-set-test@0.22.8?classifier=sources
 - pkg:maven/us.ihmc/simulation-construction-set-test@0.22.9?classifier=sources
+- pkg:maven/us.ihmc/simulation-construction-set-test@0.23.0?classifier=sources

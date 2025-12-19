@@ -325,6 +325,10 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.3?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.4
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.4?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.5
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.5?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.6
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.6?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.2
@@ -356,6 +360,8 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.4.6?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.4.7
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.4.7?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.4.8
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.4.8?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.4?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.5
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.5?classifier=sources
@@ -379,3 +385,7 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@15.0-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@15.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@15.0?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@15.1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@15.1-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@15.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@15.1?classifier=sources

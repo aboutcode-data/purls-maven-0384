@@ -1,3 +1,5 @@
 - pkg:maven/com.ditchoom/mqtt-4-models-macosarm64@1.0.33?classifier=sources
 - pkg:maven/com.ditchoom/mqtt-4-models-macosarm64@1.0.34?classifier=sources
 - pkg:maven/com.ditchoom/mqtt-4-models-macosarm64@1.0.35?classifier=sources
+- pkg:maven/com.ditchoom/mqtt-4-models-macosarm64@1.0.36?classifier=sources
+- pkg:maven/com.ditchoom/mqtt-4-models-macosarm64@1.0.38?classifier=sources

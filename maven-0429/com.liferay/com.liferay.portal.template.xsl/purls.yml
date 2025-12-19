@@ -73,6 +73,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@2.0.31
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@2.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@2.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@2.0.32
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@2.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@2.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@2.0.4
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@2.0.4?classifier=sources
@@ -134,6 +137,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@3.0.21
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@3.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@3.0.22
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@3.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@3.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@3.0.3
@@ -212,6 +218,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@4.0.25
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@4.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@4.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@4.0.26
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@4.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@4.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@4.0.3
@@ -287,6 +296,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@5.0.24
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@5.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@5.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@5.0.25
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@5.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.xsl@5.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.xsl@5.0.3

@@ -40,3 +40,7 @@
 - pkg:maven/org.opensextant/opensextant-xponents-core@3.5.8?classifier=sources
 - pkg:maven/org.opensextant/opensextant-xponents-core@3.5.9
 - pkg:maven/org.opensextant/opensextant-xponents-core@3.5.9?classifier=sources
+- pkg:maven/org.opensextant/opensextant-xponents-core@3.6.0
+- pkg:maven/org.opensextant/opensextant-xponents-core@3.6.0?classifier=sources
+- pkg:maven/org.opensextant/opensextant-xponents-core@3.6.1
+- pkg:maven/org.opensextant/opensextant-xponents-core@3.6.1?classifier=sources

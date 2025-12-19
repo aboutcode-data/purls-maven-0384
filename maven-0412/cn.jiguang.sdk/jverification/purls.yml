@@ -31,3 +31,5 @@
 - pkg:maven/cn.jiguang.sdk/jverification@2.9.5?type=aar
 - pkg:maven/cn.jiguang.sdk/jverification@2.9.6?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jverification@2.9.6?type=aar
+- pkg:maven/cn.jiguang.sdk/jverification@2.9.7?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jverification@2.9.7?type=aar

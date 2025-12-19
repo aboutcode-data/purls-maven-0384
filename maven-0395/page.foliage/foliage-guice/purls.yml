@@ -1,0 +1,2 @@
+- pkg:maven/page.foliage/foliage-guice@4.1.0
+- pkg:maven/page.foliage/foliage-guice@4.1.0?classifier=sources

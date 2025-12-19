@@ -27,3 +27,4 @@
 - pkg:maven/net.mamoe/mirai-console-compiler-annotations-jvm@2.13.3?classifier=sources
 - pkg:maven/net.mamoe/mirai-console-compiler-annotations-jvm@2.13.4?classifier=sources
 - pkg:maven/net.mamoe/mirai-console-compiler-annotations-jvm@2.14.0-RC?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-compiler-annotations-jvm@2.14.0?classifier=sources

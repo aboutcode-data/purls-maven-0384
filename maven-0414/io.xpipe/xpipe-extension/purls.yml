@@ -9,3 +9,7 @@
 - pkg:maven/io.xpipe/xpipe-extension@0.4.22?classifier=sources
 - pkg:maven/io.xpipe/xpipe-extension@0.4.23?classifier=sources
 - pkg:maven/io.xpipe/xpipe-extension@0.4.24?classifier=sources
+- pkg:maven/io.xpipe/xpipe-extension@0.4.27?classifier=sources
+- pkg:maven/io.xpipe/xpipe-extension@0.4.28?classifier=sources
+- pkg:maven/io.xpipe/xpipe-extension@0.4.29?classifier=sources
+- pkg:maven/io.xpipe/xpipe-extension@0.4.30?classifier=sources

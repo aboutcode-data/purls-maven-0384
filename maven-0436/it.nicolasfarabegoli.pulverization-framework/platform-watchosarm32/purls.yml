@@ -1,1 +1,2 @@
+- pkg:maven/it.nicolasfarabegoli.pulverization-framework/platform-watchosarm32@0.4.10?classifier=sources
 - pkg:maven/it.nicolasfarabegoli.pulverization-framework/platform-watchosarm32@0.4.8?classifier=sources

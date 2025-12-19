@@ -8,6 +8,8 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.identity.sts.mgt.ui@5.10.3?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.identity.sts.mgt.ui@5.10.4
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.identity.sts.mgt.ui@5.10.4?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.identity.sts.mgt.ui@5.10.5
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.identity.sts.mgt.ui@5.10.5?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.identity.sts.mgt.ui@5.2.10
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.identity.sts.mgt.ui@5.2.10?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.identity.sts.mgt.ui@5.2.11

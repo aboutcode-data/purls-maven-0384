@@ -20,5 +20,7 @@
 - pkg:maven/net.sf.scuba/scuba-sc-j2se@0.0.19?classifier=sources
 - pkg:maven/net.sf.scuba/scuba-sc-j2se@0.0.20
 - pkg:maven/net.sf.scuba/scuba-sc-j2se@0.0.20?classifier=sources
+- pkg:maven/net.sf.scuba/scuba-sc-j2se@0.0.21
+- pkg:maven/net.sf.scuba/scuba-sc-j2se@0.0.21?classifier=sources
 - pkg:maven/net.sf.scuba/scuba-sc-j2se@0.0.8
 - pkg:maven/net.sf.scuba/scuba-sc-j2se@0.0.8?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/io.quarkiverse.helm/quarkus-helm-docs@0.2.3
 - pkg:maven/io.quarkiverse.helm/quarkus-helm-docs@0.2.4
 - pkg:maven/io.quarkiverse.helm/quarkus-helm-docs@0.2.5
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-docs@0.2.6
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-docs@0.2.7

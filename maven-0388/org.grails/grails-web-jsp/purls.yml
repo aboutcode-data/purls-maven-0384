@@ -147,3 +147,5 @@
 - pkg:maven/org.grails/grails-web-jsp@5.1.0?classifier=sources
 - pkg:maven/org.grails/grails-web-jsp@5.2.0?classifier=sources
 - pkg:maven/org.grails/grails-web-jsp@5.2.1?classifier=sources
+- pkg:maven/org.grails/grails-web-jsp@5.2.2?classifier=sources
+- pkg:maven/org.grails/grails-web-jsp@5.3.0?classifier=sources

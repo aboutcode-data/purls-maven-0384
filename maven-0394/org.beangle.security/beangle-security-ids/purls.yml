@@ -1,3 +1,5 @@
+- pkg:maven/org.beangle.security/beangle-security-ids@3.10.0
+- pkg:maven/org.beangle.security/beangle-security-ids@3.10.0?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-ids@3.6.0
 - pkg:maven/org.beangle.security/beangle-security-ids@3.6.0.M5
 - pkg:maven/org.beangle.security/beangle-security-ids@3.6.0.M5?classifier=sources

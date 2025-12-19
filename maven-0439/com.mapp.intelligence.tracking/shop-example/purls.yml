@@ -1,0 +1,2 @@
+- pkg:maven/com.mapp.intelligence.tracking/shop-example@0.0.22?classifier=sources
+- pkg:maven/com.mapp.intelligence.tracking/shop-example@0.0.22?type=war
