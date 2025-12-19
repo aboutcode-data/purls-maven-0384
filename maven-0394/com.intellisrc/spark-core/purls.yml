@@ -6,3 +6,5 @@
 - pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-3?classifier=sources
 - pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-4
 - pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-4?classifier=sources
+- pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-5
+- pkg:maven/com.intellisrc/spark-core@2.9.4-unofficial-5?classifier=sources

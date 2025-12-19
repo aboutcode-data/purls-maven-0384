@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-file-resource-service-nar@1.23.0?classifier=sources

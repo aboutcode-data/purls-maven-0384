@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-schema-inference-utils@1.23.0
+- pkg:maven/org.apache.nifi/nifi-schema-inference-utils@1.23.0?classifier=sources

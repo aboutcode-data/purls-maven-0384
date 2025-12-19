@@ -1,0 +1,2 @@
+- pkg:maven/org.mycore/mycore-jobqueue@2023.05
+- pkg:maven/org.mycore/mycore-jobqueue@2023.05?classifier=sources

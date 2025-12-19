@@ -10,3 +10,4 @@
 - pkg:maven/io.github.eltos/simpledialogfragments@3.6.3?classifier=sources
 - pkg:maven/io.github.eltos/simpledialogfragments@3.6.4?classifier=sources
 - pkg:maven/io.github.eltos/simpledialogfragments@3.6?classifier=sources
+- pkg:maven/io.github.eltos/simpledialogfragments@3.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.wavefront/remark@2023-07.07
+- pkg:maven/com.wavefront/remark@2023-07.07?classifier=sources

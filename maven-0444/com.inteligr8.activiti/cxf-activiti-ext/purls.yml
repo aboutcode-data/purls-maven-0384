@@ -8,3 +8,9 @@
 - pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps22?classifier=sources
 - pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps23
 - pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.0-aps23?classifier=sources
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.1-aps23
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.1.1-aps23?classifier=sources
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.2.0-aps-v2.3.7
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.2.0-aps-v2.3.7?classifier=sources
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.2.0-aps-v2.3.8
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.2.0-aps-v2.3.8?classifier=sources

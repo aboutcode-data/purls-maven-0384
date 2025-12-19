@@ -5,6 +5,7 @@
 - pkg:maven/de.focus-shift/jollyday-tests@0.14.0
 - pkg:maven/de.focus-shift/jollyday-tests@0.15.0
 - pkg:maven/de.focus-shift/jollyday-tests@0.16.0
+- pkg:maven/de.focus-shift/jollyday-tests@0.17.0
 - pkg:maven/de.focus-shift/jollyday-tests@0.6.0
 - pkg:maven/de.focus-shift/jollyday-tests@0.6.1
 - pkg:maven/de.focus-shift/jollyday-tests@0.7.0

@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/nhsuk-frontend@3.1.0
 - pkg:maven/org.webjars.npm/nhsuk-frontend@3.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/nhsuk-frontend@4.1.0
+- pkg:maven/org.webjars.npm/nhsuk-frontend@4.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/nhsuk-frontend@5.1.0
 - pkg:maven/org.webjars.npm/nhsuk-frontend@5.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/nhsuk-frontend@5.2.1

@@ -183,3 +183,6 @@
 - pkg:maven/io.radar/sdk@3.8.4?classifier=sources
 - pkg:maven/io.radar/sdk@3.8.5-beta.2?classifier=sources
 - pkg:maven/io.radar/sdk@3.8.5-beta.3?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.5-beta.4?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.5-beta.6?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.5?classifier=sources

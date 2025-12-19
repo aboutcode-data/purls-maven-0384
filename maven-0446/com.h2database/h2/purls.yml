@@ -210,3 +210,4 @@
 - pkg:maven/com.h2database/h2@2.1.210?classifier=sources
 - pkg:maven/com.h2database/h2@2.1.212?classifier=sources
 - pkg:maven/com.h2database/h2@2.1.214?classifier=sources
+- pkg:maven/com.h2database/h2@2.2.220?classifier=sources

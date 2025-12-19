@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.config/quarkus-config-extensions-integration-test-jasypt@2.1.0
+- pkg:maven/io.quarkiverse.config/quarkus-config-extensions-integration-test-jasypt@2.1.0?classifier=sources

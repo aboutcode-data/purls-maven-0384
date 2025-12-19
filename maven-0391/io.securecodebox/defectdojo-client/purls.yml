@@ -1,0 +1,3 @@
+- pkg:maven/io.securecodebox/defectdojo-client@1.0.0-alpha2?classifier=sources
+- pkg:maven/io.securecodebox/defectdojo-client@1.0.0-beta1?classifier=sources
+- pkg:maven/io.securecodebox/defectdojo-client@1.0.0.-beta2?classifier=sources

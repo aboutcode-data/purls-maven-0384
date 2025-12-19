@@ -1,0 +1,6 @@
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-common@1.2.10
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-common@1.2.10?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-common@1.2.11
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-common@1.2.11?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-common@1.2.12
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-common@1.2.12?classifier=sources

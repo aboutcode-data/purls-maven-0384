@@ -2,3 +2,5 @@
 - pkg:maven/de.oberdorf-itc/oitc-sendmail@0.2.0?classifier=sources
 - pkg:maven/de.oberdorf-itc/oitc-sendmail@0.3.0
 - pkg:maven/de.oberdorf-itc/oitc-sendmail@0.3.0?classifier=sources
+- pkg:maven/de.oberdorf-itc/oitc-sendmail@0.4.0.1461
+- pkg:maven/de.oberdorf-itc/oitc-sendmail@0.4.0.1461?classifier=sources

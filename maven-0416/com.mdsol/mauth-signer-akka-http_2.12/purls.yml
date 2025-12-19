@@ -34,6 +34,10 @@
 - pkg:maven/com.mdsol/mauth-signer-akka-http_2.12@12.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-signer-akka-http_2.12@13.0.0
 - pkg:maven/com.mdsol/mauth-signer-akka-http_2.12@13.0.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-signer-akka-http_2.12@14.0.0
+- pkg:maven/com.mdsol/mauth-signer-akka-http_2.12@14.0.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-signer-akka-http_2.12@15.0.0
+- pkg:maven/com.mdsol/mauth-signer-akka-http_2.12@15.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-signer-akka-http_2.12@2.0.0
 - pkg:maven/com.mdsol/mauth-signer-akka-http_2.12@2.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-signer-akka-http_2.12@2.0.1

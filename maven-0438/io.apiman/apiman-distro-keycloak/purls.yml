@@ -4,3 +4,5 @@
 - pkg:maven/io.apiman/apiman-distro-keycloak@3.1.0.RC4
 - pkg:maven/io.apiman/apiman-distro-keycloak@3.1.0.RC6
 - pkg:maven/io.apiman/apiman-distro-keycloak@3.1.1.Final
+- pkg:maven/io.apiman/apiman-distro-keycloak@3.1.2.Final
+- pkg:maven/io.apiman/apiman-distro-keycloak@3.1.2.RC1

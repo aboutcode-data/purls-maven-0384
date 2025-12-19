@@ -4,3 +4,5 @@
 - pkg:maven/org.uma.jmetal/jmetal-lab@5.11?classifier=sources
 - pkg:maven/org.uma.jmetal/jmetal-lab@6.0
 - pkg:maven/org.uma.jmetal/jmetal-lab@6.0?classifier=sources
+- pkg:maven/org.uma.jmetal/jmetal-lab@6.1
+- pkg:maven/org.uma.jmetal/jmetal-lab@6.1?classifier=sources

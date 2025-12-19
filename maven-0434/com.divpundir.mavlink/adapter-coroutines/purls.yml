@@ -1,0 +1,2 @@
+- pkg:maven/com.divpundir.mavlink/adapter-coroutines@0.30.0-alpha?classifier=sources
+- pkg:maven/com.divpundir.mavlink/adapter-coroutines@0.30.0?classifier=sources

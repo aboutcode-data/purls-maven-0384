@@ -50,3 +50,4 @@
 - pkg:maven/love.forte.simbot/simbot-logger@3.0.0.preview.9.1?classifier=sources
 - pkg:maven/love.forte.simbot/simbot-logger@3.0.0?classifier=sources
 - pkg:maven/love.forte.simbot/simbot-logger@3.1.0?classifier=sources
+- pkg:maven/love.forte.simbot/simbot-logger@3.2.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/io.github.ssttkkl/mahjong-utils-native@0.3.3?classifier=sources
 - pkg:maven/io.github.ssttkkl/mahjong-utils-native@0.4.3?classifier=sources
 - pkg:maven/io.github.ssttkkl/mahjong-utils-native@0.5.0?classifier=sources
+- pkg:maven/io.github.ssttkkl/mahjong-utils-native@0.5.2?classifier=sources

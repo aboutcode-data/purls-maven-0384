@@ -22,6 +22,14 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.20.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.21.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.21.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.22.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.22.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.23.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.23.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.24.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.24.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.25.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.25.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-network-security-v1@0.6.2

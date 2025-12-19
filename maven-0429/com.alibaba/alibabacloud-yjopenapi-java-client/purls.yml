@@ -12,3 +12,13 @@
 - pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230410?classifier=sources
 - pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230602
 - pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230602?classifier=sources
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230616
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230616?classifier=sources
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230619
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230619?classifier=sources
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230713
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230713?classifier=sources
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230718
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230718?classifier=sources
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230725
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230725?classifier=sources

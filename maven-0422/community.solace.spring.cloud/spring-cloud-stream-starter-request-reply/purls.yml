@@ -1,0 +1,2 @@
+- pkg:maven/community.solace.spring.cloud/spring-cloud-stream-starter-request-reply@5.0.4
+- pkg:maven/community.solace.spring.cloud/spring-cloud-stream-starter-request-reply@5.0.4?classifier=sources

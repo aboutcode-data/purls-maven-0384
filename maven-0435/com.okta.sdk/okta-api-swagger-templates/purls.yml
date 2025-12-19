@@ -76,5 +76,9 @@
 - pkg:maven/com.okta.sdk/okta-api-swagger-templates@8.2.2?classifier=sources
 - pkg:maven/com.okta.sdk/okta-api-swagger-templates@8.2.3
 - pkg:maven/com.okta.sdk/okta-api-swagger-templates@8.2.3?classifier=sources
+- pkg:maven/com.okta.sdk/okta-api-swagger-templates@8.2.4
+- pkg:maven/com.okta.sdk/okta-api-swagger-templates@8.2.4?classifier=sources
+- pkg:maven/com.okta.sdk/okta-api-swagger-templates@8.2.5
+- pkg:maven/com.okta.sdk/okta-api-swagger-templates@8.2.5?classifier=sources
 - pkg:maven/com.okta.sdk/okta-api-swagger-templates@9.0.0-beta
 - pkg:maven/com.okta.sdk/okta-api-swagger-templates@9.0.0-beta?classifier=sources

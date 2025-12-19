@@ -1,0 +1,2 @@
+- pkg:maven/eu.lilithmonodia/WineStock@0.3?classifier=sources
+- pkg:maven/eu.lilithmonodia/WineStock@0.4?classifier=sources

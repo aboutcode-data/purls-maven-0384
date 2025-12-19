@@ -8,3 +8,4 @@
 - pkg:maven/com.varabyte.kotterx/kotter-test-support@1.1.0-rc3?classifier=sources
 - pkg:maven/com.varabyte.kotterx/kotter-test-support@1.1.0-rc4?classifier=sources
 - pkg:maven/com.varabyte.kotterx/kotter-test-support@1.1.0?classifier=sources
+- pkg:maven/com.varabyte.kotterx/kotter-test-support@1.1.1?classifier=sources

@@ -122,3 +122,5 @@
 - pkg:maven/com.tascape/reactor-x-webui@1.6.4?classifier=sources
 - pkg:maven/com.tascape/reactor-x-webui@1.6.5
 - pkg:maven/com.tascape/reactor-x-webui@1.6.5?classifier=sources
+- pkg:maven/com.tascape/reactor-x-webui@1.6.6
+- pkg:maven/com.tascape/reactor-x-webui@1.6.6?classifier=sources

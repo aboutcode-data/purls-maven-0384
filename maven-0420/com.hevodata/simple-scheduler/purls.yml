@@ -5,3 +5,5 @@
 - pkg:maven/com.hevodata/simple-scheduler@0.1.7?classifier=sources
 - pkg:maven/com.hevodata/simple-scheduler@0.1.8
 - pkg:maven/com.hevodata/simple-scheduler@0.1.8?classifier=sources
+- pkg:maven/com.hevodata/simple-scheduler@1.0.0
+- pkg:maven/com.hevodata/simple-scheduler@1.0.0?classifier=sources

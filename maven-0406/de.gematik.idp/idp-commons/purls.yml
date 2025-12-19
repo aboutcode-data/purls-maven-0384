@@ -30,3 +30,5 @@
 - pkg:maven/de.gematik.idp/idp-commons@23.0.4?classifier=sources
 - pkg:maven/de.gematik.idp/idp-commons@24.0.0
 - pkg:maven/de.gematik.idp/idp-commons@24.0.0?classifier=sources
+- pkg:maven/de.gematik.idp/idp-commons@24.1.0
+- pkg:maven/de.gematik.idp/idp-commons@24.1.0?classifier=sources

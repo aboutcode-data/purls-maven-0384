@@ -2,3 +2,9 @@
 - pkg:maven/co.elastic.apm/elastic-apm-agent-java8@1.37.0?classifier=sources
 - pkg:maven/co.elastic.apm/elastic-apm-agent-java8@1.38.0
 - pkg:maven/co.elastic.apm/elastic-apm-agent-java8@1.38.0?classifier=sources
+- pkg:maven/co.elastic.apm/elastic-apm-agent-java8@1.39.0
+- pkg:maven/co.elastic.apm/elastic-apm-agent-java8@1.39.0?classifier=sources
+- pkg:maven/co.elastic.apm/elastic-apm-agent-java8@1.40.0
+- pkg:maven/co.elastic.apm/elastic-apm-agent-java8@1.40.0?classifier=sources
+- pkg:maven/co.elastic.apm/elastic-apm-agent-java8@1.41.0
+- pkg:maven/co.elastic.apm/elastic-apm-agent-java8@1.41.0?classifier=sources

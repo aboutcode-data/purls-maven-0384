@@ -1,0 +1,2 @@
+- pkg:maven/cc.vihackerframework/vihacker-annotation@1.0.8.R
+- pkg:maven/cc.vihackerframework/vihacker-annotation@1.0.8.R?classifier=sources

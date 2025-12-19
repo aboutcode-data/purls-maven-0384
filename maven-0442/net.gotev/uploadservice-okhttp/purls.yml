@@ -21,3 +21,4 @@
 - pkg:maven/net.gotev/uploadservice-okhttp@4.5.5?classifier=sources
 - pkg:maven/net.gotev/uploadservice-okhttp@4.6.0?classifier=sources
 - pkg:maven/net.gotev/uploadservice-okhttp@4.7.0?classifier=sources
+- pkg:maven/net.gotev/uploadservice-okhttp@4.8.0?classifier=sources

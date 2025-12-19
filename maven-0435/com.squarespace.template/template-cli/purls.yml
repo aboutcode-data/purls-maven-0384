@@ -91,4 +91,7 @@
 - pkg:maven/com.squarespace.template/template-cli@2.8.38?classifier=sources
 - pkg:maven/com.squarespace.template/template-cli@2.8.39?classifier=sources
 - pkg:maven/com.squarespace.template/template-cli@2.8.40?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.41?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.42?classifier=sources
+- pkg:maven/com.squarespace.template/template-cli@2.8.43?classifier=sources
 - pkg:maven/com.squarespace.template/template-cli@2.8.4?classifier=sources

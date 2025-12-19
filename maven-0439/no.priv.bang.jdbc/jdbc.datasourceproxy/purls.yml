@@ -4,3 +4,5 @@
 - pkg:maven/no.priv.bang.jdbc/jdbc.datasourceproxy@1.1.0?classifier=sources
 - pkg:maven/no.priv.bang.jdbc/jdbc.datasourceproxy@1.1.1
 - pkg:maven/no.priv.bang.jdbc/jdbc.datasourceproxy@1.1.1?classifier=sources
+- pkg:maven/no.priv.bang.jdbc/jdbc.datasourceproxy@1.2.0
+- pkg:maven/no.priv.bang.jdbc/jdbc.datasourceproxy@1.2.0?classifier=sources

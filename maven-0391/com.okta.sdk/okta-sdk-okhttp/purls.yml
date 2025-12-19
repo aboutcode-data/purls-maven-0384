@@ -32,4 +32,6 @@
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@8.2.1
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@8.2.2
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@8.2.3
+- pkg:maven/com.okta.sdk/okta-sdk-okhttp@8.2.4
+- pkg:maven/com.okta.sdk/okta-sdk-okhttp@8.2.5
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@9.0.0-beta

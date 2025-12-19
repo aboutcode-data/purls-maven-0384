@@ -138,4 +138,16 @@
 - pkg:maven/io.nearpay/nearpay-sdk@2.1.45?classifier=sources
 - pkg:maven/io.nearpay/nearpay-sdk@2.1.46-google?classifier=sources
 - pkg:maven/io.nearpay/nearpay-sdk@2.1.46?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.47-google?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.48-store?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.48?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.49?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.50?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.51?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.52?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.53?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.54?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.55?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.56?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.57?classifier=sources
 - pkg:maven/io.nearpay/nearpay-sdk@unspecified?classifier=sources

@@ -47,3 +47,5 @@
 - pkg:maven/com.moengage/core@6.6.2?classifier=sources
 - pkg:maven/com.moengage/core@6.6.3?classifier=sources
 - pkg:maven/com.moengage/core@6.7.0?classifier=sources
+- pkg:maven/com.moengage/core@6.7.1?classifier=sources
+- pkg:maven/com.moengage/core@6.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@6.8.0
+- pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@6.8.0?classifier=sources

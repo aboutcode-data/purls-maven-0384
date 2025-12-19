@@ -32,3 +32,4 @@
 - pkg:maven/org.zalando/fahrschein-http-apache@0.23.0?classifier=sources
 - pkg:maven/org.zalando/fahrschein-http-apache@0.24.0?classifier=sources
 - pkg:maven/org.zalando/fahrschein-http-apache@1.0.0?classifier=sources
+- pkg:maven/org.zalando/fahrschein-http-apache@2.0.0-RC1?classifier=sources

@@ -50,3 +50,7 @@
 - pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_3@0.5.8?classifier=sources
 - pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_3@0.5.9
 - pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_3@0.5.9?classifier=sources
+- pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_3@0.6.0
+- pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_3@0.6.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_3@0.6.1
+- pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_3@0.6.1?classifier=sources

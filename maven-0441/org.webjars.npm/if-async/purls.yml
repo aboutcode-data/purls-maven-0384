@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/if-async@3.7.4
+- pkg:maven/org.webjars.npm/if-async@3.7.4?classifier=sources

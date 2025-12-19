@@ -4,4 +4,6 @@
 - pkg:maven/com.anaplan.engineering/vdm-gradle-plugin@2.6.4?classifier=sources
 - pkg:maven/com.anaplan.engineering/vdm-gradle-plugin@3.0.2%2B1?classifier=sources
 - pkg:maven/com.anaplan.engineering/vdm-gradle-plugin@3.0.2%2B2?classifier=sources
+- pkg:maven/com.anaplan.engineering/vdm-gradle-plugin@3.0.2%2B3?classifier=sources
+- pkg:maven/com.anaplan.engineering/vdm-gradle-plugin@3.0.2%2B4?classifier=sources
 - pkg:maven/com.anaplan.engineering/vdm-gradle-plugin@3.0.2?classifier=sources

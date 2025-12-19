@@ -1,0 +1,2 @@
+- pkg:maven/africa.shuwari.sbt/sbt-shuwari_2.12_1.0@0.9.6
+- pkg:maven/africa.shuwari.sbt/sbt-shuwari_2.12_1.0@0.9.6?classifier=sources

@@ -32,3 +32,4 @@
 - pkg:maven/org.zalando/fahrschein-typeresolver@0.23.0?classifier=sources
 - pkg:maven/org.zalando/fahrschein-typeresolver@0.24.0?classifier=sources
 - pkg:maven/org.zalando/fahrschein-typeresolver@1.0.0?classifier=sources
+- pkg:maven/org.zalando/fahrschein-typeresolver@2.0.0-RC1?classifier=sources

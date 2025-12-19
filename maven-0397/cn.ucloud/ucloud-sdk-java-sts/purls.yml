@@ -1,0 +1,2 @@
+- pkg:maven/cn.ucloud/ucloud-sdk-java-sts@1.2.14-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-sts@1.2.14-release?classifier=sources
