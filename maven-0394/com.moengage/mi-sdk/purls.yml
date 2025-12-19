@@ -1,0 +1,3 @@
+- pkg:maven/com.moengage/mi-sdk@0.0.1?classifier=sources
+- pkg:maven/com.moengage/mi-sdk@1.0.0?classifier=sources
+- pkg:maven/com.moengage/mi-sdk@1.0.1?classifier=sources

@@ -11,3 +11,13 @@
 - pkg:maven/cn.jiguang.sdk/jverification@2.7.7?type=aar
 - pkg:maven/cn.jiguang.sdk/jverification@2.7.8?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jverification@2.7.8?type=aar
+- pkg:maven/cn.jiguang.sdk/jverification@2.7.9?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jverification@2.7.9?type=aar
+- pkg:maven/cn.jiguang.sdk/jverification@2.8.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jverification@2.8.0?type=aar
+- pkg:maven/cn.jiguang.sdk/jverification@2.9.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jverification@2.9.0?type=aar
+- pkg:maven/cn.jiguang.sdk/jverification@2.9.1.1?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jverification@2.9.1.1?type=aar
+- pkg:maven/cn.jiguang.sdk/jverification@2.9.1?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jverification@2.9.1?type=aar

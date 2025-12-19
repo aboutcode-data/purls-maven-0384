@@ -1,0 +1,2 @@
+- pkg:maven/io.github.treech/netposa-slf4j@1.0.3?classifier=sources
+- pkg:maven/io.github.treech/netposa-slf4j@1.0.3?type=aar

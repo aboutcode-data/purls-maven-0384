@@ -1,0 +1,2 @@
+- pkg:maven/org.unidal.maven.plugins/wizard-maven-plugin@6.0.0
+- pkg:maven/org.unidal.maven.plugins/wizard-maven-plugin@6.0.0?classifier=sources

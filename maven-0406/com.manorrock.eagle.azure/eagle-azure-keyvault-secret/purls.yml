@@ -2,3 +2,5 @@
 - pkg:maven/com.manorrock.eagle.azure/eagle-azure-keyvault-secret@21.4.1?classifier=sources
 - pkg:maven/com.manorrock.eagle.azure/eagle-azure-keyvault-secret@21.5.0
 - pkg:maven/com.manorrock.eagle.azure/eagle-azure-keyvault-secret@21.5.0?classifier=sources
+- pkg:maven/com.manorrock.eagle.azure/eagle-azure-keyvault-secret@22.6.1
+- pkg:maven/com.manorrock.eagle.azure/eagle-azure-keyvault-secret@22.6.1?classifier=sources

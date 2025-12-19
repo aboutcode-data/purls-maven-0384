@@ -23,3 +23,4 @@
 - pkg:maven/com.soywiz.korlibs.luak/luak-jvm@2.4.7?classifier=sources
 - pkg:maven/com.soywiz.korlibs.luak/luak-jvm@2.4.8?classifier=sources
 - pkg:maven/com.soywiz.korlibs.luak/luak-jvm@2.4.9?classifier=sources
+- pkg:maven/com.soywiz.korlibs.luak/luak-jvm@3.0.0-Beta6?classifier=sources

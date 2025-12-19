@@ -1,2 +1,6 @@
 - pkg:maven/io.contek.zeus/zeus-core@1.9.4?classifier=sources
+- pkg:maven/io.contek.zeus/zeus-core@2.12.2?classifier=sources
+- pkg:maven/io.contek.zeus/zeus-core@2.12.3?classifier=sources
+- pkg:maven/io.contek.zeus/zeus-core@2.13.0?classifier=sources
+- pkg:maven/io.contek.zeus/zeus-core@2.14.0?classifier=sources
 - pkg:maven/io.contek.zeus/zeus-core@2.2.0?classifier=sources

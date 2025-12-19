@@ -1,0 +1,2 @@
+- pkg:maven/org.grails.plugins/embedded-mongodb@2.0.0-M2?classifier=sources
+- pkg:maven/org.grails.plugins/embedded-mongodb@2.0.0?classifier=sources

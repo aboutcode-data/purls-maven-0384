@@ -2,3 +2,7 @@
 - pkg:maven/com.github.oowekyala.ooxml/nice-xml-messages@1.0?classifier=sources
 - pkg:maven/com.github.oowekyala.ooxml/nice-xml-messages@2.0
 - pkg:maven/com.github.oowekyala.ooxml/nice-xml-messages@2.0?classifier=sources
+- pkg:maven/com.github.oowekyala.ooxml/nice-xml-messages@3
+- pkg:maven/com.github.oowekyala.ooxml/nice-xml-messages@3.1
+- pkg:maven/com.github.oowekyala.ooxml/nice-xml-messages@3.1?classifier=sources
+- pkg:maven/com.github.oowekyala.ooxml/nice-xml-messages@3?classifier=sources

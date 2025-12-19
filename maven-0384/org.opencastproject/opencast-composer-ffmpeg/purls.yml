@@ -40,6 +40,8 @@
 - pkg:maven/org.opencastproject/opencast-composer-ffmpeg@11.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-composer-ffmpeg@11.7
 - pkg:maven/org.opencastproject/opencast-composer-ffmpeg@11.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-composer-ffmpeg@12.0
+- pkg:maven/org.opencastproject/opencast-composer-ffmpeg@12.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-composer-ffmpeg@6.6
 - pkg:maven/org.opencastproject/opencast-composer-ffmpeg@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-composer-ffmpeg@7.2

@@ -70,6 +70,8 @@
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.26-ga26?classifier=sources
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.27-ga27
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.27-ga27?classifier=sources
+- pkg:maven/com.liferay.portal/release.portal.api@7.4.3.28-ga28
+- pkg:maven/com.liferay.portal/release.portal.api@7.4.3.28-ga28?classifier=sources
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.4-ga4
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.4-ga4?classifier=sources
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.5-ga5

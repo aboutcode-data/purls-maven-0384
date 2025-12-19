@@ -1,3 +1,5 @@
+- pkg:maven/pub.doric/dangle@0.1.11?classifier=sources
+- pkg:maven/pub.doric/dangle@0.1.11?type=aar
 - pkg:maven/pub.doric/dangle@0.1.4?classifier=sources
 - pkg:maven/pub.doric/dangle@0.1.4?type=aar
 - pkg:maven/pub.doric/dangle@0.1.5?classifier=sources

@@ -29,7 +29,11 @@
 - pkg:maven/uk.co.real-logic/artio-ilink3-codecs@0.126?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink3-codecs@0.127?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink3-codecs@0.128?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink3-codecs@0.129.1?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink3-codecs@0.129?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink3-codecs@0.130?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink3-codecs@0.131?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink3-codecs@0.132?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink3-codecs@0.55?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink3-codecs@0.56?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink3-codecs@0.57?classifier=sources

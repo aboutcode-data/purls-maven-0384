@@ -30,3 +30,6 @@
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-debug-options@1.27.0?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-debug-options@1.28.0?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-debug-options@1.29.0?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-debug-options@1.29.1?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-debug-options@1.29.2?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-debug-options@1.29.3?type=aar

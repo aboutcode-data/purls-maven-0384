@@ -20,3 +20,5 @@
 - pkg:maven/jp.openstandia.midpoint-grpc/midpoint-grpc-self-services@2.0.0?classifier=sources
 - pkg:maven/jp.openstandia.midpoint-grpc/midpoint-grpc-self-services@2.1.0
 - pkg:maven/jp.openstandia.midpoint-grpc/midpoint-grpc-self-services@2.1.0?classifier=sources
+- pkg:maven/jp.openstandia.midpoint-grpc/midpoint-grpc-self-services@2.2.0
+- pkg:maven/jp.openstandia.midpoint-grpc/midpoint-grpc-self-services@2.2.0?classifier=sources

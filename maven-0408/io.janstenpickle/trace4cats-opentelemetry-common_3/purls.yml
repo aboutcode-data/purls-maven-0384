@@ -11,4 +11,6 @@
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_3@0.13.0
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_3@0.13.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_3@0.13.1
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_3@0.13.1%2B26-752cf951
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_3@0.13.1%2B26-752cf951?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_3@0.13.1?classifier=sources

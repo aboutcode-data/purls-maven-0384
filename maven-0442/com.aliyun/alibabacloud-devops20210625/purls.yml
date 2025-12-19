@@ -1,2 +1,6 @@
 - pkg:maven/com.aliyun/alibabacloud-devops20210625@1.0.0
 - pkg:maven/com.aliyun/alibabacloud-devops20210625@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-devops20210625@1.1.16
+- pkg:maven/com.aliyun/alibabacloud-devops20210625@1.1.16?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-devops20210625@1.1.19
+- pkg:maven/com.aliyun/alibabacloud-devops20210625@1.1.19?classifier=sources

@@ -74,3 +74,5 @@
 - pkg:maven/com.intuit.karate/karate-junit5@1.2.0.RC6
 - pkg:maven/com.intuit.karate/karate-junit5@1.2.0.RC6?classifier=sources
 - pkg:maven/com.intuit.karate/karate-junit5@1.2.0?classifier=sources
+- pkg:maven/com.intuit.karate/karate-junit5@1.2.1.RC2
+- pkg:maven/com.intuit.karate/karate-junit5@1.2.1.RC2?classifier=sources

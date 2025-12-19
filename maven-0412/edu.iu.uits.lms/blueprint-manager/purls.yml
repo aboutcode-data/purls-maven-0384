@@ -1,0 +1,4 @@
+- pkg:maven/edu.iu.uits.lms/blueprint-manager@5.0.0
+- pkg:maven/edu.iu.uits.lms/blueprint-manager@5.0.0?classifier=sources
+- pkg:maven/edu.iu.uits.lms/blueprint-manager@5.0.1
+- pkg:maven/edu.iu.uits.lms/blueprint-manager@5.0.1?classifier=sources

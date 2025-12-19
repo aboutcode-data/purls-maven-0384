@@ -1,3 +1,4 @@
+- pkg:maven/org.opendaylight.mdsal/mdsal-docs@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-docs@3.0.10
 - pkg:maven/org.opendaylight.mdsal/mdsal-docs@3.0.10?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-docs@3.0.11

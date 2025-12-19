@@ -1,2 +1,5 @@
 - pkg:maven/com.aheaditec/presentation@1.0.0?classifier=sources
 - pkg:maven/com.aheaditec/presentation@1.0.1?classifier=sources
+- pkg:maven/com.aheaditec/presentation@1.0.2-alpha01?classifier=sources
+- pkg:maven/com.aheaditec/presentation@1.0.2-alpha02?classifier=sources
+- pkg:maven/com.aheaditec/presentation@1.0.2-alpha03?classifier=sources

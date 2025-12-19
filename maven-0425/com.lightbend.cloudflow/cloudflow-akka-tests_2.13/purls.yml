@@ -849,6 +849,16 @@
 - pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220530?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220606
 - pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220606?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220613
+- pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220613?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220620
+- pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220620?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220627
+- pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220627?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220704
+- pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220704?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220711
+- pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-NIGHTLY20220711?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-RC0
 - pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-RC01
 - pkg:maven/com.lightbend.cloudflow/cloudflow-akka-tests_2.13@2.3.1-RC01?classifier=sources

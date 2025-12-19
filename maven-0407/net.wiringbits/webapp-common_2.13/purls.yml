@@ -1,0 +1,2 @@
+- pkg:maven/net.wiringbits/webapp-common_2.13@0.5.14
+- pkg:maven/net.wiringbits/webapp-common_2.13@0.5.14?classifier=sources

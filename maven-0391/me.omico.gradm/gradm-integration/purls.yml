@@ -4,3 +4,4 @@
 - pkg:maven/me.omico.gradm/gradm-integration@1.6.0?classifier=sources
 - pkg:maven/me.omico.gradm/gradm-integration@1.7.0?classifier=sources
 - pkg:maven/me.omico.gradm/gradm-integration@2.0.0?classifier=sources
+- pkg:maven/me.omico.gradm/gradm-integration@2.1.0?classifier=sources

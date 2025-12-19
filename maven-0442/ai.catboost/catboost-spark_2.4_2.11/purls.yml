@@ -12,3 +12,5 @@
 - pkg:maven/ai.catboost/catboost-spark_2.4_2.11@1.0.3?classifier=sources
 - pkg:maven/ai.catboost/catboost-spark_2.4_2.11@1.0.4
 - pkg:maven/ai.catboost/catboost-spark_2.4_2.11@1.0.4?classifier=sources
+- pkg:maven/ai.catboost/catboost-spark_2.4_2.11@1.0.6
+- pkg:maven/ai.catboost/catboost-spark_2.4_2.11@1.0.6?classifier=sources

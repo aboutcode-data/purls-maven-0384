@@ -4,3 +4,7 @@
 - pkg:maven/io.continual/continualModelServer@0.2.29?classifier=sources
 - pkg:maven/io.continual/continualModelServer@0.2.30
 - pkg:maven/io.continual/continualModelServer@0.2.30?classifier=sources
+- pkg:maven/io.continual/continualModelServer@0.2.31
+- pkg:maven/io.continual/continualModelServer@0.2.31?classifier=sources
+- pkg:maven/io.continual/continualModelServer@0.2.32
+- pkg:maven/io.continual/continualModelServer@0.2.32?classifier=sources

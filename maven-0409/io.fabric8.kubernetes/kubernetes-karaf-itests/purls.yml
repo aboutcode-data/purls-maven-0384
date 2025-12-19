@@ -209,3 +209,5 @@
 - pkg:maven/io.fabric8.kubernetes/kubernetes-karaf-itests@5.8.0
 - pkg:maven/io.fabric8.kubernetes/kubernetes-karaf-itests@5.8.1
 - pkg:maven/io.fabric8.kubernetes/kubernetes-karaf-itests@5.9.0
+- pkg:maven/io.fabric8.kubernetes/kubernetes-karaf-itests@6.0.0
+- pkg:maven/io.fabric8.kubernetes/kubernetes-karaf-itests@6.0.0-RC1

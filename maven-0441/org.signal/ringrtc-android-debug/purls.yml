@@ -62,6 +62,10 @@
 - pkg:maven/org.signal/ringrtc-android-debug@2.19.2?type=aar
 - pkg:maven/org.signal/ringrtc-android-debug@2.2.0?type=aar
 - pkg:maven/org.signal/ringrtc-android-debug@2.20.0?type=aar
+- pkg:maven/org.signal/ringrtc-android-debug@2.20.10.1?type=aar
+- pkg:maven/org.signal/ringrtc-android-debug@2.20.10?type=aar
+- pkg:maven/org.signal/ringrtc-android-debug@2.20.11.1?type=aar
+- pkg:maven/org.signal/ringrtc-android-debug@2.20.11?type=aar
 - pkg:maven/org.signal/ringrtc-android-debug@2.20.1?type=aar
 - pkg:maven/org.signal/ringrtc-android-debug@2.20.2?type=aar
 - pkg:maven/org.signal/ringrtc-android-debug@2.20.4?type=aar
@@ -69,6 +73,7 @@
 - pkg:maven/org.signal/ringrtc-android-debug@2.20.6?type=aar
 - pkg:maven/org.signal/ringrtc-android-debug@2.20.7?type=aar
 - pkg:maven/org.signal/ringrtc-android-debug@2.20.8?type=aar
+- pkg:maven/org.signal/ringrtc-android-debug@2.20.9?type=aar
 - pkg:maven/org.signal/ringrtc-android-debug@2.3.0?type=aar
 - pkg:maven/org.signal/ringrtc-android-debug@2.3.1?type=aar
 - pkg:maven/org.signal/ringrtc-android-debug@2.4.0?type=aar

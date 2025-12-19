@@ -96,5 +96,7 @@
 - pkg:maven/com.netease.nim/camellia-redis-proxy-zk-registry-spring-boot-starter@1.0.57?classifier=sources
 - pkg:maven/com.netease.nim/camellia-redis-proxy-zk-registry-spring-boot-starter@1.0.58
 - pkg:maven/com.netease.nim/camellia-redis-proxy-zk-registry-spring-boot-starter@1.0.58?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-proxy-zk-registry-spring-boot-starter@1.0.59
+- pkg:maven/com.netease.nim/camellia-redis-proxy-zk-registry-spring-boot-starter@1.0.59?classifier=sources
 - pkg:maven/com.netease.nim/camellia-redis-proxy-zk-registry-spring-boot-starter@1.0.9
 - pkg:maven/com.netease.nim/camellia-redis-proxy-zk-registry-spring-boot-starter@1.0.9?classifier=sources

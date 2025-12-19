@@ -1,4 +1,5 @@
 - pkg:maven/org.dockbox.hartshorn/hartshorn-commands@22.1?classifier=sources
 - pkg:maven/org.dockbox.hartshorn/hartshorn-commands@22.2?classifier=sources
+- pkg:maven/org.dockbox.hartshorn/hartshorn-commands@22.3.1?classifier=sources
 - pkg:maven/org.dockbox.hartshorn/hartshorn-commands@22.3?classifier=sources
 - pkg:maven/org.dockbox.hartshorn/hartshorn-commands@4.2.4?classifier=sources

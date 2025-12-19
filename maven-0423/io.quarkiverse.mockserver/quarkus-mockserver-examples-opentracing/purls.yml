@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.mockserver/quarkus-mockserver-examples-opentracing@0.2.1
+- pkg:maven/io.quarkiverse.mockserver/quarkus-mockserver-examples-opentracing@0.2.1?classifier=sources

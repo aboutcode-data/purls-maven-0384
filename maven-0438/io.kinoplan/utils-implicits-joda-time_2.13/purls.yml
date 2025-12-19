@@ -1,2 +1,4 @@
 - pkg:maven/io.kinoplan/utils-implicits-joda-time_2.13@0.0.10
 - pkg:maven/io.kinoplan/utils-implicits-joda-time_2.13@0.0.10?classifier=sources
+- pkg:maven/io.kinoplan/utils-implicits-joda-time_2.13@0.0.11
+- pkg:maven/io.kinoplan/utils-implicits-joda-time_2.13@0.0.11?classifier=sources

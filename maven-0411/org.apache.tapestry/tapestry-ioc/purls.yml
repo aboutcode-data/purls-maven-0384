@@ -129,3 +129,4 @@
 - pkg:maven/org.apache.tapestry/tapestry-ioc@5.8.0
 - pkg:maven/org.apache.tapestry/tapestry-ioc@5.8.0?classifier=sources
 - pkg:maven/org.apache.tapestry/tapestry-ioc@5.8.1?classifier=sources
+- pkg:maven/org.apache.tapestry/tapestry-ioc@5.8.2?classifier=sources

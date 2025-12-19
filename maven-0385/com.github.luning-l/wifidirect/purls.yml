@@ -2,3 +2,7 @@
 - pkg:maven/com.github.luning-l/wifidirect@0.0.2?type=aar
 - pkg:maven/com.github.luning-l/wifidirect@0.0.3?type=aar
 - pkg:maven/com.github.luning-l/wifidirect@0.0.4?type=aar
+- pkg:maven/com.github.luning-l/wifidirect@0.0.5?type=aar
+- pkg:maven/com.github.luning-l/wifidirect@0.0.6?type=aar
+- pkg:maven/com.github.luning-l/wifidirect@0.0.7?type=aar
+- pkg:maven/com.github.luning-l/wifidirect@0.0.8?type=aar

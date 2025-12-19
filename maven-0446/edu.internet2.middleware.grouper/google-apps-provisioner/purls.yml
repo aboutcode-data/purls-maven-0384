@@ -96,6 +96,10 @@
 - pkg:maven/edu.internet2.middleware.grouper/google-apps-provisioner@2.5.60?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/google-apps-provisioner@2.5.61
 - pkg:maven/edu.internet2.middleware.grouper/google-apps-provisioner@2.5.61?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/google-apps-provisioner@2.5.62
+- pkg:maven/edu.internet2.middleware.grouper/google-apps-provisioner@2.5.62?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/google-apps-provisioner@2.5.63
+- pkg:maven/edu.internet2.middleware.grouper/google-apps-provisioner@2.5.63?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/google-apps-provisioner@2.6.0
 - pkg:maven/edu.internet2.middleware.grouper/google-apps-provisioner@2.6.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/google-apps-provisioner@2.6.1

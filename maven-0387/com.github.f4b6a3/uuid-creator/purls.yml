@@ -194,3 +194,7 @@
 - pkg:maven/com.github.f4b6a3/uuid-creator@4.6.0?classifier=sources
 - pkg:maven/com.github.f4b6a3/uuid-creator@4.6.1
 - pkg:maven/com.github.f4b6a3/uuid-creator@4.6.1?classifier=sources
+- pkg:maven/com.github.f4b6a3/uuid-creator@5.0.0
+- pkg:maven/com.github.f4b6a3/uuid-creator@5.0.0?classifier=sources
+- pkg:maven/com.github.f4b6a3/uuid-creator@5.1.0
+- pkg:maven/com.github.f4b6a3/uuid-creator@5.1.0?classifier=sources

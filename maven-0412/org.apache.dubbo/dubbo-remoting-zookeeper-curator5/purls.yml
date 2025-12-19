@@ -4,6 +4,8 @@
 - pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@2.7.14?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@2.7.15
 - pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@2.7.15?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@2.7.16
+- pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@2.7.16?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@3.0.2
 - pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@3.0.2.1
 - pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@3.0.2.1?classifier=sources
@@ -18,3 +20,5 @@
 - pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@3.0.7?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@3.0.8
 - pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@3.0.8?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@3.0.9
+- pkg:maven/org.apache.dubbo/dubbo-remoting-zookeeper-curator5@3.0.9?classifier=sources

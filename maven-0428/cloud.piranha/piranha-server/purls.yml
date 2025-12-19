@@ -52,3 +52,7 @@
 - pkg:maven/cloud.piranha/piranha-server@22.4.0?type=zip
 - pkg:maven/cloud.piranha/piranha-server@22.5.0?classifier=sources
 - pkg:maven/cloud.piranha/piranha-server@22.5.0?type=zip
+- pkg:maven/cloud.piranha/piranha-server@22.6.0?classifier=sources
+- pkg:maven/cloud.piranha/piranha-server@22.6.0?type=zip
+- pkg:maven/cloud.piranha/piranha-server@22.7.0?classifier=sources
+- pkg:maven/cloud.piranha/piranha-server@22.7.0?type=zip

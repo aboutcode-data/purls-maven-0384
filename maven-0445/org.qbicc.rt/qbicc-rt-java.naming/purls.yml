@@ -1,0 +1,6 @@
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.30
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.30?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.31
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.31?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.32
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.naming@17.alpha.0.32?classifier=sources

@@ -19,3 +19,8 @@
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit-jupiter@2.8.4?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit-jupiter@2.8.53?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit-jupiter@2.8.5?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit-jupiter@3.0.0?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit-jupiter@3.0.5?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit-jupiter@3.1.0?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit-jupiter@3.2.0?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit-jupiter@3.2.9?classifier=sources

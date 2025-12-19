@@ -26,3 +26,9 @@
 - pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2110.07.220316?classifier=sources
 - pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2110.07.220323
 - pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2110.07.220323?classifier=sources
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2110.07.220525
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2110.07.220525?classifier=sources
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2110.07.220526
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2110.07.220526?classifier=sources
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2112.03.220528
+- pkg:maven/com.github.liuzhenghui/weaver-ecology-core@9.00.2112.03.220528?classifier=sources

@@ -70,6 +70,10 @@
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.16.15?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.16.16
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.16.16?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.16.17
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.16.17?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.16.18
+- pkg:maven/us.fatehi/schemacrawler-diagram@16.16.18?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.16.3
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.16.3?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-diagram@16.16.4

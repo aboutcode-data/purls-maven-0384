@@ -16,3 +16,5 @@
 - pkg:maven/com.blazebit/blaze-expression-declarative-excel@1.0.0-Alpha28?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-declarative-excel@1.0.0-Alpha29
 - pkg:maven/com.blazebit/blaze-expression-declarative-excel@1.0.0-Alpha29?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-declarative-excel@1.0.0-Alpha31
+- pkg:maven/com.blazebit/blaze-expression-declarative-excel@1.0.0-Alpha31?classifier=sources

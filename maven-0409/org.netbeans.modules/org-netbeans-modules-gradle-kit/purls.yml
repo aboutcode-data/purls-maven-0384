@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-kit@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-kit@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-kit@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-kit@RELEASE140?classifier=sources

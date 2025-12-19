@@ -3,6 +3,10 @@
 - pkg:maven/io.snappydata/spark-jobserver_2.11@0.6.2.10?classifier=sources
 - pkg:maven/io.snappydata/spark-jobserver_2.11@0.6.2.11
 - pkg:maven/io.snappydata/spark-jobserver_2.11@0.6.2.11?classifier=sources
+- pkg:maven/io.snappydata/spark-jobserver_2.11@0.6.2.12
+- pkg:maven/io.snappydata/spark-jobserver_2.11@0.6.2.12?classifier=sources
+- pkg:maven/io.snappydata/spark-jobserver_2.11@0.6.2.13
+- pkg:maven/io.snappydata/spark-jobserver_2.11@0.6.2.13?classifier=sources
 - pkg:maven/io.snappydata/spark-jobserver_2.11@0.6.2.3
 - pkg:maven/io.snappydata/spark-jobserver_2.11@0.6.2.3?classifier=sources
 - pkg:maven/io.snappydata/spark-jobserver_2.11@0.6.2.5

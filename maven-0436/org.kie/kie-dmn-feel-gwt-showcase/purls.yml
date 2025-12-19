@@ -50,6 +50,10 @@
 - pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@7.69.0.Final?type=war
 - pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@7.70.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@7.70.0.Final?type=war
+- pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@7.71.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@7.71.0.Final?type=war
+- pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@7.72.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@7.72.0.Final?type=war
 - pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@8.13.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@8.13.0.Beta?type=war
 - pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@8.14.0.Beta?classifier=sources
@@ -76,3 +80,7 @@
 - pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@8.22.0.Beta?type=war
 - pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@8.22.1.Beta?classifier=sources
 - pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@8.22.1.Beta?type=war
+- pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@8.23.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@8.23.0.Beta?type=war
+- pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@8.24.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-feel-gwt-showcase@8.24.0.Beta?type=war
