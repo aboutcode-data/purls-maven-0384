@@ -1,0 +1,2 @@
+- pkg:maven/ai.h2o/libtorch-bundle@1.9.0-alpha-3
+- pkg:maven/ai.h2o/libtorch-bundle@1.9.0-alpha-3?classifier=sources

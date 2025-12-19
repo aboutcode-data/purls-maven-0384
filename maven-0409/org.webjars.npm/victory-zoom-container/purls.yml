@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/victory-zoom-container@36.6.8
+- pkg:maven/org.webjars.npm/victory-zoom-container@36.6.8?classifier=sources

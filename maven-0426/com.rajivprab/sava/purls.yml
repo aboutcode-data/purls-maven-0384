@@ -156,3 +156,7 @@
 - pkg:maven/com.rajivprab/sava@8.4.0?classifier=sources
 - pkg:maven/com.rajivprab/sava@8.5.0
 - pkg:maven/com.rajivprab/sava@8.5.0?classifier=sources
+- pkg:maven/com.rajivprab/sava@8.6.0
+- pkg:maven/com.rajivprab/sava@8.6.0?classifier=sources
+- pkg:maven/com.rajivprab/sava@8.7.0
+- pkg:maven/com.rajivprab/sava@8.7.0?classifier=sources

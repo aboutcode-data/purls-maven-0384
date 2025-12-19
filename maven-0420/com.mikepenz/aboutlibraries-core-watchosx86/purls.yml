@@ -20,3 +20,4 @@
 - pkg:maven/com.mikepenz/aboutlibraries-core-watchosx86@10.4.0?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core-watchosx86@10.4.1-a01?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core-watchosx86@10.5.0?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-core-watchosx86@10.5.1?classifier=sources

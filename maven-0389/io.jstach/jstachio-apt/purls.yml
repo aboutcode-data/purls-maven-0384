@@ -1,0 +1,2 @@
+- pkg:maven/io.jstach/jstachio-apt@0.6.0
+- pkg:maven/io.jstach/jstachio-apt@0.6.0?classifier=sources

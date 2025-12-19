@@ -125,6 +125,9 @@
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.3
+- pkg:maven/com.liferay/com.liferay.style.book.service@2.0.31
+- pkg:maven/com.liferay/com.liferay.style.book.service@2.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.style.book.service@2.0.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.style.book.service@2.0.4

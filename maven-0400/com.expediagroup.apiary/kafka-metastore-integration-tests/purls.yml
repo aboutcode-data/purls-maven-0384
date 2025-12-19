@@ -15,3 +15,6 @@
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.1
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.2
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.3
+- pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.4
+- pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.5
+- pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.6

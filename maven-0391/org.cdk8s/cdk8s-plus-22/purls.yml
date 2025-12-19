@@ -600,6 +600,16 @@
 - pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.152?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.153
 - pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.153?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.154
+- pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.154?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.155
+- pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.155?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.156
+- pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.156?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.157
+- pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.157?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.158
+- pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.158?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.15?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.16
 - pkg:maven/org.cdk8s/cdk8s-plus-22@2.0.0-rc.16?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/edu.illinois/nondex-core@1.1.2
 - pkg:maven/edu.illinois/nondex-core@1.1.2?classifier=sources
+- pkg:maven/edu.illinois/nondex-core@2.1
+- pkg:maven/edu.illinois/nondex-core@2.1.1
+- pkg:maven/edu.illinois/nondex-core@2.1.1?classifier=sources
+- pkg:maven/edu.illinois/nondex-core@2.1?classifier=sources

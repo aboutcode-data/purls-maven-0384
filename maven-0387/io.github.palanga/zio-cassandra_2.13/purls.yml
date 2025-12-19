@@ -1,0 +1,2 @@
+- pkg:maven/io.github.palanga/zio-cassandra_2.13@0.10.0
+- pkg:maven/io.github.palanga/zio-cassandra_2.13@0.10.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20221015-beta
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20221015-beta?classifier=sources

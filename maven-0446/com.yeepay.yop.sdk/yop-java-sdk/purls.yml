@@ -93,6 +93,10 @@
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk@4.2.3
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk@4.2.3-jdk6on
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk@4.2.3-jdk6on?classifier=sources
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk@4.2.3.1-jdk6on
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk@4.2.3.1-jdk6on?classifier=sources
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk@4.2.3?classifier=sources
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk@4.3.0
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk@4.3.1
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk@4.3.2
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk@4.3.3

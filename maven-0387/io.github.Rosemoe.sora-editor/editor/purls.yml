@@ -30,6 +30,9 @@
 - pkg:maven/io.github.Rosemoe.sora-editor/editor@0.16.5?classifier=sources
 - pkg:maven/io.github.Rosemoe.sora-editor/editor@0.17.0?classifier=sources
 - pkg:maven/io.github.Rosemoe.sora-editor/editor@0.17.1?classifier=sources
+- pkg:maven/io.github.Rosemoe.sora-editor/editor@0.17.2?classifier=sources
+- pkg:maven/io.github.Rosemoe.sora-editor/editor@0.18.0?classifier=sources
+- pkg:maven/io.github.Rosemoe.sora-editor/editor@0.18.1?classifier=sources
 - pkg:maven/io.github.Rosemoe.sora-editor/editor@0.6.0-dev-1?classifier=sources
 - pkg:maven/io.github.Rosemoe.sora-editor/editor@0.6.0-dev-2?classifier=sources
 - pkg:maven/io.github.Rosemoe.sora-editor/editor@0.6.0-dev-3?classifier=sources

@@ -5,4 +5,6 @@
 - pkg:maven/io.spinnaker.halyard/halyard-proto@1.49.0?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-proto@1.50.0?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-proto@1.51.0?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-proto@1.52.0?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-proto@1.53.0?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-proto@version-1.44.1?classifier=sources

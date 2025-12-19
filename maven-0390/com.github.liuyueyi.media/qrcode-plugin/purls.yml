@@ -14,3 +14,5 @@
 - pkg:maven/com.github.liuyueyi.media/qrcode-plugin@2.6.3?classifier=sources
 - pkg:maven/com.github.liuyueyi.media/qrcode-plugin@3.0.0
 - pkg:maven/com.github.liuyueyi.media/qrcode-plugin@3.0.0?classifier=sources
+- pkg:maven/com.github.liuyueyi.media/qrcode-plugin@3.0.1-beta
+- pkg:maven/com.github.liuyueyi.media/qrcode-plugin@3.0.1-beta?classifier=sources

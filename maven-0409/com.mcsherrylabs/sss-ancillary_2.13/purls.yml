@@ -1,0 +1,4 @@
+- pkg:maven/com.mcsherrylabs/sss-ancillary_2.13@1.25
+- pkg:maven/com.mcsherrylabs/sss-ancillary_2.13@1.25?classifier=sources
+- pkg:maven/com.mcsherrylabs/sss-ancillary_2.13@1.26
+- pkg:maven/com.mcsherrylabs/sss-ancillary_2.13@1.26?classifier=sources

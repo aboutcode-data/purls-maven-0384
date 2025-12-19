@@ -6,3 +6,5 @@
 - pkg:maven/net.sf.jptools/jptools@1.7.5?classifier=sources
 - pkg:maven/net.sf.jptools/jptools@1.7.6?classifier=sources
 - pkg:maven/net.sf.jptools/jptools@1.7.7?classifier=sources
+- pkg:maven/net.sf.jptools/jptools@1.7.8?classifier=sources
+- pkg:maven/net.sf.jptools/jptools@1.7.9?classifier=sources

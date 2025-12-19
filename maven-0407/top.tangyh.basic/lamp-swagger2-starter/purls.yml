@@ -18,3 +18,5 @@
 - pkg:maven/top.tangyh.basic/lamp-swagger2-starter@3.6.2?classifier=sources
 - pkg:maven/top.tangyh.basic/lamp-swagger2-starter@3.7.0
 - pkg:maven/top.tangyh.basic/lamp-swagger2-starter@3.7.0?classifier=sources
+- pkg:maven/top.tangyh.basic/lamp-swagger2-starter@3.8.1
+- pkg:maven/top.tangyh.basic/lamp-swagger2-starter@3.8.1?classifier=sources

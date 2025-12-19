@@ -1,0 +1,2 @@
+- pkg:maven/io.github.gkojiv/developerkit@1.0T
+- pkg:maven/io.github.gkojiv/developerkit@1.0T?classifier=sources

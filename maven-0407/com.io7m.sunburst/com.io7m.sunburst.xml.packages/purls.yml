@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.sunburst/com.io7m.sunburst.xml.packages@0.0.1
+- pkg:maven/com.io7m.sunburst/com.io7m.sunburst.xml.packages@0.0.1?classifier=sources

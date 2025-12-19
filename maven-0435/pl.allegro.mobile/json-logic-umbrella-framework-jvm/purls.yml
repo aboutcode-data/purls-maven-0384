@@ -16,3 +16,5 @@
 - pkg:maven/pl.allegro.mobile/json-logic-umbrella-framework-jvm@0.3.0?classifier=sources
 - pkg:maven/pl.allegro.mobile/json-logic-umbrella-framework-jvm@1.0.0?classifier=sources
 - pkg:maven/pl.allegro.mobile/json-logic-umbrella-framework-jvm@1.1.0?classifier=sources
+- pkg:maven/pl.allegro.mobile/json-logic-umbrella-framework-jvm@1.1.1?classifier=sources
+- pkg:maven/pl.allegro.mobile/json-logic-umbrella-framework-jvm@1.1.2?classifier=sources

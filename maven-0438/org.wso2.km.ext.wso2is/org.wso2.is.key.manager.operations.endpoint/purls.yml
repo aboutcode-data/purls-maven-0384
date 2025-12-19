@@ -96,3 +96,5 @@
 - pkg:maven/org.wso2.km.ext.wso2is/org.wso2.is.key.manager.operations.endpoint@1.5.3?type=war
 - pkg:maven/org.wso2.km.ext.wso2is/org.wso2.is.key.manager.operations.endpoint@1.5.4?classifier=sources
 - pkg:maven/org.wso2.km.ext.wso2is/org.wso2.is.key.manager.operations.endpoint@1.5.4?type=war
+- pkg:maven/org.wso2.km.ext.wso2is/org.wso2.is.key.manager.operations.endpoint@1.6.0?classifier=sources
+- pkg:maven/org.wso2.km.ext.wso2is/org.wso2.is.key.manager.operations.endpoint@1.6.0?type=war

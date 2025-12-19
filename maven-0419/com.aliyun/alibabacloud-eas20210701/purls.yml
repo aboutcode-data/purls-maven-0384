@@ -8,3 +8,5 @@
 - pkg:maven/com.aliyun/alibabacloud-eas20210701@1.1.6?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-eas20210701@1.1.7
 - pkg:maven/com.aliyun/alibabacloud-eas20210701@1.1.7?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-eas20210701@2.0.1
+- pkg:maven/com.aliyun/alibabacloud-eas20210701@2.0.1?classifier=sources

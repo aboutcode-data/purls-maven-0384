@@ -61,6 +61,12 @@
 - pkg:maven/network.idu.acapy/aries-client-python@0.7.29?classifier=sources
 - pkg:maven/network.idu.acapy/aries-client-python@0.7.2?classifier=sources
 - pkg:maven/network.idu.acapy/aries-client-python@0.7.3
+- pkg:maven/network.idu.acapy/aries-client-python@0.7.30
+- pkg:maven/network.idu.acapy/aries-client-python@0.7.30?classifier=sources
+- pkg:maven/network.idu.acapy/aries-client-python@0.7.31
+- pkg:maven/network.idu.acapy/aries-client-python@0.7.31?classifier=sources
+- pkg:maven/network.idu.acapy/aries-client-python@0.7.32
+- pkg:maven/network.idu.acapy/aries-client-python@0.7.32?classifier=sources
 - pkg:maven/network.idu.acapy/aries-client-python@0.7.3?classifier=sources
 - pkg:maven/network.idu.acapy/aries-client-python@0.7.4
 - pkg:maven/network.idu.acapy/aries-client-python@0.7.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sumologic/sumologic-provider-sumologic@2.19.1
+- pkg:maven/com.sumologic/sumologic-provider-sumologic@2.19.1?classifier=sources

@@ -76,6 +76,8 @@
 - pkg:maven/com.github.paulcwarren/spring-versions-jpa@2.4.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-versions-jpa@2.5.0
 - pkg:maven/com.github.paulcwarren/spring-versions-jpa@2.5.0?classifier=sources
+- pkg:maven/com.github.paulcwarren/spring-versions-jpa@2.6.0
+- pkg:maven/com.github.paulcwarren/spring-versions-jpa@2.6.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-versions-jpa@v1.2.0
 - pkg:maven/com.github.paulcwarren/spring-versions-jpa@v1.2.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-versions-jpa@v1.2.3

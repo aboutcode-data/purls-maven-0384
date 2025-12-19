@@ -70,6 +70,12 @@
 - pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.132.8?classifier=sources
 - pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.133.7
 - pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.133.7?classifier=sources
+- pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.134.5
+- pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.134.5?classifier=sources
+- pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.135.3
+- pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.135.3?classifier=sources
+- pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.136.4
+- pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.136.4?classifier=sources
 - pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.14.5
 - pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.14.5?classifier=sources
 - pkg:maven/com.sap.cloud/neo-javaee7-wp-api@1.15.11.1

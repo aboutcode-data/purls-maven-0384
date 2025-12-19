@@ -1,2 +1,4 @@
 - pkg:maven/com.github.gantsign.maven.plugin-tools/kotlin-maven-plugin-tools@1.0.0
 - pkg:maven/com.github.gantsign.maven.plugin-tools/kotlin-maven-plugin-tools@1.0.0?classifier=sources
+- pkg:maven/com.github.gantsign.maven.plugin-tools/kotlin-maven-plugin-tools@1.1.0
+- pkg:maven/com.github.gantsign.maven.plugin-tools/kotlin-maven-plugin-tools@1.1.0?classifier=sources

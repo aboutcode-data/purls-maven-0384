@@ -20,3 +20,5 @@
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-generate-entity-models-maven-plugin@16.0.400.1
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-generate-entity-models-maven-plugin@16.0.400.1?classifier=sources
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-generate-entity-models-maven-plugin@16.0.400?classifier=sources
+- pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-generate-entity-models-maven-plugin@16.1.100
+- pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-generate-entity-models-maven-plugin@16.1.100?classifier=sources

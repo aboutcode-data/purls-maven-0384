@@ -1,0 +1,2 @@
+- pkg:maven/com.github.auties00/protobuf-base@1.17
+- pkg:maven/com.github.auties00/protobuf-base@1.17?classifier=sources

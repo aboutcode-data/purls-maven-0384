@@ -94,3 +94,11 @@
 - pkg:maven/io.trino/trino-matching@397?classifier=sources
 - pkg:maven/io.trino/trino-matching@398
 - pkg:maven/io.trino/trino-matching@398?classifier=sources
+- pkg:maven/io.trino/trino-matching@399
+- pkg:maven/io.trino/trino-matching@399?classifier=sources
+- pkg:maven/io.trino/trino-matching@400
+- pkg:maven/io.trino/trino-matching@400?classifier=sources
+- pkg:maven/io.trino/trino-matching@401
+- pkg:maven/io.trino/trino-matching@401?classifier=sources
+- pkg:maven/io.trino/trino-matching@402
+- pkg:maven/io.trino/trino-matching@402?classifier=sources

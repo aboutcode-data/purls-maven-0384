@@ -155,6 +155,7 @@
 - pkg:maven/com.palantir.tritium/tritium-tracing@0.54.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-tracing@0.55.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-tracing@0.56.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-tracing@0.57.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-tracing@0.6.0
 - pkg:maven/com.palantir.tritium/tritium-tracing@0.6.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-tracing@0.6.1

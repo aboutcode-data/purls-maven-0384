@@ -10,3 +10,5 @@
 - pkg:maven/com.cognitect.aws/emr-containers@821.2.1107.0?classifier=sources
 - pkg:maven/com.cognitect.aws/emr-containers@823.2.1216.0
 - pkg:maven/com.cognitect.aws/emr-containers@823.2.1216.0?classifier=sources
+- pkg:maven/com.cognitect.aws/emr-containers@825.2.1250.0
+- pkg:maven/com.cognitect.aws/emr-containers@825.2.1250.0?classifier=sources

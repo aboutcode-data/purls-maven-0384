@@ -8,3 +8,5 @@
 - pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-conversion@1.1.2-RELEASE?classifier=sources
 - pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-conversion@1.1.3-RELEASE
 - pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-conversion@1.1.3-RELEASE?classifier=sources
+- pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-conversion@1.1.4-RELEASE
+- pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-conversion@1.1.4-RELEASE?classifier=sources

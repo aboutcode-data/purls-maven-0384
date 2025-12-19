@@ -1,5 +1,13 @@
 - pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.10
 - pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.10?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.11
+- pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.11?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.12
+- pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.12?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.13
+- pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.13?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.14
+- pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.14?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.5
 - pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.5?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-syncer-common@1.11.6

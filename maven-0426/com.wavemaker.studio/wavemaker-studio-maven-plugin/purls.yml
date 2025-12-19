@@ -22,6 +22,7 @@
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@10.15.2?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@10.15.3.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@10.15.3?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@10.15.4.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@10.6.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@10.6.0?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@10.6.1.ee?classifier=sources
@@ -61,5 +62,6 @@
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@11.1.2?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@11.1.3.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@11.1.3?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@11.1.4.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@9.9.9-20201009170109?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-maven-plugin@9.9.9-20201011200802?classifier=sources

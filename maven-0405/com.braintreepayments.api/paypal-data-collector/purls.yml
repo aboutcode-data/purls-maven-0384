@@ -1,3 +1,7 @@
 - pkg:maven/com.braintreepayments.api/paypal-data-collector@4.14.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/paypal-data-collector@4.15.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/paypal-data-collector@4.16.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/paypal-data-collector@4.17.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/paypal-data-collector@4.18.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/paypal-data-collector@4.19.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/paypal-data-collector@4.20.0?classifier=sources

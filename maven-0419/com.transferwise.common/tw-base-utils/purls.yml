@@ -8,3 +8,4 @@
 - pkg:maven/com.transferwise.common/tw-base-utils@1.6.0?classifier=sources
 - pkg:maven/com.transferwise.common/tw-base-utils@1.7.1?classifier=sources
 - pkg:maven/com.transferwise.common/tw-base-utils@1.8.0?classifier=sources
+- pkg:maven/com.transferwise.common/tw-base-utils@1.8.1?classifier=sources

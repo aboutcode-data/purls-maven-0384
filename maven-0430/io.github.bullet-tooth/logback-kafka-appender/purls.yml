@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bullet-tooth/logback-kafka-appender@0.3.0
+- pkg:maven/io.github.bullet-tooth/logback-kafka-appender@0.3.0?classifier=sources

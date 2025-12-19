@@ -1,3 +1,17 @@
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.10
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.10-M1
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.10-M2
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.10-M3
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.11
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.11-M1
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.11-M2
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.12
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.13
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.13-M1
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.13-M2
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.14-M1
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.14-M2
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.14-M3
 - pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.4
 - pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.4-M1
 - pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.4-M2
@@ -15,4 +29,9 @@
 - pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.7-M1
 - pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.7-M2
 - pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.7-M3
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.8
 - pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.8-M1
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.8-M2
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.8-M3
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.10.9
+- pkg:maven/org.noear/solon.boot.tomcat.add.jsp@1.11.0

@@ -26,3 +26,4 @@
 - pkg:maven/io.yupiik.batch/yupiik-batch-ui-frontend@0.0.8
 - pkg:maven/io.yupiik.batch/yupiik-batch-ui-frontend@0.0.9
 - pkg:maven/io.yupiik.batch/yupiik-batch-ui-frontend@1.0.0
+- pkg:maven/io.yupiik.batch/yupiik-batch-ui-frontend@1.0.1

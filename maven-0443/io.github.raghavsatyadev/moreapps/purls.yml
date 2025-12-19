@@ -3,3 +3,4 @@
 - pkg:maven/io.github.raghavsatyadev/moreapps@2.2.2?classifier=sources
 - pkg:maven/io.github.raghavsatyadev/moreapps@2.2.3?classifier=sources
 - pkg:maven/io.github.raghavsatyadev/moreapps@2.2.4?classifier=sources
+- pkg:maven/io.github.raghavsatyadev/moreapps@2.2.9?classifier=sources

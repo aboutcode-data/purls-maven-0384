@@ -84,6 +84,8 @@
 - pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@7.17.5?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@7.17.6
 - pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@7.17.6?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@7.17.7
+- pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@7.17.7?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@7.8.1
 - pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@7.8.1?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@7.9.0
@@ -140,3 +142,7 @@
 - pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@8.4.2?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@8.4.3
 - pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@8.4.3?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@8.5.0
+- pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@8.5.0?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@8.5.1
+- pkg:maven/org.elasticsearch.plugin/x-pack-sql-jdbc@8.5.1?classifier=sources

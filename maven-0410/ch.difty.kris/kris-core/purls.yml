@@ -1,0 +1,2 @@
+- pkg:maven/ch.difty.kris/kris-core@0.4.0?classifier=sources
+- pkg:maven/ch.difty.kris/kris-core@0.4.1?classifier=sources

@@ -224,8 +224,16 @@
 - pkg:maven/software.amazon.awscdk/pinpointemail@1.176.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/pinpointemail@1.177.0
 - pkg:maven/software.amazon.awscdk/pinpointemail@1.177.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pinpointemail@1.178.0
+- pkg:maven/software.amazon.awscdk/pinpointemail@1.178.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pinpointemail@1.179.0
+- pkg:maven/software.amazon.awscdk/pinpointemail@1.179.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/pinpointemail@1.18.0
 - pkg:maven/software.amazon.awscdk/pinpointemail@1.18.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pinpointemail@1.180.0
+- pkg:maven/software.amazon.awscdk/pinpointemail@1.180.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pinpointemail@1.181.0
+- pkg:maven/software.amazon.awscdk/pinpointemail@1.181.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/pinpointemail@1.19.0
 - pkg:maven/software.amazon.awscdk/pinpointemail@1.19.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/pinpointemail@1.2.0.DEVPREVIEW

@@ -18,3 +18,7 @@
 - pkg:maven/com.absmartly.sdk/core-api@1.4.0?classifier=sources
 - pkg:maven/com.absmartly.sdk/core-api@1.5.0
 - pkg:maven/com.absmartly.sdk/core-api@1.5.0?classifier=sources
+- pkg:maven/com.absmartly.sdk/core-api@1.5.1
+- pkg:maven/com.absmartly.sdk/core-api@1.5.1?classifier=sources
+- pkg:maven/com.absmartly.sdk/core-api@1.5.2
+- pkg:maven/com.absmartly.sdk/core-api@1.5.2?classifier=sources

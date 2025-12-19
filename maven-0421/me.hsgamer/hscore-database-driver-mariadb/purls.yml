@@ -1,0 +1,2 @@
+- pkg:maven/me.hsgamer/hscore-database-driver-mariadb@4.1.30
+- pkg:maven/me.hsgamer/hscore-database-driver-mariadb@4.1.30?classifier=sources

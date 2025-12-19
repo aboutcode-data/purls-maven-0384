@@ -177,3 +177,4 @@
 - pkg:maven/org.craftercms/crafter-deployer@4.0.0-rc2E
 - pkg:maven/org.craftercms/crafter-deployer@4.0.0-rc2E?classifier=sources
 - pkg:maven/org.craftercms/crafter-deployer@4.0.1
+- pkg:maven/org.craftercms/crafter-deployer@4.0.2

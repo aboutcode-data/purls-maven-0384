@@ -1,0 +1,4 @@
+- pkg:maven/io.github.yyxxhh/canal-spring-boot-starter@1.2.6-RELEASE
+- pkg:maven/io.github.yyxxhh/canal-spring-boot-starter@1.2.6-RELEASE?classifier=sources
+- pkg:maven/io.github.yyxxhh/canal-spring-boot-starter@1.2.7-RELEASE
+- pkg:maven/io.github.yyxxhh/canal-spring-boot-starter@1.2.7-RELEASE?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.intuit.graphql.adapter/rest-adapter@2.0.2
+- pkg:maven/com.intuit.graphql.adapter/rest-adapter@2.0.2?classifier=sources
+- pkg:maven/com.intuit.graphql.adapter/rest-adapter@2.0.4
+- pkg:maven/com.intuit.graphql.adapter/rest-adapter@2.0.4?classifier=sources

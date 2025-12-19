@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/aiworkspace20210204@1.2.4
 - pkg:maven/com.aliyun/aiworkspace20210204@1.2.4?classifier=sources
+- pkg:maven/com.aliyun/aiworkspace20210204@1.2.8
+- pkg:maven/com.aliyun/aiworkspace20210204@1.2.8?classifier=sources

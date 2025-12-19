@@ -76,3 +76,5 @@
 - pkg:maven/edu.berkeley.cs/treadle_2.12@1.5.3?classifier=sources
 - pkg:maven/edu.berkeley.cs/treadle_2.12@1.5.4
 - pkg:maven/edu.berkeley.cs/treadle_2.12@1.5.4?classifier=sources
+- pkg:maven/edu.berkeley.cs/treadle_2.12@1.5.5
+- pkg:maven/edu.berkeley.cs/treadle_2.12@1.5.5?classifier=sources

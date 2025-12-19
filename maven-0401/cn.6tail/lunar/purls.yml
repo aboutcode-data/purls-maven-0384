@@ -73,6 +73,10 @@
 - pkg:maven/cn.6tail/lunar@1.2.23?classifier=sources
 - pkg:maven/cn.6tail/lunar@1.2.24
 - pkg:maven/cn.6tail/lunar@1.2.24?classifier=sources
+- pkg:maven/cn.6tail/lunar@1.2.25
+- pkg:maven/cn.6tail/lunar@1.2.25?classifier=sources
+- pkg:maven/cn.6tail/lunar@1.2.26
+- pkg:maven/cn.6tail/lunar@1.2.26?classifier=sources
 - pkg:maven/cn.6tail/lunar@1.2.2?classifier=sources
 - pkg:maven/cn.6tail/lunar@1.2.3
 - pkg:maven/cn.6tail/lunar@1.2.3?classifier=sources

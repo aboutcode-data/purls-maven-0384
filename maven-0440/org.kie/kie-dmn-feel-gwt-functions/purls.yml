@@ -98,3 +98,5 @@
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.28.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.29.0.Final
 - pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.29.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.30.0.Final
+- pkg:maven/org.kie/kie-dmn-feel-gwt-functions@8.30.0.Final?classifier=sources

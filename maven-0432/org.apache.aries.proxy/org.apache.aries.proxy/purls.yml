@@ -28,6 +28,9 @@
 - pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy@1.1.12
 - pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy@1.1.12?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy@1.1.12?classifier=sources
+- pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy@1.1.13
+- pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy@1.1.13?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy@1.1.13?classifier=sources
 - pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy@1.1.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy@1.1.1?classifier=sources
 - pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy@1.1.2

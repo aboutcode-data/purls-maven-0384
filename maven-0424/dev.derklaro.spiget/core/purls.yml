@@ -1,1 +1,2 @@
 - pkg:maven/dev.derklaro.spiget/core@1.0.0?classifier=sources
+- pkg:maven/dev.derklaro.spiget/core@2.0.0?classifier=sources
