@@ -44,3 +44,5 @@
 - pkg:maven/org.webjars.npm/vuex@4.0.0-beta.4?classifier=sources
 - pkg:maven/org.webjars.npm/vuex@4.0.0-rc.2
 - pkg:maven/org.webjars.npm/vuex@4.0.0-rc.2?classifier=sources
+- pkg:maven/org.webjars.npm/vuex@4.0.2
+- pkg:maven/org.webjars.npm/vuex@4.0.2?classifier=sources

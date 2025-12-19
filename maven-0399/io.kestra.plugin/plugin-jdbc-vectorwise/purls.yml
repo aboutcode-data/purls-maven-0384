@@ -1,0 +1,1 @@
+- pkg:maven/io.kestra.plugin/plugin-jdbc-vectorwise@0.3.2?classifier=sources

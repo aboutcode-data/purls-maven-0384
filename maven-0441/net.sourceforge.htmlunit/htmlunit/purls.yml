@@ -114,6 +114,8 @@
 - pkg:maven/net.sourceforge.htmlunit/htmlunit@2.55.0?classifier=sources
 - pkg:maven/net.sourceforge.htmlunit/htmlunit@2.56.0
 - pkg:maven/net.sourceforge.htmlunit/htmlunit@2.56.0?classifier=sources
+- pkg:maven/net.sourceforge.htmlunit/htmlunit@2.57.0
+- pkg:maven/net.sourceforge.htmlunit/htmlunit@2.57.0?classifier=sources
 - pkg:maven/net.sourceforge.htmlunit/htmlunit@2.5?classifier=sources
 - pkg:maven/net.sourceforge.htmlunit/htmlunit@2.6
 - pkg:maven/net.sourceforge.htmlunit/htmlunit@2.6?classifier=sources

@@ -13,3 +13,6 @@
 - pkg:maven/com.carto/carto-mobile-sdk@4.4.3-rc.1?classifier=sources
 - pkg:maven/com.carto/carto-mobile-sdk@4.4.3-rc.2?classifier=sources
 - pkg:maven/com.carto/carto-mobile-sdk@4.4.3-rc.3?classifier=sources
+- pkg:maven/com.carto/carto-mobile-sdk@4.4.3?classifier=sources
+- pkg:maven/com.carto/carto-mobile-sdk@4.4.4-rc.1?classifier=sources
+- pkg:maven/com.carto/carto-mobile-sdk@4.4.4?classifier=sources

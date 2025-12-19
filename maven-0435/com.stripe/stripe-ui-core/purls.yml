@@ -1,0 +1,2 @@
+- pkg:maven/com.stripe/stripe-ui-core@19.0.0?classifier=sources
+- pkg:maven/com.stripe/stripe-ui-core@19.1.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/biz.netcentric.filevault.validator/aem-cloud-validator@1.1.0?classifier=sources
 - pkg:maven/biz.netcentric.filevault.validator/aem-cloud-validator@1.2.0
 - pkg:maven/biz.netcentric.filevault.validator/aem-cloud-validator@1.2.0?classifier=sources
+- pkg:maven/biz.netcentric.filevault.validator/aem-cloud-validator@1.2.2
+- pkg:maven/biz.netcentric.filevault.validator/aem-cloud-validator@1.2.2?classifier=sources

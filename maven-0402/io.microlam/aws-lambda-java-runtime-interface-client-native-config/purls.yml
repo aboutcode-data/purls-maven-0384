@@ -1,0 +1,4 @@
+- pkg:maven/io.microlam/aws-lambda-java-runtime-interface-client-native-config@2.0.0
+- pkg:maven/io.microlam/aws-lambda-java-runtime-interface-client-native-config@2.0.0?classifier=sources
+- pkg:maven/io.microlam/aws-lambda-java-runtime-interface-client-native-config@2.0.0_1
+- pkg:maven/io.microlam/aws-lambda-java-runtime-interface-client-native-config@2.0.0_1?classifier=sources

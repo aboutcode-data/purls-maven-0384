@@ -46,3 +46,11 @@
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.79?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.80
 - pkg:maven/com.yahoo.maha/maha-api-jersey@6.80?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.82
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.82?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.83
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.83?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.84
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.84?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.85
+- pkg:maven/com.yahoo.maha/maha-api-jersey@6.85?classifier=sources

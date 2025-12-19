@@ -12,3 +12,4 @@
 - pkg:maven/de.gesellix/docker-remote-api-client@2021-11-27T19-55-00?classifier=sources
 - pkg:maven/de.gesellix/docker-remote-api-client@2021-11-28T00-10-00?classifier=sources
 - pkg:maven/de.gesellix/docker-remote-api-client@2021-12-01T23-14-00?classifier=sources
+- pkg:maven/de.gesellix/docker-remote-api-client@2021-12-18T21-50-00?classifier=sources

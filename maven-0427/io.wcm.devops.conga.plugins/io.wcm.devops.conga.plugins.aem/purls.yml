@@ -70,3 +70,7 @@
 - pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@1.9.2?classifier=sources
 - pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@2.15.0
 - pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@2.15.0?classifier=sources
+- pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@2.16.0
+- pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@2.16.0?classifier=sources
+- pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@2.16.2
+- pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.aem@2.16.2?classifier=sources

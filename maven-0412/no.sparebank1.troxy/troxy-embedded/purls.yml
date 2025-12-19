@@ -12,3 +12,11 @@
 - pkg:maven/no.sparebank1.troxy/troxy-embedded@3.1.146?classifier=sources
 - pkg:maven/no.sparebank1.troxy/troxy-embedded@3.1.149
 - pkg:maven/no.sparebank1.troxy/troxy-embedded@3.1.149?classifier=sources
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.14
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.14?classifier=sources
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.15
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.15?classifier=sources
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.25
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.25?classifier=sources
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.9
+- pkg:maven/no.sparebank1.troxy/troxy-embedded@3.2.9?classifier=sources

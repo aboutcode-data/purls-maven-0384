@@ -1,0 +1,2 @@
+- pkg:maven/gov.nist.secauto.scap.validation/create-file-list-mojo@1.3.6
+- pkg:maven/gov.nist.secauto.scap.validation/create-file-list-mojo@1.3.6?classifier=sources

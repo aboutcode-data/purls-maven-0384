@@ -28,3 +28,9 @@
 - pkg:maven/io.trino/trino-matching@364?classifier=sources
 - pkg:maven/io.trino/trino-matching@365
 - pkg:maven/io.trino/trino-matching@365?classifier=sources
+- pkg:maven/io.trino/trino-matching@366
+- pkg:maven/io.trino/trino-matching@366?classifier=sources
+- pkg:maven/io.trino/trino-matching@367
+- pkg:maven/io.trino/trino-matching@367?classifier=sources
+- pkg:maven/io.trino/trino-matching@368
+- pkg:maven/io.trino/trino-matching@368?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/io.github.yongzheng7/saop-annotation@1.0.0?type=aar
+- pkg:maven/io.github.yongzheng7/saop-annotation@2.0.0?type=aar
+- pkg:maven/io.github.yongzheng7/saop-annotation@3.0.0?type=aar

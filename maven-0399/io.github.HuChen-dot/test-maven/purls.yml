@@ -1,0 +1,2 @@
+- pkg:maven/io.github.HuChen-dot/test-maven@1.2
+- pkg:maven/io.github.HuChen-dot/test-maven@1.2?classifier=sources

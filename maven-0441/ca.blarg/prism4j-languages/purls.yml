@@ -1,0 +1,2 @@
+- pkg:maven/ca.blarg/prism4j-languages@1.0.0
+- pkg:maven/ca.blarg/prism4j-languages@1.0.0?classifier=sources

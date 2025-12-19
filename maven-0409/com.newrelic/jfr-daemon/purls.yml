@@ -9,3 +9,4 @@
 - pkg:maven/com.newrelic/jfr-daemon@1.4.0?classifier=sources
 - pkg:maven/com.newrelic/jfr-daemon@1.5.0?classifier=sources
 - pkg:maven/com.newrelic/jfr-daemon@1.6.0?classifier=sources
+- pkg:maven/com.newrelic/jfr-daemon@1.7.0?classifier=sources

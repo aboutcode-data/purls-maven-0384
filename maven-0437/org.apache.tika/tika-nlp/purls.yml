@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.tika/tika-nlp@1.26?classifier=sources
 - pkg:maven/org.apache.tika/tika-nlp@1.27
 - pkg:maven/org.apache.tika/tika-nlp@1.27?classifier=sources
+- pkg:maven/org.apache.tika/tika-nlp@1.28
+- pkg:maven/org.apache.tika/tika-nlp@1.28?classifier=sources

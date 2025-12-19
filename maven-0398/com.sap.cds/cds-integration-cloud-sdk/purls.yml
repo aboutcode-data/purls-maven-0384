@@ -58,6 +58,8 @@
 - pkg:maven/com.sap.cds/cds-integration-cloud-sdk@1.20.3?classifier=sources
 - pkg:maven/com.sap.cds/cds-integration-cloud-sdk@1.21.0
 - pkg:maven/com.sap.cds/cds-integration-cloud-sdk@1.21.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-integration-cloud-sdk@1.21.1
+- pkg:maven/com.sap.cds/cds-integration-cloud-sdk@1.21.1?classifier=sources
 - pkg:maven/com.sap.cds/cds-integration-cloud-sdk@1.8.1
 - pkg:maven/com.sap.cds/cds-integration-cloud-sdk@1.8.1?classifier=sources
 - pkg:maven/com.sap.cds/cds-integration-cloud-sdk@1.8.3

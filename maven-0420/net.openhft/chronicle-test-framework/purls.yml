@@ -4,3 +4,11 @@
 - pkg:maven/net.openhft/chronicle-test-framework@1.22ea2?classifier=sources
 - pkg:maven/net.openhft/chronicle-test-framework@1.22ea3
 - pkg:maven/net.openhft/chronicle-test-framework@1.22ea3?classifier=sources
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea5
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea5?classifier=sources
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea6
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea6?classifier=sources
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea7
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea7?classifier=sources
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea8
+- pkg:maven/net.openhft/chronicle-test-framework@1.22ea8?classifier=sources

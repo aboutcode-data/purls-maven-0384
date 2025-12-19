@@ -64,3 +64,5 @@
 - pkg:maven/com.okta.sdk/okta-api-swagger-templates@6.0.0?classifier=sources
 - pkg:maven/com.okta.sdk/okta-api-swagger-templates@7.0.0
 - pkg:maven/com.okta.sdk/okta-api-swagger-templates@7.0.0?classifier=sources
+- pkg:maven/com.okta.sdk/okta-api-swagger-templates@8.0.0
+- pkg:maven/com.okta.sdk/okta-api-swagger-templates@8.0.0?classifier=sources

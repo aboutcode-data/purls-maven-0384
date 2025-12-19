@@ -126,6 +126,11 @@
 - pkg:maven/com.graphql-java/graphql-java@0.0.0-2021-12-06T02-39-41-f8dd9d2c?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java@0.0.0-2021-12-06T03-21-21-abbb8564?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java@0.0.0-2021-12-13T00-13-31-399284fc?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java@0.0.0-2021-12-15T03-53-47-4238a164?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java@0.0.0-2021-12-21T07-29-24-f993255a?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java@0.0.0-2021-12-27T03-47-34-309fb9e1?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java@0.0.0-2021-12-27T03-50-27-1ee9630c?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java@0.0.0-2022-01-11T23-37-10-2d522ede?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java@1.2
 - pkg:maven/com.graphql-java/graphql-java@1.2?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java@1.3

@@ -88,3 +88,7 @@
 - pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-api@7.61.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-api@7.62.0.Final
 - pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-api@7.62.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-api@7.63.0.Final
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-api@7.63.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-api@7.64.0.Final
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-api@7.64.0.Final?classifier=sources

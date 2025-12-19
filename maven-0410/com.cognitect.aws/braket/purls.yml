@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/braket@810.2.797.0?classifier=sources
 - pkg:maven/com.cognitect.aws/braket@811.2.934.0
 - pkg:maven/com.cognitect.aws/braket@811.2.934.0?classifier=sources
+- pkg:maven/com.cognitect.aws/braket@814.2.1053.0
+- pkg:maven/com.cognitect.aws/braket@814.2.1053.0?classifier=sources

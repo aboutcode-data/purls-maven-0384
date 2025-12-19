@@ -19,3 +19,4 @@
 - pkg:maven/com.codeborne.replay/framework@1.8.8
 - pkg:maven/com.codeborne.replay/framework@1.8.8?classifier=sources
 - pkg:maven/com.codeborne.replay/framework@1.9.0?classifier=sources
+- pkg:maven/com.codeborne.replay/framework@1.9.1?classifier=sources

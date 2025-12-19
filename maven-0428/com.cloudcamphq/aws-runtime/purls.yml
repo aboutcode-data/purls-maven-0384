@@ -1,4 +1,6 @@
+- pkg:maven/com.cloudcamphq/aws-runtime@0.0.1
 - pkg:maven/com.cloudcamphq/aws-runtime@0.0.1-alpha.8
 - pkg:maven/com.cloudcamphq/aws-runtime@0.0.1-alpha.8?classifier=sources
 - pkg:maven/com.cloudcamphq/aws-runtime@0.0.1-alpha.9
 - pkg:maven/com.cloudcamphq/aws-runtime@0.0.1-alpha.9?classifier=sources
+- pkg:maven/com.cloudcamphq/aws-runtime@0.0.1?classifier=sources

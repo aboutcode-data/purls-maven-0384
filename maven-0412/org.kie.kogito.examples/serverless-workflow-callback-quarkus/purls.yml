@@ -1,2 +1,8 @@
 - pkg:maven/org.kie.kogito.examples/serverless-workflow-callback-quarkus@1.14.0.Final
 - pkg:maven/org.kie.kogito.examples/serverless-workflow-callback-quarkus@1.14.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-callback-quarkus@1.14.1.Final
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-callback-quarkus@1.14.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-callback-quarkus@1.15.0.Final
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-callback-quarkus@1.15.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-callback-quarkus@1.16.0.Final
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-callback-quarkus@1.16.0.Final?classifier=sources

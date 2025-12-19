@@ -3,3 +3,6 @@
 - pkg:maven/co.elastic.clients/elasticsearch-java@7.15.2?classifier=sources
 - pkg:maven/co.elastic.clients/elasticsearch-java@7.16.0?classifier=sources
 - pkg:maven/co.elastic.clients/elasticsearch-java@7.16.1?classifier=sources
+- pkg:maven/co.elastic.clients/elasticsearch-java@7.16.2?classifier=sources
+- pkg:maven/co.elastic.clients/elasticsearch-java@7.16.3?classifier=sources
+- pkg:maven/co.elastic.clients/elasticsearch-java@8.0.0-rc1?classifier=sources

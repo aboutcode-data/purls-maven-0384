@@ -275,4 +275,11 @@
 - pkg:maven/io.streamlayer/sl-protofiles@3.79.0?classifier=sources
 - pkg:maven/io.streamlayer/sl-protofiles@3.8.0?classifier=sources
 - pkg:maven/io.streamlayer/sl-protofiles@3.80.0?classifier=sources
+- pkg:maven/io.streamlayer/sl-protofiles@3.84.0?classifier=sources
+- pkg:maven/io.streamlayer/sl-protofiles@3.85.0?classifier=sources
+- pkg:maven/io.streamlayer/sl-protofiles@3.86.0?classifier=sources
+- pkg:maven/io.streamlayer/sl-protofiles@3.86.1?classifier=sources
+- pkg:maven/io.streamlayer/sl-protofiles@3.87.0?classifier=sources
+- pkg:maven/io.streamlayer/sl-protofiles@3.87.1?classifier=sources
+- pkg:maven/io.streamlayer/sl-protofiles@3.87.2?classifier=sources
 - pkg:maven/io.streamlayer/sl-protofiles@3.9.0?classifier=sources

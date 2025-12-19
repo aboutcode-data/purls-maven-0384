@@ -126,3 +126,5 @@
 - pkg:maven/com.sendgrid/sendgrid-java@4.8.0?classifier=sources
 - pkg:maven/com.sendgrid/sendgrid-java@4.8.1
 - pkg:maven/com.sendgrid/sendgrid-java@4.8.1?classifier=sources
+- pkg:maven/com.sendgrid/sendgrid-java@4.8.2
+- pkg:maven/com.sendgrid/sendgrid-java@4.8.2?classifier=sources

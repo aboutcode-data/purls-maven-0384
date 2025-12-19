@@ -26,3 +26,4 @@
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@5.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@6.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-okhttp@7.0.0
+- pkg:maven/com.okta.sdk/okta-sdk-okhttp@8.0.0

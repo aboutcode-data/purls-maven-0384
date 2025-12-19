@@ -34,3 +34,5 @@
 - pkg:maven/com.easemob.im/im-sdk-cli@0.4.3?classifier=sources
 - pkg:maven/com.easemob.im/im-sdk-cli@0.4.4
 - pkg:maven/com.easemob.im/im-sdk-cli@0.4.4?classifier=sources
+- pkg:maven/com.easemob.im/im-sdk-cli@0.4.5
+- pkg:maven/com.easemob.im/im-sdk-cli@0.4.5?classifier=sources

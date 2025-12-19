@@ -1,5 +1,7 @@
 - pkg:maven/io.github.wonderandroid/xiaomisdk@0.0.1?type=aar
 - pkg:maven/io.github.wonderandroid/xiaomisdk@0.0.2?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@0.0.3?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@0.0.4?type=aar
 - pkg:maven/io.github.wonderandroid/xiaomisdk@1.0.1?type=aar
 - pkg:maven/io.github.wonderandroid/xiaomisdk@1.0.2?type=aar
 - pkg:maven/io.github.wonderandroid/xiaomisdk@1.0.3?type=aar
@@ -14,3 +16,13 @@
 - pkg:maven/io.github.wonderandroid/xiaomisdk@1.1.1?type=aar
 - pkg:maven/io.github.wonderandroid/xiaomisdk@1.1.2?type=aar
 - pkg:maven/io.github.wonderandroid/xiaomisdk@1.1.3?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@1.1.4?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@1.1.5?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@1.1.6?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@1.1.7?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@1.1.8?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@1.1.9?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@1.2.0?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@1.2.1?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@1.2.2?type=aar
+- pkg:maven/io.github.wonderandroid/xiaomisdk@1.2.3?type=aar

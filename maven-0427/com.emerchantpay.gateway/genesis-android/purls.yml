@@ -27,3 +27,5 @@
 - pkg:maven/com.emerchantpay.gateway/genesis-android@1.2.71?classifier=sources
 - pkg:maven/com.emerchantpay.gateway/genesis-android@1.2.71?type=aar
 - pkg:maven/com.emerchantpay.gateway/genesis-android@1.2.7?classifier=sources
+- pkg:maven/com.emerchantpay.gateway/genesis-android@1.2.8?classifier=sources
+- pkg:maven/com.emerchantpay.gateway/genesis-android@1.2.9?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/net.thevpc.nuts.lib/nlib-tomcat-classloader@0.8.3.0.t.8.0.21-rc1
+- pkg:maven/net.thevpc.nuts.lib/nlib-tomcat-classloader@0.8.3.0.t.8.0.21-rc1?classifier=sources
 - pkg:maven/net.thevpc.nuts.lib/nlib-tomcat-classloader@n.0.8.1.0.t.8.0.21
 - pkg:maven/net.thevpc.nuts.lib/nlib-tomcat-classloader@n.0.8.1.0.t.8.0.21?classifier=sources
 - pkg:maven/net.thevpc.nuts.lib/nlib-tomcat-classloader@n.0.8.2.0.t.8.0.21

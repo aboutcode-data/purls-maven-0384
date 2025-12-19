@@ -1,2 +1,4 @@
+- pkg:maven/com.aliyun/vdmeter20210425@1.0.0
+- pkg:maven/com.aliyun/vdmeter20210425@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/vdmeter20210425@1.8.121
 - pkg:maven/com.aliyun/vdmeter20210425@1.8.121?classifier=sources

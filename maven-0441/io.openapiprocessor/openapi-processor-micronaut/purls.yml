@@ -3,3 +3,4 @@
 - pkg:maven/io.openapiprocessor/openapi-processor-micronaut@2021.2?classifier=sources
 - pkg:maven/io.openapiprocessor/openapi-processor-micronaut@2021.3?classifier=sources
 - pkg:maven/io.openapiprocessor/openapi-processor-micronaut@2021.4?classifier=sources
+- pkg:maven/io.openapiprocessor/openapi-processor-micronaut@2022.1?classifier=sources

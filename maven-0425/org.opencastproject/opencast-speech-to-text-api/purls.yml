@@ -1,0 +1,2 @@
+- pkg:maven/org.opencastproject/opencast-speech-to-text-api@11.3
+- pkg:maven/org.opencastproject/opencast-speech-to-text-api@11.3?classifier=sources

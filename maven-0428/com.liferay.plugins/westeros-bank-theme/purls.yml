@@ -68,6 +68,9 @@
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@1.0.74?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@1.0.75?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@1.0.76?type=war
+- pkg:maven/com.liferay.plugins/westeros-bank-theme@1.0.77?type=war
+- pkg:maven/com.liferay.plugins/westeros-bank-theme@1.0.78?type=war
+- pkg:maven/com.liferay.plugins/westeros-bank-theme@1.0.79?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@1.0.7?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@1.0.8?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@1.0.9?type=war
@@ -107,6 +110,8 @@
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@2.0.3?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@2.0.40?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@2.0.41?type=war
+- pkg:maven/com.liferay.plugins/westeros-bank-theme@2.0.42?type=war
+- pkg:maven/com.liferay.plugins/westeros-bank-theme@2.0.43?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@2.0.4?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@2.0.5?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@2.0.6?type=war
@@ -160,6 +165,8 @@
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@3.0.4?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@3.0.50?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@3.0.51?type=war
+- pkg:maven/com.liferay.plugins/westeros-bank-theme@3.0.52?type=war
+- pkg:maven/com.liferay.plugins/westeros-bank-theme@3.0.53?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@3.0.5?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@3.0.6?type=war
 - pkg:maven/com.liferay.plugins/westeros-bank-theme@3.0.7?type=war

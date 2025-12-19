@@ -1,0 +1,2 @@
+- pkg:maven/dev.javiersolis.android/architecture-application@0.0.1?classifier=sources
+- pkg:maven/dev.javiersolis.android/architecture-application@0.0.2?classifier=sources

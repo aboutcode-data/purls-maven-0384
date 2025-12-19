@@ -1,5 +1,8 @@
+- pkg:maven/io.github.quickmsg/smqtt-ui@0.3.1
 - pkg:maven/io.github.quickmsg/smqtt-ui@1.0.6
 - pkg:maven/io.github.quickmsg/smqtt-ui@1.0.7
 - pkg:maven/io.github.quickmsg/smqtt-ui@1.0.8
 - pkg:maven/io.github.quickmsg/smqtt-ui@1.0.9
 - pkg:maven/io.github.quickmsg/smqtt-ui@1.1.0
+- pkg:maven/io.github.quickmsg/smqtt-ui@1.1.1
+- pkg:maven/io.github.quickmsg/smqtt-ui@1.1.2

@@ -58,3 +58,5 @@
 - pkg:maven/org.apache.tomee/tomee-webaccess@8.0.7?type=war
 - pkg:maven/org.apache.tomee/tomee-webaccess@8.0.8?classifier=sources
 - pkg:maven/org.apache.tomee/tomee-webaccess@8.0.8?type=war
+- pkg:maven/org.apache.tomee/tomee-webaccess@8.0.9?classifier=sources
+- pkg:maven/org.apache.tomee/tomee-webaccess@8.0.9?type=war

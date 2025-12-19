@@ -64,3 +64,5 @@
 - pkg:maven/ru.tinkoff/typed-schema-swagger_2.12@0.14.3?classifier=sources
 - pkg:maven/ru.tinkoff/typed-schema-swagger_2.12@0.15.0
 - pkg:maven/ru.tinkoff/typed-schema-swagger_2.12@0.15.0?classifier=sources
+- pkg:maven/ru.tinkoff/typed-schema-swagger_2.12@0.15.1
+- pkg:maven/ru.tinkoff/typed-schema-swagger_2.12@0.15.1?classifier=sources

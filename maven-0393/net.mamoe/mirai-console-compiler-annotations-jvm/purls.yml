@@ -1,0 +1,2 @@
+- pkg:maven/net.mamoe/mirai-console-compiler-annotations-jvm@2.10.0-RC2?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-compiler-annotations-jvm@2.10.0-RC?classifier=sources

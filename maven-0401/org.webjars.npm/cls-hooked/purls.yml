@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cls-hooked@5.0.0-alpha.1
+- pkg:maven/org.webjars.npm/cls-hooked@5.0.0-alpha.1?classifier=sources

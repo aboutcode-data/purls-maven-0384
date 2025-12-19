@@ -11,3 +11,5 @@
 - pkg:maven/com.lazygeniouz/aoa_manager@2.2-beta01?classifier=sources
 - pkg:maven/com.lazygeniouz/aoa_manager@2.2-beta02?classifier=sources
 - pkg:maven/com.lazygeniouz/aoa_manager@2.2?classifier=sources
+- pkg:maven/com.lazygeniouz/aoa_manager@2.3?classifier=sources
+- pkg:maven/com.lazygeniouz/aoa_manager@2.4?classifier=sources

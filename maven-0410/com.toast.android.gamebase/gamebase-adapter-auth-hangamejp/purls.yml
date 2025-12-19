@@ -12,3 +12,6 @@
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejp@2.28.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejp@2.29.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejp@2.30.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejp@2.31.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejp@2.32.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejp@2.33.0?type=aar

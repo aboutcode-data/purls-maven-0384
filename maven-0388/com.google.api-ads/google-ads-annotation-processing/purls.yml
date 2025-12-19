@@ -14,6 +14,7 @@
 - pkg:maven/com.google.api-ads/google-ads-annotation-processing@15.0.0?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads-annotation-processing@16.0.0?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads-annotation-processing@16.0.1?classifier=sources
+- pkg:maven/com.google.api-ads/google-ads-annotation-processing@16.0.2?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads-annotation-processing@6.0.0
 - pkg:maven/com.google.api-ads/google-ads-annotation-processing@6.0.0?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads-annotation-processing@7.0.0

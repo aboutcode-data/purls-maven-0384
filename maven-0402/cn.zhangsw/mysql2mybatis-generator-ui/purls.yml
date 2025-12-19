@@ -2,3 +2,5 @@
 - pkg:maven/cn.zhangsw/mysql2mybatis-generator-ui@1.0-release?classifier=sources
 - pkg:maven/cn.zhangsw/mysql2mybatis-generator-ui@1.1-release
 - pkg:maven/cn.zhangsw/mysql2mybatis-generator-ui@1.1-release?classifier=sources
+- pkg:maven/cn.zhangsw/mysql2mybatis-generator-ui@1.1.SR01-release
+- pkg:maven/cn.zhangsw/mysql2mybatis-generator-ui@1.1.SR01-release?classifier=sources

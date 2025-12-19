@@ -1,3 +1,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.markdowndisplay@0.29.0
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.markdowndisplay@0.29.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.markdowndisplay@0.30.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconlet.markdowndisplay@0.31.0?classifier=sources

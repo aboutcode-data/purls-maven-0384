@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/codemirror__language@0.19.7
+- pkg:maven/org.webjars.npm/codemirror__language@0.19.7?classifier=sources

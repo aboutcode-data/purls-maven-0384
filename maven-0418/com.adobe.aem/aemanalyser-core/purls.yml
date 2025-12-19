@@ -10,3 +10,5 @@
 - pkg:maven/com.adobe.aem/aemanalyser-core@1.0.8?classifier=sources
 - pkg:maven/com.adobe.aem/aemanalyser-core@1.1.0
 - pkg:maven/com.adobe.aem/aemanalyser-core@1.1.0?classifier=sources
+- pkg:maven/com.adobe.aem/aemanalyser-core@1.1.2
+- pkg:maven/com.adobe.aem/aemanalyser-core@1.1.2?classifier=sources

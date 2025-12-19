@@ -1,3 +1,4 @@
 - pkg:maven/com.cmgapps.logtag/processor@0.1.0?classifier=sources
 - pkg:maven/com.cmgapps.logtag/processor@0.2.0?classifier=sources
 - pkg:maven/com.cmgapps.logtag/processor@0.3.0?classifier=sources
+- pkg:maven/com.cmgapps.logtag/processor@1.1.0?classifier=sources

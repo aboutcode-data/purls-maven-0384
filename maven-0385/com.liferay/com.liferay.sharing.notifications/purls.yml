@@ -59,6 +59,9 @@
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@1.0.27
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@1.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@1.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharing.notifications@1.0.28
+- pkg:maven/com.liferay/com.liferay.sharing.notifications@1.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.notifications@1.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@1.0.3
@@ -128,6 +131,9 @@
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@2.0.23
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@2.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@2.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharing.notifications@2.0.24
+- pkg:maven/com.liferay/com.liferay.sharing.notifications@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.notifications@2.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.notifications@2.0.3

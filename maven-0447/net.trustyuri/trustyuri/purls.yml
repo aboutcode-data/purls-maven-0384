@@ -13,6 +13,8 @@
 - pkg:maven/net.trustyuri/trustyuri@1.14?classifier=sources
 - pkg:maven/net.trustyuri/trustyuri@1.15
 - pkg:maven/net.trustyuri/trustyuri@1.15?classifier=sources
+- pkg:maven/net.trustyuri/trustyuri@1.16
+- pkg:maven/net.trustyuri/trustyuri@1.16?classifier=sources
 - pkg:maven/net.trustyuri/trustyuri@1.1?classifier=sources
 - pkg:maven/net.trustyuri/trustyuri@1.2
 - pkg:maven/net.trustyuri/trustyuri@1.2?classifier=sources

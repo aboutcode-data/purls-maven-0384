@@ -4,3 +4,4 @@
 - pkg:maven/com.github.Shouheng88/vmlib-network@1.8.0?classifier=sources
 - pkg:maven/com.github.Shouheng88/vmlib-network@1.9.0?classifier=sources
 - pkg:maven/com.github.Shouheng88/vmlib-network@2.0?classifier=sources
+- pkg:maven/com.github.Shouheng88/vmlib-network@2.1?classifier=sources

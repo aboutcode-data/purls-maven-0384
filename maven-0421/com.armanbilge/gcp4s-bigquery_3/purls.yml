@@ -1,0 +1,2 @@
+- pkg:maven/com.armanbilge/gcp4s-bigquery_3@0.1-bc5b199
+- pkg:maven/com.armanbilge/gcp4s-bigquery_3@0.1-bc5b199?classifier=sources

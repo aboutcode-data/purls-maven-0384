@@ -44,3 +44,7 @@
 - pkg:maven/io.opencensus/opencensus-contrib-log-correlation-stackdriver@0.28.2?classifier=sources
 - pkg:maven/io.opencensus/opencensus-contrib-log-correlation-stackdriver@0.28.3
 - pkg:maven/io.opencensus/opencensus-contrib-log-correlation-stackdriver@0.28.3?classifier=sources
+- pkg:maven/io.opencensus/opencensus-contrib-log-correlation-stackdriver@0.29.0
+- pkg:maven/io.opencensus/opencensus-contrib-log-correlation-stackdriver@0.29.0?classifier=sources
+- pkg:maven/io.opencensus/opencensus-contrib-log-correlation-stackdriver@0.30.0
+- pkg:maven/io.opencensus/opencensus-contrib-log-correlation-stackdriver@0.30.0?classifier=sources

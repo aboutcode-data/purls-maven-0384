@@ -6,3 +6,4 @@
 - pkg:maven/com.twilio/conversations-android-with-symbols@1.5.0?classifier=sources
 - pkg:maven/com.twilio/conversations-android-with-symbols@1.6.0?classifier=sources
 - pkg:maven/com.twilio/conversations-android-with-symbols@2.0.0?classifier=sources
+- pkg:maven/com.twilio/conversations-android-with-symbols@3.0.0?classifier=sources

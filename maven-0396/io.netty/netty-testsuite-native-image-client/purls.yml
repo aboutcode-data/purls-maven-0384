@@ -34,3 +34,7 @@
 - pkg:maven/io.netty/netty-testsuite-native-image-client@4.1.70.Final?classifier=sources
 - pkg:maven/io.netty/netty-testsuite-native-image-client@4.1.71.Final
 - pkg:maven/io.netty/netty-testsuite-native-image-client@4.1.71.Final?classifier=sources
+- pkg:maven/io.netty/netty-testsuite-native-image-client@4.1.72.Final
+- pkg:maven/io.netty/netty-testsuite-native-image-client@4.1.72.Final?classifier=sources
+- pkg:maven/io.netty/netty-testsuite-native-image-client@4.1.73.Final
+- pkg:maven/io.netty/netty-testsuite-native-image-client@4.1.73.Final?classifier=sources

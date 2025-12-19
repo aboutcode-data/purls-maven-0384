@@ -4,3 +4,5 @@
 - pkg:maven/me.phoboslabs.illuminati/illuminati-elasticsearch@0.8.12?classifier=sources
 - pkg:maven/me.phoboslabs.illuminati/illuminati-elasticsearch@0.8.13
 - pkg:maven/me.phoboslabs.illuminati/illuminati-elasticsearch@0.8.13?classifier=sources
+- pkg:maven/me.phoboslabs.illuminati/illuminati-elasticsearch@0.8.14
+- pkg:maven/me.phoboslabs.illuminati/illuminati-elasticsearch@0.8.14?classifier=sources

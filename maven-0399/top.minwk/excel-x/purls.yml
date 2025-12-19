@@ -8,3 +8,7 @@
 - pkg:maven/top.minwk/excel-x@1.0.3?classifier=sources
 - pkg:maven/top.minwk/excel-x@1.0.4
 - pkg:maven/top.minwk/excel-x@1.0.4?classifier=sources
+- pkg:maven/top.minwk/excel-x@2.0.0
+- pkg:maven/top.minwk/excel-x@2.0.0?classifier=sources
+- pkg:maven/top.minwk/excel-x@2.1.0
+- pkg:maven/top.minwk/excel-x@2.1.0?classifier=sources

@@ -38,6 +38,8 @@
 - pkg:maven/org.yaml/snakeyaml@1.28?classifier=sources
 - pkg:maven/org.yaml/snakeyaml@1.29
 - pkg:maven/org.yaml/snakeyaml@1.29?classifier=sources
+- pkg:maven/org.yaml/snakeyaml@1.30
+- pkg:maven/org.yaml/snakeyaml@1.30?classifier=sources
 - pkg:maven/org.yaml/snakeyaml@1.4
 - pkg:maven/org.yaml/snakeyaml@1.4?classifier=sources
 - pkg:maven/org.yaml/snakeyaml@1.5

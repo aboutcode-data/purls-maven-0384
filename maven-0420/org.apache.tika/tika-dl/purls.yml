@@ -28,6 +28,8 @@
 - pkg:maven/org.apache.tika/tika-dl@1.26?classifier=sources
 - pkg:maven/org.apache.tika/tika-dl@1.27
 - pkg:maven/org.apache.tika/tika-dl@1.27?classifier=sources
+- pkg:maven/org.apache.tika/tika-dl@1.28
+- pkg:maven/org.apache.tika/tika-dl@1.28?classifier=sources
 - pkg:maven/org.apache.tika/tika-dl@2.0.0
 - pkg:maven/org.apache.tika/tika-dl@2.0.0-ALPHA
 - pkg:maven/org.apache.tika/tika-dl@2.0.0-ALPHA?classifier=sources
@@ -36,3 +38,7 @@
 - pkg:maven/org.apache.tika/tika-dl@2.0.0?classifier=sources
 - pkg:maven/org.apache.tika/tika-dl@2.1.0
 - pkg:maven/org.apache.tika/tika-dl@2.1.0?classifier=sources
+- pkg:maven/org.apache.tika/tika-dl@2.2.0
+- pkg:maven/org.apache.tika/tika-dl@2.2.0?classifier=sources
+- pkg:maven/org.apache.tika/tika-dl@2.2.1
+- pkg:maven/org.apache.tika/tika-dl@2.2.1?classifier=sources

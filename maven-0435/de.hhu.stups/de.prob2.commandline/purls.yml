@@ -1,3 +1,4 @@
 - pkg:maven/de.hhu.stups/de.prob2.commandline@3.12.0?classifier=sources
 - pkg:maven/de.hhu.stups/de.prob2.commandline@3.13.0?classifier=sources
 - pkg:maven/de.hhu.stups/de.prob2.commandline@3.14.0?classifier=sources
+- pkg:maven/de.hhu.stups/de.prob2.commandline@3.15.0?classifier=sources

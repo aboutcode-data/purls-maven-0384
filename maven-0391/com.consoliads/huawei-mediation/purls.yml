@@ -1,0 +1,2 @@
+- pkg:maven/com.consoliads/huawei-mediation@v3.4.47.302-1.0?classifier=sources
+- pkg:maven/com.consoliads/huawei-mediation@v3.4.47.302?classifier=sources
