@@ -136,6 +136,16 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@14.9.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@15.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@15.0.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@15.1.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@15.1.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@15.2.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@15.2.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@16.1.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@16.1.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@16.2.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@16.2.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@16.3.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@16.3.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@2.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@2.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-config@2.0.1

@@ -169,6 +169,8 @@
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.authz.service@1.3.32?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.authz.service@1.3.33
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.authz.service@1.3.33?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.authz.service@1.3.34
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.authz.service@1.3.34?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.authz.service@1.3.3?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.authz.service@1.3.4
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.authz.service@1.3.4?classifier=sources

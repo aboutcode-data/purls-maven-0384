@@ -40,3 +40,7 @@
 - pkg:maven/io.liftwizard/liftwizard-config-logging-filter-janino@0.33.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-config-logging-filter-janino@0.34.0
 - pkg:maven/io.liftwizard/liftwizard-config-logging-filter-janino@0.34.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-config-logging-filter-janino@0.35.0
+- pkg:maven/io.liftwizard/liftwizard-config-logging-filter-janino@0.35.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-config-logging-filter-janino@0.36.0
+- pkg:maven/io.liftwizard/liftwizard-config-logging-filter-janino@0.36.0?classifier=sources

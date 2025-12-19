@@ -1,0 +1,2 @@
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-jsonSchema-jakarta@2.15.0-rc1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-jsonSchema-jakarta@2.15.0-rc2?classifier=sources

@@ -26,3 +26,4 @@
 - pkg:maven/org.odpi.egeria/asset-lineage-topic-connectors@3.8?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-lineage-topic-connectors@3.9
 - pkg:maven/org.odpi.egeria/asset-lineage-topic-connectors@3.9?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-lineage-topic-connectors@4.0?classifier=sources

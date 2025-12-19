@@ -890,3 +890,5 @@
 - pkg:maven/io.shiftleft/schema2json_2.13@1.3.596?classifier=sources
 - pkg:maven/io.shiftleft/schema2json_2.13@1.3.597
 - pkg:maven/io.shiftleft/schema2json_2.13@1.3.597?classifier=sources
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.598
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.598?classifier=sources

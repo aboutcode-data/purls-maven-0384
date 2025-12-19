@@ -6,3 +6,7 @@
 - pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230131?classifier=sources
 - pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230301
 - pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230301?classifier=sources
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230321
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230321?classifier=sources
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230410
+- pkg:maven/com.alibaba/alibabacloud-yjopenapi-java-client@1.0.20230410?classifier=sources

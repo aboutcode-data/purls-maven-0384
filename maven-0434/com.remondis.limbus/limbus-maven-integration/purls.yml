@@ -1,0 +1,2 @@
+- pkg:maven/com.remondis.limbus/limbus-maven-integration@3.1.0
+- pkg:maven/com.remondis.limbus/limbus-maven-integration@3.1.0?classifier=sources

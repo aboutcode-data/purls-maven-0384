@@ -342,6 +342,7 @@
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.754.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.755.0-rc1?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.756.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.756.1?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.757.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.758.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.759.0?classifier=sources
@@ -369,6 +370,7 @@
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.779.0-rc2?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.779.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.780.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.780.1?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.781.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.782.0-rc1?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-backup@0.782.0-rc2?classifier=sources

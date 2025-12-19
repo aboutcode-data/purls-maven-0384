@@ -30,6 +30,8 @@
 - pkg:maven/org.faktorips/faktorips-testsupport@21.12.6?classifier=sources
 - pkg:maven/org.faktorips/faktorips-testsupport@21.12.7
 - pkg:maven/org.faktorips/faktorips-testsupport@21.12.7?classifier=sources
+- pkg:maven/org.faktorips/faktorips-testsupport@21.12.8
+- pkg:maven/org.faktorips/faktorips-testsupport@21.12.8?classifier=sources
 - pkg:maven/org.faktorips/faktorips-testsupport@22.12.0
 - pkg:maven/org.faktorips/faktorips-testsupport@22.12.0.a20221005-01
 - pkg:maven/org.faktorips/faktorips-testsupport@22.12.0.a20221005-01?classifier=sources
@@ -42,6 +44,8 @@
 - pkg:maven/org.faktorips/faktorips-testsupport@22.12.0?classifier=sources
 - pkg:maven/org.faktorips/faktorips-testsupport@22.12.1.release
 - pkg:maven/org.faktorips/faktorips-testsupport@22.12.1.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-testsupport@22.12.10.release
+- pkg:maven/org.faktorips/faktorips-testsupport@22.12.10.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-testsupport@22.12.2.release
 - pkg:maven/org.faktorips/faktorips-testsupport@22.12.2.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-testsupport@22.12.3.release
@@ -82,6 +86,8 @@
 - pkg:maven/org.faktorips/faktorips-testsupport@22.6.5?classifier=sources
 - pkg:maven/org.faktorips/faktorips-testsupport@22.6.6
 - pkg:maven/org.faktorips/faktorips-testsupport@22.6.6?classifier=sources
+- pkg:maven/org.faktorips/faktorips-testsupport@22.6.8
+- pkg:maven/org.faktorips/faktorips-testsupport@22.6.8?classifier=sources
 - pkg:maven/org.faktorips/faktorips-testsupport@23.1.0.a20230109-01
 - pkg:maven/org.faktorips/faktorips-testsupport@23.1.0.a20230109-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-testsupport@23.1.0.a20230123-02?classifier=sources
@@ -91,3 +97,5 @@
 - pkg:maven/org.faktorips/faktorips-testsupport@23.1.0.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-testsupport@23.6.0.a20230301-01
 - pkg:maven/org.faktorips/faktorips-testsupport@23.6.0.a20230301-01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-testsupport@23.6.0.a20230310-01
+- pkg:maven/org.faktorips/faktorips-testsupport@23.6.0.a20230310-01?classifier=sources

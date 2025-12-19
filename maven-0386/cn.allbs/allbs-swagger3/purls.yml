@@ -4,3 +4,9 @@
 - pkg:maven/cn.allbs/allbs-swagger3@1.1.8?classifier=sources
 - pkg:maven/cn.allbs/allbs-swagger3@1.1.9
 - pkg:maven/cn.allbs/allbs-swagger3@1.1.9?classifier=sources
+- pkg:maven/cn.allbs/allbs-swagger3@1.2.0
+- pkg:maven/cn.allbs/allbs-swagger3@1.2.0?classifier=sources
+- pkg:maven/cn.allbs/allbs-swagger3@2.0.0
+- pkg:maven/cn.allbs/allbs-swagger3@2.0.0?classifier=sources
+- pkg:maven/cn.allbs/allbs-swagger3@2.0.1
+- pkg:maven/cn.allbs/allbs-swagger3@2.0.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.2.20230201?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.3.20230305
 - pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.3.20230305?classifier=sources
+- pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.4.20230325
+- pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.4.20230325?classifier=sources

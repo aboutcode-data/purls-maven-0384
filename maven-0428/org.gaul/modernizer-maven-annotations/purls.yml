@@ -14,3 +14,5 @@
 - pkg:maven/org.gaul/modernizer-maven-annotations@2.4.0?classifier=sources
 - pkg:maven/org.gaul/modernizer-maven-annotations@2.5.0
 - pkg:maven/org.gaul/modernizer-maven-annotations@2.5.0?classifier=sources
+- pkg:maven/org.gaul/modernizer-maven-annotations@2.6.0
+- pkg:maven/org.gaul/modernizer-maven-annotations@2.6.0?classifier=sources

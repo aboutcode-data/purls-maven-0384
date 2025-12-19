@@ -12,3 +12,7 @@
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vaadin_mill0.10_2.13@0.0.2-8-605ce6
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vaadin_mill0.10_2.13@0.0.2-8-605ce6?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vaadin_mill0.10_2.13@0.0.2?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vaadin_mill0.10_2.13@0.0.3
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vaadin_mill0.10_2.13@0.0.3-1-188492
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vaadin_mill0.10_2.13@0.0.3-1-188492?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vaadin_mill0.10_2.13@0.0.3?classifier=sources

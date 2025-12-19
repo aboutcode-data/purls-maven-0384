@@ -4,3 +4,5 @@
 - pkg:maven/eu.scape-project.nanite/nanite-historical-sigs@1.4.0-97?classifier=sources
 - pkg:maven/eu.scape-project.nanite/nanite-historical-sigs@1.4.1-97
 - pkg:maven/eu.scape-project.nanite/nanite-historical-sigs@1.4.1-97?classifier=sources
+- pkg:maven/eu.scape-project.nanite/nanite-historical-sigs@1.5.0-111
+- pkg:maven/eu.scape-project.nanite/nanite-historical-sigs@1.5.0-111?classifier=sources

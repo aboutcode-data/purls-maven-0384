@@ -1,0 +1,2 @@
+- pkg:maven/de.gematik.refv.valmodule/valmodule-isip1@0.4.1
+- pkg:maven/de.gematik.refv.valmodule/valmodule-isip1@0.4.1?classifier=sources

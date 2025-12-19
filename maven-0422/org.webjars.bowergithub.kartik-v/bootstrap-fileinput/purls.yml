@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.bowergithub.kartik-v/bootstrap-fileinput@5.0.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.kartik-v/bootstrap-fileinput@5.0.7
 - pkg:maven/org.webjars.bowergithub.kartik-v/bootstrap-fileinput@5.0.7?classifier=sources
+- pkg:maven/org.webjars.bowergithub.kartik-v/bootstrap-fileinput@5.5.1
+- pkg:maven/org.webjars.bowergithub.kartik-v/bootstrap-fileinput@5.5.1?classifier=sources

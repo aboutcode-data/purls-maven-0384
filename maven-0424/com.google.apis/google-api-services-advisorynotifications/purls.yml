@@ -2,3 +2,5 @@
 - pkg:maven/com.google.apis/google-api-services-advisorynotifications@v1-rev20230115-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-advisorynotifications@v1-rev20230219-2.0.0
 - pkg:maven/com.google.apis/google-api-services-advisorynotifications@v1-rev20230219-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-advisorynotifications@v1-rev20230402-2.0.0
+- pkg:maven/com.google.apis/google-api-services-advisorynotifications@v1-rev20230402-2.0.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.palantir.docker.compose/docker-compose-rule-events-api-objects@1.5.0?classifier=sources
 - pkg:maven/com.palantir.docker.compose/docker-compose-rule-events-api-objects@1.7.0?classifier=sources
 - pkg:maven/com.palantir.docker.compose/docker-compose-rule-events-api-objects@1.8.0?classifier=sources
+- pkg:maven/com.palantir.docker.compose/docker-compose-rule-events-api-objects@1.9.0?classifier=sources
+- pkg:maven/com.palantir.docker.compose/docker-compose-rule-events-api-objects@2.0.0?classifier=sources

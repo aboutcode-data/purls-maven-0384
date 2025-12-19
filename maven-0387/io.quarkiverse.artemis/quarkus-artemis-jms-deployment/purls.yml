@@ -48,3 +48,7 @@
 - pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms-deployment@3.0.0.Alpha5?classifier=sources
 - pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms-deployment@3.0.0.Alpha6
 - pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms-deployment@3.0.0.Alpha6?classifier=sources
+- pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms-deployment@3.0.0.Alpha7
+- pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms-deployment@3.0.0.Alpha7?classifier=sources
+- pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms-deployment@3.0.0.CR1
+- pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms-deployment@3.0.0.CR1?classifier=sources

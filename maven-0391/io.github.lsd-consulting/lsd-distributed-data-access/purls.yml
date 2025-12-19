@@ -3,3 +3,5 @@
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-data-access@0.1.2?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-data-access@0.1.3?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-data-access@0.1.4?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-data-access@0.1.6?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-data-access@0.1.7?classifier=sources

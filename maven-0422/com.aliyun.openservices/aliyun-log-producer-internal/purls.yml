@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun.openservices/aliyun-log-producer-internal@0.3.11_nonjcl
+- pkg:maven/com.aliyun.openservices/aliyun-log-producer-internal@0.3.11_nonjcl?classifier=sources
+- pkg:maven/com.aliyun.openservices/aliyun-log-producer-internal@0.3.12
+- pkg:maven/com.aliyun.openservices/aliyun-log-producer-internal@0.3.12?classifier=sources

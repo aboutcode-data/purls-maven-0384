@@ -1,1 +1,2 @@
 - pkg:maven/com.zclibre/libre-monitor@2.7.6?classifier=sources
+- pkg:maven/com.zclibre/libre-monitor@3.0.5?classifier=sources

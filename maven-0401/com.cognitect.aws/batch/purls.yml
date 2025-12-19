@@ -48,3 +48,5 @@
 - pkg:maven/com.cognitect.aws/batch@825.2.1262.0?classifier=sources
 - pkg:maven/com.cognitect.aws/batch@825.2.1283.0
 - pkg:maven/com.cognitect.aws/batch@825.2.1283.0?classifier=sources
+- pkg:maven/com.cognitect.aws/batch@845.2.1345.0
+- pkg:maven/com.cognitect.aws/batch@845.2.1345.0?classifier=sources

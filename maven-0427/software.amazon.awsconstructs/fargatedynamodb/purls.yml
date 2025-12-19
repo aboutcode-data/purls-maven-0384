@@ -116,6 +116,14 @@
 - pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.32.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.33.0
 - pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.33.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.34.0
+- pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.34.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.35.0
+- pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.35.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.36.0
+- pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.36.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.37.0
+- pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.37.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.6.0
 - pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.6.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.7.0

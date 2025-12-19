@@ -1,2 +1,4 @@
 - pkg:maven/io.github.pendula95/logback-mattermost-appender@1.0.0
 - pkg:maven/io.github.pendula95/logback-mattermost-appender@1.0.0?classifier=sources
+- pkg:maven/io.github.pendula95/logback-mattermost-appender@1.1.0
+- pkg:maven/io.github.pendula95/logback-mattermost-appender@1.1.0?classifier=sources

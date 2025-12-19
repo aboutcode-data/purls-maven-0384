@@ -1,0 +1,4 @@
+- pkg:maven/com.github.yingzhuo/spring-turbo-module-configuration@2.1.3.Final
+- pkg:maven/com.github.yingzhuo/spring-turbo-module-configuration@2.1.3.Final?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-module-configuration@2.2.0.Final
+- pkg:maven/com.github.yingzhuo/spring-turbo-module-configuration@2.2.0.Final?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/br.dev.dig.storage/simple-android@0.1.0?classifier=sources
 - pkg:maven/br.dev.dig.storage/simple-android@1.0.0?classifier=sources
 - pkg:maven/br.dev.dig.storage/simple-android@1.1.0?classifier=sources
+- pkg:maven/br.dev.dig.storage/simple-android@1.2.0?classifier=sources

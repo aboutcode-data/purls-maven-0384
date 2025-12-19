@@ -120,3 +120,5 @@
 - pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA78?classifier=sources
 - pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA79
 - pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA79?classifier=sources
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA80
+- pkg:maven/io.github.dailystruggle/CommandsAPI@1.0-ALPHA80?classifier=sources

@@ -18,6 +18,8 @@
 - pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@2.5.25?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@2.6.0?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@2.6.10?classifier=sources
+- pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@2.6.11?classifier=sources
+- pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@2.6.12?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@2.6.1?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@2.6.2?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log-android-sdk@2.6.3-beta1?classifier=sources

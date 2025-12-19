@@ -25,3 +25,5 @@
 - pkg:maven/com.bybutter.sisyphus.tools/sisyphus-protoc-runner@1.5.31?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.tools/sisyphus-protoc-runner@1.6.0?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.tools/sisyphus-protoc-runner@1.6.10?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.tools/sisyphus-protoc-runner@1.7.0?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.tools/sisyphus-protoc-runner@1.7.10?classifier=sources

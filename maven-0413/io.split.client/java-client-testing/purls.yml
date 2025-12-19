@@ -200,3 +200,5 @@
 - pkg:maven/io.split.client/java-client-testing@4.6.0?classifier=sources
 - pkg:maven/io.split.client/java-client-testing@4.7.0
 - pkg:maven/io.split.client/java-client-testing@4.7.0?classifier=sources
+- pkg:maven/io.split.client/java-client-testing@4.7.1
+- pkg:maven/io.split.client/java-client-testing@4.7.1?classifier=sources

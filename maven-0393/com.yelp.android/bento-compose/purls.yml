@@ -1,2 +1,3 @@
 - pkg:maven/com.yelp.android/bento-compose@19.0.0?classifier=sources
 - pkg:maven/com.yelp.android/bento-compose@19.1.0?classifier=sources
+- pkg:maven/com.yelp.android/bento-compose@20.0.0?classifier=sources

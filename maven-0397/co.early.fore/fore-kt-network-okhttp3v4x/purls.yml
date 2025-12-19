@@ -2,3 +2,4 @@
 - pkg:maven/co.early.fore/fore-kt-network-okhttp3v4x@1.5.17?classifier=sources
 - pkg:maven/co.early.fore/fore-kt-network-okhttp3v4x@1.5.18?classifier=sources
 - pkg:maven/co.early.fore/fore-kt-network-okhttp3v4x@1.5.19?classifier=sources
+- pkg:maven/co.early.fore/fore-kt-network-okhttp3v4x@1.5.20?classifier=sources

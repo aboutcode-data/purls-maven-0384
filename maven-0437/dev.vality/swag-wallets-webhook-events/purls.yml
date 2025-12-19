@@ -18,3 +18,11 @@
 - pkg:maven/dev.vality/swag-wallets-webhook-events@1.1-e966ae6-client?classifier=sources
 - pkg:maven/dev.vality/swag-wallets-webhook-events@1.1-e966ae6-server
 - pkg:maven/dev.vality/swag-wallets-webhook-events@1.1-e966ae6-server?classifier=sources
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.20-e67aaad-client
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.20-e67aaad-client?classifier=sources
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.20-e67aaad-server
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.20-e67aaad-server?classifier=sources
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.21-a4e1726-client
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.21-a4e1726-client?classifier=sources
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.21-a4e1726-server
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.21-a4e1726-server?classifier=sources

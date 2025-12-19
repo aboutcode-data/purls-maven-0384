@@ -1,1 +1,2 @@
 - pkg:maven/com.backbase.oss.deferredresources/deferred-resources-animation-lottie@1.6.0?classifier=sources
+- pkg:maven/com.backbase.oss.deferredresources/deferred-resources-animation-lottie@1.6.1?classifier=sources

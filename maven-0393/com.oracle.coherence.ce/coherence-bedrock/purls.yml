@@ -8,3 +8,5 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@22.06?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@22.09
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@22.09?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-bedrock@23.03
+- pkg:maven/com.oracle.coherence.ce/coherence-bedrock@23.03?classifier=sources

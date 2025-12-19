@@ -15,3 +15,5 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-compose@1.17.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-compose@1.17.1?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-compose@1.17.2?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-compose@1.18.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-compose@1.18.1?classifier=sources

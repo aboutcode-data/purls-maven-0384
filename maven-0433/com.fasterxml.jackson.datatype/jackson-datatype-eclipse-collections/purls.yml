@@ -52,6 +52,8 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-eclipse-collections@2.14.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-eclipse-collections@2.14.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-eclipse-collections@2.14.2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-eclipse-collections@2.15.0-rc1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-eclipse-collections@2.15.0-rc2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-eclipse-collections@2.9.10
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-eclipse-collections@2.9.10?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-eclipse-collections@2.9.6

@@ -1,0 +1,2 @@
+- pkg:maven/com.broeskamp.monorepo.gradle.plugin/monorepo_gradle_plugin@0.0.1?classifier=sources
+- pkg:maven/com.broeskamp.monorepo.gradle.plugin/monorepo_gradle_plugin@0.0.2?classifier=sources

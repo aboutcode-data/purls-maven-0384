@@ -2,3 +2,7 @@
 - pkg:maven/com.penalara.ghc/engineOutputGHCFile@1.0.0?classifier=sources
 - pkg:maven/com.penalara.ghc/engineOutputGHCFile@1.0.1
 - pkg:maven/com.penalara.ghc/engineOutputGHCFile@1.0.1?classifier=sources
+- pkg:maven/com.penalara.ghc/engineOutputGHCFile@1.0.3.3
+- pkg:maven/com.penalara.ghc/engineOutputGHCFile@1.0.3.3?classifier=sources
+- pkg:maven/com.penalara.ghc/engineOutputGHCFile@1.0.4
+- pkg:maven/com.penalara.ghc/engineOutputGHCFile@1.0.4?classifier=sources

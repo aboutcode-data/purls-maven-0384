@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.doris/thrift-shade-0.16@1.0.0
+- pkg:maven/org.apache.doris/thrift-shade-0.16@1.0.0?classifier=sources

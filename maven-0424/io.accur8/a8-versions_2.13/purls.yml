@@ -80,3 +80,7 @@
 - pkg:maven/io.accur8/a8-versions_2.13@1.0.0-20221202_1346_master?classifier=sources
 - pkg:maven/io.accur8/a8-versions_2.13@1.0.0-20221202_1411_master
 - pkg:maven/io.accur8/a8-versions_2.13@1.0.0-20221202_1411_master?classifier=sources
+- pkg:maven/io.accur8/a8-versions_2.13@1.0.0-20230408_0739_master
+- pkg:maven/io.accur8/a8-versions_2.13@1.0.0-20230408_0739_master?classifier=sources
+- pkg:maven/io.accur8/a8-versions_2.13@1.0.0-20230410_0702_master
+- pkg:maven/io.accur8/a8-versions_2.13@1.0.0-20230410_0702_master?classifier=sources

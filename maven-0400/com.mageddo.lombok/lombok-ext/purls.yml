@@ -9,3 +9,4 @@
 - pkg:maven/com.mageddo.lombok/lombok-ext@2.3.4
 - pkg:maven/com.mageddo.lombok/lombok-ext@2.3.4?classifier=sources
 - pkg:maven/com.mageddo.lombok/lombok-ext@2.4.3?classifier=sources
+- pkg:maven/com.mageddo.lombok/lombok-ext@2.4.4?classifier=sources

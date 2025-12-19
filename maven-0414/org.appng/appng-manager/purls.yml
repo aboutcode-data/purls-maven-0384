@@ -22,3 +22,5 @@
 - pkg:maven/org.appng/appng-manager@1.18.1?type=zip
 - pkg:maven/org.appng/appng-manager@1.19.1?classifier=sources
 - pkg:maven/org.appng/appng-manager@1.19.1?type=zip
+- pkg:maven/org.appng/appng-manager@1.20.0?classifier=sources
+- pkg:maven/org.appng/appng-manager@1.20.0?type=zip

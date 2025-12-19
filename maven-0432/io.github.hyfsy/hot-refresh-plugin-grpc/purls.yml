@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hyfsy/hot-refresh-plugin-grpc@1.2.5
+- pkg:maven/io.github.hyfsy/hot-refresh-plugin-grpc@1.2.5?classifier=sources

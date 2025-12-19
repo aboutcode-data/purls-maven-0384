@@ -82,3 +82,5 @@
 - pkg:maven/za.co.absa.enceladus/plugins-api@2.8.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/plugins-api@2.9.0
 - pkg:maven/za.co.absa.enceladus/plugins-api@2.9.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/plugins-api@3.0.0
+- pkg:maven/za.co.absa.enceladus/plugins-api@3.0.0?classifier=sources
