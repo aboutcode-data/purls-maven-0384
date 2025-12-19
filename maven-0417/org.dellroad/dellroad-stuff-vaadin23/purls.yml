@@ -1,3 +1,5 @@
+- pkg:maven/org.dellroad/dellroad-stuff-vaadin23@2.5.10
+- pkg:maven/org.dellroad/dellroad-stuff-vaadin23@2.5.10?classifier=sources
 - pkg:maven/org.dellroad/dellroad-stuff-vaadin23@2.5.2
 - pkg:maven/org.dellroad/dellroad-stuff-vaadin23@2.5.2?classifier=sources
 - pkg:maven/org.dellroad/dellroad-stuff-vaadin23@2.5.3

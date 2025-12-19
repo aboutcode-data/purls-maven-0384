@@ -34,3 +34,5 @@
 - pkg:maven/com.swissborg/akka-persistence-postgres-migration_2.13@0.5.0-M9
 - pkg:maven/com.swissborg/akka-persistence-postgres-migration_2.13@0.5.0-M9?classifier=sources
 - pkg:maven/com.swissborg/akka-persistence-postgres-migration_2.13@0.5.0?classifier=sources
+- pkg:maven/com.swissborg/akka-persistence-postgres-migration_2.13@0.6.0-RC1
+- pkg:maven/com.swissborg/akka-persistence-postgres-migration_2.13@0.6.0-RC1?classifier=sources

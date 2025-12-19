@@ -7,3 +7,4 @@
 - pkg:maven/com.microsoft.cognitiveservices.speech/client-sdk-embedded@1.28.1?classifier=sources
 - pkg:maven/com.microsoft.cognitiveservices.speech/client-sdk-embedded@1.29.0?classifier=sources
 - pkg:maven/com.microsoft.cognitiveservices.speech/client-sdk-embedded@1.30.0?classifier=sources
+- pkg:maven/com.microsoft.cognitiveservices.speech/client-sdk-embedded@1.31.0?classifier=sources

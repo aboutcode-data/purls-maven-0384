@@ -1,0 +1,2 @@
+- pkg:maven/me.devnatan/inventory-framework-impl@3.0.0-beta?classifier=sources
+- pkg:maven/me.devnatan/inventory-framework-impl@3.0.0-rc.1?classifier=sources

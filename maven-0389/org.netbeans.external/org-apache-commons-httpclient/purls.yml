@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE190?classifier=sources

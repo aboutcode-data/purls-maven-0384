@@ -170,6 +170,8 @@
 - pkg:maven/io.radar/sdk@3.8.0?classifier=sources
 - pkg:maven/io.radar/sdk@3.8.1-beta.1?classifier=sources
 - pkg:maven/io.radar/sdk@3.8.1-beta.2?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.10-beta.1?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.10-beta.2?classifier=sources
 - pkg:maven/io.radar/sdk@3.8.1?classifier=sources
 - pkg:maven/io.radar/sdk@3.8.2-beta.1?classifier=sources
 - pkg:maven/io.radar/sdk@3.8.2?classifier=sources
@@ -186,3 +188,13 @@
 - pkg:maven/io.radar/sdk@3.8.5-beta.4?classifier=sources
 - pkg:maven/io.radar/sdk@3.8.5-beta.6?classifier=sources
 - pkg:maven/io.radar/sdk@3.8.5?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.6?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.7-beta.2?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.7?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.8-beta.1?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.8-beta.2?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.8?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.9-beta.1?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.9-beta.2?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.9-beta.3?classifier=sources
+- pkg:maven/io.radar/sdk@3.8.9?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.2.0-aps-v2.3.7?classifier=sources
 - pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.2.0-aps-v2.3.8
 - pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.2.0-aps-v2.3.8?classifier=sources
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.2.0-aps-v2.3.9
+- pkg:maven/com.inteligr8.activiti/cxf-activiti-ext@1.2.0-aps-v2.3.9?classifier=sources

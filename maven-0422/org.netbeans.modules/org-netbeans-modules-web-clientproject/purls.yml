@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject@RELEASE190?classifier=sources

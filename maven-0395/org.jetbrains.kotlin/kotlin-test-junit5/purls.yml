@@ -107,6 +107,7 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.7.20?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.7.21?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.7.22?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.8.0-343?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.8.0-Beta?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.8.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.8.0-RC?classifier=sources
@@ -121,3 +122,4 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.9.0-Beta?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.9.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.9.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-test-junit5@1.9.10?classifier=sources

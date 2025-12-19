@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-go@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-go@RELEASE190?classifier=sources

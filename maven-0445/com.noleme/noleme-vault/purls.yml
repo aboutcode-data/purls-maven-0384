@@ -31,4 +31,6 @@
 - pkg:maven/com.noleme/noleme-vault@0.18
 - pkg:maven/com.noleme/noleme-vault@0.18.1
 - pkg:maven/com.noleme/noleme-vault@0.18.1?classifier=sources
+- pkg:maven/com.noleme/noleme-vault@0.18.2
+- pkg:maven/com.noleme/noleme-vault@0.18.2?classifier=sources
 - pkg:maven/com.noleme/noleme-vault@0.18?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.neo4j.gds/graph-store-catalog-applications@2.5.0-alpha02?classifier=sources
+- pkg:maven/org.neo4j.gds/graph-store-catalog-applications@2.5.0-alpha03?classifier=sources

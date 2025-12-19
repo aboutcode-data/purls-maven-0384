@@ -1,0 +1,2 @@
+- pkg:maven/org.groovymc.groovyduvet/groovyduvet-core@3.0.6?classifier=sources
+- pkg:maven/org.groovymc.groovyduvet/groovyduvet-core@3.0.7?classifier=sources

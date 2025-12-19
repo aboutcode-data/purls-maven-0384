@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.morphir/morphir-main_3@0.4.0-M9.03
+- pkg:maven/org.finos.morphir/morphir-main_3@0.4.0-M9.03?classifier=sources

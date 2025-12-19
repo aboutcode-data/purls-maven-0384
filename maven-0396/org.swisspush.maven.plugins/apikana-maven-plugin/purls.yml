@@ -63,6 +63,7 @@
 - pkg:maven/org.swisspush.maven.plugins/apikana-maven-plugin@0.4.21
 - pkg:maven/org.swisspush.maven.plugins/apikana-maven-plugin@0.4.21?classifier=sources
 - pkg:maven/org.swisspush.maven.plugins/apikana-maven-plugin@0.4.22
+- pkg:maven/org.swisspush.maven.plugins/apikana-maven-plugin@0.4.23
 - pkg:maven/org.swisspush.maven.plugins/apikana-maven-plugin@0.4.5
 - pkg:maven/org.swisspush.maven.plugins/apikana-maven-plugin@0.4.5?classifier=sources
 - pkg:maven/org.swisspush.maven.plugins/apikana-maven-plugin@0.4.7

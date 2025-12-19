@@ -30,6 +30,12 @@
 - pkg:maven/dev.vality/adapter-common-lib@1.1.7?classifier=sources
 - pkg:maven/dev.vality/adapter-common-lib@1.2.10
 - pkg:maven/dev.vality/adapter-common-lib@1.2.10?classifier=sources
+- pkg:maven/dev.vality/adapter-common-lib@1.2.11
+- pkg:maven/dev.vality/adapter-common-lib@1.2.11?classifier=sources
+- pkg:maven/dev.vality/adapter-common-lib@1.2.12
+- pkg:maven/dev.vality/adapter-common-lib@1.2.12?classifier=sources
+- pkg:maven/dev.vality/adapter-common-lib@1.2.13
+- pkg:maven/dev.vality/adapter-common-lib@1.2.13?classifier=sources
 - pkg:maven/dev.vality/adapter-common-lib@1.2.7
 - pkg:maven/dev.vality/adapter-common-lib@1.2.7?classifier=sources
 - pkg:maven/dev.vality/adapter-common-lib@1.2.8

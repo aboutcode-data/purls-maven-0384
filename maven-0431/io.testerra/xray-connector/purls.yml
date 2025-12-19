@@ -13,3 +13,4 @@
 - pkg:maven/io.testerra/xray-connector@2.2?classifier=sources
 - pkg:maven/io.testerra/xray-connector@2.3?classifier=sources
 - pkg:maven/io.testerra/xray-connector@2.4?classifier=sources
+- pkg:maven/io.testerra/xray-connector@2.5?classifier=sources

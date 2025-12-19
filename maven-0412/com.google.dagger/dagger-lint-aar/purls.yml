@@ -39,3 +39,4 @@
 - pkg:maven/com.google.dagger/dagger-lint-aar@2.46.1?type=aar
 - pkg:maven/com.google.dagger/dagger-lint-aar@2.46?type=aar
 - pkg:maven/com.google.dagger/dagger-lint-aar@2.47?type=aar
+- pkg:maven/com.google.dagger/dagger-lint-aar@2.48?type=aar

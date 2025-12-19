@@ -2,3 +2,9 @@
 - pkg:maven/io.dyte/webrtc@0.106.2?classifier=sources
 - pkg:maven/io.dyte/webrtc@0.106.3?classifier=sources
 - pkg:maven/io.dyte/webrtc@0.107.0?classifier=sources
+- pkg:maven/io.dyte/webrtc@0.107.1?classifier=sources
+- pkg:maven/io.dyte/webrtc@0.108.0?classifier=sources
+- pkg:maven/io.dyte/webrtc@0.109.0?classifier=sources
+- pkg:maven/io.dyte/webrtc@0.110.0?classifier=sources
+- pkg:maven/io.dyte/webrtc@0.111.0?classifier=sources
+- pkg:maven/io.dyte/webrtc@0.111.1?classifier=sources

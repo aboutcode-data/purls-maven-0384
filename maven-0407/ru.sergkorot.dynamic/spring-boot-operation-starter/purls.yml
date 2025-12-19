@@ -1,0 +1,2 @@
+- pkg:maven/ru.sergkorot.dynamic/spring-boot-operation-starter@1.0.0
+- pkg:maven/ru.sergkorot.dynamic/spring-boot-operation-starter@1.0.0?classifier=sources

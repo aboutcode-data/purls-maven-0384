@@ -295,6 +295,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@3.0.76?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@3.0.77
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@3.0.77?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@3.0.78?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@3.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@3.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@3.0.8
@@ -584,6 +585,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@5.0.70?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@5.0.71
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@5.0.71?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@5.0.72?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@5.0.73?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@5.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@5.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@5.0.8
@@ -664,6 +667,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@6.0.12
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@6.0.120
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@6.0.120?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@6.0.121?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@6.0.122?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@6.0.123?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@6.0.12?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@6.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.service@6.0.13

@@ -87,3 +87,6 @@
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-grpc-client-kubernetes@1.7.15?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-grpc-client-kubernetes@1.7.20?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-grpc-client-kubernetes@1.7.21?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-grpc-client-kubernetes@2.0.0?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-grpc-client-kubernetes@2.0.10?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-grpc-client-kubernetes@2.0.11?classifier=sources

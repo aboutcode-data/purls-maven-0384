@@ -5,3 +5,6 @@
 - pkg:maven/dev.atsushieno/ktmidi-native-ext-native@0.5.0?classifier=sources
 - pkg:maven/dev.atsushieno/ktmidi-native-ext-native@0.5.1?classifier=sources
 - pkg:maven/dev.atsushieno/ktmidi-native-ext-native@0.6.0-preview1?classifier=sources
+- pkg:maven/dev.atsushieno/ktmidi-native-ext-native@0.6.0-preview2?classifier=sources
+- pkg:maven/dev.atsushieno/ktmidi-native-ext-native@0.6.0-preview3?classifier=sources
+- pkg:maven/dev.atsushieno/ktmidi-native-ext-native@0.6.0?classifier=sources

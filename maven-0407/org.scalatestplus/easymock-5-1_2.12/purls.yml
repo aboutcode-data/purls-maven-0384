@@ -2,3 +2,5 @@
 - pkg:maven/org.scalatestplus/easymock-5-1_2.12@3.2.15.0?classifier=sources
 - pkg:maven/org.scalatestplus/easymock-5-1_2.12@3.2.16.0
 - pkg:maven/org.scalatestplus/easymock-5-1_2.12@3.2.16.0?classifier=sources
+- pkg:maven/org.scalatestplus/easymock-5-1_2.12@3.2.17.0
+- pkg:maven/org.scalatestplus/easymock-5-1_2.12@3.2.17.0?classifier=sources

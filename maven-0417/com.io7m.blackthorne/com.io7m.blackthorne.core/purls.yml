@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.blackthorne/com.io7m.blackthorne.core@2.0.0
+- pkg:maven/com.io7m.blackthorne/com.io7m.blackthorne.core@2.0.0?classifier=sources

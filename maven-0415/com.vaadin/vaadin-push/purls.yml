@@ -127,6 +127,7 @@
 - pkg:maven/com.vaadin/vaadin-push@7.7.39
 - pkg:maven/com.vaadin/vaadin-push@7.7.4
 - pkg:maven/com.vaadin/vaadin-push@7.7.40
+- pkg:maven/com.vaadin/vaadin-push@7.7.41
 - pkg:maven/com.vaadin/vaadin-push@7.7.5
 - pkg:maven/com.vaadin/vaadin-push@7.7.6
 - pkg:maven/com.vaadin/vaadin-push@7.7.7

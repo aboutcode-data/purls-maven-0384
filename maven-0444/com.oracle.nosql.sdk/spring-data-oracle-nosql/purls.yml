@@ -8,3 +8,5 @@
 - pkg:maven/com.oracle.nosql.sdk/spring-data-oracle-nosql@1.5.0?classifier=sources
 - pkg:maven/com.oracle.nosql.sdk/spring-data-oracle-nosql@1.6.0
 - pkg:maven/com.oracle.nosql.sdk/spring-data-oracle-nosql@1.6.0?classifier=sources
+- pkg:maven/com.oracle.nosql.sdk/spring-data-oracle-nosql@1.7.1
+- pkg:maven/com.oracle.nosql.sdk/spring-data-oracle-nosql@1.7.1?classifier=sources

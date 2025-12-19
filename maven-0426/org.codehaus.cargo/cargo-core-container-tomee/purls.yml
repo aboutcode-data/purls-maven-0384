@@ -16,6 +16,8 @@
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomee@1.10.7?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomee@1.10.8
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomee@1.10.8?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-core-container-tomee@1.10.9
+- pkg:maven/org.codehaus.cargo/cargo-core-container-tomee@1.10.9?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomee@1.4.11
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomee@1.4.11?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-container-tomee@1.4.12

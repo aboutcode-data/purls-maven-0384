@@ -1,0 +1,4 @@
+- pkg:maven/io.korandoru.hawkeye/hawkeye-maven-plugin@3.3.0
+- pkg:maven/io.korandoru.hawkeye/hawkeye-maven-plugin@3.3.0?classifier=sources
+- pkg:maven/io.korandoru.hawkeye/hawkeye-maven-plugin@3.4.0
+- pkg:maven/io.korandoru.hawkeye/hawkeye-maven-plugin@3.4.0?classifier=sources

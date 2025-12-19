@@ -1,2 +1,4 @@
 - pkg:maven/dev.hnaderi/sbt-k8s_2.12_1.0@0.1.8
 - pkg:maven/dev.hnaderi/sbt-k8s_2.12_1.0@0.1.8?classifier=sources
+- pkg:maven/dev.hnaderi/sbt-k8s_2.12_1.0@0.1.9
+- pkg:maven/dev.hnaderi/sbt-k8s_2.12_1.0@0.1.9?classifier=sources

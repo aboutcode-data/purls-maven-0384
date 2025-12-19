@@ -1210,6 +1210,8 @@
 - pkg:maven/com.liferay/com.liferay.blogs.web@5.0.85?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.web@5.0.86
 - pkg:maven/com.liferay/com.liferay.blogs.web@5.0.86?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.web@5.0.87?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.web@5.0.88?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@5.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@5.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.web@5.0.9
@@ -1236,6 +1238,7 @@
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.104?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.105
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.105?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.web@6.0.106?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.11

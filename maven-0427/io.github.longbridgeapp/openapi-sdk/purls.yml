@@ -94,3 +94,11 @@
 - pkg:maven/io.github.longbridgeapp/openapi-sdk@0.2.65?classifier=sources
 - pkg:maven/io.github.longbridgeapp/openapi-sdk@0.2.66
 - pkg:maven/io.github.longbridgeapp/openapi-sdk@0.2.66?classifier=sources
+- pkg:maven/io.github.longbridgeapp/openapi-sdk@0.2.67
+- pkg:maven/io.github.longbridgeapp/openapi-sdk@0.2.67?classifier=sources
+- pkg:maven/io.github.longbridgeapp/openapi-sdk@0.2.68
+- pkg:maven/io.github.longbridgeapp/openapi-sdk@0.2.68?classifier=sources
+- pkg:maven/io.github.longbridgeapp/openapi-sdk@0.2.69
+- pkg:maven/io.github.longbridgeapp/openapi-sdk@0.2.69?classifier=sources
+- pkg:maven/io.github.longbridgeapp/openapi-sdk@0.2.70
+- pkg:maven/io.github.longbridgeapp/openapi-sdk@0.2.70?classifier=sources

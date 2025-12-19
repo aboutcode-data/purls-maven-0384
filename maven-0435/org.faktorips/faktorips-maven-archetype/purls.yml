@@ -43,6 +43,7 @@
 - pkg:maven/org.faktorips/faktorips-maven-archetype@22.12.11.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@22.12.12.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@22.12.13.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@22.12.14.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@22.12.2.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@22.12.3.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@22.12.4.release?classifier=sources
@@ -76,5 +77,7 @@
 - pkg:maven/org.faktorips/faktorips-maven-archetype@23.6.1.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@23.6.2.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@23.6.3.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@23.6.4.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@24.1.0.a20230714-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@24.1.0.a20230728-01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@24.1.0.a20230828-01?classifier=sources

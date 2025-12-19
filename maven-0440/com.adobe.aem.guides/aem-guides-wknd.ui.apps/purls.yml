@@ -9,3 +9,5 @@
 - pkg:maven/com.adobe.aem.guides/aem-guides-wknd.ui.apps@2.1.2?classifier=sources
 - pkg:maven/com.adobe.aem.guides/aem-guides-wknd.ui.apps@2.1.4?classifier=sources
 - pkg:maven/com.adobe.aem.guides/aem-guides-wknd.ui.apps@3.0.0?classifier=sources
+- pkg:maven/com.adobe.aem.guides/aem-guides-wknd.ui.apps@3.1.0?classifier=sources
+- pkg:maven/com.adobe.aem.guides/aem-guides-wknd.ui.apps@3.2.0?classifier=sources

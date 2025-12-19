@@ -102,6 +102,7 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.api@21.2.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.api@22.0.0
 - pkg:maven/com.liferay/com.liferay.message.boards.api@22.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.api@23.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.message.boards.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.api@3.0.1

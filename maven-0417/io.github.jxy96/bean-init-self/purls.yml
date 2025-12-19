@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jxy96/bean-init-self@0.0.1
+- pkg:maven/io.github.jxy96/bean-init-self@0.0.1?classifier=sources

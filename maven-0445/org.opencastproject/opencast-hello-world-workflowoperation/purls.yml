@@ -29,6 +29,8 @@
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@12.11?classifier=sources
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@12.12
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@12.12?classifier=sources
+- pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@12.13
+- pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@12.13?classifier=sources
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@12.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@12.2
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@12.2?classifier=sources
@@ -47,6 +49,8 @@
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.0
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.1
+- pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.10
+- pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.10?classifier=sources
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.2
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.2?classifier=sources
@@ -56,7 +60,13 @@
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.7
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.8
+- pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@13.8?classifier=sources
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@14.0
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@14.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@14.1
 - pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@14.1?classifier=sources
+- pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@14.2
+- pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@14.2?classifier=sources
+- pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@14.3
+- pkg:maven/org.opencastproject/opencast-hello-world-workflowoperation@14.3?classifier=sources

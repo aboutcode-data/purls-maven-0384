@@ -31,6 +31,9 @@
 - pkg:maven/global.maplink/jacoco-report@1.4.18
 - pkg:maven/global.maplink/jacoco-report@1.4.19
 - pkg:maven/global.maplink/jacoco-report@1.4.2
+- pkg:maven/global.maplink/jacoco-report@1.4.20
+- pkg:maven/global.maplink/jacoco-report@1.4.21
+- pkg:maven/global.maplink/jacoco-report@1.4.22
 - pkg:maven/global.maplink/jacoco-report@1.4.3
 - pkg:maven/global.maplink/jacoco-report@1.4.4
 - pkg:maven/global.maplink/jacoco-report@1.4.5

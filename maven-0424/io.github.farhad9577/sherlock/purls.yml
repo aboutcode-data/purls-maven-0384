@@ -1,3 +1,5 @@
+- pkg:maven/io.github.farhad9577/sherlock@%24%7BcommonVersion%7D?classifier=sources
+- pkg:maven/io.github.farhad9577/sherlock@%24%7BcustomVersion%7D?classifier=sources
 - pkg:maven/io.github.farhad9577/sherlock@1.0.0?classifier=sources
 - pkg:maven/io.github.farhad9577/sherlock@1.0.1?classifier=sources
 - pkg:maven/io.github.farhad9577/sherlock@1.0.3?classifier=sources
@@ -5,3 +7,13 @@
 - pkg:maven/io.github.farhad9577/sherlock@1.0.5?classifier=sources
 - pkg:maven/io.github.farhad9577/sherlock@1.0.6?classifier=sources
 - pkg:maven/io.github.farhad9577/sherlock@1.0.7?classifier=sources
+- pkg:maven/io.github.farhad9577/sherlock@1.1.2?classifier=sources
+- pkg:maven/io.github.farhad9577/sherlock@3.0.1?classifier=sources
+- pkg:maven/io.github.farhad9577/sherlock@3.0.2?classifier=sources
+- pkg:maven/io.github.farhad9577/sherlock@3.0.5?classifier=sources
+- pkg:maven/io.github.farhad9577/sherlock@3.0.6?classifier=sources
+- pkg:maven/io.github.farhad9577/sherlock@3.0.7?classifier=sources
+- pkg:maven/io.github.farhad9577/sherlock@3.0.9?classifier=sources
+- pkg:maven/io.github.farhad9577/sherlock@3.1.0?classifier=sources
+- pkg:maven/io.github.farhad9577/sherlock@4.1.5?classifier=sources
+- pkg:maven/io.github.farhad9577/sherlock@9.0.4?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.gitlab.mvysny.owmcityfinder/owm-city-finder-client@0.3?classifier=sources
+- pkg:maven/com.gitlab.mvysny.owmcityfinder/owm-city-finder-client@0.4?classifier=sources

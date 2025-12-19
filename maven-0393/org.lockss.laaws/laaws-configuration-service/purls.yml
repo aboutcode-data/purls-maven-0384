@@ -18,3 +18,5 @@
 - pkg:maven/org.lockss.laaws/laaws-configuration-service@2.6.2?classifier=sources
 - pkg:maven/org.lockss.laaws/laaws-configuration-service@2.7.0
 - pkg:maven/org.lockss.laaws/laaws-configuration-service@2.7.0?classifier=sources
+- pkg:maven/org.lockss.laaws/laaws-configuration-service@2.8.0
+- pkg:maven/org.lockss.laaws/laaws-configuration-service@2.8.0?classifier=sources

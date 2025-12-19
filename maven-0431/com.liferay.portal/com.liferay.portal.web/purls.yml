@@ -631,6 +631,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.408?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.409?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.40?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.410?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.411?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.41?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.42?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.43?type=war
@@ -1212,6 +1214,10 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.268?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.269?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.26?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.270?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.271?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.272?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.273?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.27?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.28?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.29?type=war
@@ -1388,6 +1394,10 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.183?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.184?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.185?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.186?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.187?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.188?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.189?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.18?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.19?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.1?type=war

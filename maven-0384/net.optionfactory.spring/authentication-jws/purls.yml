@@ -8,3 +8,5 @@
 - pkg:maven/net.optionfactory.spring/authentication-jws@7.16?classifier=sources
 - pkg:maven/net.optionfactory.spring/authentication-jws@8.0
 - pkg:maven/net.optionfactory.spring/authentication-jws@8.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-jws@8.1
+- pkg:maven/net.optionfactory.spring/authentication-jws@8.1?classifier=sources

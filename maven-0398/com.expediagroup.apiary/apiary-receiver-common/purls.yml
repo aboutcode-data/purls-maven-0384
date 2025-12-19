@@ -50,3 +50,5 @@
 - pkg:maven/com.expediagroup.apiary/apiary-receiver-common@7.3.6?classifier=sources
 - pkg:maven/com.expediagroup.apiary/apiary-receiver-common@7.3.7
 - pkg:maven/com.expediagroup.apiary/apiary-receiver-common@7.3.7?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-receiver-common@7.3.8
+- pkg:maven/com.expediagroup.apiary/apiary-receiver-common@7.3.8?classifier=sources

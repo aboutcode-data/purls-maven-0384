@@ -22,3 +22,5 @@
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-data-index-inmemory@1.41.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-data-index-inmemory@1.42.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-data-index-inmemory@1.42.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-data-index-inmemory@1.43.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-data-index-inmemory@1.43.0.Final?classifier=sources

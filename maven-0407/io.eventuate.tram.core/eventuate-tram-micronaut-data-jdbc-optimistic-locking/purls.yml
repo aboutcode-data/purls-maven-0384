@@ -2,3 +2,5 @@
 - pkg:maven/io.eventuate.tram.core/eventuate-tram-micronaut-data-jdbc-optimistic-locking@0.30.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.tram.core/eventuate-tram-micronaut-data-jdbc-optimistic-locking@0.31.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.tram.core/eventuate-tram-micronaut-data-jdbc-optimistic-locking@0.32.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.tram.core/eventuate-tram-micronaut-data-jdbc-optimistic-locking@0.33.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.tram.core/eventuate-tram-micronaut-data-jdbc-optimistic-locking@0.34.0.RELEASE?classifier=sources

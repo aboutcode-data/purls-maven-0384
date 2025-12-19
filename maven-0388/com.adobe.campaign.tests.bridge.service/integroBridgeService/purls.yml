@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.campaign.tests.bridge.service/integroBridgeService@2.11.10
+- pkg:maven/com.adobe.campaign.tests.bridge.service/integroBridgeService@2.11.10?classifier=sources

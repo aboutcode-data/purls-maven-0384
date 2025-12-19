@@ -52,6 +52,7 @@
 - pkg:maven/org.codehaus.cargo/empty-jar@1.10.6
 - pkg:maven/org.codehaus.cargo/empty-jar@1.10.7
 - pkg:maven/org.codehaus.cargo/empty-jar@1.10.8
+- pkg:maven/org.codehaus.cargo/empty-jar@1.10.9
 - pkg:maven/org.codehaus.cargo/empty-jar@1.2.0
 - pkg:maven/org.codehaus.cargo/empty-jar@1.2.1
 - pkg:maven/org.codehaus.cargo/empty-jar@1.2.2

@@ -1,0 +1,2 @@
+- pkg:maven/cn.xisoil/xisoil-email@2.4.0-RELEASE
+- pkg:maven/cn.xisoil/xisoil-email@2.4.0-RELEASE?classifier=sources

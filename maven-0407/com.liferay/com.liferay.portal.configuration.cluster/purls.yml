@@ -120,6 +120,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@6.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@6.0.1
+- pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@6.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@6.0.2
@@ -169,6 +170,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@7.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@7.0.16
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@7.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@7.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@7.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@7.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.configuration.cluster@7.0.2

@@ -6,6 +6,7 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-estim-integration@3.13.0
 - pkg:maven/com.rte-france.powsybl/powsybl-estim-integration@3.13.1
 - pkg:maven/com.rte-france.powsybl/powsybl-estim-integration@3.14.0
+- pkg:maven/com.rte-france.powsybl/powsybl-estim-integration@3.14.1
 - pkg:maven/com.rte-france.powsybl/powsybl-estim-integration@3.7.0
 - pkg:maven/com.rte-france.powsybl/powsybl-estim-integration@3.7.1
 - pkg:maven/com.rte-france.powsybl/powsybl-estim-integration@3.8.0

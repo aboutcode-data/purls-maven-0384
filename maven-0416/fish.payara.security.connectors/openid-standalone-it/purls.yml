@@ -1,0 +1,6 @@
+- pkg:maven/fish.payara.security.connectors/openid-standalone-it@2.5.0
+- pkg:maven/fish.payara.security.connectors/openid-standalone-it@2.5.0?classifier=sources
+- pkg:maven/fish.payara.security.connectors/openid-standalone-it@2.5.1
+- pkg:maven/fish.payara.security.connectors/openid-standalone-it@2.5.1?classifier=sources
+- pkg:maven/fish.payara.security.connectors/openid-standalone-it@3.0.alpha7
+- pkg:maven/fish.payara.security.connectors/openid-standalone-it@3.0.alpha7?classifier=sources
