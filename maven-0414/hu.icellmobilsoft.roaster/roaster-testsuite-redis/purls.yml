@@ -4,3 +4,5 @@
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-testsuite-redis@0.9.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-testsuite-redis@1.0.0
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-testsuite-redis@1.0.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-testsuite-redis@2.0.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-testsuite-redis@2.0.0?classifier=sources

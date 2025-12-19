@@ -22,3 +22,4 @@
 - pkg:maven/io.smallrye/smallrye-health-experimental-test@4.0.0-RC1
 - pkg:maven/io.smallrye/smallrye-health-experimental-test@4.0.0-RC2
 - pkg:maven/io.smallrye/smallrye-health-experimental-test@4.0.1
+- pkg:maven/io.smallrye/smallrye-health-experimental-test@4.0.2

@@ -1,0 +1,2 @@
+- pkg:maven/org.smallmind/sso-oauth-jersey@5.1.0
+- pkg:maven/org.smallmind/sso-oauth-jersey@5.1.0?classifier=sources

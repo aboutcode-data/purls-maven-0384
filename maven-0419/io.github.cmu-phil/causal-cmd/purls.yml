@@ -10,3 +10,5 @@
 - pkg:maven/io.github.cmu-phil/causal-cmd@1.7.0?classifier=sources
 - pkg:maven/io.github.cmu-phil/causal-cmd@1.8.0
 - pkg:maven/io.github.cmu-phil/causal-cmd@1.8.0?classifier=sources
+- pkg:maven/io.github.cmu-phil/causal-cmd@1.9.0
+- pkg:maven/io.github.cmu-phil/causal-cmd@1.9.0?classifier=sources

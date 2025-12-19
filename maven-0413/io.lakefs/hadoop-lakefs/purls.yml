@@ -13,6 +13,8 @@
 - pkg:maven/io.lakefs/hadoop-lakefs@0.1.13?classifier=sources
 - pkg:maven/io.lakefs/hadoop-lakefs@0.1.14
 - pkg:maven/io.lakefs/hadoop-lakefs@0.1.14?classifier=sources
+- pkg:maven/io.lakefs/hadoop-lakefs@0.1.15
+- pkg:maven/io.lakefs/hadoop-lakefs@0.1.15?classifier=sources
 - pkg:maven/io.lakefs/hadoop-lakefs@0.1.1?classifier=sources
 - pkg:maven/io.lakefs/hadoop-lakefs@0.1.2-RC.0
 - pkg:maven/io.lakefs/hadoop-lakefs@0.1.2-RC.0?classifier=sources

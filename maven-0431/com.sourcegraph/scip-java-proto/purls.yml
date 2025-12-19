@@ -16,5 +16,9 @@
 - pkg:maven/com.sourcegraph/scip-java-proto@0.8.17?classifier=sources
 - pkg:maven/com.sourcegraph/scip-java-proto@0.8.18
 - pkg:maven/com.sourcegraph/scip-java-proto@0.8.18?classifier=sources
+- pkg:maven/com.sourcegraph/scip-java-proto@0.8.20
+- pkg:maven/com.sourcegraph/scip-java-proto@0.8.20?classifier=sources
+- pkg:maven/com.sourcegraph/scip-java-proto@0.8.21
+- pkg:maven/com.sourcegraph/scip-java-proto@0.8.21?classifier=sources
 - pkg:maven/com.sourcegraph/scip-java-proto@0.8.9
 - pkg:maven/com.sourcegraph/scip-java-proto@0.8.9?classifier=sources

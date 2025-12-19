@@ -2,3 +2,15 @@
 - pkg:maven/dev.vality/swag-claim-management@1.1-18ebff9-client?classifier=sources
 - pkg:maven/dev.vality/swag-claim-management@1.1-18ebff9-server
 - pkg:maven/dev.vality/swag-claim-management@1.1-18ebff9-server?classifier=sources
+- pkg:maven/dev.vality/swag-claim-management@1.44-29260c7-client
+- pkg:maven/dev.vality/swag-claim-management@1.44-29260c7-client?classifier=sources
+- pkg:maven/dev.vality/swag-claim-management@1.44-29260c7-server
+- pkg:maven/dev.vality/swag-claim-management@1.44-29260c7-server?classifier=sources
+- pkg:maven/dev.vality/swag-claim-management@1.46-2c84fce-client
+- pkg:maven/dev.vality/swag-claim-management@1.46-2c84fce-client?classifier=sources
+- pkg:maven/dev.vality/swag-claim-management@1.46-2c84fce-server
+- pkg:maven/dev.vality/swag-claim-management@1.46-2c84fce-server?classifier=sources
+- pkg:maven/dev.vality/swag-claim-management@1.47-7a03f9b-client
+- pkg:maven/dev.vality/swag-claim-management@1.47-7a03f9b-client?classifier=sources
+- pkg:maven/dev.vality/swag-claim-management@1.47-7a03f9b-server
+- pkg:maven/dev.vality/swag-claim-management@1.47-7a03f9b-server?classifier=sources

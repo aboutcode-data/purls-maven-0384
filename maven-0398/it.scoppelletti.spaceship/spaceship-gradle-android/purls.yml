@@ -1,2 +1,3 @@
 - pkg:maven/it.scoppelletti.spaceship/spaceship-gradle-android@1.0.0
 - pkg:maven/it.scoppelletti.spaceship/spaceship-gradle-android@1.0.0?classifier=sources
+- pkg:maven/it.scoppelletti.spaceship/spaceship-gradle-android@1.1.0?classifier=sources

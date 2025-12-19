@@ -1,0 +1,12 @@
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.2.20230527
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.2.20230527?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.2.20230606
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.2.20230606?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.2.20230609
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.2.20230609?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.2.20230611
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.2.20230611?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.2.20230621
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.2.20230621?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.3.20230703
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.3.20230703?classifier=sources

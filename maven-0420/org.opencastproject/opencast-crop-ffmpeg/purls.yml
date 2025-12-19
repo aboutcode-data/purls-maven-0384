@@ -78,6 +78,10 @@
 - pkg:maven/org.opencastproject/opencast-crop-ffmpeg@13.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-crop-ffmpeg@13.6
 - pkg:maven/org.opencastproject/opencast-crop-ffmpeg@13.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-crop-ffmpeg@13.7
+- pkg:maven/org.opencastproject/opencast-crop-ffmpeg@13.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-crop-ffmpeg@14.0
+- pkg:maven/org.opencastproject/opencast-crop-ffmpeg@14.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-crop-ffmpeg@8.0
 - pkg:maven/org.opencastproject/opencast-crop-ffmpeg@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-crop-ffmpeg@8.1

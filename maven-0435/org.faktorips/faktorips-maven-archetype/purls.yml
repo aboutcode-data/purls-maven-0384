@@ -71,3 +71,6 @@
 - pkg:maven/org.faktorips/faktorips-maven-archetype@23.6.0.a20230310-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@23.6.0.a20230503-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@23.6.0.a20230515-02?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@23.6.0.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@23.6.1.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@23.6.2.release?classifier=sources

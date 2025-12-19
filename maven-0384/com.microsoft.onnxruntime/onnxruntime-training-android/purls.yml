@@ -1,0 +1,1 @@
+- pkg:maven/com.microsoft.onnxruntime/onnxruntime-training-android@1.15.0?classifier=sources

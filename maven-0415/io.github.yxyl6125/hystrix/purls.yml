@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yxyl6125/hystrix@1.0.0
+- pkg:maven/io.github.yxyl6125/hystrix@1.0.0?classifier=sources

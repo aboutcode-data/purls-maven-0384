@@ -8,3 +8,5 @@
 - pkg:maven/org.vatplanner/dataformats-vatsim-public@0.1-pre211210?classifier=sources
 - pkg:maven/org.vatplanner/dataformats-vatsim-public@0.1-pre220206
 - pkg:maven/org.vatplanner/dataformats-vatsim-public@0.1-pre220206?classifier=sources
+- pkg:maven/org.vatplanner/dataformats-vatsim-public@0.1-pre230626
+- pkg:maven/org.vatplanner/dataformats-vatsim-public@0.1-pre230626?classifier=sources

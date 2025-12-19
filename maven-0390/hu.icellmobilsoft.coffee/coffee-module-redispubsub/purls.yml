@@ -1,2 +1,4 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@1.13.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@1.13.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@2.0.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@2.0.0?classifier=sources

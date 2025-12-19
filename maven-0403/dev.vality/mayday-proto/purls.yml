@@ -1,0 +1,10 @@
+- pkg:maven/dev.vality/mayday-proto@1.2-0033eb3
+- pkg:maven/dev.vality/mayday-proto@1.2-0033eb3?classifier=sources
+- pkg:maven/dev.vality/mayday-proto@1.5-5015827
+- pkg:maven/dev.vality/mayday-proto@1.5-5015827?classifier=sources
+- pkg:maven/dev.vality/mayday-proto@1.6-44df908
+- pkg:maven/dev.vality/mayday-proto@1.6-44df908?classifier=sources
+- pkg:maven/dev.vality/mayday-proto@1.7-b2b2b3b
+- pkg:maven/dev.vality/mayday-proto@1.7-b2b2b3b?classifier=sources
+- pkg:maven/dev.vality/mayday-proto@1.8-d79c25b
+- pkg:maven/dev.vality/mayday-proto@1.8-d79c25b?classifier=sources

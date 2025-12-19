@@ -3,3 +3,6 @@
 - pkg:maven/io.github.juphoon-app/jcsdk@2.13.2?type=aar
 - pkg:maven/io.github.juphoon-app/jcsdk@2.13.3?type=aar
 - pkg:maven/io.github.juphoon-app/jcsdk@2.14.0?type=aar
+- pkg:maven/io.github.juphoon-app/jcsdk@2.14.1?type=aar
+- pkg:maven/io.github.juphoon-app/jcsdk@2.14.3?type=aar
+- pkg:maven/io.github.juphoon-app/jcsdk@2.14.4?type=aar

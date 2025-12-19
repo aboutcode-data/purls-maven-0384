@@ -1,0 +1,2 @@
+- pkg:maven/com.primihub/primihub-sdk@1.0.0-TEST
+- pkg:maven/com.primihub/primihub-sdk@1.0.0-TEST?classifier=sources

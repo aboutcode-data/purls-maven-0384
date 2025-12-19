@@ -1,0 +1,6 @@
+- pkg:maven/ink.huaxun/sedum-authority@4.0.0
+- pkg:maven/ink.huaxun/sedum-authority@4.0.0?classifier=sources
+- pkg:maven/ink.huaxun/sedum-authority@4.1.0
+- pkg:maven/ink.huaxun/sedum-authority@4.1.0?classifier=sources
+- pkg:maven/ink.huaxun/sedum-authority@4.2.0
+- pkg:maven/ink.huaxun/sedum-authority@4.2.0?classifier=sources

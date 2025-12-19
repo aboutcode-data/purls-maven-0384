@@ -40,3 +40,7 @@
 - pkg:maven/io.github.chikyukido/AppletManager@0.20.2
 - pkg:maven/io.github.chikyukido/AppletManager@0.20.2?classifier=sources
 - pkg:maven/io.github.chikyukido/AppletManager@0.20?classifier=sources
+- pkg:maven/io.github.chikyukido/AppletManager@0.21.01-BETA
+- pkg:maven/io.github.chikyukido/AppletManager@0.21.01-BETA?classifier=sources
+- pkg:maven/io.github.chikyukido/AppletManager@0.21.02-BETA
+- pkg:maven/io.github.chikyukido/AppletManager@0.21.02-BETA?classifier=sources

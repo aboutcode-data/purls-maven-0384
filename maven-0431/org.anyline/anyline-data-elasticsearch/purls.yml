@@ -1,0 +1,4 @@
+- pkg:maven/org.anyline/anyline-data-elasticsearch@8.6.3-20230630
+- pkg:maven/org.anyline/anyline-data-elasticsearch@8.6.3-20230630?classifier=sources
+- pkg:maven/org.anyline/anyline-data-elasticsearch@8.6.5-20230703
+- pkg:maven/org.anyline/anyline-data-elasticsearch@8.6.5-20230703?classifier=sources

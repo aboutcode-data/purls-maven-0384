@@ -896,3 +896,17 @@
 - pkg:maven/io.shiftleft/schema2json_2.13@1.3.599?classifier=sources
 - pkg:maven/io.shiftleft/schema2json_2.13@1.3.600
 - pkg:maven/io.shiftleft/schema2json_2.13@1.3.600?classifier=sources
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.601
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.601?classifier=sources
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.603
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.603?classifier=sources
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.604
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.604?classifier=sources
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.605
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.605?classifier=sources
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.612
+- pkg:maven/io.shiftleft/schema2json_2.13@1.3.612?classifier=sources
+- pkg:maven/io.shiftleft/schema2json_2.13@1.4.3
+- pkg:maven/io.shiftleft/schema2json_2.13@1.4.3?classifier=sources
+- pkg:maven/io.shiftleft/schema2json_2.13@1.4.6
+- pkg:maven/io.shiftleft/schema2json_2.13@1.4.6?classifier=sources

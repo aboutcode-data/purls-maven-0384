@@ -8,3 +8,5 @@
 - pkg:maven/org.opengis.cite/ets-ogcapi-processes10@0.4?classifier=sources
 - pkg:maven/org.opengis.cite/ets-ogcapi-processes10@0.5
 - pkg:maven/org.opengis.cite/ets-ogcapi-processes10@0.5?classifier=sources
+- pkg:maven/org.opengis.cite/ets-ogcapi-processes10@1.0
+- pkg:maven/org.opengis.cite/ets-ogcapi-processes10@1.0?classifier=sources

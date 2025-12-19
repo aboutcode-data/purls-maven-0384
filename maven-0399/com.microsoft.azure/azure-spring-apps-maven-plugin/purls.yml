@@ -14,3 +14,4 @@
 - pkg:maven/com.microsoft.azure/azure-spring-apps-maven-plugin@1.15.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-spring-apps-maven-plugin@1.16.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-spring-apps-maven-plugin@1.17.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-spring-apps-maven-plugin@1.18.0?classifier=sources

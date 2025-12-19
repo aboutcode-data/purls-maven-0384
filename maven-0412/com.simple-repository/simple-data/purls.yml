@@ -1,0 +1,2 @@
+- pkg:maven/com.simple-repository/simple-data@1.0.1
+- pkg:maven/com.simple-repository/simple-data@1.0.1?classifier=sources

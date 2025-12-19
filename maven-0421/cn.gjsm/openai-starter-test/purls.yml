@@ -2,3 +2,5 @@
 - pkg:maven/cn.gjsm/openai-starter-test@1.0.1?classifier=sources
 - pkg:maven/cn.gjsm/openai-starter-test@1.0.2
 - pkg:maven/cn.gjsm/openai-starter-test@1.0.2?classifier=sources
+- pkg:maven/cn.gjsm/openai-starter-test@boot-2.7.10-ai-1.0.2
+- pkg:maven/cn.gjsm/openai-starter-test@boot-2.7.10-ai-1.0.2?classifier=sources

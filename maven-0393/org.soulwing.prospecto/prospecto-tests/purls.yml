@@ -36,3 +36,7 @@
 - pkg:maven/org.soulwing.prospecto/prospecto-tests@2.2.1
 - pkg:maven/org.soulwing.prospecto/prospecto-tests@2.3.0
 - pkg:maven/org.soulwing.prospecto/prospecto-tests@2.4.0
+- pkg:maven/org.soulwing.prospecto/prospecto-tests@2.5.0
+- pkg:maven/org.soulwing.prospecto/prospecto-tests@2.5.1
+- pkg:maven/org.soulwing.prospecto/prospecto-tests@2.5.2
+- pkg:maven/org.soulwing.prospecto/prospecto-tests@2.5.3

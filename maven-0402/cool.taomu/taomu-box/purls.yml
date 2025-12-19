@@ -1,1 +1,2 @@
 - pkg:maven/cool.taomu/taomu-box@0.0.7?classifier=sources
+- pkg:maven/cool.taomu/taomu-box@0.0.8?classifier=sources

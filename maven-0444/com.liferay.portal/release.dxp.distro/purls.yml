@@ -139,6 +139,8 @@
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.u22-1
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.u23
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.u24
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.u25
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.u26
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.u4
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.u5
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.3.10.u6
@@ -218,5 +220,9 @@
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u73
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u74
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u75
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u76
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u77
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u78
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u79
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u8
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u9

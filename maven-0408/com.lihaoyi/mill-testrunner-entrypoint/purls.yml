@@ -1,0 +1,2 @@
+- pkg:maven/com.lihaoyi/mill-testrunner-entrypoint@0.11.0-M11
+- pkg:maven/com.lihaoyi/mill-testrunner-entrypoint@0.11.0-M11?classifier=sources

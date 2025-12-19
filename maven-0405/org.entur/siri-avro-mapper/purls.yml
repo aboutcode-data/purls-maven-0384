@@ -12,3 +12,5 @@
 - pkg:maven/org.entur/siri-avro-mapper@0.6?classifier=sources
 - pkg:maven/org.entur/siri-avro-mapper@0.7
 - pkg:maven/org.entur/siri-avro-mapper@0.7?classifier=sources
+- pkg:maven/org.entur/siri-avro-mapper@1.0
+- pkg:maven/org.entur/siri-avro-mapper@1.0?classifier=sources

@@ -162,6 +162,10 @@
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.39.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.4.0
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.4.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatesns@2.40.0
+- pkg:maven/software.amazon.awsconstructs/fargatesns@2.40.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatesns@2.41.0
+- pkg:maven/software.amazon.awsconstructs/fargatesns@2.41.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.5.0
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.5.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.6.0

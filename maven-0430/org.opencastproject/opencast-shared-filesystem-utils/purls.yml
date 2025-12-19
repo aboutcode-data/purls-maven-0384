@@ -78,6 +78,10 @@
 - pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@13.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@13.6
 - pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@13.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@13.7
+- pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@13.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@14.0
+- pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@14.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@8.10
 - pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@8.10?classifier=sources
 - pkg:maven/org.opencastproject/opencast-shared-filesystem-utils@8.11

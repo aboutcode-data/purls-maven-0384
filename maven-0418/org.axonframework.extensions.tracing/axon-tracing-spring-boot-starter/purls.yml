@@ -10,3 +10,4 @@
 - pkg:maven/org.axonframework.extensions.tracing/axon-tracing-spring-boot-starter@4.6.0
 - pkg:maven/org.axonframework.extensions.tracing/axon-tracing-spring-boot-starter@4.6.1
 - pkg:maven/org.axonframework.extensions.tracing/axon-tracing-spring-boot-starter@4.7.0
+- pkg:maven/org.axonframework.extensions.tracing/axon-tracing-spring-boot-starter@4.8.0

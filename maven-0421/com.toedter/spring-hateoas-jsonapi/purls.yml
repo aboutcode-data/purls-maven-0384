@@ -29,3 +29,4 @@
 - pkg:maven/com.toedter/spring-hateoas-jsonapi@2.0.2?classifier=sources
 - pkg:maven/com.toedter/spring-hateoas-jsonapi@2.0.3?classifier=sources
 - pkg:maven/com.toedter/spring-hateoas-jsonapi@2.0.4?classifier=sources
+- pkg:maven/com.toedter/spring-hateoas-jsonapi@2.0.5?classifier=sources

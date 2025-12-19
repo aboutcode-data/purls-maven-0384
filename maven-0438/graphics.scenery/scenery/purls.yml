@@ -48,3 +48,5 @@
 - pkg:maven/graphics.scenery/scenery@0.7.0-beta-6?classifier=sources
 - pkg:maven/graphics.scenery/scenery@0.7.0-beta-7
 - pkg:maven/graphics.scenery/scenery@0.7.0-beta-7?classifier=sources
+- pkg:maven/graphics.scenery/scenery@0.8.0?classifier=sources
+- pkg:maven/graphics.scenery/scenery@0.8.1?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.databinding@1.14.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.databinding@1.14.100
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.databinding@1.14.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.jface.databinding@1.15.0
+- pkg:maven/org.eclipse.platform/org.eclipse.jface.databinding@1.15.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.databinding@1.8.1
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.databinding@1.8.100
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.databinding@1.8.100?classifier=sources

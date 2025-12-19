@@ -102,3 +102,5 @@
 - pkg:maven/org.apache.openejb.itests/failover-ejb@9.0.0.RC1
 - pkg:maven/org.apache.openejb.itests/failover-ejb@9.0.0.RC1?classifier=sources
 - pkg:maven/org.apache.openejb.itests/failover-ejb@9.0.0?classifier=sources
+- pkg:maven/org.apache.openejb.itests/failover-ejb@9.1.0
+- pkg:maven/org.apache.openejb.itests/failover-ejb@9.1.0?classifier=sources

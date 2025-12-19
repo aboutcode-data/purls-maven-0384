@@ -1,0 +1,12 @@
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@0.0.1-alpha1
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@0.0.1-alpha1?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@0.0.1-alpha2
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@0.0.1-alpha2?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@0.0.1-alpha3
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@0.0.1-alpha3?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@0.0.1-alpha4
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@0.0.1-alpha4?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@1.0.0-CR2
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@1.0.0-CR2?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@1.0.0-RC1
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-sass-compiler@1.0.0-RC1?classifier=sources

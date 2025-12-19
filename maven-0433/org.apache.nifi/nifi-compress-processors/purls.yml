@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-compress-processors@1.22.0
+- pkg:maven/org.apache.nifi/nifi-compress-processors@1.22.0?classifier=sources

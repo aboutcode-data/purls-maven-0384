@@ -1,0 +1,4 @@
+- pkg:maven/io.trino/trino-filesystem-manager@419
+- pkg:maven/io.trino/trino-filesystem-manager@419?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-manager@420
+- pkg:maven/io.trino/trino-filesystem-manager@420?classifier=sources

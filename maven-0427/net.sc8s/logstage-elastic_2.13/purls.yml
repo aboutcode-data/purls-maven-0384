@@ -134,3 +134,5 @@
 - pkg:maven/net.sc8s/logstage-elastic_2.13@0.75.0?classifier=sources
 - pkg:maven/net.sc8s/logstage-elastic_2.13@0.76.0
 - pkg:maven/net.sc8s/logstage-elastic_2.13@0.76.0?classifier=sources
+- pkg:maven/net.sc8s/logstage-elastic_2.13@0.77.0
+- pkg:maven/net.sc8s/logstage-elastic_2.13@0.77.0?classifier=sources

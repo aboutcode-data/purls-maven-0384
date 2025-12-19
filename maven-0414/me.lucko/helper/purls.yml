@@ -19,6 +19,8 @@
 - pkg:maven/me.lucko/helper@5.6.10?classifier=sources
 - pkg:maven/me.lucko/helper@5.6.13
 - pkg:maven/me.lucko/helper@5.6.13?classifier=sources
+- pkg:maven/me.lucko/helper@5.6.14
+- pkg:maven/me.lucko/helper@5.6.14?classifier=sources
 - pkg:maven/me.lucko/helper@5.6.1?classifier=sources
 - pkg:maven/me.lucko/helper@5.6.2
 - pkg:maven/me.lucko/helper@5.6.2?classifier=sources

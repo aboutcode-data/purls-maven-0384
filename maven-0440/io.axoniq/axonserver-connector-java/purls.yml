@@ -1,5 +1,7 @@
 - pkg:maven/io.axoniq/axonserver-connector-java@2023.0.0
 - pkg:maven/io.axoniq/axonserver-connector-java@2023.0.0?classifier=sources
+- pkg:maven/io.axoniq/axonserver-connector-java@2023.1.0
+- pkg:maven/io.axoniq/axonserver-connector-java@2023.1.0?classifier=sources
 - pkg:maven/io.axoniq/axonserver-connector-java@4.4
 - pkg:maven/io.axoniq/axonserver-connector-java@4.4-M1
 - pkg:maven/io.axoniq/axonserver-connector-java@4.4-M1?classifier=sources

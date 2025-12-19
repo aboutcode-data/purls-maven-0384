@@ -191,3 +191,4 @@
 - pkg:maven/org.craftercms/crafter-deployer@4.0.1
 - pkg:maven/org.craftercms/crafter-deployer@4.0.2
 - pkg:maven/org.craftercms/crafter-deployer@4.0.4
+- pkg:maven/org.craftercms/crafter-deployer@4.0.5

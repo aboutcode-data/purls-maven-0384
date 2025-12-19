@@ -124,8 +124,14 @@
 - pkg:maven/com.amazon.alexa/ask-smapi-model@1.47.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-smapi-model@1.48.0
 - pkg:maven/com.amazon.alexa/ask-smapi-model@1.48.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-smapi-model@1.49.0
+- pkg:maven/com.amazon.alexa/ask-smapi-model@1.49.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-smapi-model@1.5.0
 - pkg:maven/com.amazon.alexa/ask-smapi-model@1.5.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-smapi-model@1.50.0
+- pkg:maven/com.amazon.alexa/ask-smapi-model@1.50.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-smapi-model@1.51.0
+- pkg:maven/com.amazon.alexa/ask-smapi-model@1.51.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-smapi-model@1.6.0
 - pkg:maven/com.amazon.alexa/ask-smapi-model@1.6.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-smapi-model@1.6.1

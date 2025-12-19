@@ -39,3 +39,7 @@
 - pkg:maven/io.github.flayone/advance-bd@4.2.0_9241_core?type=aar
 - pkg:maven/io.github.flayone/advance-bd@4.2.1_9241?type=aar
 - pkg:maven/io.github.flayone/advance-bd@4.2.1_9241_core?type=aar
+- pkg:maven/io.github.flayone/advance-bd@4.2.2_9241?type=aar
+- pkg:maven/io.github.flayone/advance-bd@4.2.2_9241_core?type=aar
+- pkg:maven/io.github.flayone/advance-bd@4.2.3_930?type=aar
+- pkg:maven/io.github.flayone/advance-bd@4.2.3_930_core?type=aar

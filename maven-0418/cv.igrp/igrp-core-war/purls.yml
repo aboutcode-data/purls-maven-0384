@@ -1,0 +1,7 @@
+- pkg:maven/cv.igrp/igrp-core-war@1.7.2.230622?type=war
+- pkg:maven/cv.igrp/igrp-core-war@1.7.2.230624?classifier=sources
+- pkg:maven/cv.igrp/igrp-core-war@1.7.2.230624?type=war
+- pkg:maven/cv.igrp/igrp-core-war@1.7.2.230627?classifier=sources
+- pkg:maven/cv.igrp/igrp-core-war@2.0.0.230625-alpha?classifier=sources
+- pkg:maven/cv.igrp/igrp-core-war@2.0.0.230625-alpha?type=war
+- pkg:maven/cv.igrp/igrp-core-war@2.0.0.230627-alpha?classifier=sources

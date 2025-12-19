@@ -14,3 +14,5 @@
 - pkg:maven/io.github.kaststream/kastflow-java-api@3.3.8?classifier=sources
 - pkg:maven/io.github.kaststream/kastflow-java-api@3.3.9
 - pkg:maven/io.github.kaststream/kastflow-java-api@3.3.9?classifier=sources
+- pkg:maven/io.github.kaststream/kastflow-java-api@4.0.0
+- pkg:maven/io.github.kaststream/kastflow-java-api@4.0.0?classifier=sources

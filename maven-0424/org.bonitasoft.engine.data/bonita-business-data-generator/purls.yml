@@ -1,1 +1,2 @@
 - pkg:maven/org.bonitasoft.engine.data/bonita-business-data-generator@7.15.0?classifier=sources
+- pkg:maven/org.bonitasoft.engine.data/bonita-business-data-generator@8.0.0?classifier=sources

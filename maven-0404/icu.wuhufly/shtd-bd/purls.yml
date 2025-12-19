@@ -1,0 +1,4 @@
+- pkg:maven/icu.wuhufly/shtd-bd@1.0-ds
+- pkg:maven/icu.wuhufly/shtd-bd@1.0-ds?classifier=sources
+- pkg:maven/icu.wuhufly/shtd-bd@1.0-industry
+- pkg:maven/icu.wuhufly/shtd-bd@1.0-industry?classifier=sources
