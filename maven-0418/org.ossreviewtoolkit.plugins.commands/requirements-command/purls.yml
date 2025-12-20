@@ -45,6 +45,7 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/requirements-command@32.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/requirements-command@32.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/requirements-command@33.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/requirements-command@33.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/requirements-command@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/requirements-command@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/requirements-command@5.1.0?classifier=sources

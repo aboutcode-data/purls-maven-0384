@@ -25,3 +25,4 @@
 - pkg:maven/com.datastax.astra/spring-boot-2x-archetype@1.2.6?classifier=sources
 - pkg:maven/com.datastax.astra/spring-boot-2x-archetype@1.2.7?classifier=sources
 - pkg:maven/com.datastax.astra/spring-boot-2x-archetype@1.2.8?classifier=sources
+- pkg:maven/com.datastax.astra/spring-boot-2x-archetype@1.2.9?classifier=sources

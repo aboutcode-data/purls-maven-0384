@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.database.spring.cloud-stream-binder/spring-cloud-stream-binder-oracle-txeventq@0.9.0
+- pkg:maven/com.oracle.database.spring.cloud-stream-binder/spring-cloud-stream-binder-oracle-txeventq@0.9.0?classifier=sources

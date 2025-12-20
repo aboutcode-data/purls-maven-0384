@@ -14,6 +14,8 @@
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@2.6.7?classifier=sources
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@2.6.8
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@2.6.8?classifier=sources
+- pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@2.6.9
+- pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@2.6.9?classifier=sources
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@3.2.1
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@3.2.1?classifier=sources
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@3.2.2
@@ -78,3 +80,5 @@
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@4.0.9?classifier=sources
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@4.1.0
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@4.1.0?classifier=sources
+- pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@4.1.1
+- pkg:maven/io.helidon.common.testing/helidon-common-testing-junit5@4.1.1?classifier=sources

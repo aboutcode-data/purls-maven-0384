@@ -1,0 +1,4 @@
+- pkg:maven/dev.velix/imperat-cli@1.0.0-b.2?classifier=sources
+- pkg:maven/dev.velix/imperat-cli@1.0.0-b.3?classifier=sources
+- pkg:maven/dev.velix/imperat-cli@1.0.0-b.4?classifier=sources
+- pkg:maven/dev.velix/imperat-cli@1.0.0-b.5?classifier=sources

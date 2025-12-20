@@ -10,3 +10,5 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-javaflow@6.21.3?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-javaflow@7.0.0
 - pkg:maven/net.sf.jasperreports/jasperreports-javaflow@7.0.0?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-javaflow@7.0.1
+- pkg:maven/net.sf.jasperreports/jasperreports-javaflow@7.0.1?classifier=sources

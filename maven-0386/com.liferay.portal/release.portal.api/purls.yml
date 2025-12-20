@@ -60,6 +60,8 @@
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.12-ga12?classifier=sources
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.120-ga120?classifier=sources
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.120?classifier=sources
+- pkg:maven/com.liferay.portal/release.portal.api@7.4.3.125-ga125?classifier=sources
+- pkg:maven/com.liferay.portal/release.portal.api@7.4.3.125?classifier=sources
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.13-ga13
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.13-ga13?classifier=sources
 - pkg:maven/com.liferay.portal/release.portal.api@7.4.3.14-ga14

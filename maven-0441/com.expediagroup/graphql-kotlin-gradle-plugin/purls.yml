@@ -118,3 +118,4 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-gradle-plugin@8.0.0-alpha.6?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-gradle-plugin@8.0.0-alpha.7?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-gradle-plugin@8.0.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-gradle-plugin@8.1.0?classifier=sources

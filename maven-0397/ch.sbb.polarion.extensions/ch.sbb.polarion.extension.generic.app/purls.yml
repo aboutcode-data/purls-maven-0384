@@ -30,3 +30,17 @@
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@6.6.3?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@6.7.0
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@6.7.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.0.0
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.0.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.0.1
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.0.1?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.0.2
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.0.2?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.1.0
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.1.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.2.0
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.2.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.3.0
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.3.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.3.1
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.3.1?classifier=sources

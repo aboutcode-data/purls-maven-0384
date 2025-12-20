@@ -36,6 +36,7 @@
 - pkg:maven/dev.galasa/dev.galasa.framework@0.34.1?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework@0.35.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework@0.36.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.framework@0.37.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework@0.4.0
 - pkg:maven/dev.galasa/dev.galasa.framework@0.4.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework@0.5.0

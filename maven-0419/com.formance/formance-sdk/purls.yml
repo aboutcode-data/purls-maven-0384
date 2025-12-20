@@ -2,3 +2,6 @@
 - pkg:maven/com.formance/formance-sdk@2.2.4?classifier=sources
 - pkg:maven/com.formance/formance-sdk@2.2.5?classifier=sources
 - pkg:maven/com.formance/formance-sdk@2.3.1?classifier=sources
+- pkg:maven/com.formance/formance-sdk@3.1.0?classifier=sources
+- pkg:maven/com.formance/formance-sdk@4.0.0?classifier=sources
+- pkg:maven/com.formance/formance-sdk@4.0.1?classifier=sources

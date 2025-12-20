@@ -69,6 +69,8 @@
 - pkg:maven/io.github.odys-z/semantic.DA@1.4.42?classifier=sources
 - pkg:maven/io.github.odys-z/semantic.DA@1.4.43
 - pkg:maven/io.github.odys-z/semantic.DA@1.4.43?classifier=sources
+- pkg:maven/io.github.odys-z/semantic.DA@1.4.44
+- pkg:maven/io.github.odys-z/semantic.DA@1.4.44?classifier=sources
 - pkg:maven/io.github.odys-z/semantic.DA@1.4.4?classifier=sources
 - pkg:maven/io.github.odys-z/semantic.DA@1.4.5
 - pkg:maven/io.github.odys-z/semantic.DA@1.4.5?classifier=sources

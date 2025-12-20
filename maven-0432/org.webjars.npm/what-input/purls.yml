@@ -14,3 +14,4 @@
 - pkg:maven/org.webjars.npm/what-input@4.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/what-input@4.3.1
 - pkg:maven/org.webjars.npm/what-input@4.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/what-input@5.2.12

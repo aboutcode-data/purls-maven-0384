@@ -29,4 +29,5 @@
 - pkg:maven/io.inai.payments/android-sdk@0.1.39?classifier=sources
 - pkg:maven/io.inai.payments/android-sdk@0.1.40?classifier=sources
 - pkg:maven/io.inai.payments/android-sdk@0.1.41?classifier=sources
+- pkg:maven/io.inai.payments/android-sdk@0.1.43?classifier=sources
 - pkg:maven/io.inai.payments/android-sdk@1.0.1.dev?classifier=sources

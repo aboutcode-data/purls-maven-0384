@@ -8,3 +8,5 @@
 - pkg:maven/cn.ujava/ujava-design@3.0.3?classifier=sources
 - pkg:maven/cn.ujava/ujava-design@4.0.0
 - pkg:maven/cn.ujava/ujava-design@4.0.0?classifier=sources
+- pkg:maven/cn.ujava/ujava-design@7.0.0
+- pkg:maven/cn.ujava/ujava-design@7.0.0?classifier=sources

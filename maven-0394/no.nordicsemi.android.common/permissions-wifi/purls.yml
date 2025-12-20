@@ -1,3 +1,4 @@
 - pkg:maven/no.nordicsemi.android.common/permissions-wifi@1.10.0?classifier=sources
 - pkg:maven/no.nordicsemi.android.common/permissions-wifi@1.10.1?classifier=sources
 - pkg:maven/no.nordicsemi.android.common/permissions-wifi@2.0.0?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/permissions-wifi@2.1.0?classifier=sources

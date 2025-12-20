@@ -16,3 +16,5 @@
 - pkg:maven/com.github.workerframework/worker-message-prioritization-distribution@2.0.0-208?classifier=sources
 - pkg:maven/com.github.workerframework/worker-message-prioritization-distribution@2.0.3-282
 - pkg:maven/com.github.workerframework/worker-message-prioritization-distribution@2.0.3-282?classifier=sources
+- pkg:maven/com.github.workerframework/worker-message-prioritization-distribution@2.1.0-327
+- pkg:maven/com.github.workerframework/worker-message-prioritization-distribution@2.1.0-327?classifier=sources

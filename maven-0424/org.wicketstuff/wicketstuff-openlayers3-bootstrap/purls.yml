@@ -8,6 +8,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@10.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@10.1.1
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@10.1.1?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@10.2.0
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@10.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@6.17.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@6.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@6.18.0

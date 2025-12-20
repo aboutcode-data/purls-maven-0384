@@ -18,3 +18,5 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.9.26-alpha3
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.9.26-alpha3?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.9.26-alpha?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.9.27-alpha
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.logging.correlation@4.9.27-alpha?classifier=sources

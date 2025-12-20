@@ -22,3 +22,5 @@
 - pkg:maven/com.northdata.api/northdata-api-model@1.193.5?classifier=sources
 - pkg:maven/com.northdata.api/northdata-api-model@1.193.6
 - pkg:maven/com.northdata.api/northdata-api-model@1.193.6?classifier=sources
+- pkg:maven/com.northdata.api/northdata-api-model@1.196.29
+- pkg:maven/com.northdata.api/northdata-api-model@1.196.29?classifier=sources

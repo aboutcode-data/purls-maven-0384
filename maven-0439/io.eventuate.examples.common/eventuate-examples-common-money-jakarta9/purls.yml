@@ -1,1 +1,2 @@
 - pkg:maven/io.eventuate.examples.common/eventuate-examples-common-money-jakarta9@0.2.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.examples.common/eventuate-examples-common-money-jakarta9@0.3.0.RELEASE?classifier=sources

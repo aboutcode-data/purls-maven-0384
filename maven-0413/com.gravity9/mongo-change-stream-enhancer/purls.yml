@@ -1,2 +1,4 @@
 - pkg:maven/com.gravity9/mongo-change-stream-enhancer@1.0.0-beta
 - pkg:maven/com.gravity9/mongo-change-stream-enhancer@1.0.0-beta?classifier=sources
+- pkg:maven/com.gravity9/mongo-change-stream-enhancer@1.0.4
+- pkg:maven/com.gravity9/mongo-change-stream-enhancer@1.0.4?classifier=sources

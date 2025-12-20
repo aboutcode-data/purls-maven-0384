@@ -1,0 +1,2 @@
+- pkg:maven/io.avaje/avaje-http-sigma-generator@2.8-RC3
+- pkg:maven/io.avaje/avaje-http-sigma-generator@2.8-RC3?classifier=sources

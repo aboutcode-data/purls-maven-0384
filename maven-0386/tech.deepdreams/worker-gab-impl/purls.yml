@@ -1,0 +1,4 @@
+- pkg:maven/tech.deepdreams/worker-gab-impl@0.1.0-RELEASE
+- pkg:maven/tech.deepdreams/worker-gab-impl@0.1.0-RELEASE?classifier=sources
+- pkg:maven/tech.deepdreams/worker-gab-impl@0.1.1-RELEASE
+- pkg:maven/tech.deepdreams/worker-gab-impl@0.1.1-RELEASE?classifier=sources

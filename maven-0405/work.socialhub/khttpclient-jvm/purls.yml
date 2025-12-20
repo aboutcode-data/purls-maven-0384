@@ -1,0 +1,2 @@
+- pkg:maven/work.socialhub/khttpclient-jvm@0.0.1?classifier=sources
+- pkg:maven/work.socialhub/khttpclient-jvm@0.0.2?classifier=sources

@@ -6,6 +6,12 @@
 - pkg:maven/com.databricks/databricks-jdbc@0.9.1-oss?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@0.9.2-oss
 - pkg:maven/com.databricks/databricks-jdbc@0.9.2-oss?classifier=sources
+- pkg:maven/com.databricks/databricks-jdbc@0.9.3-oss
+- pkg:maven/com.databricks/databricks-jdbc@0.9.3-oss?classifier=sources
+- pkg:maven/com.databricks/databricks-jdbc@0.9.4-oss
+- pkg:maven/com.databricks/databricks-jdbc@0.9.4-oss?classifier=sources
+- pkg:maven/com.databricks/databricks-jdbc@0.9.5-oss
+- pkg:maven/com.databricks/databricks-jdbc@0.9.5-oss?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@2.6.25-1?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@2.6.25-alpha-1?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@2.6.25-alpha-2

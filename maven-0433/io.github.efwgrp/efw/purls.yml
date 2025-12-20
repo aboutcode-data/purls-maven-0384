@@ -11,3 +11,5 @@
 - pkg:maven/io.github.efwgrp/efw@4.07.018?classifier=sources
 - pkg:maven/io.github.efwgrp/efw@4.07.019?classifier=sources
 - pkg:maven/io.github.efwgrp/efw@4.07.019jakarta?classifier=sources
+- pkg:maven/io.github.efwgrp/efw@4.07.020?classifier=sources
+- pkg:maven/io.github.efwgrp/efw@4.07.020jakarta?classifier=sources

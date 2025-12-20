@@ -1,2 +1,3 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-inferred-spans@1.37.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-inferred-spans@1.38.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-inferred-spans@1.39.0-alpha?classifier=sources

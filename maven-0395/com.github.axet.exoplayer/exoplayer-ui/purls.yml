@@ -1,0 +1,6 @@
+- pkg:maven/com.github.axet.exoplayer/exoplayer-ui@2.5.4?classifier=sources
+- pkg:maven/com.github.axet.exoplayer/exoplayer-ui@2.5.4?type=aar
+- pkg:maven/com.github.axet.exoplayer/exoplayer-ui@2.7.3?classifier=sources
+- pkg:maven/com.github.axet.exoplayer/exoplayer-ui@2.7.3?type=aar
+- pkg:maven/com.github.axet.exoplayer/exoplayer-ui@r2.5.4?classifier=sources
+- pkg:maven/com.github.axet.exoplayer/exoplayer-ui@r2.5.4?type=aar

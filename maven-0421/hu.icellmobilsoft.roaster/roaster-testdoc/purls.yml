@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-testdoc@2.3.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-testdoc@2.3.0?classifier=sources

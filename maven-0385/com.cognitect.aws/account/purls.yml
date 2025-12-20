@@ -10,3 +10,5 @@
 - pkg:maven/com.cognitect.aws/account@845.2.1345.0?classifier=sources
 - pkg:maven/com.cognitect.aws/account@847.2.1365.0
 - pkg:maven/com.cognitect.aws/account@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/account@869.2.1687.0
+- pkg:maven/com.cognitect.aws/account@869.2.1687.0?classifier=sources

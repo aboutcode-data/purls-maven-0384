@@ -76,6 +76,10 @@
 - pkg:maven/com.pulumi/external@0.0.5-alpha.1714109523%2B437f51c8?classifier=sources
 - pkg:maven/com.pulumi/external@0.0.5-alpha.1714455167%2B162c8893?classifier=sources
 - pkg:maven/com.pulumi/external@0.0.5-alpha.1714536943%2B319df192?classifier=sources
+- pkg:maven/com.pulumi/external@0.0.7-alpha.1725644255?classifier=sources
+- pkg:maven/com.pulumi/external@0.0.8-alpha.1726165023?classifier=sources
+- pkg:maven/com.pulumi/external@0.0.8?classifier=sources
+- pkg:maven/com.pulumi/external@0.0.9?classifier=sources
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1714541427%2B0066ef6?classifier=sources
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1714563085%2Bb3c886d?classifier=sources
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1715059969%2Bc6ffe32?classifier=sources
@@ -101,3 +105,14 @@
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1723819580?classifier=sources
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1724477252?classifier=sources
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1724909568?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1724996035?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1725600820?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1725686892?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1725946365?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1726032706?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1726205567?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1726724032?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1726832422?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1727221199?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1727846723?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1727875891?classifier=sources

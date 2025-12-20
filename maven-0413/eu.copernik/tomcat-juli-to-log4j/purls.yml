@@ -1,0 +1,1 @@
+- pkg:maven/eu.copernik/tomcat-juli-to-log4j@3.0.0-beta1?classifier=sources

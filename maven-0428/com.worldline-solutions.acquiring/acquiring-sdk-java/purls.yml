@@ -1,0 +1,2 @@
+- pkg:maven/com.worldline-solutions.acquiring/acquiring-sdk-java@0.1.0
+- pkg:maven/com.worldline-solutions.acquiring/acquiring-sdk-java@0.1.0?classifier=sources

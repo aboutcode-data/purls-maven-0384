@@ -103,6 +103,8 @@
 - pkg:maven/org.sonatype.nexus.archetypes/nexus-format-archetype@1.0.60
 - pkg:maven/org.sonatype.nexus.archetypes/nexus-format-archetype@1.0.60?classifier=sources
 - pkg:maven/org.sonatype.nexus.archetypes/nexus-format-archetype@1.0.61
+- pkg:maven/org.sonatype.nexus.archetypes/nexus-format-archetype@1.0.62
+- pkg:maven/org.sonatype.nexus.archetypes/nexus-format-archetype@1.0.63
 - pkg:maven/org.sonatype.nexus.archetypes/nexus-format-archetype@1.0.7
 - pkg:maven/org.sonatype.nexus.archetypes/nexus-format-archetype@1.0.7?classifier=sources
 - pkg:maven/org.sonatype.nexus.archetypes/nexus-format-archetype@1.0.9
