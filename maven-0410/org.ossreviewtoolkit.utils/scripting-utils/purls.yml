@@ -50,7 +50,14 @@
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@36.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@40.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@41.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@42.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@42.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@6.0.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.noear/nami-coder-sbe@3.0.4-M1
+- pkg:maven/org.noear/nami-coder-sbe@3.0.4-M1?classifier=sources
+- pkg:maven/org.noear/nami-coder-sbe@3.0.4-M2
+- pkg:maven/org.noear/nami-coder-sbe@3.0.4-M2?classifier=sources
+- pkg:maven/org.noear/nami-coder-sbe@3.0.4-RC
+- pkg:maven/org.noear/nami-coder-sbe@3.0.4-RC?classifier=sources

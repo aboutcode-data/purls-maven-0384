@@ -60,3 +60,5 @@
 - pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-deployment@3.14.6.2?classifier=sources
 - pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-deployment@3.14.6.3?classifier=sources
 - pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-deployment@3.14.6.4?classifier=sources
+- pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-deployment@3.14.7?classifier=sources
+- pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-deployment@3.14.8?classifier=sources

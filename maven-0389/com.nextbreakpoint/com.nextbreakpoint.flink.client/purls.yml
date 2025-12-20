@@ -1,0 +1,2 @@
+- pkg:maven/com.nextbreakpoint/com.nextbreakpoint.flink.client@1.1.1
+- pkg:maven/com.nextbreakpoint/com.nextbreakpoint.flink.client@1.1.1?classifier=sources

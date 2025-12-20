@@ -26,6 +26,8 @@
 - pkg:maven/com.adobe.granite/crx2oak@1.6.6?classifier=sources
 - pkg:maven/com.adobe.granite/crx2oak@1.6.8
 - pkg:maven/com.adobe.granite/crx2oak@1.6.8?classifier=sources
+- pkg:maven/com.adobe.granite/crx2oak@1.68.0
+- pkg:maven/com.adobe.granite/crx2oak@1.68.0?classifier=sources
 - pkg:maven/com.adobe.granite/crx2oak@1.8.0
 - pkg:maven/com.adobe.granite/crx2oak@1.8.0?classifier=sources
 - pkg:maven/com.adobe.granite/crx2oak@1.8.10

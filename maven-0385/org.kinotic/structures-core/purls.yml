@@ -8,3 +8,4 @@
 - pkg:maven/org.kinotic/structures-core@2.1.0?classifier=sources
 - pkg:maven/org.kinotic/structures-core@3.0.0?classifier=sources
 - pkg:maven/org.kinotic/structures-core@3.0.1?classifier=sources
+- pkg:maven/org.kinotic/structures-core@3.0.2?classifier=sources

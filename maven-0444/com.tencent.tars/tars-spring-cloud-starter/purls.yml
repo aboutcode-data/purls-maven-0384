@@ -14,3 +14,5 @@
 - pkg:maven/com.tencent.tars/tars-spring-cloud-starter@1.7.2?classifier=sources
 - pkg:maven/com.tencent.tars/tars-spring-cloud-starter@1.7.3
 - pkg:maven/com.tencent.tars/tars-spring-cloud-starter@1.7.3?classifier=sources
+- pkg:maven/com.tencent.tars/tars-spring-cloud-starter@1.7.4
+- pkg:maven/com.tencent.tars/tars-spring-cloud-starter@1.7.4?classifier=sources

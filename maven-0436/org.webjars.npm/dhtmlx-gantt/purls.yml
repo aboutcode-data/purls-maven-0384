@@ -44,3 +44,5 @@
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@8.0.7
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@8.0.9
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@9.0.1
+- pkg:maven/org.webjars.npm/dhtmlx-gantt@9.0.2
+- pkg:maven/org.webjars.npm/dhtmlx-gantt@9.0.3

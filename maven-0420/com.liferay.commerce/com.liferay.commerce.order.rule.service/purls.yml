@@ -142,6 +142,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.service@1.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.service@1.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.service@1.0.6
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.service@1.0.60?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.service@1.0.6?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.service@1.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.rule.service@1.0.7

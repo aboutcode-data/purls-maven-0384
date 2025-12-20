@@ -44,3 +44,5 @@
 - pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.40?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.41
 - pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.41?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.42
+- pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.42?classifier=sources

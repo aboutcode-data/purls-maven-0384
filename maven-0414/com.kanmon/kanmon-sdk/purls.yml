@@ -1,2 +1,3 @@
 - pkg:maven/com.kanmon/kanmon-sdk@2.2.0?classifier=sources
 - pkg:maven/com.kanmon/kanmon-sdk@2.2.1?classifier=sources
+- pkg:maven/com.kanmon/kanmon-sdk@2.3.0?classifier=sources

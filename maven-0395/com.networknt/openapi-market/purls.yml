@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/openapi-market@1.0.2
+- pkg:maven/com.networknt/openapi-market@1.0.2?classifier=sources

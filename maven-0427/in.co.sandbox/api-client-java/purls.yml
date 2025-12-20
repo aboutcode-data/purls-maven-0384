@@ -4,3 +4,7 @@
 - pkg:maven/in.co.sandbox/api-client-java@1.0.1-BUILD-RELEASE?classifier=sources
 - pkg:maven/in.co.sandbox/api-client-java@1.0.2-BUILD-RELEASE
 - pkg:maven/in.co.sandbox/api-client-java@1.0.2-BUILD-RELEASE?classifier=sources
+- pkg:maven/in.co.sandbox/api-client-java@2.0.0-BUILD-RELEASE
+- pkg:maven/in.co.sandbox/api-client-java@2.0.0-BUILD-RELEASE?classifier=sources
+- pkg:maven/in.co.sandbox/api-client-java@2.1.0-BUILD-RELEASE
+- pkg:maven/in.co.sandbox/api-client-java@2.1.0-BUILD-RELEASE?classifier=sources

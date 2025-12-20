@@ -40,3 +40,5 @@
 - pkg:maven/net.openhft/affinity-test@3.26ea5?classifier=sources
 - pkg:maven/net.openhft/affinity-test@3.26ea6
 - pkg:maven/net.openhft/affinity-test@3.26ea6?classifier=sources
+- pkg:maven/net.openhft/affinity-test@3.27ea0
+- pkg:maven/net.openhft/affinity-test@3.27ea0?classifier=sources

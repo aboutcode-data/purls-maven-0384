@@ -1,0 +1,2 @@
+- pkg:maven/com.rtb-stack.sdk.adapter/applovin@0.1.0?classifier=sources
+- pkg:maven/com.rtb-stack.sdk.adapter/applovin@0.1.1?classifier=sources

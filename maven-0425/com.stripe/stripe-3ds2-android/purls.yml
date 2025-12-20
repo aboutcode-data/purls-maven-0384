@@ -116,3 +116,4 @@
 - pkg:maven/com.stripe/stripe-3ds2-android@6.1.6?classifier=sources
 - pkg:maven/com.stripe/stripe-3ds2-android@6.1.7?classifier=sources
 - pkg:maven/com.stripe/stripe-3ds2-android@6.1.8?classifier=sources
+- pkg:maven/com.stripe/stripe-3ds2-android@6.2.0?classifier=sources

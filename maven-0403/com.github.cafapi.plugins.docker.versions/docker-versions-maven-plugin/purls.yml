@@ -2,3 +2,5 @@
 - pkg:maven/com.github.cafapi.plugins.docker.versions/docker-versions-maven-plugin@1.0.0-29?classifier=sources
 - pkg:maven/com.github.cafapi.plugins.docker.versions/docker-versions-maven-plugin@2.0.0-51
 - pkg:maven/com.github.cafapi.plugins.docker.versions/docker-versions-maven-plugin@2.0.0-51?classifier=sources
+- pkg:maven/com.github.cafapi.plugins.docker.versions/docker-versions-maven-plugin@2.0.1-64
+- pkg:maven/com.github.cafapi.plugins.docker.versions/docker-versions-maven-plugin@2.0.1-64?classifier=sources

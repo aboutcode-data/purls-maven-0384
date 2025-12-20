@@ -16,3 +16,5 @@
 - pkg:maven/com.alejandrohdezma/sbt-ci_2.12_1.0@2.15.0?classifier=sources
 - pkg:maven/com.alejandrohdezma/sbt-ci_2.12_1.0@2.15.1
 - pkg:maven/com.alejandrohdezma/sbt-ci_2.12_1.0@2.15.1?classifier=sources
+- pkg:maven/com.alejandrohdezma/sbt-ci_2.12_1.0@2.16.0
+- pkg:maven/com.alejandrohdezma/sbt-ci_2.12_1.0@2.16.0?classifier=sources

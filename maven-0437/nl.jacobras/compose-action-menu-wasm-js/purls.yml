@@ -1,1 +1,2 @@
 - pkg:maven/nl.jacobras/compose-action-menu-wasm-js@3.0.0?classifier=sources
+- pkg:maven/nl.jacobras/compose-action-menu-wasm-js@3.0.1?classifier=sources

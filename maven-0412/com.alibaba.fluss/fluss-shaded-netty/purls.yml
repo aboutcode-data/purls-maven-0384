@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.fluss/fluss-shaded-netty@4.1.104-2.2
+- pkg:maven/com.alibaba.fluss/fluss-shaded-netty@4.1.104-2.2?classifier=sources

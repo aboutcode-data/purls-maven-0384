@@ -1,1 +1,2 @@
 - pkg:maven/cz.lukaskabc.cvut.processor/spring-boot-configuration-docgen-processor@1.0?classifier=sources
+- pkg:maven/cz.lukaskabc.cvut.processor/spring-boot-configuration-docgen-processor@1.1?classifier=sources

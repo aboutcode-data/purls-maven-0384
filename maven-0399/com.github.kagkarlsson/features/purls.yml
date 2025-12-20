@@ -41,5 +41,6 @@
 - pkg:maven/com.github.kagkarlsson/features@14.0.2?classifier=sources
 - pkg:maven/com.github.kagkarlsson/features@14.0.3?classifier=sources
 - pkg:maven/com.github.kagkarlsson/features@14.1.0?classifier=sources
+- pkg:maven/com.github.kagkarlsson/features@15.0.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/features@9.4
 - pkg:maven/com.github.kagkarlsson/features@9.4?classifier=sources

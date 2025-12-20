@@ -84,6 +84,8 @@
 - pkg:maven/io.ray/ray-api@2.37.0?classifier=sources
 - pkg:maven/io.ray/ray-api@2.38.0
 - pkg:maven/io.ray/ray-api@2.38.0?classifier=sources
+- pkg:maven/io.ray/ray-api@2.39.0
+- pkg:maven/io.ray/ray-api@2.39.0?classifier=sources
 - pkg:maven/io.ray/ray-api@2.4.0
 - pkg:maven/io.ray/ray-api@2.4.0?classifier=sources
 - pkg:maven/io.ray/ray-api@2.5.0

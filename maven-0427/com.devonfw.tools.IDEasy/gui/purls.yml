@@ -12,3 +12,5 @@
 - pkg:maven/com.devonfw.tools.IDEasy/gui@2024.09.002-beta?classifier=sources
 - pkg:maven/com.devonfw.tools.IDEasy/gui@2024.10.001-beta
 - pkg:maven/com.devonfw.tools.IDEasy/gui@2024.10.001-beta?classifier=sources
+- pkg:maven/com.devonfw.tools.IDEasy/gui@2024.11.001-beta
+- pkg:maven/com.devonfw.tools.IDEasy/gui@2024.11.001-beta?classifier=sources

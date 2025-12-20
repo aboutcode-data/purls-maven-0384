@@ -227,6 +227,8 @@
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@7.8.10?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@7.8.11
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@7.8.11?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@7.8.12
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@7.8.12?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@7.8.1?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@7.8.2
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@7.8.2?classifier=sources
@@ -252,5 +254,9 @@
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@7.9.0-M5?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@8.0-RC1
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@8.0-RC1?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@8.0.0
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@8.0.0-RC1
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@8.0.0-RC1?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@8.0.0?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@git
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2@git?classifier=sources

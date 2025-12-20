@@ -67,4 +67,6 @@
 - pkg:maven/org.komapper/komapper-annotation@2.2.2?classifier=sources
 - pkg:maven/org.komapper/komapper-annotation@3.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-annotation@3.1.0?classifier=sources
+- pkg:maven/org.komapper/komapper-annotation@4.0.0?classifier=sources
+- pkg:maven/org.komapper/komapper-annotation@5.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-annotation@v0.4.0?classifier=sources

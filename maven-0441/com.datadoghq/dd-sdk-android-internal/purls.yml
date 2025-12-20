@@ -4,3 +4,5 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-internal@2.13.1?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-internal@2.14.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-internal@2.15.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-internal@2.15.1?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-internal@2.16.0?classifier=sources

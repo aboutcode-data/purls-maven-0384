@@ -1,0 +1,2 @@
+- pkg:maven/io.github.aafc-bicoe/dina-json@0.132
+- pkg:maven/io.github.aafc-bicoe/dina-json@0.132?classifier=sources

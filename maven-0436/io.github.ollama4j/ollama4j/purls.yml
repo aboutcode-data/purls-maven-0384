@@ -7,5 +7,8 @@
 - pkg:maven/io.github.ollama4j/ollama4j@1.0.84?classifier=sources
 - pkg:maven/io.github.ollama4j/ollama4j@1.0.85?classifier=sources
 - pkg:maven/io.github.ollama4j/ollama4j@1.0.86?classifier=sources
+- pkg:maven/io.github.ollama4j/ollama4j@1.0.87?classifier=sources
+- pkg:maven/io.github.ollama4j/ollama4j@1.0.88?classifier=sources
+- pkg:maven/io.github.ollama4j/ollama4j@1.0.89?classifier=sources
 - pkg:maven/io.github.ollama4j/ollama4j@test001.2?classifier=sources
 - pkg:maven/io.github.ollama4j/ollama4j@v1.0.82?classifier=sources
