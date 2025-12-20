@@ -11,3 +11,4 @@
 - pkg:maven/com.navercorp.pinpoint/pinpoint-hbase2-flink@2.5.1-p1
 - pkg:maven/com.navercorp.pinpoint/pinpoint-hbase2-flink@2.5.2
 - pkg:maven/com.navercorp.pinpoint/pinpoint-hbase2-flink@2.5.3
+- pkg:maven/com.navercorp.pinpoint/pinpoint-hbase2-flink@2.5.4

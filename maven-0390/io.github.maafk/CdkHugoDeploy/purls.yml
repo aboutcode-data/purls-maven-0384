@@ -730,6 +730,12 @@
 - pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.434?classifier=sources
 - pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.43?classifier=sources
 - pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.44
+- pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.441
+- pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.441?classifier=sources
+- pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.442
+- pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.442?classifier=sources
+- pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.443
+- pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.443?classifier=sources
 - pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.44?classifier=sources
 - pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.45
 - pkg:maven/io.github.maafk/CdkHugoDeploy@0.0.45?classifier=sources

@@ -105,6 +105,9 @@
 - pkg:maven/com.cobber.fta/cli@15.4.2?classifier=sources
 - pkg:maven/com.cobber.fta/cli@15.4.3?classifier=sources
 - pkg:maven/com.cobber.fta/cli@15.5.0?classifier=sources
+- pkg:maven/com.cobber.fta/cli@15.5.2?classifier=sources
+- pkg:maven/com.cobber.fta/cli@15.5.3?classifier=sources
+- pkg:maven/com.cobber.fta/cli@15.5.4?classifier=sources
 - pkg:maven/com.cobber.fta/cli@8.0.27?classifier=sources
 - pkg:maven/com.cobber.fta/cli@8.0.28?classifier=sources
 - pkg:maven/com.cobber.fta/cli@8.0.29?classifier=sources

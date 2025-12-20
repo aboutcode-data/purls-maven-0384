@@ -1,1 +1,3 @@
 - pkg:maven/de.cau.cs.kieler.klighd/de.cau.cs.kieler.klighd.lsp@2.3.0.v20230606?classifier=sources
+- pkg:maven/de.cau.cs.kieler.klighd/de.cau.cs.kieler.klighd.lsp@3.0.1.v20240410
+- pkg:maven/de.cau.cs.kieler.klighd/de.cau.cs.kieler.klighd.lsp@3.0.1.v20240410?classifier=sources

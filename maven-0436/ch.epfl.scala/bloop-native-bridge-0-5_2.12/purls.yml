@@ -1,0 +1,4 @@
+- pkg:maven/ch.epfl.scala/bloop-native-bridge-0-5_2.12@1.5.16
+- pkg:maven/ch.epfl.scala/bloop-native-bridge-0-5_2.12@1.5.16?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-native-bridge-0-5_2.12@1.5.17
+- pkg:maven/ch.epfl.scala/bloop-native-bridge-0-5_2.12@1.5.17?classifier=sources

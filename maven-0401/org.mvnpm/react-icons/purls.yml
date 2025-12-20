@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/react-icons@4.4.0?classifier=sources
+- pkg:maven/org.mvnpm/react-icons@5.1.0?classifier=sources

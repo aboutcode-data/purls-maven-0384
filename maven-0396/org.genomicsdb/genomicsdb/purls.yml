@@ -72,3 +72,5 @@
 - pkg:maven/org.genomicsdb/genomicsdb@1.5.1?classifier=sources
 - pkg:maven/org.genomicsdb/genomicsdb@1.5.2
 - pkg:maven/org.genomicsdb/genomicsdb@1.5.2?classifier=sources
+- pkg:maven/org.genomicsdb/genomicsdb@1.5.3
+- pkg:maven/org.genomicsdb/genomicsdb@1.5.3?classifier=sources

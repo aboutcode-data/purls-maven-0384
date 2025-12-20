@@ -10,3 +10,7 @@
 - pkg:maven/com.wgtwo.api.v0.grpc/consents@0.1.6?classifier=sources
 - pkg:maven/com.wgtwo.api.v0.grpc/consents@0.1.7
 - pkg:maven/com.wgtwo.api.v0.grpc/consents@0.1.7?classifier=sources
+- pkg:maven/com.wgtwo.api.v0.grpc/consents@0.2.0
+- pkg:maven/com.wgtwo.api.v0.grpc/consents@0.2.0?classifier=sources
+- pkg:maven/com.wgtwo.api.v0.grpc/consents@0.3.0
+- pkg:maven/com.wgtwo.api.v0.grpc/consents@0.3.0?classifier=sources

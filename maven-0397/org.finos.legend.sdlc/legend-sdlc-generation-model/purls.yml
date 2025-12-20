@@ -204,6 +204,16 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.158.1?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.159.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.159.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.159.1
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.159.1?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.160.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.160.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.160.1
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.160.1?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.161.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.161.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.161.1
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.161.1?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.20.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.20.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model@0.21.0

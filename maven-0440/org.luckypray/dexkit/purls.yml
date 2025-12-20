@@ -16,3 +16,4 @@
 - pkg:maven/org.luckypray/dexkit@2.0.0-rc9?classifier=sources
 - pkg:maven/org.luckypray/dexkit@2.0.0-rc?classifier=sources
 - pkg:maven/org.luckypray/dexkit@2.0.0?classifier=sources
+- pkg:maven/org.luckypray/dexkit@2.0.1?classifier=sources

@@ -98,3 +98,4 @@
 - pkg:maven/com.liferay/com.liferay.change.tracking.spi@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.spi@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.spi@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.spi@7.0.0?classifier=sources

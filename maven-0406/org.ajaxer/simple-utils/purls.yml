@@ -26,3 +26,7 @@
 - pkg:maven/org.ajaxer/simple-utils@0.5.0?classifier=sources
 - pkg:maven/org.ajaxer/simple-utils@0.51.0
 - pkg:maven/org.ajaxer/simple-utils@0.51.0?classifier=sources
+- pkg:maven/org.ajaxer/simple-utils@0.52.0
+- pkg:maven/org.ajaxer/simple-utils@0.52.0?classifier=sources
+- pkg:maven/org.ajaxer/simple-utils@0.53.0
+- pkg:maven/org.ajaxer/simple-utils@0.53.0?classifier=sources

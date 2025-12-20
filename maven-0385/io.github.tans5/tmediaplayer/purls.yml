@@ -1,1 +1,4 @@
 - pkg:maven/io.github.tans5/tmediaplayer@1.0.0-alpha01?classifier=sources
+- pkg:maven/io.github.tans5/tmediaplayer@1.0.0-alpha02?classifier=sources
+- pkg:maven/io.github.tans5/tmediaplayer@1.0.0?classifier=sources
+- pkg:maven/io.github.tans5/tmediaplayer@1.0.1?classifier=sources

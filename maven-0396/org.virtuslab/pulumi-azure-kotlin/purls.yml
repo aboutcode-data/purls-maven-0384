@@ -29,3 +29,4 @@
 - pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.67.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.68.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.70.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.71.0.0?classifier=sources

@@ -17,4 +17,7 @@
 - pkg:maven/org.octopusden.octopus.vcsfacade/common@2.0.7?classifier=sources
 - pkg:maven/org.octopusden.octopus.vcsfacade/common@2.0.8?classifier=sources
 - pkg:maven/org.octopusden.octopus.vcsfacade/common@2.0.9?classifier=sources
+- pkg:maven/org.octopusden.octopus.vcsfacade/common@3.0.1?classifier=sources
+- pkg:maven/org.octopusden.octopus.vcsfacade/common@3.0.2?classifier=sources
+- pkg:maven/org.octopusden.octopus.vcsfacade/common@3.0.3?classifier=sources
 - pkg:maven/org.octopusden.octopus.vcsfacade/common@unspecified?classifier=sources

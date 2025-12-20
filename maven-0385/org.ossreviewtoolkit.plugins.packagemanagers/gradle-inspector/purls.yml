@@ -20,6 +20,9 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-inspector@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-inspector@20.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-inspector@20.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-inspector@21.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-inspector@22.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-inspector@22.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-inspector@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-inspector@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-inspector@5.0.0?classifier=sources

@@ -1,7 +1,9 @@
 - pkg:maven/com.github.xiashuai-mr/audio-streaming-client-java@1.1.12-SNATSHOTS
 - pkg:maven/com.github.xiashuai-mr/audio-streaming-client-java@1.1.12-SNATSHOTS?classifier=sources
+- pkg:maven/com.github.xiashuai-mr/audio-streaming-client-java@1.2.0
 - pkg:maven/com.github.xiashuai-mr/audio-streaming-client-java@1.2.0-SNATSHOTS
 - pkg:maven/com.github.xiashuai-mr/audio-streaming-client-java@1.2.0-SNATSHOTS?classifier=sources
+- pkg:maven/com.github.xiashuai-mr/audio-streaming-client-java@1.2.0?classifier=sources
 - pkg:maven/com.github.xiashuai-mr/audio-streaming-client-java@1.2.1-SNATSHOTS
 - pkg:maven/com.github.xiashuai-mr/audio-streaming-client-java@1.2.1-SNATSHOTS?classifier=sources
 - pkg:maven/com.github.xiashuai-mr/audio-streaming-client-java@1.2.2-SNATSHOTS

@@ -12,3 +12,7 @@
 - pkg:maven/com.cefriel/camel-chimera-mapping-template@3.2.3?classifier=sources
 - pkg:maven/com.cefriel/camel-chimera-mapping-template@3.3.3
 - pkg:maven/com.cefriel/camel-chimera-mapping-template@3.3.3?classifier=sources
+- pkg:maven/com.cefriel/camel-chimera-mapping-template@4.0.0
+- pkg:maven/com.cefriel/camel-chimera-mapping-template@4.0.0?classifier=sources
+- pkg:maven/com.cefriel/camel-chimera-mapping-template@4.0.1
+- pkg:maven/com.cefriel/camel-chimera-mapping-template@4.0.1?classifier=sources

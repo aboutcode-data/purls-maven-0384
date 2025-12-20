@@ -110,6 +110,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.list.api@12.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.list.api@13.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.list.api@14.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.list.api@15.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.list.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.asset.list.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.list.api@2.0.0?classifier=sources-commercial

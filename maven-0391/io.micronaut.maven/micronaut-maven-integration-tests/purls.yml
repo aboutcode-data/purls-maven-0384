@@ -25,3 +25,4 @@
 - pkg:maven/io.micronaut.maven/micronaut-maven-integration-tests@4.5.0
 - pkg:maven/io.micronaut.maven/micronaut-maven-integration-tests@4.5.1
 - pkg:maven/io.micronaut.maven/micronaut-maven-integration-tests@4.5.2
+- pkg:maven/io.micronaut.maven/micronaut-maven-integration-tests@4.5.3

@@ -46,3 +46,5 @@
 - pkg:maven/org.ehrbase.openehr/service@0.31.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr/service@0.32.0
 - pkg:maven/org.ehrbase.openehr/service@0.32.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr/service@2.0.0
+- pkg:maven/org.ehrbase.openehr/service@2.0.0?classifier=sources

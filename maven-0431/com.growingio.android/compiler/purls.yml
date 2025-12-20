@@ -30,3 +30,4 @@
 - pkg:maven/com.growingio.android/compiler@3.5.3?classifier=sources
 - pkg:maven/com.growingio.android/compiler@4.0.0?classifier=sources
 - pkg:maven/com.growingio.android/compiler@4.1.0?classifier=sources
+- pkg:maven/com.growingio.android/compiler@4.2.0?classifier=sources

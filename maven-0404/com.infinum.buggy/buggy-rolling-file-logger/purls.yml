@@ -1,0 +1,1 @@
+- pkg:maven/com.infinum.buggy/buggy-rolling-file-logger@0.1.0?classifier=sources

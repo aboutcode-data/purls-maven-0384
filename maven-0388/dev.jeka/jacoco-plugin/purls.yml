@@ -88,6 +88,8 @@
 - pkg:maven/dev.jeka/jacoco-plugin@0.10.6?classifier=sources
 - pkg:maven/dev.jeka/jacoco-plugin@0.10.9
 - pkg:maven/dev.jeka/jacoco-plugin@0.10.9?classifier=sources
+- pkg:maven/dev.jeka/jacoco-plugin@0.11.0-alpha.0
+- pkg:maven/dev.jeka/jacoco-plugin@0.11.0-alpha.0?classifier=sources
 - pkg:maven/dev.jeka/jacoco-plugin@0.9.16.RC2
 - pkg:maven/dev.jeka/jacoco-plugin@0.9.16.RC2?classifier=sources
 - pkg:maven/dev.jeka/jacoco-plugin@0.9.16.RC3

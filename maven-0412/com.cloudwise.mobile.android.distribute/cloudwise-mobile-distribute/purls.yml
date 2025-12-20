@@ -24,8 +24,12 @@
 - pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.2.0?classifier=sources
 - pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.2.2
 - pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.2.2?classifier=sources
+- pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.2.4
+- pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.2.4?classifier=sources
 - pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.4.0
 - pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.4.0?classifier=sources
+- pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.4.2
+- pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.4.2?classifier=sources
 - pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.5.0
 - pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.5.0?classifier=sources
 - pkg:maven/com.cloudwise.mobile.android.distribute/cloudwise-mobile-distribute@2.5.1

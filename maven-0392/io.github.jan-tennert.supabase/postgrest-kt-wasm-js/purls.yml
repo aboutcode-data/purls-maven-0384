@@ -2,3 +2,6 @@
 - pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-wasm-js@2.0.3-wasm0?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-wasm-js@2.0.4-wasm0?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-wasm-js@2.1.1-wasm0?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-wasm-js@2.2.2-wasm0?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-wasm-js@2.2.3-wasm0?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-wasm-js@2.3.0-wasm0?classifier=sources

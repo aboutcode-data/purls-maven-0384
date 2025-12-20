@@ -40,3 +40,5 @@
 - pkg:maven/cn.jiguang.sdk.plugin/meizu@5.2.3?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/meizu@5.2.4.a?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/meizu@5.2.4?classifier=sources
+- pkg:maven/cn.jiguang.sdk.plugin/meizu@5.3.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk.plugin/meizu@5.3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.authme/algo@8.7.0.4-rc9?classifier=sources
+- pkg:maven/com.authme/algo@8.7.0.4?classifier=sources

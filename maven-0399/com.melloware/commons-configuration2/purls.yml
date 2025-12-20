@@ -1,3 +1,5 @@
+- pkg:maven/com.melloware/commons-configuration2@2.10.1
+- pkg:maven/com.melloware/commons-configuration2@2.10.1?classifier=sources
 - pkg:maven/com.melloware/commons-configuration2@2.8.0
 - pkg:maven/com.melloware/commons-configuration2@2.8.0?classifier=sources
 - pkg:maven/com.melloware/commons-configuration2@2.8.1

@@ -9,4 +9,14 @@
 - pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.0.0-22-baeb91
 - pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.0.0-22-baeb91?classifier=sources
 - pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.1.0
+- pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.1.0-2-0a6554
+- pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.1.0-2-0a6554?classifier=sources
+- pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.1.0-5-ce68da
+- pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.1.0-5-ce68da?classifier=sources
 - pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.1.0?classifier=sources
+- pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.2.0
+- pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.2.0-1-aeff7a
+- pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.2.0-1-aeff7a?classifier=sources
+- pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.2.0?classifier=sources
+- pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.3.0
+- pkg:maven/io.eleven19.mill/mill-crossbuild_mill0.11_2.13@0.3.0?classifier=sources

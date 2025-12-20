@@ -61,6 +61,8 @@
 - pkg:maven/com.silanis.esl/tester@11.54
 - pkg:maven/com.silanis.esl/tester@11.55
 - pkg:maven/com.silanis.esl/tester@11.55.1
+- pkg:maven/com.silanis.esl/tester@11.56
+- pkg:maven/com.silanis.esl/tester@11.56.1
 - pkg:maven/com.silanis.esl/tester@11.6
 - pkg:maven/com.silanis.esl/tester@11.8
 - pkg:maven/com.silanis.esl/tester@11.9

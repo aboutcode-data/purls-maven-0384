@@ -13,6 +13,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@22.06.6?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@22.06.7
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@22.06.7?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-bedrock@22.06.8
+- pkg:maven/com.oracle.coherence.ce/coherence-bedrock@22.06.8?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@22.06?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@22.09
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@22.09?classifier=sources
@@ -26,3 +28,5 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@23.09.2
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@23.09.2?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-bedrock@23.09?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-bedrock@24.03
+- pkg:maven/com.oracle.coherence.ce/coherence-bedrock@24.03?classifier=sources

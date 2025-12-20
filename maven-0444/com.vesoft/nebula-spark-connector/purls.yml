@@ -32,3 +32,5 @@
 - pkg:maven/com.vesoft/nebula-spark-connector@3.7.0-auth?classifier=sources
 - pkg:maven/com.vesoft/nebula-spark-connector@3.7.0-zszq
 - pkg:maven/com.vesoft/nebula-spark-connector@3.7.0-zszq?classifier=sources
+- pkg:maven/com.vesoft/nebula-spark-connector@3.8.0
+- pkg:maven/com.vesoft/nebula-spark-connector@3.8.0?classifier=sources

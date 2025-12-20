@@ -35,3 +35,5 @@
 - pkg:maven/org.projectnessie.nessie/nessie-events-quarkus@0.77.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-events-quarkus@0.78.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-events-quarkus@0.79.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-events-quarkus@0.80.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-events-quarkus@0.81.0?classifier=sources

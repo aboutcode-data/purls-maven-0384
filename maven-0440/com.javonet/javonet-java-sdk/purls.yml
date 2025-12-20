@@ -18,3 +18,5 @@
 - pkg:maven/com.javonet/javonet-java-sdk@2.1.9?classifier=sources
 - pkg:maven/com.javonet/javonet-java-sdk@2.2.0
 - pkg:maven/com.javonet/javonet-java-sdk@2.2.0?classifier=sources
+- pkg:maven/com.javonet/javonet-java-sdk@2.3.0
+- pkg:maven/com.javonet/javonet-java-sdk@2.3.0?classifier=sources

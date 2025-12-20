@@ -1,0 +1,2 @@
+- pkg:maven/com.github.novamage/rtw_2.12@1.0.0-alpha.1
+- pkg:maven/com.github.novamage/rtw_2.12@1.0.0-alpha.1?classifier=sources

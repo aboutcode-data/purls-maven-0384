@@ -18,3 +18,5 @@
 - pkg:maven/com.github.luues.tool/tool-IKAnalyzer@1.0.4.3.RELEASE
 - pkg:maven/com.github.luues.tool/tool-IKAnalyzer@1.0.4.3.RELEASE?classifier=sources
 - pkg:maven/com.github.luues.tool/tool-IKAnalyzer@1?classifier=sources
+- pkg:maven/com.github.luues.tool/tool-IKAnalyzer@2.0.1.RELEASE
+- pkg:maven/com.github.luues.tool/tool-IKAnalyzer@2.0.1.RELEASE?classifier=sources

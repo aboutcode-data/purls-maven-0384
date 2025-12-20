@@ -18,6 +18,8 @@
 - pkg:maven/cv.igrp/igrp-core-war@1.7.4.231011?type=war
 - pkg:maven/cv.igrp/igrp-core-war@1.8.0.240116?classifier=sources
 - pkg:maven/cv.igrp/igrp-core-war@1.8.0.240116?type=war
+- pkg:maven/cv.igrp/igrp-core-war@1.8.2.240415?classifier=sources
+- pkg:maven/cv.igrp/igrp-core-war@1.8.2.240415?type=war
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.230625-alpha?classifier=sources
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.230625-alpha?type=war
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.230627-alpha?classifier=sources

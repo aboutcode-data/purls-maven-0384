@@ -8,3 +8,4 @@
 - pkg:maven/nl.neotech.plugin/android-root-coverage-plugin@1.6.0?classifier=sources
 - pkg:maven/nl.neotech.plugin/android-root-coverage-plugin@1.7.0?classifier=sources
 - pkg:maven/nl.neotech.plugin/android-root-coverage-plugin@1.7.1?classifier=sources
+- pkg:maven/nl.neotech.plugin/android-root-coverage-plugin@1.8.0?classifier=sources

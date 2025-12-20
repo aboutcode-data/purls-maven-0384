@@ -1,0 +1,2 @@
+- pkg:maven/io.github.m1saka10010/common@0.0.4?classifier=sources
+- pkg:maven/io.github.m1saka10010/common@0.0.5?classifier=sources

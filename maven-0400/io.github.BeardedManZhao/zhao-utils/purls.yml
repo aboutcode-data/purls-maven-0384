@@ -16,3 +16,9 @@
 - pkg:maven/io.github.BeardedManZhao/zhao-utils@1.0.20240121?classifier=sources
 - pkg:maven/io.github.BeardedManZhao/zhao-utils@1.0.20240315
 - pkg:maven/io.github.BeardedManZhao/zhao-utils@1.0.20240315?classifier=sources
+- pkg:maven/io.github.BeardedManZhao/zhao-utils@1.0.20240327
+- pkg:maven/io.github.BeardedManZhao/zhao-utils@1.0.20240327?classifier=sources
+- pkg:maven/io.github.BeardedManZhao/zhao-utils@1.0.20240328
+- pkg:maven/io.github.BeardedManZhao/zhao-utils@1.0.20240328?classifier=sources
+- pkg:maven/io.github.BeardedManZhao/zhao-utils@1.0.20240405
+- pkg:maven/io.github.BeardedManZhao/zhao-utils@1.0.20240405?classifier=sources

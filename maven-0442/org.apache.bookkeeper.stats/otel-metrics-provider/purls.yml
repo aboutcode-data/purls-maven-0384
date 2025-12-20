@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.bookkeeper.stats/otel-metrics-provider@4.17.0
+- pkg:maven/org.apache.bookkeeper.stats/otel-metrics-provider@4.17.0?classifier=sources

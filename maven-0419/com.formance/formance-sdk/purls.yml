@@ -1,0 +1,2 @@
+- pkg:maven/com.formance/formance-sdk@2.2.2?classifier=sources
+- pkg:maven/com.formance/formance-sdk@2.2.4?classifier=sources

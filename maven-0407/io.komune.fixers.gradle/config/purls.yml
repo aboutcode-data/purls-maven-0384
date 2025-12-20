@@ -1,0 +1,1 @@
+- pkg:maven/io.komune.fixers.gradle/config@0.17.0?classifier=sources
