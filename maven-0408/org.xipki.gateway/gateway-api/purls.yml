@@ -1,0 +1,2 @@
+- pkg:maven/org.xipki.gateway/gateway-api@6.5.2
+- pkg:maven/org.xipki.gateway/gateway-api@6.5.2?classifier=sources

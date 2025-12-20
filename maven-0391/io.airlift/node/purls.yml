@@ -344,3 +344,7 @@
 - pkg:maven/io.airlift/node@236?classifier=sources
 - pkg:maven/io.airlift/node@237
 - pkg:maven/io.airlift/node@237?classifier=sources
+- pkg:maven/io.airlift/node@238
+- pkg:maven/io.airlift/node@238?classifier=sources
+- pkg:maven/io.airlift/node@239
+- pkg:maven/io.airlift/node@239?classifier=sources

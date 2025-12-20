@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.external/ddl@RELEASE170
 - pkg:maven/org.netbeans.external/ddl@RELEASE180
 - pkg:maven/org.netbeans.external/ddl@RELEASE190
+- pkg:maven/org.netbeans.external/ddl@RELEASE200
 - pkg:maven/org.netbeans.external/ddl@RELEASE90

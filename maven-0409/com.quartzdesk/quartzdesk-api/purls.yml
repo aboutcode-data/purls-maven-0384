@@ -115,3 +115,5 @@
 - pkg:maven/com.quartzdesk/quartzdesk-api@4.0.7?classifier=sources
 - pkg:maven/com.quartzdesk/quartzdesk-api@4.0.8?classifier=sources
 - pkg:maven/com.quartzdesk/quartzdesk-api@4.0.9?classifier=sources
+- pkg:maven/com.quartzdesk/quartzdesk-api@5.0.0?classifier=sources
+- pkg:maven/com.quartzdesk/quartzdesk-api@5.0.1?classifier=sources

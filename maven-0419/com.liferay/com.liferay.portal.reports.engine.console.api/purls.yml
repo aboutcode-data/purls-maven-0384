@@ -122,6 +122,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.2.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.2.1
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.2.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@4.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.0.1
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.api@5.0.1?classifier=sources-commercial

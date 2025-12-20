@@ -6,3 +6,4 @@
 - pkg:maven/com.oplus.instant/router@1.4.0-phone?type=aar
 - pkg:maven/com.oplus.instant/router@1.4.2-phone?type=aar
 - pkg:maven/com.oplus.instant/router@1.4.3-phone?type=aar
+- pkg:maven/com.oplus.instant/router@1.4.4-phone?type=aar

@@ -163,6 +163,7 @@
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u10
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u100
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u101
+- pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u102
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u15
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u16
 - pkg:maven/com.liferay.portal/release.dxp.distro@7.4.13.u17

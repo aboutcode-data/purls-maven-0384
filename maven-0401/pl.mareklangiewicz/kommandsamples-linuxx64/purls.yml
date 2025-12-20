@@ -1,0 +1,2 @@
+- pkg:maven/pl.mareklangiewicz/kommandsamples-linuxx64@0.0.36?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kommandsamples-linuxx64@0.0.39?classifier=sources

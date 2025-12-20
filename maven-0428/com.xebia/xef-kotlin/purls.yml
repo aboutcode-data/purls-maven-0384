@@ -154,5 +154,6 @@
 - pkg:maven/com.xebia/xef-kotlin@0.0.4-alpha.7?classifier=sources
 - pkg:maven/com.xebia/xef-kotlin@0.0.4-alpha.80?classifier=sources
 - pkg:maven/com.xebia/xef-kotlin@0.0.4-alpha.81?classifier=sources
+- pkg:maven/com.xebia/xef-kotlin@0.0.4-alpha.82?classifier=sources
 - pkg:maven/com.xebia/xef-kotlin@0.0.4-alpha.8?classifier=sources
 - pkg:maven/com.xebia/xef-kotlin@0.0.4-alpha.9?classifier=sources

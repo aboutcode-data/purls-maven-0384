@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE200?classifier=sources

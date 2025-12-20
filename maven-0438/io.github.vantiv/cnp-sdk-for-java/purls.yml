@@ -11,3 +11,4 @@
 - pkg:maven/io.github.vantiv/cnp-sdk-for-java@12.29.0?classifier=sources
 - pkg:maven/io.github.vantiv/cnp-sdk-for-java@12.30.0?classifier=sources
 - pkg:maven/io.github.vantiv/cnp-sdk-for-java@12.31.0?classifier=sources
+- pkg:maven/io.github.vantiv/cnp-sdk-for-java@12.33.0?classifier=sources

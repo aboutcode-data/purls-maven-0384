@@ -1,2 +1,4 @@
 - pkg:maven/com.github.alorma/material3-theme-viewer@0.0.1-dev?classifier=sources
 - pkg:maven/com.github.alorma/material3-theme-viewer@0.0.2-dev?classifier=sources
+- pkg:maven/com.github.alorma/material3-theme-viewer@0.1.0?classifier=sources
+- pkg:maven/com.github.alorma/material3-theme-viewer@0.2.0?classifier=sources

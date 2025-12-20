@@ -15,3 +15,4 @@
 - pkg:maven/com.databricks/databricks-jdbc@2.6.32?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@2.6.33?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@2.6.34?classifier=sources
+- pkg:maven/com.databricks/databricks-jdbc@2.6.36?classifier=sources

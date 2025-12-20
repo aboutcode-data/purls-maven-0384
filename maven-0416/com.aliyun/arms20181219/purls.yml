@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/arms20181219@1.0.0
+- pkg:maven/com.aliyun/arms20181219@1.0.0?classifier=sources

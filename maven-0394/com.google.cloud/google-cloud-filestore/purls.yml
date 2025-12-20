@@ -72,6 +72,10 @@
 - pkg:maven/com.google.cloud/google-cloud-filestore@1.30.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-filestore@1.31.0
 - pkg:maven/com.google.cloud/google-cloud-filestore@1.31.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-filestore@1.32.0
+- pkg:maven/com.google.cloud/google-cloud-filestore@1.32.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-filestore@1.33.0
+- pkg:maven/com.google.cloud/google-cloud-filestore@1.33.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-filestore@1.4.0
 - pkg:maven/com.google.cloud/google-cloud-filestore@1.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-filestore@1.4.2

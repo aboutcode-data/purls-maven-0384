@@ -8,3 +8,9 @@
 - pkg:maven/net.jlxxw/http-spider-spring-boot-starter@1.0.0.20230903-spring-boot-3
 - pkg:maven/net.jlxxw/http-spider-spring-boot-starter@1.0.0.20230903-spring-boot-3?classifier=sources
 - pkg:maven/net.jlxxw/http-spider-spring-boot-starter@1.0.0.20230903?classifier=sources
+- pkg:maven/net.jlxxw/http-spider-spring-boot-starter@1.0.0.20231115
+- pkg:maven/net.jlxxw/http-spider-spring-boot-starter@1.0.0.20231115-spring-boot-3
+- pkg:maven/net.jlxxw/http-spider-spring-boot-starter@1.0.0.20231115-spring-boot-3?classifier=sources
+- pkg:maven/net.jlxxw/http-spider-spring-boot-starter@1.0.0.20231115?classifier=sources
+- pkg:maven/net.jlxxw/http-spider-spring-boot-starter@1.0.0.20231128-spring-boot-3
+- pkg:maven/net.jlxxw/http-spider-spring-boot-starter@1.0.0.20231128-spring-boot-3?classifier=sources

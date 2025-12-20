@@ -88,6 +88,12 @@
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.16.0?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.17.0
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.17.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.18.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.18.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.18.1
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.18.1?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.18.2
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.18.2?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.2.0
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.2.0?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@2.7.3.0
@@ -120,6 +126,10 @@
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.0.11.0?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.0.12.0
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.0.12.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.0.13.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.0.13.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.0.13.1
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.0.13.1?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.0.2.0
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.0.2.0?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.0.2.1
@@ -156,3 +166,13 @@
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.1.4.0?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.1.5.0
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.1.5.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.1.6.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.1.6.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.1.7.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.1.7.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.2.0.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.2.0.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.2.1.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.2.1.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.2.1.1
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-logback-web@3.2.1.1?classifier=sources

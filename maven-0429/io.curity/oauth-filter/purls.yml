@@ -1,2 +1,4 @@
 - pkg:maven/io.curity/oauth-filter@3.0.0
 - pkg:maven/io.curity/oauth-filter@3.0.0?classifier=sources
+- pkg:maven/io.curity/oauth-filter@4.0.0
+- pkg:maven/io.curity/oauth-filter@4.0.0?classifier=sources

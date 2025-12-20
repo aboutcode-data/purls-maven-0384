@@ -1,0 +1,4 @@
+- pkg:maven/io.atlasgo/hibernate-provider@0.2.3?classifier=sources
+- pkg:maven/io.atlasgo/hibernate-provider@0.2.4?classifier=sources
+- pkg:maven/io.atlasgo/hibernate-provider@0.3.7?classifier=sources
+- pkg:maven/io.atlasgo/hibernate-provider@0.3.8?classifier=sources

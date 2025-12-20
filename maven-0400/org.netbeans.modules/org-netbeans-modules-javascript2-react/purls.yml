@@ -19,3 +19,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-react@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-react@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-react@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-react@RELEASE200?classifier=sources

@@ -141,6 +141,7 @@
 - pkg:maven/com.liferay/com.liferay.expando.web@1.0.53
 - pkg:maven/com.liferay/com.liferay.expando.web@1.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@1.0.53?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.expando.web@1.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@1.0.6
 - pkg:maven/com.liferay/com.liferay.expando.web@1.0.6?classifier=sources
@@ -261,6 +262,7 @@
 - pkg:maven/com.liferay/com.liferay.expando.web@2.0.41
 - pkg:maven/com.liferay/com.liferay.expando.web@2.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@2.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.expando.web@2.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.expando.web@2.0.5
@@ -453,6 +455,7 @@
 - pkg:maven/com.liferay/com.liferay.expando.web@3.0.61
 - pkg:maven/com.liferay/com.liferay.expando.web@3.0.61?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@3.0.62?classifier=sources
+- pkg:maven/com.liferay/com.liferay.expando.web@3.0.63?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@3.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.expando.web@3.0.7
@@ -613,6 +616,7 @@
 - pkg:maven/com.liferay/com.liferay.expando.web@4.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@4.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@4.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.expando.web@4.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.expando.web@4.0.6
@@ -730,6 +734,7 @@
 - pkg:maven/com.liferay/com.liferay.expando.web@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.expando.web@5.0.4
 - pkg:maven/com.liferay/com.liferay.expando.web@5.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.expando.web@5.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.web@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.expando.web@5.0.5

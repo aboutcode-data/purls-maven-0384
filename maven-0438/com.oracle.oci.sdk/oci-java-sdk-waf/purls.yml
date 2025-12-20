@@ -230,8 +230,14 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.28.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.28.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.28.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.29.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.29.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.3.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.3.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.30.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.30.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.31.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.31.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.4.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.4.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-waf@3.5.0

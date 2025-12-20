@@ -1,0 +1,2 @@
+- pkg:maven/io.github.easycode8/dynamic-datasource-web@1.0.0
+- pkg:maven/io.github.easycode8/dynamic-datasource-web@1.0.0?classifier=sources

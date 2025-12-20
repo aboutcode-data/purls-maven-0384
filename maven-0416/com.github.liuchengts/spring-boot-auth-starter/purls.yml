@@ -19,4 +19,6 @@
 - pkg:maven/com.github.liuchengts/spring-boot-auth-starter@1.0.7.2?classifier=sources
 - pkg:maven/com.github.liuchengts/spring-boot-auth-starter@1.0.7.3
 - pkg:maven/com.github.liuchengts/spring-boot-auth-starter@1.0.7.3?classifier=sources
+- pkg:maven/com.github.liuchengts/spring-boot-auth-starter@1.0.7.4
+- pkg:maven/com.github.liuchengts/spring-boot-auth-starter@1.0.7.4?classifier=sources
 - pkg:maven/com.github.liuchengts/spring-boot-auth-starter@1.0.7?classifier=sources

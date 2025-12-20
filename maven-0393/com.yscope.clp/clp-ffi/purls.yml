@@ -24,3 +24,5 @@
 - pkg:maven/com.yscope.clp/clp-ffi@0.4.2?classifier=sources
 - pkg:maven/com.yscope.clp/clp-ffi@0.4.3
 - pkg:maven/com.yscope.clp/clp-ffi@0.4.3?classifier=sources
+- pkg:maven/com.yscope.clp/clp-ffi@0.4.4
+- pkg:maven/com.yscope.clp/clp-ffi@0.4.4?classifier=sources

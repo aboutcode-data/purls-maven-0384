@@ -2,6 +2,8 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@1.13.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@1.14.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@1.14.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@1.15.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@1.15.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@2.0.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@2.0.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@2.1.0
@@ -10,3 +12,5 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@2.2.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@2.3.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@2.3.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@2.4.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-redispubsub@2.4.0?classifier=sources

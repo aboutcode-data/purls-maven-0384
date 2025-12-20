@@ -1,3 +1,8 @@
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/github-advisor@10.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/github-advisor@11.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/github-advisor@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/github-advisor@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/github-advisor@7.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/github-advisor@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/github-advisor@8.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/github-advisor@9.0.0?classifier=sources

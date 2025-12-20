@@ -22,3 +22,5 @@
 - pkg:maven/com.scudata.esproc/esproc@20230901?classifier=sources
 - pkg:maven/com.scudata.esproc/esproc@20231020
 - pkg:maven/com.scudata.esproc/esproc@20231020?classifier=sources
+- pkg:maven/com.scudata.esproc/esproc@20231208
+- pkg:maven/com.scudata.esproc/esproc@20231208?classifier=sources

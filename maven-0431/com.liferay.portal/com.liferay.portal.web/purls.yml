@@ -206,6 +206,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@1.0.285?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@1.0.286?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@1.0.287?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@1.0.288?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@1.0.289?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@1.0.28?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@1.0.29?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@1.0.2?type=war
@@ -634,6 +636,7 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.410?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.411?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.412?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.413?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.41?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.42?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@2.0.43?type=war
@@ -952,6 +955,7 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@3.0.325?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@3.0.326?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@3.0.327?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@3.0.328?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@3.0.32?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@3.0.33?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@3.0.34?type=war
@@ -1223,6 +1227,7 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.274?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.275?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.276?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.277?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.27?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.28?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@4.0.29?type=war
@@ -1412,6 +1417,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.195?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.196?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.197?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.198?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.199?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.19?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.1?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.20?type=war

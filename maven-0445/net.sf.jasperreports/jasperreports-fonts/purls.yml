@@ -22,6 +22,7 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.20.4
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.20.5
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.20.6
+- pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.21.0
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.8.0
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.8.1
 - pkg:maven/net.sf.jasperreports/jasperreports-fonts@6.8.1?classifier=sources

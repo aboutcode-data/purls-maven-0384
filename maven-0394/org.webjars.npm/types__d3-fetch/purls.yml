@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/types__d3-fetch@2.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/types__d3-fetch@3.0.1
 - pkg:maven/org.webjars.npm/types__d3-fetch@3.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/types__d3-fetch@3.0.7
+- pkg:maven/org.webjars.npm/types__d3-fetch@3.0.7?classifier=sources

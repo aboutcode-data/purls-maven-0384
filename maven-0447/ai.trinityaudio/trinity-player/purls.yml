@@ -1,0 +1,2 @@
+- pkg:maven/ai.trinityaudio/trinity-player@0.0.1?classifier=sources
+- pkg:maven/ai.trinityaudio/trinity-player@1.0.0?classifier=sources

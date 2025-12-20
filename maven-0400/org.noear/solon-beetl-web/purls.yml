@@ -526,3 +526,10 @@
 - pkg:maven/org.noear/solon-beetl-web@2.6.0-M1
 - pkg:maven/org.noear/solon-beetl-web@2.6.0-M2
 - pkg:maven/org.noear/solon-beetl-web@2.6.0-M3
+- pkg:maven/org.noear/solon-beetl-web@2.6.1
+- pkg:maven/org.noear/solon-beetl-web@2.6.1-M1
+- pkg:maven/org.noear/solon-beetl-web@2.6.1-M2
+- pkg:maven/org.noear/solon-beetl-web@2.6.1-M3
+- pkg:maven/org.noear/solon-beetl-web@2.6.2
+- pkg:maven/org.noear/solon-beetl-web@2.6.2-M1
+- pkg:maven/org.noear/solon-beetl-web@2.6.2-M2

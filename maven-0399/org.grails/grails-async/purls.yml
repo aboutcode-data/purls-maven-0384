@@ -172,3 +172,4 @@
 - pkg:maven/org.grails/grails-async@3.2.9?classifier=sources
 - pkg:maven/org.grails/grails-async@3.3.2
 - pkg:maven/org.grails/grails-async@3.3.2?classifier=sources
+- pkg:maven/org.grails/grails-async@5.0.0?classifier=sources

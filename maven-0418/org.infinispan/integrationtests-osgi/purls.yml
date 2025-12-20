@@ -22,6 +22,7 @@
 - pkg:maven/org.infinispan/integrationtests-osgi@10.1.6.Final
 - pkg:maven/org.infinispan/integrationtests-osgi@10.1.7.Final
 - pkg:maven/org.infinispan/integrationtests-osgi@10.1.8.Final
+- pkg:maven/org.infinispan/integrationtests-osgi@10.1.9.Final
 - pkg:maven/org.infinispan/integrationtests-osgi@11.0.0.Alpha
 - pkg:maven/org.infinispan/integrationtests-osgi@11.0.0.Alpha1
 - pkg:maven/org.infinispan/integrationtests-osgi@11.0.0.Alpha2

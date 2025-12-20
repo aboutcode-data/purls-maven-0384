@@ -16,3 +16,5 @@
 - pkg:maven/io.zeebe.redis/zeebe-redis-exporter@0.9.7?classifier=sources
 - pkg:maven/io.zeebe.redis/zeebe-redis-exporter@0.9.8
 - pkg:maven/io.zeebe.redis/zeebe-redis-exporter@0.9.8?classifier=sources
+- pkg:maven/io.zeebe.redis/zeebe-redis-exporter@0.9.9
+- pkg:maven/io.zeebe.redis/zeebe-redis-exporter@0.9.9?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.ninjaframework/ninja-db-classic@6.8.1?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-db-classic@6.9.0
 - pkg:maven/org.ninjaframework/ninja-db-classic@6.9.0?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-db-classic@7.0.0
+- pkg:maven/org.ninjaframework/ninja-db-classic@7.0.0?classifier=sources

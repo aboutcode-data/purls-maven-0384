@@ -51,6 +51,12 @@
 - pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.13?classifier=sources
 - pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.14
 - pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.14?classifier=sources
+- pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.15
+- pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.15?classifier=sources
+- pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.16
+- pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.16?classifier=sources
+- pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.17
+- pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.17?classifier=sources
 - pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.1?classifier=sources
 - pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.2
 - pkg:maven/rs.ltt.jmap/jmap-mock-server@0.8.2?classifier=sources

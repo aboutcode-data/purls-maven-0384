@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-security-config-6.0@1.32.0-alpha?classifier=sources

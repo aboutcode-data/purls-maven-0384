@@ -25,3 +25,4 @@
 - pkg:maven/com.alibaba/ageiport-web-springmvc@0.2.8
 - pkg:maven/com.alibaba/ageiport-web-springmvc@0.2.9
 - pkg:maven/com.alibaba/ageiport-web-springmvc@0.3.0
+- pkg:maven/com.alibaba/ageiport-web-springmvc@0.3.1

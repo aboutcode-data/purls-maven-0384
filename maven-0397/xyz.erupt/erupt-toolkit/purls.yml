@@ -72,3 +72,7 @@
 - pkg:maven/xyz.erupt/erupt-toolkit@1.12.6?classifier=sources
 - pkg:maven/xyz.erupt/erupt-toolkit@1.12.7
 - pkg:maven/xyz.erupt/erupt-toolkit@1.12.7?classifier=sources
+- pkg:maven/xyz.erupt/erupt-toolkit@1.12.8
+- pkg:maven/xyz.erupt/erupt-toolkit@1.12.8?classifier=sources
+- pkg:maven/xyz.erupt/erupt-toolkit@1.12.9
+- pkg:maven/xyz.erupt/erupt-toolkit@1.12.9?classifier=sources

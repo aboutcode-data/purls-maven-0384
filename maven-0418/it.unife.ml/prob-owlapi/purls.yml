@@ -6,3 +6,5 @@
 - pkg:maven/it.unife.ml/prob-owlapi@1.0.2?classifier=sources
 - pkg:maven/it.unife.ml/prob-owlapi@1.0.3
 - pkg:maven/it.unife.ml/prob-owlapi@1.0.3?classifier=sources
+- pkg:maven/it.unife.ml/prob-owlapi@1.0.4
+- pkg:maven/it.unife.ml/prob-owlapi@1.0.4?classifier=sources

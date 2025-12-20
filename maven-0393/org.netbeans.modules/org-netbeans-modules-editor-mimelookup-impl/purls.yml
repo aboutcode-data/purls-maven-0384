@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-mimelookup-impl@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-mimelookup-impl@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-mimelookup-impl@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-mimelookup-impl@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-mimelookup-impl@RELEASE90?classifier=sources

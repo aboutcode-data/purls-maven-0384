@@ -1,0 +1,6 @@
+- pkg:maven/be.objectify/deadbolt-java_3@2.9.0
+- pkg:maven/be.objectify/deadbolt-java_3@2.9.0-M1
+- pkg:maven/be.objectify/deadbolt-java_3@2.9.0-M1?classifier=sources
+- pkg:maven/be.objectify/deadbolt-java_3@2.9.0?classifier=sources
+- pkg:maven/be.objectify/deadbolt-java_3@3.0.0
+- pkg:maven/be.objectify/deadbolt-java_3@3.0.0?classifier=sources

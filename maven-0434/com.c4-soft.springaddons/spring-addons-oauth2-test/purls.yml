@@ -137,6 +137,12 @@
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.12?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.13
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.13?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.14
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.14?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.15
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.15?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.16
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.16?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.1?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.2
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.2?classifier=sources
@@ -152,5 +158,7 @@
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.8?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.9
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.1.9?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.2.0
+- pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@7.2.0?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@git
 - pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test@git?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/javascript-obfuscator__escodegen@2.3.0
+- pkg:maven/org.webjars.npm/javascript-obfuscator__escodegen@2.3.0?classifier=sources

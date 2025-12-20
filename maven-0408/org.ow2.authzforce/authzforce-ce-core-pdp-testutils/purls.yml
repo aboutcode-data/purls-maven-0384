@@ -62,6 +62,8 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-testutils@20.3.2?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-testutils@21.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-testutils@21.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-testutils@21.0.1
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-testutils@21.0.1?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-testutils@8.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-testutils@8.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-testutils@9.0.0

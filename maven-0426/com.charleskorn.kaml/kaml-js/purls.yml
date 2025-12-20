@@ -1,1 +1,2 @@
 - pkg:maven/com.charleskorn.kaml/kaml-js@0.55.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-js@0.56.0?classifier=sources

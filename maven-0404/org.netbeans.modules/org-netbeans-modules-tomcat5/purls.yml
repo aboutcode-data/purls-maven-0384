@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE200?classifier=sources

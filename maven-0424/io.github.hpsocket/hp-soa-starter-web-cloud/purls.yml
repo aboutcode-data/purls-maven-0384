@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hpsocket/hp-soa-starter-web-cloud@1.0.5
+- pkg:maven/io.github.hpsocket/hp-soa-starter-web-cloud@1.0.5?classifier=sources

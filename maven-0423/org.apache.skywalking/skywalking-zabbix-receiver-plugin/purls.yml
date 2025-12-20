@@ -23,3 +23,5 @@
 - pkg:maven/org.apache.skywalking/skywalking-zabbix-receiver-plugin@9.5.0?classifier=sources
 - pkg:maven/org.apache.skywalking/skywalking-zabbix-receiver-plugin@9.6.0
 - pkg:maven/org.apache.skywalking/skywalking-zabbix-receiver-plugin@9.6.0?classifier=sources
+- pkg:maven/org.apache.skywalking/skywalking-zabbix-receiver-plugin@9.7.0
+- pkg:maven/org.apache.skywalking/skywalking-zabbix-receiver-plugin@9.7.0?classifier=sources

@@ -41,6 +41,7 @@
 - pkg:maven/com.adyen.checkout/drop-in@4.13.1?classifier=sources
 - pkg:maven/com.adyen.checkout/drop-in@4.13.2?classifier=sources
 - pkg:maven/com.adyen.checkout/drop-in@4.13.3?classifier=sources
+- pkg:maven/com.adyen.checkout/drop-in@4.13.4?classifier=sources
 - pkg:maven/com.adyen.checkout/drop-in@4.2.0?classifier=sources
 - pkg:maven/com.adyen.checkout/drop-in@4.3.0?classifier=sources
 - pkg:maven/com.adyen.checkout/drop-in@4.4.0?classifier=sources
@@ -57,3 +58,4 @@
 - pkg:maven/com.adyen.checkout/drop-in@5.0.0-beta01?classifier=sources
 - pkg:maven/com.adyen.checkout/drop-in@5.0.0?classifier=sources
 - pkg:maven/com.adyen.checkout/drop-in@5.0.1?classifier=sources
+- pkg:maven/com.adyen.checkout/drop-in@5.1.0?classifier=sources

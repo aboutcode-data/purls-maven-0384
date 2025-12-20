@@ -19,3 +19,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-nette-tester@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-nette-tester@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-nette-tester@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-nette-tester@RELEASE200?classifier=sources

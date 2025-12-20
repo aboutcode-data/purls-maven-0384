@@ -173,6 +173,8 @@
 - pkg:maven/com.liferay/com.liferay.account.api@16.4.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.api@16.5.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.api@17.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.account.api@18.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.account.api@18.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.account.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.api@2.0.0?classifier=sources-commercial

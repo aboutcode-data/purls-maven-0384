@@ -1,0 +1,2 @@
+- pkg:maven/cn.com.jeeweb/common-ehcache2@2.0.2
+- pkg:maven/cn.com.jeeweb/common-ehcache2@2.0.2?classifier=sources

@@ -56,3 +56,7 @@
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.32.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.33.0
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.33.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.34.0
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.34.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.50.0
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.50.0?classifier=sources

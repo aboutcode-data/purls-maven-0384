@@ -36,3 +36,6 @@
 - pkg:maven/dev.struchkov.godfather/bot-data-main@0.0.67
 - pkg:maven/dev.struchkov.godfather/bot-data-main@0.0.68
 - pkg:maven/dev.struchkov.godfather/bot-data-main@0.0.69
+- pkg:maven/dev.struchkov.godfather/bot-data-main@1.0.0
+- pkg:maven/dev.struchkov.godfather/bot-data-main@1.1.0
+- pkg:maven/dev.struchkov.godfather/bot-data-main@1.2.0
