@@ -1,3 +1,9 @@
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.100
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.100?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.101
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.101?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.102
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.102?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.27
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.27?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.28
@@ -142,3 +148,7 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.96?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.97
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.97?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.98
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.98?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.99
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-core-xml@3.1.99?classifier=sources

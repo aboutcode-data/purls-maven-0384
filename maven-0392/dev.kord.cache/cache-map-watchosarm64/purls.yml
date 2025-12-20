@@ -1,1 +1,2 @@
+- pkg:maven/dev.kord.cache/cache-map-watchosarm64@0.5.1?classifier=sources
 - pkg:maven/dev.kord.cache/cache-map-watchosarm64@unspecified?classifier=sources

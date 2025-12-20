@@ -13,6 +13,8 @@
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.2.5
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.0
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.1
+- pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.10
+- pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.11
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.2
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.3
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.4
@@ -20,3 +22,4 @@
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.6
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.7
 - pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.8
+- pkg:maven/com.expediagroup.apiary/kafka-metastore-integration-tests@7.3.9

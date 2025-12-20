@@ -618,6 +618,9 @@
 - pkg:maven/io.streamlayer/sl-protofiles@5.100.1?classifier=sources
 - pkg:maven/io.streamlayer/sl-protofiles@5.100.2?classifier=sources
 - pkg:maven/io.streamlayer/sl-protofiles@5.101.0?classifier=sources
+- pkg:maven/io.streamlayer/sl-protofiles@5.102.0?classifier=sources
+- pkg:maven/io.streamlayer/sl-protofiles@5.102.1?classifier=sources
+- pkg:maven/io.streamlayer/sl-protofiles@5.103.0?classifier=sources
 - pkg:maven/io.streamlayer/sl-protofiles@5.11.0?classifier=sources
 - pkg:maven/io.streamlayer/sl-protofiles@5.11.1?classifier=sources
 - pkg:maven/io.streamlayer/sl-protofiles@5.11.2?classifier=sources

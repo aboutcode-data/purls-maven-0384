@@ -12,3 +12,7 @@
 - pkg:maven/app.fmgp/scala-did-docs_3@0.1.0-M21?classifier=sources
 - pkg:maven/app.fmgp/scala-did-docs_3@0.1.0-M22
 - pkg:maven/app.fmgp/scala-did-docs_3@0.1.0-M22?classifier=sources
+- pkg:maven/app.fmgp/scala-did-docs_3@0.1.0-M23
+- pkg:maven/app.fmgp/scala-did-docs_3@0.1.0-M23?classifier=sources
+- pkg:maven/app.fmgp/scala-did-docs_3@0.1.0-M24
+- pkg:maven/app.fmgp/scala-did-docs_3@0.1.0-M24?classifier=sources

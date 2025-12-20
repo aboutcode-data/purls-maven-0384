@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rafafrdz/criteria4s-mongodb_2.13@0.8.1
+- pkg:maven/io.github.rafafrdz/criteria4s-mongodb_2.13@0.8.1?classifier=sources

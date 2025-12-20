@@ -18,3 +18,7 @@
 - pkg:maven/dev.vality/swag-claim-management@1.48-6b6711b-client?classifier=sources
 - pkg:maven/dev.vality/swag-claim-management@1.48-6b6711b-server
 - pkg:maven/dev.vality/swag-claim-management@1.48-6b6711b-server?classifier=sources
+- pkg:maven/dev.vality/swag-claim-management@1.52-b5248eb-client
+- pkg:maven/dev.vality/swag-claim-management@1.52-b5248eb-client?classifier=sources
+- pkg:maven/dev.vality/swag-claim-management@1.52-b5248eb-server
+- pkg:maven/dev.vality/swag-claim-management@1.52-b5248eb-server?classifier=sources

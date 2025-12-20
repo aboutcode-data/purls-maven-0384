@@ -12,3 +12,5 @@
 - pkg:maven/com.hsbc.cranker/mu-cranker-router@1.0.7?classifier=sources
 - pkg:maven/com.hsbc.cranker/mu-cranker-router@2.0.0
 - pkg:maven/com.hsbc.cranker/mu-cranker-router@2.0.0?classifier=sources
+- pkg:maven/com.hsbc.cranker/mu-cranker-router@2.0.1
+- pkg:maven/com.hsbc.cranker/mu-cranker-router@2.0.1?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/keycon@1.2.2
 - pkg:maven/org.webjars.npm/keycon@1.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/keycon@1.4.0

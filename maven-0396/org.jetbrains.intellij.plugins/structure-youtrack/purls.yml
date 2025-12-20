@@ -1,1 +1,3 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-youtrack@3.272?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-youtrack@3.274?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-youtrack@3.275?classifier=sources

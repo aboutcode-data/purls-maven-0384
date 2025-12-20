@@ -48,3 +48,5 @@
 - pkg:maven/io.atleon/atleon-avro@0.26.3?classifier=sources
 - pkg:maven/io.atleon/atleon-avro@0.26.4
 - pkg:maven/io.atleon/atleon-avro@0.26.4?classifier=sources
+- pkg:maven/io.atleon/atleon-avro@0.26.5
+- pkg:maven/io.atleon/atleon-avro@0.26.5?classifier=sources

@@ -81,6 +81,8 @@
 - pkg:maven/org.teamapps/teamapps-application-server@0.56?classifier=sources
 - pkg:maven/org.teamapps/teamapps-application-server@0.57
 - pkg:maven/org.teamapps/teamapps-application-server@0.57?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-server@0.58
+- pkg:maven/org.teamapps/teamapps-application-server@0.58?classifier=sources
 - pkg:maven/org.teamapps/teamapps-application-server@0.5?classifier=sources
 - pkg:maven/org.teamapps/teamapps-application-server@0.6
 - pkg:maven/org.teamapps/teamapps-application-server@0.6?classifier=sources

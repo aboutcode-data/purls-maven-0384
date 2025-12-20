@@ -96,3 +96,4 @@
 - pkg:maven/io.trino/trino-sqlserver@447?classifier=sources
 - pkg:maven/io.trino/trino-sqlserver@448?classifier=sources
 - pkg:maven/io.trino/trino-sqlserver@449?classifier=sources
+- pkg:maven/io.trino/trino-sqlserver@450?classifier=sources

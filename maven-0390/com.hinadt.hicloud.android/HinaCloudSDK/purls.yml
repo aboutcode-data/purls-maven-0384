@@ -10,3 +10,4 @@
 - pkg:maven/com.hinadt.hicloud.android/HinaCloudSDK@3.9.1?classifier=sources
 - pkg:maven/com.hinadt.hicloud.android/HinaCloudSDK@4.0.0?classifier=sources
 - pkg:maven/com.hinadt.hicloud.android/HinaCloudSDK@4.0.1?classifier=sources
+- pkg:maven/com.hinadt.hicloud.android/HinaCloudSDK@4.0.2?classifier=sources

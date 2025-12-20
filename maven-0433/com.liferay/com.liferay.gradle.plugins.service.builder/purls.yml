@@ -686,8 +686,11 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@4.0.155?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@4.0.156?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@4.0.157?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@4.0.158?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@4.0.159?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@4.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@4.0.16
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@4.0.160?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@4.0.17
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.service.builder@4.0.17?classifier=sources

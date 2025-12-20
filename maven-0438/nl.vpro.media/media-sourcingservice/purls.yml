@@ -38,6 +38,8 @@
 - pkg:maven/nl.vpro.media/media-sourcingservice@7.12.2?classifier=sources
 - pkg:maven/nl.vpro.media/media-sourcingservice@7.12.3
 - pkg:maven/nl.vpro.media/media-sourcingservice@7.12.3?classifier=sources
+- pkg:maven/nl.vpro.media/media-sourcingservice@7.12.4
+- pkg:maven/nl.vpro.media/media-sourcingservice@7.12.4?classifier=sources
 - pkg:maven/nl.vpro.media/media-sourcingservice@7.5.0
 - pkg:maven/nl.vpro.media/media-sourcingservice@7.5.0?classifier=sources
 - pkg:maven/nl.vpro.media/media-sourcingservice@7.6.0
@@ -78,3 +80,5 @@
 - pkg:maven/nl.vpro.media/media-sourcingservice@8.0.1?classifier=sources
 - pkg:maven/nl.vpro.media/media-sourcingservice@8.1.0
 - pkg:maven/nl.vpro.media/media-sourcingservice@8.1.0?classifier=sources
+- pkg:maven/nl.vpro.media/media-sourcingservice@8.1.1
+- pkg:maven/nl.vpro.media/media-sourcingservice@8.1.1?classifier=sources

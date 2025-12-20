@@ -1,1 +1,2 @@
 - pkg:maven/com.apollographql.apollo3/apollo-adapters-wasm-js@4.0.0-beta.6?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-adapters-wasm-js@4.0.0-beta.7?classifier=sources

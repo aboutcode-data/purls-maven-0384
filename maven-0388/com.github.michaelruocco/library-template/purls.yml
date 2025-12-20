@@ -31,6 +31,7 @@
 - pkg:maven/com.github.michaelruocco/library-template@0.1.33?classifier=sources
 - pkg:maven/com.github.michaelruocco/library-template@0.1.34?classifier=sources
 - pkg:maven/com.github.michaelruocco/library-template@0.1.35?classifier=sources
+- pkg:maven/com.github.michaelruocco/library-template@0.1.36?classifier=sources
 - pkg:maven/com.github.michaelruocco/library-template@0.1.3?classifier=sources
 - pkg:maven/com.github.michaelruocco/library-template@0.1.4
 - pkg:maven/com.github.michaelruocco/library-template@0.1.4?classifier=sources

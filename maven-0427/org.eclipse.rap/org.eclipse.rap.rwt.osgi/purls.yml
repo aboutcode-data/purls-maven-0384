@@ -140,6 +140,8 @@
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.osgi@3.27.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.osgi@3.28.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.osgi@3.28.0?classifier=sources
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.osgi@3.29.0
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.osgi@3.29.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.osgi@3.3.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.osgi@3.3.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt.osgi@3.4.0

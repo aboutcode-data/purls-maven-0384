@@ -1,3 +1,5 @@
+- pkg:maven/com.smartling.api/smartling-file-translations-api@1.10.0
+- pkg:maven/com.smartling.api/smartling-file-translations-api@1.10.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-file-translations-api@1.8.0
 - pkg:maven/com.smartling.api/smartling-file-translations-api@1.8.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-file-translations-api@1.8.2

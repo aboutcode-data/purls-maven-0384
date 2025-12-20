@@ -21,3 +21,5 @@
 - pkg:maven/love.forte.simbot.common/simbot-common-stage-loop-tvosarm64@4.0.0-dev6?classifier=sources
 - pkg:maven/love.forte.simbot.common/simbot-common-stage-loop-tvosarm64@4.0.0-dev7?classifier=sources
 - pkg:maven/love.forte.simbot.common/simbot-common-stage-loop-tvosarm64@4.0.0-dev9?classifier=sources
+- pkg:maven/love.forte.simbot.common/simbot-common-stage-loop-tvosarm64@4.0.0?classifier=sources
+- pkg:maven/love.forte.simbot.common/simbot-common-stage-loop-tvosarm64@4.0.1?classifier=sources

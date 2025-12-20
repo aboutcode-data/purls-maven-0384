@@ -27,6 +27,9 @@
 - pkg:maven/com.amplifyframework/aws-push-notifications-pinpoint@2.16.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-push-notifications-pinpoint@2.16.1?classifier=sources
 - pkg:maven/com.amplifyframework/aws-push-notifications-pinpoint@2.17.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-push-notifications-pinpoint@2.18.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-push-notifications-pinpoint@2.19.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-push-notifications-pinpoint@2.19.1?classifier=sources
 - pkg:maven/com.amplifyframework/aws-push-notifications-pinpoint@2.5.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-push-notifications-pinpoint@2.6.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-push-notifications-pinpoint@2.7.0?classifier=sources

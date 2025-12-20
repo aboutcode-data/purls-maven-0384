@@ -1,4 +1,5 @@
 - pkg:maven/com.github.Ling2099/easy-minio@1.0.10?classifier=sources
 - pkg:maven/com.github.Ling2099/easy-minio@1.0.11?classifier=sources
+- pkg:maven/com.github.Ling2099/easy-minio@1.0.12?classifier=sources
 - pkg:maven/com.github.Ling2099/easy-minio@1.0.8?classifier=sources
 - pkg:maven/com.github.Ling2099/easy-minio@1.0.9?classifier=sources

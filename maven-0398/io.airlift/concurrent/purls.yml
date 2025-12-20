@@ -338,3 +338,5 @@
 - pkg:maven/io.airlift/concurrent@247?classifier=sources
 - pkg:maven/io.airlift/concurrent@248
 - pkg:maven/io.airlift/concurrent@248?classifier=sources
+- pkg:maven/io.airlift/concurrent@249
+- pkg:maven/io.airlift/concurrent@249?classifier=sources

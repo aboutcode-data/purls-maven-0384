@@ -8,3 +8,4 @@
 - pkg:maven/io.github.honhimw/meilisearch-rest-client@1.7.0.2?classifier=sources
 - pkg:maven/io.github.honhimw/meilisearch-rest-client@1.7.0.3?classifier=sources
 - pkg:maven/io.github.honhimw/meilisearch-rest-client@1.8.0.0?classifier=sources
+- pkg:maven/io.github.honhimw/meilisearch-rest-client@1.8.0.1?classifier=sources

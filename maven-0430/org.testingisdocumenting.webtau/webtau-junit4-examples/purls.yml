@@ -37,3 +37,4 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-junit4-examples@2.1
 - pkg:maven/org.testingisdocumenting.webtau/webtau-junit4-examples@2.2
 - pkg:maven/org.testingisdocumenting.webtau/webtau-junit4-examples@2.3
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4-examples@2.4

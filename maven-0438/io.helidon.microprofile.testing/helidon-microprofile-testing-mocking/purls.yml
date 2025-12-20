@@ -1,0 +1,4 @@
+- pkg:maven/io.helidon.microprofile.testing/helidon-microprofile-testing-mocking@4.0.10
+- pkg:maven/io.helidon.microprofile.testing/helidon-microprofile-testing-mocking@4.0.10?classifier=sources
+- pkg:maven/io.helidon.microprofile.testing/helidon-microprofile-testing-mocking@4.0.9
+- pkg:maven/io.helidon.microprofile.testing/helidon-microprofile-testing-mocking@4.0.9?classifier=sources

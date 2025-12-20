@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jasperreports/jasperreports-ejbql-j2ee@7.0.0
+- pkg:maven/net.sf.jasperreports/jasperreports-ejbql-j2ee@7.0.0?classifier=sources

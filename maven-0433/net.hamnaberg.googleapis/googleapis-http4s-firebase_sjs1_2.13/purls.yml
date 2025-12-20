@@ -4,3 +4,5 @@
 - pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-firebase_sjs1_2.13@0.4.1-v1beta1-20240417?classifier=sources
 - pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-firebase_sjs1_2.13@0.4.2-v1beta1-20240509
 - pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-firebase_sjs1_2.13@0.4.2-v1beta1-20240509?classifier=sources
+- pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-firebase_sjs1_2.13@0.4.3-v1beta1-20240612
+- pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-firebase_sjs1_2.13@0.4.3-v1beta1-20240612?classifier=sources
