@@ -42,3 +42,7 @@
 - pkg:maven/com.alcosi/commons-library-basic-dependency@3.3.2.5.0.8?classifier=sources
 - pkg:maven/com.alcosi/commons-library-basic-dependency@3.3.3.5.0.9
 - pkg:maven/com.alcosi/commons-library-basic-dependency@3.3.3.5.0.9?classifier=sources
+- pkg:maven/com.alcosi/commons-library-basic-dependency@3.4.0.5.1.0
+- pkg:maven/com.alcosi/commons-library-basic-dependency@3.4.0.5.1.0?classifier=sources
+- pkg:maven/com.alcosi/commons-library-basic-dependency@3.4.0.5.1.1
+- pkg:maven/com.alcosi/commons-library-basic-dependency@3.4.0.5.1.1?classifier=sources

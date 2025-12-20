@@ -160,3 +160,7 @@
 - pkg:maven/org.instancio/instancio-core@5.0.2?classifier=sources
 - pkg:maven/org.instancio/instancio-core@5.1.0
 - pkg:maven/org.instancio/instancio-core@5.1.0?classifier=sources
+- pkg:maven/org.instancio/instancio-core@5.2.0
+- pkg:maven/org.instancio/instancio-core@5.2.0?classifier=sources
+- pkg:maven/org.instancio/instancio-core@5.2.1
+- pkg:maven/org.instancio/instancio-core@5.2.1?classifier=sources

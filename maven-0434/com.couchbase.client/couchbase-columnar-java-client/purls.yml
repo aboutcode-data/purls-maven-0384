@@ -2,3 +2,5 @@
 - pkg:maven/com.couchbase.client/couchbase-columnar-java-client@1.0.0?classifier=sources
 - pkg:maven/com.couchbase.client/couchbase-columnar-java-client@1.0.5
 - pkg:maven/com.couchbase.client/couchbase-columnar-java-client@1.0.5?classifier=sources
+- pkg:maven/com.couchbase.client/couchbase-columnar-java-client@1.0.6
+- pkg:maven/com.couchbase.client/couchbase-columnar-java-client@1.0.6?classifier=sources

@@ -23,3 +23,9 @@
 - pkg:maven/org.http4k/http4k-azure@5.37.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-azure@5.37.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-azure@5.37.1.1?classifier=sources
+- pkg:maven/org.http4k/http4k-azure@5.38.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-azure@5.39.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-azure@5.40.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-azure@5.41.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-azure@5.42.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-azure@5.43.0.0?classifier=sources

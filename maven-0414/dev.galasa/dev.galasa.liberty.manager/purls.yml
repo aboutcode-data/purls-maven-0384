@@ -1,2 +1,3 @@
 - pkg:maven/dev.galasa/dev.galasa.liberty.manager@0.15.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.liberty.manager@0.21.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.liberty.manager@0.38.0?classifier=sources

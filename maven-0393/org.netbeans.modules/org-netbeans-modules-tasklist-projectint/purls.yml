@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-projectint@RELEASE90?classifier=sources

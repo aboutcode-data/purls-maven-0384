@@ -1,0 +1,1 @@
+- pkg:maven/sk.phage.spring/protobuf-graalvm-native-hints@1.0.0?classifier=sources

@@ -38,3 +38,7 @@
 - pkg:maven/software.amazon.awsconstructs/constructsfactories@2.73.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/constructsfactories@2.74.0
 - pkg:maven/software.amazon.awsconstructs/constructsfactories@2.74.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/constructsfactories@2.75.0
+- pkg:maven/software.amazon.awsconstructs/constructsfactories@2.75.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/constructsfactories@2.76.0
+- pkg:maven/software.amazon.awsconstructs/constructsfactories@2.76.0?classifier=sources

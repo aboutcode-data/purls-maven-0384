@@ -12,3 +12,5 @@
 - pkg:maven/com.datastax.astra/langchain4j-astradb@1.5.2?classifier=sources
 - pkg:maven/com.datastax.astra/langchain4j-astradb@1.5.3
 - pkg:maven/com.datastax.astra/langchain4j-astradb@1.5.3?classifier=sources
+- pkg:maven/com.datastax.astra/langchain4j-astradb@2.0.0-PREVIEW
+- pkg:maven/com.datastax.astra/langchain4j-astradb@2.0.0-PREVIEW?classifier=sources

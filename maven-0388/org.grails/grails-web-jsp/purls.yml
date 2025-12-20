@@ -164,3 +164,4 @@
 - pkg:maven/org.grails/grails-web-jsp@6.2.2?classifier=sources
 - pkg:maven/org.grails/grails-web-jsp@6.2.3?classifier=sources
 - pkg:maven/org.grails/grails-web-jsp@6.2.4?classifier=sources
+- pkg:maven/org.grails/grails-web-jsp@7.0.0-M1?classifier=sources

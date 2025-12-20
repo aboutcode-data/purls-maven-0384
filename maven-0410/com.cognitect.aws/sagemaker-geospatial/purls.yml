@@ -6,3 +6,5 @@
 - pkg:maven/com.cognitect.aws/sagemaker-geospatial@847.2.1365.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sagemaker-geospatial@847.2.1387.0
 - pkg:maven/com.cognitect.aws/sagemaker-geospatial@847.2.1387.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sagemaker-geospatial@871.2.29.35
+- pkg:maven/com.cognitect.aws/sagemaker-geospatial@871.2.29.35?classifier=sources

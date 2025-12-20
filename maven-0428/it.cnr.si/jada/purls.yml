@@ -59,3 +59,5 @@
 - pkg:maven/it.cnr.si/jada@7.1.0?classifier=sources
 - pkg:maven/it.cnr.si/jada@7.1.1?classifier=sources
 - pkg:maven/it.cnr.si/jada@7.1.2?classifier=sources
+- pkg:maven/it.cnr.si/jada@7.1.4?classifier=sources
+- pkg:maven/it.cnr.si/jada@7.1.5?classifier=sources

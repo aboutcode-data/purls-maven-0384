@@ -1461,6 +1461,7 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.222?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.223?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.224?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.225?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.22?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.23?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.24?type=war

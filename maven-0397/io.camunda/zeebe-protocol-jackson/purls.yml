@@ -301,6 +301,8 @@
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.3.16?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.3.17
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.3.17?classifier=sources
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.3.18
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.3.18?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.3.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.3.2
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.3.2?classifier=sources
@@ -333,6 +335,8 @@
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.4.12?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.4.13
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.4.13?classifier=sources
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.4.14
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.4.14?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.4.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.4.2
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.4.2?classifier=sources
@@ -361,6 +365,8 @@
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.5.0-alpha2?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.5.0?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.5.1
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.5.10
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.5.10?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.5.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.5.2
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.5.2?classifier=sources
@@ -430,9 +436,17 @@
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.6.5-rc1
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.6.5-rc1?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.6.5?classifier=sources
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.6.6
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.6.6?classifier=sources
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.6.7-rc1
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.6.7-rc1?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.7.0-alpha1
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.7.0-alpha1-rc1
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.7.0-alpha1-rc1?classifier=sources
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.7.0-alpha1?classifier=sources
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.7.0-alpha2
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.7.0-alpha2-rc1
 - pkg:maven/io.camunda/zeebe-protocol-jackson@8.7.0-alpha2-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.7.0-alpha2?classifier=sources
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.7.0-alpha3-rc1
+- pkg:maven/io.camunda/zeebe-protocol-jackson@8.7.0-alpha3-rc1?classifier=sources

@@ -27,3 +27,4 @@
 - pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-page-bootstrapper@3.0.3-alpha-9d473bb-m0wdxaa9?classifier=sources
 - pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-page-bootstrapper@3.0.3-alpha-e865ba2-m0w9cdsp?classifier=sources
 - pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-page-bootstrapper@3.1.1?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-page-bootstrapper@4.0.0-m01-8612d31-m4igvz6q?classifier=sources

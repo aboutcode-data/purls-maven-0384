@@ -4,3 +4,11 @@
 - pkg:maven/dev.cheleb/zio-tapir-shared_sjs1_3@0.5.1?classifier=sources
 - pkg:maven/dev.cheleb/zio-tapir-shared_sjs1_3@0.6.0
 - pkg:maven/dev.cheleb/zio-tapir-shared_sjs1_3@0.6.0?classifier=sources
+- pkg:maven/dev.cheleb/zio-tapir-shared_sjs1_3@0.7.0
+- pkg:maven/dev.cheleb/zio-tapir-shared_sjs1_3@0.7.0?classifier=sources
+- pkg:maven/dev.cheleb/zio-tapir-shared_sjs1_3@0.8.0
+- pkg:maven/dev.cheleb/zio-tapir-shared_sjs1_3@0.8.0?classifier=sources
+- pkg:maven/dev.cheleb/zio-tapir-shared_sjs1_3@0.8.1
+- pkg:maven/dev.cheleb/zio-tapir-shared_sjs1_3@0.8.1?classifier=sources
+- pkg:maven/dev.cheleb/zio-tapir-shared_sjs1_3@0.8.2
+- pkg:maven/dev.cheleb/zio-tapir-shared_sjs1_3@0.8.2?classifier=sources

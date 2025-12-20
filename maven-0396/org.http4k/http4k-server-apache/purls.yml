@@ -818,8 +818,14 @@
 - pkg:maven/org.http4k/http4k-server-apache@5.37.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-apache@5.37.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-apache@5.37.1.1?classifier=sources
+- pkg:maven/org.http4k/http4k-server-apache@5.38.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-apache@5.39.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-apache@5.4.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-apache@5.4.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-apache@5.40.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-apache@5.41.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-apache@5.42.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-apache@5.43.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-apache@5.5.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-apache@5.6.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-apache@5.6.1.0?classifier=sources

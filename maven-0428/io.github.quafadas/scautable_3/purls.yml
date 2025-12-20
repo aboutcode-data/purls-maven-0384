@@ -1,3 +1,5 @@
+- pkg:maven/io.github.quafadas/scautable_3@0.0.11
+- pkg:maven/io.github.quafadas/scautable_3@0.0.11?classifier=sources
 - pkg:maven/io.github.quafadas/scautable_3@0.0.2
 - pkg:maven/io.github.quafadas/scautable_3@0.0.2?classifier=sources
 - pkg:maven/io.github.quafadas/scautable_3@0.0.4

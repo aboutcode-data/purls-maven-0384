@@ -10,6 +10,7 @@
 - pkg:maven/io.qtjambi/qtjambi-xml@5.15.19?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-xml@5.15.20?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-xml@5.15.23?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-xml@5.15.24?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-xml@5.15.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-xml@5.15.4?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-xml@5.15.5?classifier=sources
@@ -62,3 +63,4 @@
 - pkg:maven/io.qtjambi/qtjambi-xml@6.7.2?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-xml@6.7.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-xml@6.8.0?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-xml@6.8.1?classifier=sources

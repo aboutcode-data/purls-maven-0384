@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.royale.compiler/linter@0.9.10
 - pkg:maven/org.apache.royale.compiler/linter@0.9.10?classifier=sources
+- pkg:maven/org.apache.royale.compiler/linter@0.9.12
+- pkg:maven/org.apache.royale.compiler/linter@0.9.12?classifier=sources

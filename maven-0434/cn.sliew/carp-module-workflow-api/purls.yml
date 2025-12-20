@@ -5,3 +5,6 @@
 - pkg:maven/cn.sliew/carp-module-workflow-api@0.0.14
 - pkg:maven/cn.sliew/carp-module-workflow-api@0.0.14?classifier=sources
 - pkg:maven/cn.sliew/carp-module-workflow-api@0.0.19?classifier=sources
+- pkg:maven/cn.sliew/carp-module-workflow-api@0.0.20?classifier=sources
+- pkg:maven/cn.sliew/carp-module-workflow-api@0.0.22?classifier=sources
+- pkg:maven/cn.sliew/carp-module-workflow-api@0.0.23?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/io.github.apm-sdk/apm-sdk-android@2.0.0?type=aar
 - pkg:maven/io.github.apm-sdk/apm-sdk-android@2.0.10?type=aar
+- pkg:maven/io.github.apm-sdk/apm-sdk-android@2.0.11?type=aar
 - pkg:maven/io.github.apm-sdk/apm-sdk-android@2.0.1?type=aar
 - pkg:maven/io.github.apm-sdk/apm-sdk-android@2.0.4?type=aar
 - pkg:maven/io.github.apm-sdk/apm-sdk-android@2.0.5?type=aar

@@ -18,3 +18,5 @@
 - pkg:maven/com.github.workerframework/worker-message-prioritization-rabbitmq@2.0.3-282?classifier=sources
 - pkg:maven/com.github.workerframework/worker-message-prioritization-rabbitmq@2.1.0-327
 - pkg:maven/com.github.workerframework/worker-message-prioritization-rabbitmq@2.1.0-327?classifier=sources
+- pkg:maven/com.github.workerframework/worker-message-prioritization-rabbitmq@2.2.0-353
+- pkg:maven/com.github.workerframework/worker-message-prioritization-rabbitmq@2.2.0-353?classifier=sources

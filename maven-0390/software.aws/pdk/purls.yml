@@ -281,6 +281,16 @@
 - pkg:maven/software.aws/pdk@0.25.10?classifier=sources
 - pkg:maven/software.aws/pdk@0.25.11
 - pkg:maven/software.aws/pdk@0.25.11?classifier=sources
+- pkg:maven/software.aws/pdk@0.25.12
+- pkg:maven/software.aws/pdk@0.25.12?classifier=sources
+- pkg:maven/software.aws/pdk@0.25.13
+- pkg:maven/software.aws/pdk@0.25.13?classifier=sources
+- pkg:maven/software.aws/pdk@0.25.14
+- pkg:maven/software.aws/pdk@0.25.14?classifier=sources
+- pkg:maven/software.aws/pdk@0.25.15
+- pkg:maven/software.aws/pdk@0.25.15?classifier=sources
+- pkg:maven/software.aws/pdk@0.25.16
+- pkg:maven/software.aws/pdk@0.25.16?classifier=sources
 - pkg:maven/software.aws/pdk@0.25.1?classifier=sources
 - pkg:maven/software.aws/pdk@0.25.2
 - pkg:maven/software.aws/pdk@0.25.2?classifier=sources

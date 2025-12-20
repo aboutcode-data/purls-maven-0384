@@ -2,6 +2,7 @@
 - pkg:maven/org.jboss.test/clusterbench-ee10-ejb@10.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.test/clusterbench-ee10-ejb@10.0.2.Final?classifier=sources
 - pkg:maven/org.jboss.test/clusterbench-ee10-ejb@11.0.0.Final?classifier=sources
+- pkg:maven/org.jboss.test/clusterbench-ee10-ejb@11.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.test/clusterbench-ee10-ejb@4.0.0.Final?classifier=sources
 - pkg:maven/org.jboss.test/clusterbench-ee10-ejb@5.0.0.Final?classifier=sources
 - pkg:maven/org.jboss.test/clusterbench-ee10-ejb@5.0.1.Final?classifier=sources

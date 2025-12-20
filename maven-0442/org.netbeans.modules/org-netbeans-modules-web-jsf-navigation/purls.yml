@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-navigation@RELEASE240?classifier=sources

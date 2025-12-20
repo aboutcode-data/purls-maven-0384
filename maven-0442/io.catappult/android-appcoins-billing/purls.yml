@@ -20,3 +20,4 @@
 - pkg:maven/io.catappult/android-appcoins-billing@0.9.0.2?classifier=sources
 - pkg:maven/io.catappult/android-appcoins-billing@0.9.0.3?classifier=sources
 - pkg:maven/io.catappult/android-appcoins-billing@0.9.0.4?classifier=sources
+- pkg:maven/io.catappult/android-appcoins-billing@0.9.0.5?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@10.1.1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@10.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@10.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@10.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@10.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@6.22.0
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@6.22.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@6.23.0
@@ -148,6 +150,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@9.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@9.18.0
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@9.18.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@9.19.0
+- pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@9.19.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-widgets-justgage@9.3.0

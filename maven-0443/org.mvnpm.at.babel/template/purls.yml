@@ -3,3 +3,4 @@
 - pkg:maven/org.mvnpm.at.babel/template@7.24.7?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/template@7.25.0?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/template@7.25.7?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/template@7.25.9?classifier=sources

@@ -1,6 +1,12 @@
+- pkg:maven/com.netease.nimlib/highavailablenext@10.0.600?classifier=sources
+- pkg:maven/com.netease.nimlib/highavailablenext@10.0.600?type=aar
+- pkg:maven/com.netease.nimlib/highavailablenext@10.0.601?classifier=sources
+- pkg:maven/com.netease.nimlib/highavailablenext@10.0.601?type=aar
 - pkg:maven/com.netease.nimlib/highavailablenext@10.5.0?classifier=sources
 - pkg:maven/com.netease.nimlib/highavailablenext@10.5.0?type=aar
 - pkg:maven/com.netease.nimlib/highavailablenext@10.5.1?classifier=sources
 - pkg:maven/com.netease.nimlib/highavailablenext@10.5.1?type=aar
 - pkg:maven/com.netease.nimlib/highavailablenext@10.6.0?classifier=sources
 - pkg:maven/com.netease.nimlib/highavailablenext@10.6.0?type=aar
+- pkg:maven/com.netease.nimlib/highavailablenext@10.7.0?classifier=sources
+- pkg:maven/com.netease.nimlib/highavailablenext@10.7.0?type=aar

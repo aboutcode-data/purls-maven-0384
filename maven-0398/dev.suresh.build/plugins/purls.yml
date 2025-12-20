@@ -4,6 +4,8 @@
 - pkg:maven/dev.suresh.build/plugins@0.13.0?classifier=sources
 - pkg:maven/dev.suresh.build/plugins@0.14.0?classifier=sources
 - pkg:maven/dev.suresh.build/plugins@0.15.0?classifier=sources
+- pkg:maven/dev.suresh.build/plugins@0.16.0?classifier=sources
+- pkg:maven/dev.suresh.build/plugins@0.17.0?classifier=sources
 - pkg:maven/dev.suresh.build/plugins@0.2.0?classifier=sources
 - pkg:maven/dev.suresh.build/plugins@0.4.0?classifier=sources
 - pkg:maven/dev.suresh.build/plugins@0.6.0?classifier=sources

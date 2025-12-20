@@ -1,0 +1,2 @@
+- pkg:maven/io.github.0xorigin/query-filter-builder@0.0.1-alpha?classifier=sources
+- pkg:maven/io.github.0xorigin/query-filter-builder@1.0.0?classifier=sources

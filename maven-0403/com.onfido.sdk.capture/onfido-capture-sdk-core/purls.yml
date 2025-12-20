@@ -1,4 +1,7 @@
 - pkg:maven/com.onfido.sdk.capture/onfido-capture-sdk-core@22.0.0?classifier=sources
+- pkg:maven/com.onfido.sdk.capture/onfido-capture-sdk-core@22.1.0?classifier=sources
+- pkg:maven/com.onfido.sdk.capture/onfido-capture-sdk-core@22.2.0?classifier=sources
+- pkg:maven/com.onfido.sdk.capture/onfido-capture-sdk-core@22.2.1?classifier=sources
 - pkg:maven/com.onfido.sdk.capture/onfido-capture-sdk-core@4.1.0?type=aar
 - pkg:maven/com.onfido.sdk.capture/onfido-capture-sdk-core@4.10.0?type=aar
 - pkg:maven/com.onfido.sdk.capture/onfido-capture-sdk-core@4.11.0?type=aar

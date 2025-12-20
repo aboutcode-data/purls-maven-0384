@@ -6,3 +6,4 @@
 - pkg:maven/org.neo4j/neo4j-ogm-spring-boot-starter@1.1.0
 - pkg:maven/org.neo4j/neo4j-ogm-spring-boot-starter@1.1.1
 - pkg:maven/org.neo4j/neo4j-ogm-spring-boot-starter@1.2.0
+- pkg:maven/org.neo4j/neo4j-ogm-spring-boot-starter@1.2.1

@@ -377,3 +377,4 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.test.util@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.test.util@6.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.test.util@6.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.test.util@7.0.0?classifier=sources

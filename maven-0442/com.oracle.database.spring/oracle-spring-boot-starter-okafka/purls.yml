@@ -1,2 +1,4 @@
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-okafka@24.3.0
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-okafka@24.3.0?classifier=sources
+- pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-okafka@24.4.0
+- pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-okafka@24.4.0?classifier=sources

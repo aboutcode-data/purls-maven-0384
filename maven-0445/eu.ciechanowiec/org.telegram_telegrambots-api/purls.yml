@@ -4,3 +4,5 @@
 - pkg:maven/eu.ciechanowiec/org.telegram_telegrambots-api@7.7.1?classifier=sources
 - pkg:maven/eu.ciechanowiec/org.telegram_telegrambots-api@7.7.3
 - pkg:maven/eu.ciechanowiec/org.telegram_telegrambots-api@7.7.3?classifier=sources
+- pkg:maven/eu.ciechanowiec/org.telegram_telegrambots-api@8.0.0
+- pkg:maven/eu.ciechanowiec/org.telegram_telegrambots-api@8.0.0?classifier=sources

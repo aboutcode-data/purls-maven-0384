@@ -1,3 +1,7 @@
 - pkg:maven/org.grails.plugins/geb@3.0.0?classifier=sources
 - pkg:maven/org.grails.plugins/geb@3.0.1?classifier=sources
 - pkg:maven/org.grails.plugins/geb@4.0.0?classifier=sources
+- pkg:maven/org.grails.plugins/geb@4.1.0?classifier=sources
+- pkg:maven/org.grails.plugins/geb@4.1.1?classifier=sources
+- pkg:maven/org.grails.plugins/geb@5.0.0-M1?classifier=sources
+- pkg:maven/org.grails.plugins/geb@5.0.0-M2?classifier=sources

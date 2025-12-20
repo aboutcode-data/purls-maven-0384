@@ -8,6 +8,8 @@
 - pkg:maven/com.smartling.api/smartling-file-translations-api@1.14.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-file-translations-api@1.15.0
 - pkg:maven/com.smartling.api/smartling-file-translations-api@1.15.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-file-translations-api@1.16.0
+- pkg:maven/com.smartling.api/smartling-file-translations-api@1.16.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-file-translations-api@1.8.0
 - pkg:maven/com.smartling.api/smartling-file-translations-api@1.8.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-file-translations-api@1.8.2

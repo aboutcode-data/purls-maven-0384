@@ -4,3 +4,11 @@
 - pkg:maven/com.dtflys.forest/forest-spring-boot3-test@1.5.35?classifier=sources
 - pkg:maven/com.dtflys.forest/forest-spring-boot3-test@1.5.36
 - pkg:maven/com.dtflys.forest/forest-spring-boot3-test@1.5.36?classifier=sources
+- pkg:maven/com.dtflys.forest/forest-spring-boot3-test@1.6.0
+- pkg:maven/com.dtflys.forest/forest-spring-boot3-test@1.6.0-ALPHA2
+- pkg:maven/com.dtflys.forest/forest-spring-boot3-test@1.6.0-ALPHA2?classifier=sources
+- pkg:maven/com.dtflys.forest/forest-spring-boot3-test@1.6.0?classifier=sources
+- pkg:maven/com.dtflys.forest/forest-spring-boot3-test@1.6.1
+- pkg:maven/com.dtflys.forest/forest-spring-boot3-test@1.6.1?classifier=sources
+- pkg:maven/com.dtflys.forest/forest-spring-boot3-test@1.6.2
+- pkg:maven/com.dtflys.forest/forest-spring-boot3-test@1.6.2?classifier=sources

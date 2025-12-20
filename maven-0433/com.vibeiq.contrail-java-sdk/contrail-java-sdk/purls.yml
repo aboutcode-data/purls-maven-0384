@@ -1,1 +1,2 @@
 - pkg:maven/com.vibeiq.contrail-java-sdk/contrail-java-sdk@2.0.2?classifier=sources
+- pkg:maven/com.vibeiq.contrail-java-sdk/contrail-java-sdk@2.0.3?classifier=sources

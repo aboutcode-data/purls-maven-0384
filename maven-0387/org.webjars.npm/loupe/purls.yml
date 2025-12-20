@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/loupe@2.3.6
 - pkg:maven/org.webjars.npm/loupe@2.3.6?classifier=sources
+- pkg:maven/org.webjars.npm/loupe@3.1.2

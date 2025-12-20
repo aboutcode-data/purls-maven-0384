@@ -2,6 +2,8 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-compat-tomcat10x@24.10.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-compat-tomcat10x@24.11.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-compat-tomcat10x@24.11.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-compat-tomcat10x@24.12.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-compat-tomcat10x@24.12.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-compat-tomcat10x@24.5.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-compat-tomcat10x@24.5.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-compat-tomcat10x@24.6.0
