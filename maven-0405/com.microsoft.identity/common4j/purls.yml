@@ -30,6 +30,8 @@
 - pkg:maven/com.microsoft.identity/common4j@13.1.0?classifier=sources
 - pkg:maven/com.microsoft.identity/common4j@13.2.0
 - pkg:maven/com.microsoft.identity/common4j@13.2.0?classifier=sources
+- pkg:maven/com.microsoft.identity/common4j@14.0.0
+- pkg:maven/com.microsoft.identity/common4j@14.0.0?classifier=sources
 - pkg:maven/com.microsoft.identity/common4j@2.0.0
 - pkg:maven/com.microsoft.identity/common4j@2.0.0?classifier=sources
 - pkg:maven/com.microsoft.identity/common4j@2.0.1

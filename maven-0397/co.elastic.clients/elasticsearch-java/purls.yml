@@ -20,6 +20,8 @@
 - pkg:maven/co.elastic.clients/elasticsearch-java@7.17.15?classifier=sources
 - pkg:maven/co.elastic.clients/elasticsearch-java@7.17.16
 - pkg:maven/co.elastic.clients/elasticsearch-java@7.17.16?classifier=sources
+- pkg:maven/co.elastic.clients/elasticsearch-java@7.17.17
+- pkg:maven/co.elastic.clients/elasticsearch-java@7.17.17?classifier=sources
 - pkg:maven/co.elastic.clients/elasticsearch-java@7.17.1?classifier=sources
 - pkg:maven/co.elastic.clients/elasticsearch-java@7.17.2?classifier=sources
 - pkg:maven/co.elastic.clients/elasticsearch-java@7.17.3?classifier=sources
@@ -54,6 +56,12 @@
 - pkg:maven/co.elastic.clients/elasticsearch-java@8.11.1?classifier=sources
 - pkg:maven/co.elastic.clients/elasticsearch-java@8.11.2
 - pkg:maven/co.elastic.clients/elasticsearch-java@8.11.2?classifier=sources
+- pkg:maven/co.elastic.clients/elasticsearch-java@8.11.3
+- pkg:maven/co.elastic.clients/elasticsearch-java@8.11.3?classifier=sources
+- pkg:maven/co.elastic.clients/elasticsearch-java@8.11.4
+- pkg:maven/co.elastic.clients/elasticsearch-java@8.11.4?classifier=sources
+- pkg:maven/co.elastic.clients/elasticsearch-java@8.12.0
+- pkg:maven/co.elastic.clients/elasticsearch-java@8.12.0?classifier=sources
 - pkg:maven/co.elastic.clients/elasticsearch-java@8.2.0?classifier=sources
 - pkg:maven/co.elastic.clients/elasticsearch-java@8.2.1?classifier=sources
 - pkg:maven/co.elastic.clients/elasticsearch-java@8.2.2?classifier=sources

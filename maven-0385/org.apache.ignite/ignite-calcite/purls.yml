@@ -3,4 +3,6 @@
 - pkg:maven/org.apache.ignite/ignite-calcite@2.14.0?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-calcite@2.15.0
 - pkg:maven/org.apache.ignite/ignite-calcite@2.15.0?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-calcite@2.16.0
+- pkg:maven/org.apache.ignite/ignite-calcite@2.16.0?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-calcite@3.0.0-alpha3

@@ -180,6 +180,8 @@
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.46.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.47.0
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.47.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatesns@2.48.0
+- pkg:maven/software.amazon.awsconstructs/fargatesns@2.48.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.5.0
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.5.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatesns@2.6.0

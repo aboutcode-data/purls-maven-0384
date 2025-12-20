@@ -1,0 +1,2 @@
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.profiling@9.4.0
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.profiling@9.4.0?classifier=sources

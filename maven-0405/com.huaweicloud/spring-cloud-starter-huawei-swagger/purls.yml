@@ -30,6 +30,13 @@
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.11.2-2022.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.11.3-2021.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.11.3-2022.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.11.4-2021.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.11.4-2022.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.11.5-2021.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.11.5-2022.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.11.6-2021.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.11.6-2022.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.11.6-2023.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.2.0
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.2.0-Edgware
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.2.0-Finchley
@@ -75,6 +82,7 @@
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.6.1-Hoxton
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.6.2-Greenwich
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.6.3-Greenwich
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.6.4-Greenwich
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.7.0-2020.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.7.0-Hoxton
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.7.1-2020.0.x
@@ -88,3 +96,4 @@
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.9.1-Hoxton
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.9.2-Hoxton
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.9.3-Hoxton
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-swagger@1.9.4-Hoxton

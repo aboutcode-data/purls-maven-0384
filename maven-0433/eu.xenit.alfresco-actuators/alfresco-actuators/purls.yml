@@ -2,3 +2,4 @@
 - pkg:maven/eu.xenit.alfresco-actuators/alfresco-actuators@0.1.0?classifier=sources
 - pkg:maven/eu.xenit.alfresco-actuators/alfresco-actuators@0.2.0?classifier=sources
 - pkg:maven/eu.xenit.alfresco-actuators/alfresco-actuators@0.3.0?classifier=sources
+- pkg:maven/eu.xenit.alfresco-actuators/alfresco-actuators@1.0.1?classifier=sources

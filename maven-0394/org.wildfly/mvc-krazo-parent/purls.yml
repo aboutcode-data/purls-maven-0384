@@ -1,2 +1,4 @@
 - pkg:maven/org.wildfly/mvc-krazo-parent@0.8.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/mvc-krazo-parent@0.8.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/mvc-krazo-parent@0.8.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/mvc-krazo-parent@1.0.0.Beta1?classifier=source-release&type=zip

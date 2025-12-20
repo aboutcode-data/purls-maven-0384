@@ -1,2 +1,6 @@
 - pkg:maven/com.foreach.across.modules/ax-bootstrap-theme@0.0.1.RELEASE
 - pkg:maven/com.foreach.across.modules/ax-bootstrap-theme@0.0.1.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across.modules/ax-bootstrap-theme@4.3.0
+- pkg:maven/com.foreach.across.modules/ax-bootstrap-theme@4.3.0?classifier=sources
+- pkg:maven/com.foreach.across.modules/ax-bootstrap-theme@4.4.0
+- pkg:maven/com.foreach.across.modules/ax-bootstrap-theme@4.4.0?classifier=sources

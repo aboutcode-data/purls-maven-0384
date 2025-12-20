@@ -1,2 +1,8 @@
 - pkg:maven/com.aayushatharva.brotli4j/native-linux-ppc64le@1.13.0
 - pkg:maven/com.aayushatharva.brotli4j/native-linux-ppc64le@1.13.0?classifier=sources
+- pkg:maven/com.aayushatharva.brotli4j/native-linux-ppc64le@1.14.0
+- pkg:maven/com.aayushatharva.brotli4j/native-linux-ppc64le@1.14.0?classifier=sources
+- pkg:maven/com.aayushatharva.brotli4j/native-linux-ppc64le@1.15.0
+- pkg:maven/com.aayushatharva.brotli4j/native-linux-ppc64le@1.15.0?classifier=sources
+- pkg:maven/com.aayushatharva.brotli4j/native-linux-ppc64le@1.16.0
+- pkg:maven/com.aayushatharva.brotli4j/native-linux-ppc64le@1.16.0?classifier=sources

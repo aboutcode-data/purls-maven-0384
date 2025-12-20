@@ -10,3 +10,5 @@
 - pkg:maven/com.cognitect.aws/appintegrations@845.2.1345.0?classifier=sources
 - pkg:maven/com.cognitect.aws/appintegrations@847.2.1365.0
 - pkg:maven/com.cognitect.aws/appintegrations@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appintegrations@852.2.1525.0
+- pkg:maven/com.cognitect.aws/appintegrations@852.2.1525.0?classifier=sources

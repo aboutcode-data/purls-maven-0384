@@ -1,2 +1,6 @@
 - pkg:maven/com.github.romualdrousseau/any2json-parquet@2.34
 - pkg:maven/com.github.romualdrousseau/any2json-parquet@2.34?classifier=sources
+- pkg:maven/com.github.romualdrousseau/any2json-parquet@2.35
+- pkg:maven/com.github.romualdrousseau/any2json-parquet@2.35?classifier=sources
+- pkg:maven/com.github.romualdrousseau/any2json-parquet@2.37
+- pkg:maven/com.github.romualdrousseau/any2json-parquet@2.37?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.tiebe/magisterapi-js@1.1.14?classifier=sources
+- pkg:maven/dev.tiebe/magisterapi-js@1.1.15?classifier=sources

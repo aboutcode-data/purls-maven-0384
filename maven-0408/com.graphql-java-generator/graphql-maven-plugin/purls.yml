@@ -106,3 +106,5 @@
 - pkg:maven/com.graphql-java-generator/graphql-maven-plugin@2.3.2
 - pkg:maven/com.graphql-java-generator/graphql-maven-plugin@2.3.2?classifier=sources
 - pkg:maven/com.graphql-java-generator/graphql-maven-plugin@2.3?classifier=sources
+- pkg:maven/com.graphql-java-generator/graphql-maven-plugin@2.4
+- pkg:maven/com.graphql-java-generator/graphql-maven-plugin@2.4?classifier=sources

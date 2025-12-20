@@ -6,3 +6,5 @@
 - pkg:maven/com.gitlab.cdc-java.applic/cdc-applic-renaming@0.6.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.applic/cdc-applic-renaming@0.7.0
 - pkg:maven/com.gitlab.cdc-java.applic/cdc-applic-renaming@0.7.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.applic/cdc-applic-renaming@0.8.0
+- pkg:maven/com.gitlab.cdc-java.applic/cdc-applic-renaming@0.8.0?classifier=sources

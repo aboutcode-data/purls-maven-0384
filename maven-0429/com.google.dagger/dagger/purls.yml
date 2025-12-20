@@ -163,6 +163,8 @@
 - pkg:maven/com.google.dagger/dagger@2.49?classifier=sources
 - pkg:maven/com.google.dagger/dagger@2.4?classifier=sources
 - pkg:maven/com.google.dagger/dagger@2.5
+- pkg:maven/com.google.dagger/dagger@2.50
+- pkg:maven/com.google.dagger/dagger@2.50?classifier=sources
 - pkg:maven/com.google.dagger/dagger@2.5?classifier=sources
 - pkg:maven/com.google.dagger/dagger@2.6
 - pkg:maven/com.google.dagger/dagger@2.6.1

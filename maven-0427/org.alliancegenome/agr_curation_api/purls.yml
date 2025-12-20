@@ -104,5 +104,17 @@
 - pkg:maven/org.alliancegenome/agr_curation_api@v0.27.2?classifier=sources
 - pkg:maven/org.alliancegenome/agr_curation_api@v0.27.3
 - pkg:maven/org.alliancegenome/agr_curation_api@v0.27.3?classifier=sources
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.27.4
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.27.4?classifier=sources
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.28.0
 - pkg:maven/org.alliancegenome/agr_curation_api@v0.28.0-rc1
 - pkg:maven/org.alliancegenome/agr_curation_api@v0.28.0-rc1?classifier=sources
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.28.0-rc2
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.28.0-rc2?classifier=sources
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.28.0?classifier=sources
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.28.1
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.28.1?classifier=sources
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.28.2
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.28.2?classifier=sources
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.28.3
+- pkg:maven/org.alliancegenome/agr_curation_api@v0.28.3?classifier=sources

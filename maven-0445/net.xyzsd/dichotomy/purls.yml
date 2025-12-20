@@ -1,1 +1,2 @@
 - pkg:maven/net.xyzsd/dichotomy@0.9?classifier=sources
+- pkg:maven/net.xyzsd/dichotomy@1.0?classifier=sources

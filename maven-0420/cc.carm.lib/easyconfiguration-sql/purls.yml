@@ -1,0 +1,2 @@
+- pkg:maven/cc.carm.lib/easyconfiguration-sql@3.9.1
+- pkg:maven/cc.carm.lib/easyconfiguration-sql@3.9.1?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/io.github.tzfun.jvmm/jvmm-aop@2.1.4?classifier=sources
 - pkg:maven/io.github.tzfun.jvmm/jvmm-aop@2.1.5?classifier=sources
 - pkg:maven/io.github.tzfun.jvmm/jvmm-aop@2.2.0?classifier=sources
+- pkg:maven/io.github.tzfun.jvmm/jvmm-aop@2.3.0?classifier=sources

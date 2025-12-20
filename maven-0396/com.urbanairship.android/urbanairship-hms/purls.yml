@@ -73,3 +73,4 @@
 - pkg:maven/com.urbanairship.android/urbanairship-hms@17.5.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-hms@17.6.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-hms@17.7.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-hms@17.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sparql-anything/sparql-anything-documentation-generator@v1.0-DEV.1
+- pkg:maven/io.github.sparql-anything/sparql-anything-documentation-generator@v1.0-DEV.1?classifier=sources

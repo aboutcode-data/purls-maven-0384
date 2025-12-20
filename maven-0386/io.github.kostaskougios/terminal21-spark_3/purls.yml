@@ -1,0 +1,4 @@
+- pkg:maven/io.github.kostaskougios/terminal21-spark_3@0.11
+- pkg:maven/io.github.kostaskougios/terminal21-spark_3@0.11?classifier=sources
+- pkg:maven/io.github.kostaskougios/terminal21-spark_3@0.20
+- pkg:maven/io.github.kostaskougios/terminal21-spark_3@0.20?classifier=sources

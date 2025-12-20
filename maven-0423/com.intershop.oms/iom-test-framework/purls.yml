@@ -22,3 +22,5 @@
 - pkg:maven/com.intershop.oms/iom-test-framework@5.1.0?classifier=sources
 - pkg:maven/com.intershop.oms/iom-test-framework@6.0.0
 - pkg:maven/com.intershop.oms/iom-test-framework@6.0.0?classifier=sources
+- pkg:maven/com.intershop.oms/iom-test-framework@7.0.0
+- pkg:maven/com.intershop.oms/iom-test-framework@7.0.0?classifier=sources

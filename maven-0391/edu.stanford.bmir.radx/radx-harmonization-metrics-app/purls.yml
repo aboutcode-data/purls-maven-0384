@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.bmir.radx/radx-harmonization-metrics-app@1.0.0
+- pkg:maven/edu.stanford.bmir.radx/radx-harmonization-metrics-app@1.0.0?classifier=sources

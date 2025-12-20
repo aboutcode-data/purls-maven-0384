@@ -1,0 +1,4 @@
+- pkg:maven/run.mone/dubbo-registry-nacos@1.2.1-mone
+- pkg:maven/run.mone/dubbo-registry-nacos@1.2.1-mone?classifier=sources
+- pkg:maven/run.mone/dubbo-registry-nacos@2.7.12-mone-v8
+- pkg:maven/run.mone/dubbo-registry-nacos@2.7.12-mone-v8?classifier=sources

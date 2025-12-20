@@ -136,6 +136,8 @@
 - pkg:maven/org.grails/grails-gradle-plugin@3.3.16?classifier=sources
 - pkg:maven/org.grails/grails-gradle-plugin@3.3.17
 - pkg:maven/org.grails/grails-gradle-plugin@3.3.17?classifier=sources
+- pkg:maven/org.grails/grails-gradle-plugin@3.3.18
+- pkg:maven/org.grails/grails-gradle-plugin@3.3.18?classifier=sources
 - pkg:maven/org.grails/grails-gradle-plugin@3.3.1?classifier=sources
 - pkg:maven/org.grails/grails-gradle-plugin@3.3.2
 - pkg:maven/org.grails/grails-gradle-plugin@3.3.2?classifier=sources
@@ -218,3 +220,4 @@
 - pkg:maven/org.grails/grails-gradle-plugin@6.0.0-RC1?classifier=sources
 - pkg:maven/org.grails/grails-gradle-plugin@6.0.0?classifier=sources
 - pkg:maven/org.grails/grails-gradle-plugin@6.1.0?classifier=sources
+- pkg:maven/org.grails/grails-gradle-plugin@6.1.1?classifier=sources

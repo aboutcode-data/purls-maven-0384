@@ -1,1 +1,2 @@
 - pkg:maven/org.glassfish.main.docs/deployment-planning-guide@7.0.11?classifier=sources
+- pkg:maven/org.glassfish.main.docs/deployment-planning-guide@8.0.0-M1?classifier=sources

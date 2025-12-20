@@ -44,3 +44,6 @@
 - pkg:maven/io.github.tvtechservice/tvservice-sdk@5.4.6?classifier=sources
 - pkg:maven/io.github.tvtechservice/tvservice-sdk@5.4.7?classifier=sources
 - pkg:maven/io.github.tvtechservice/tvservice-sdk@5.4.8?classifier=sources
+- pkg:maven/io.github.tvtechservice/tvservice-sdk@5.4.9?classifier=sources
+- pkg:maven/io.github.tvtechservice/tvservice-sdk@5.5.0?classifier=sources
+- pkg:maven/io.github.tvtechservice/tvservice-sdk@5.5.1?classifier=sources

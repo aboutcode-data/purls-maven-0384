@@ -1,0 +1,2 @@
+- pkg:maven/software.xdev/chartjs-java-model@1.1.2
+- pkg:maven/software.xdev/chartjs-java-model@1.1.2?classifier=sources

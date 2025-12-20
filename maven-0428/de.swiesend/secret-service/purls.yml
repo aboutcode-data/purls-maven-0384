@@ -40,3 +40,5 @@
 - pkg:maven/de.swiesend/secret-service@1.8.1-jdk17?classifier=sources
 - pkg:maven/de.swiesend/secret-service@2.0.0-alpha
 - pkg:maven/de.swiesend/secret-service@2.0.0-alpha?classifier=sources
+- pkg:maven/de.swiesend/secret-service@2.0.1-alpha
+- pkg:maven/de.swiesend/secret-service@2.0.1-alpha?classifier=sources

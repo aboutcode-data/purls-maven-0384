@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.camel/camel-test-infra-core@4.0.3
 - pkg:maven/org.apache.camel/camel-test-infra-core@4.1.0
 - pkg:maven/org.apache.camel/camel-test-infra-core@4.2.0
+- pkg:maven/org.apache.camel/camel-test-infra-core@4.3.0

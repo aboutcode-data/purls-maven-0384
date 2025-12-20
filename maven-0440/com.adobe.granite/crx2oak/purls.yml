@@ -1,5 +1,11 @@
 - pkg:maven/com.adobe.granite/crx2oak@1.10.0
 - pkg:maven/com.adobe.granite/crx2oak@1.10.0?classifier=sources
+- pkg:maven/com.adobe.granite/crx2oak@1.10.2
+- pkg:maven/com.adobe.granite/crx2oak@1.10.2?classifier=sources
+- pkg:maven/com.adobe.granite/crx2oak@1.10.4
+- pkg:maven/com.adobe.granite/crx2oak@1.10.4?classifier=sources
+- pkg:maven/com.adobe.granite/crx2oak@1.22.0
+- pkg:maven/com.adobe.granite/crx2oak@1.22.0?classifier=sources
 - pkg:maven/com.adobe.granite/crx2oak@1.6.0
 - pkg:maven/com.adobe.granite/crx2oak@1.6.0?classifier=sources
 - pkg:maven/com.adobe.granite/crx2oak@1.6.10

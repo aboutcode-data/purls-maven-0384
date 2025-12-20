@@ -10,3 +10,13 @@
 - pkg:maven/com.artipie/conan-adapter@v0.3.1?classifier=sources
 - pkg:maven/com.artipie/conan-adapter@v0.3.2
 - pkg:maven/com.artipie/conan-adapter@v0.3.2?classifier=sources
+- pkg:maven/com.artipie/conan-adapter@v1.17.2
+- pkg:maven/com.artipie/conan-adapter@v1.17.2?classifier=sources
+- pkg:maven/com.artipie/conan-adapter@v1.17.3
+- pkg:maven/com.artipie/conan-adapter@v1.17.3?classifier=sources
+- pkg:maven/com.artipie/conan-adapter@v1.17.4
+- pkg:maven/com.artipie/conan-adapter@v1.17.4?classifier=sources
+- pkg:maven/com.artipie/conan-adapter@v1.17.6
+- pkg:maven/com.artipie/conan-adapter@v1.17.6?classifier=sources
+- pkg:maven/com.artipie/conan-adapter@v1.17.7
+- pkg:maven/com.artipie/conan-adapter@v1.17.7?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/dev.guardrail/guardrail-maven-plugin@0.70.0
 - pkg:maven/dev.guardrail/guardrail-maven-plugin@0.71.0
 - pkg:maven/dev.guardrail/guardrail-maven-plugin@0.71.1
+- pkg:maven/dev.guardrail/guardrail-maven-plugin@1.0.0-M1

@@ -50,3 +50,9 @@
 - pkg:maven/net.anotheria/distributeme-registry@2.5.1?type=war
 - pkg:maven/net.anotheria/distributeme-registry@2.5.2?classifier=sources
 - pkg:maven/net.anotheria/distributeme-registry@2.5.2?type=war
+- pkg:maven/net.anotheria/distributeme-registry@4.0.0?classifier=sources
+- pkg:maven/net.anotheria/distributeme-registry@4.0.0?type=war
+- pkg:maven/net.anotheria/distributeme-registry@4.0.1?classifier=sources
+- pkg:maven/net.anotheria/distributeme-registry@4.0.1?type=war
+- pkg:maven/net.anotheria/distributeme-registry@4.0.2?classifier=sources
+- pkg:maven/net.anotheria/distributeme-registry@4.0.2?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.kohlschutter.jacline/jacline-jsinterop-generator@1.0.1
+- pkg:maven/com.kohlschutter.jacline/jacline-jsinterop-generator@1.0.1?classifier=sources

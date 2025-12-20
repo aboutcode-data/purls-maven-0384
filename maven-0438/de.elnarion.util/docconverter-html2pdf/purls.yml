@@ -7,4 +7,6 @@
 - pkg:maven/de.elnarion.util/docconverter-html2pdf@0.9.3
 - pkg:maven/de.elnarion.util/docconverter-html2pdf@0.9.3?classifier=sources
 - pkg:maven/de.elnarion.util/docconverter-html2pdf@1.0.1
+- pkg:maven/de.elnarion.util/docconverter-html2pdf@1.0.10
+- pkg:maven/de.elnarion.util/docconverter-html2pdf@1.0.10?classifier=sources
 - pkg:maven/de.elnarion.util/docconverter-html2pdf@1.0.1?classifier=sources

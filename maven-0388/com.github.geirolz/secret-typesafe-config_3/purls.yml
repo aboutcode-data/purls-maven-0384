@@ -1,0 +1,2 @@
+- pkg:maven/com.github.geirolz/secret-typesafe-config_3@0.0.2
+- pkg:maven/com.github.geirolz/secret-typesafe-config_3@0.0.2?classifier=sources

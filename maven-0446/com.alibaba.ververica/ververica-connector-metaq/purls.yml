@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.ververica/ververica-connector-metaq@1.17-vvr-8.0.4-1
+- pkg:maven/com.alibaba.ververica/ververica-connector-metaq@1.17-vvr-8.0.4-1?classifier=sources

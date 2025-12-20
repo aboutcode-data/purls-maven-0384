@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.whzzone/wonder-common@1.2
+- pkg:maven/com.gitee.whzzone/wonder-common@1.2?classifier=sources

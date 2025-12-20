@@ -30,3 +30,5 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-xjc-plugins-deployment@2.5.0
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-xjc-plugins-deployment@2.6.0
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-xjc-plugins-deployment@2.6.1
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-xjc-plugins-deployment@2.7.0.CR1
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-xjc-plugins-deployment@2.7.0.CR2

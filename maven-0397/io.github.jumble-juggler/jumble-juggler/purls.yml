@@ -1,0 +1,4 @@
+- pkg:maven/io.github.jumble-juggler/jumble-juggler@0.2.3
+- pkg:maven/io.github.jumble-juggler/jumble-juggler@0.2.3?classifier=sources
+- pkg:maven/io.github.jumble-juggler/jumble-juggler@0.6.0
+- pkg:maven/io.github.jumble-juggler/jumble-juggler@0.6.0?classifier=sources

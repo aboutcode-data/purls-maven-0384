@@ -12,3 +12,5 @@
 - pkg:maven/ru.sergkorot.dynamic/spring-boot-operation-starter@3.1.0?classifier=sources
 - pkg:maven/ru.sergkorot.dynamic/spring-boot-operation-starter@3.2.0
 - pkg:maven/ru.sergkorot.dynamic/spring-boot-operation-starter@3.2.0?classifier=sources
+- pkg:maven/ru.sergkorot.dynamic/spring-boot-operation-starter@3.2.1
+- pkg:maven/ru.sergkorot.dynamic/spring-boot-operation-starter@3.2.1?classifier=sources

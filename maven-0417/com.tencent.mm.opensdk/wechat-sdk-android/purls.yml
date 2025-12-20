@@ -5,4 +5,5 @@
 - pkg:maven/com.tencent.mm.opensdk/wechat-sdk-android@6.8.18?type=aar
 - pkg:maven/com.tencent.mm.opensdk/wechat-sdk-android@6.8.20?type=aar
 - pkg:maven/com.tencent.mm.opensdk/wechat-sdk-android@6.8.24?type=aar
+- pkg:maven/com.tencent.mm.opensdk/wechat-sdk-android@6.8.26?type=aar
 - pkg:maven/com.tencent.mm.opensdk/wechat-sdk-android@6.8.9?type=aar

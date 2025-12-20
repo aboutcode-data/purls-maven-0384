@@ -4,3 +4,5 @@
 - pkg:maven/com.uniformlyrandom/nozzler_2.13@1.0.2?classifier=sources
 - pkg:maven/com.uniformlyrandom/nozzler_2.13@1.0.4
 - pkg:maven/com.uniformlyrandom/nozzler_2.13@1.0.4?classifier=sources
+- pkg:maven/com.uniformlyrandom/nozzler_2.13@1.1.0
+- pkg:maven/com.uniformlyrandom/nozzler_2.13@1.1.0?classifier=sources

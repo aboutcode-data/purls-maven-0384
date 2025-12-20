@@ -2,3 +2,4 @@
 - pkg:maven/org.mvnpm/postcss@8.4.30?classifier=sources
 - pkg:maven/org.mvnpm/postcss@8.4.31?classifier=sources
 - pkg:maven/org.mvnpm/postcss@8.4.32?classifier=sources
+- pkg:maven/org.mvnpm/postcss@8.4.33?classifier=sources

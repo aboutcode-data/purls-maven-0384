@@ -1,0 +1,2 @@
+- pkg:maven/io.gatling/gatling-grpc-shaded@1.60.1
+- pkg:maven/io.gatling/gatling-grpc-shaded@1.60.1?classifier=sources

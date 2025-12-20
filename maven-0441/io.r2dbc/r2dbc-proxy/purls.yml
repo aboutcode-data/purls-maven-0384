@@ -36,3 +36,5 @@
 - pkg:maven/io.r2dbc/r2dbc-proxy@1.1.2.RELEASE?classifier=sources
 - pkg:maven/io.r2dbc/r2dbc-proxy@1.1.3.RELEASE
 - pkg:maven/io.r2dbc/r2dbc-proxy@1.1.3.RELEASE?classifier=sources
+- pkg:maven/io.r2dbc/r2dbc-proxy@1.1.4.RELEASE
+- pkg:maven/io.r2dbc/r2dbc-proxy@1.1.4.RELEASE?classifier=sources

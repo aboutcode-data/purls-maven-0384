@@ -144,3 +144,7 @@
 - pkg:maven/org.jboss.windup.web/windup-web-services@6.3.3.Final?type=war
 - pkg:maven/org.jboss.windup.web/windup-web-services@6.3.4.Final?classifier=sources
 - pkg:maven/org.jboss.windup.web/windup-web-services@6.3.4.Final?type=war
+- pkg:maven/org.jboss.windup.web/windup-web-services@6.3.5.Final?classifier=sources
+- pkg:maven/org.jboss.windup.web/windup-web-services@6.3.5.Final?type=war
+- pkg:maven/org.jboss.windup.web/windup-web-services@6.3.6.Final?classifier=sources
+- pkg:maven/org.jboss.windup.web/windup-web-services@6.3.6.Final?type=war

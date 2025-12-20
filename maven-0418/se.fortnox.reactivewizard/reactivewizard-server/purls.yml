@@ -208,6 +208,16 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.2.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.20.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.20.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.21.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.21.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.22.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.22.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.23.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.23.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.24.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.24.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.25.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.25.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.3.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.3.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-server@22.4.0

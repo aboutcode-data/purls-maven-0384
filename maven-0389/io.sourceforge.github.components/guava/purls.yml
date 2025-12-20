@@ -1,1 +1,2 @@
 - pkg:maven/io.sourceforge.github.components/guava@1.0.0
+- pkg:maven/io.sourceforge.github.components/guava@1.1.1

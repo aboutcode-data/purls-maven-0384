@@ -1,1 +1,2 @@
+- pkg:maven/org.wso2.orbit.io.fabric8/kubernetes-client@4.13.3.wso2v1
 - pkg:maven/org.wso2.orbit.io.fabric8/kubernetes-client@4.6.4.wso2v1

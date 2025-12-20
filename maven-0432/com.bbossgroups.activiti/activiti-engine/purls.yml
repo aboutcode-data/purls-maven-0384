@@ -34,3 +34,4 @@
 - pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12.8?classifier=sources
 - pkg:maven/com.bbossgroups.activiti/activiti-engine@5.12?classifier=sources
 - pkg:maven/com.bbossgroups.activiti/activiti-engine@5.13.0?classifier=sources
+- pkg:maven/com.bbossgroups.activiti/activiti-engine@5.13.1?classifier=sources

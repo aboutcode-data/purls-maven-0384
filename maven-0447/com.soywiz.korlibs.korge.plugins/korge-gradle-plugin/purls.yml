@@ -91,4 +91,6 @@
 - pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@5.0.6?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@5.1.0-Beta?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@5.1.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@5.2.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@5.3.0?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korge.plugins/korge-gradle-plugin@z4.0.5a?classifier=sources

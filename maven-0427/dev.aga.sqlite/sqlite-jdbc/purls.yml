@@ -20,3 +20,5 @@
 - pkg:maven/dev.aga.sqlite/sqlite-jdbc@3.44.0.0?classifier=sources
 - pkg:maven/dev.aga.sqlite/sqlite-jdbc@3.44.1.0
 - pkg:maven/dev.aga.sqlite/sqlite-jdbc@3.44.1.0?classifier=sources
+- pkg:maven/dev.aga.sqlite/sqlite-jdbc@3.45.0.0
+- pkg:maven/dev.aga.sqlite/sqlite-jdbc@3.45.0.0?classifier=sources
