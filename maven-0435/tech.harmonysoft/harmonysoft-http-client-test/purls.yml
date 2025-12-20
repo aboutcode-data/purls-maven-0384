@@ -1,4 +1,6 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-http-client-test@1.100.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-client-test@1.102.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-client-test@1.103.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-client-test@1.82.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-client-test@1.83.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-client-test@1.84.0?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@8.22.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@8.23.0
 - pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@8.23.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@8.24.0
+- pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@8.24.0?classifier=sources

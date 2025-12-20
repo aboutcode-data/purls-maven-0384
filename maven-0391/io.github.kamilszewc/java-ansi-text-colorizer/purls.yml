@@ -5,3 +5,4 @@
 - pkg:maven/io.github.kamilszewc/java-ansi-text-colorizer@1.0?classifier=sources
 - pkg:maven/io.github.kamilszewc/java-ansi-text-colorizer@1.3?classifier=sources
 - pkg:maven/io.github.kamilszewc/java-ansi-text-colorizer@1.4?classifier=sources
+- pkg:maven/io.github.kamilszewc/java-ansi-text-colorizer@1.5?classifier=sources

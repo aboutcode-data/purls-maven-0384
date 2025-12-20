@@ -34,3 +34,9 @@
 - pkg:maven/io.trino/trino-filesystem-manager@435?classifier=sources
 - pkg:maven/io.trino/trino-filesystem-manager@436
 - pkg:maven/io.trino/trino-filesystem-manager@436?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-manager@437
+- pkg:maven/io.trino/trino-filesystem-manager@437?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-manager@438
+- pkg:maven/io.trino/trino-filesystem-manager@438?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-manager@439
+- pkg:maven/io.trino/trino-filesystem-manager@439?classifier=sources

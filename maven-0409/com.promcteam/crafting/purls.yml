@@ -2,3 +2,5 @@
 - pkg:maven/com.promcteam/crafting@1.2.2-R1?classifier=sources
 - pkg:maven/com.promcteam/crafting@1.2.2-R2
 - pkg:maven/com.promcteam/crafting@1.2.2-R2?classifier=sources
+- pkg:maven/com.promcteam/crafting@1.2.3-R1
+- pkg:maven/com.promcteam/crafting@1.2.3-R1?classifier=sources

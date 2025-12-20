@@ -132,3 +132,9 @@
 - pkg:maven/org.alluxio/alluxio-core-server-proxy@306?classifier=sources
 - pkg:maven/org.alluxio/alluxio-core-server-proxy@307
 - pkg:maven/org.alluxio/alluxio-core-server-proxy@307?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-server-proxy@308
+- pkg:maven/org.alluxio/alluxio-core-server-proxy@308?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-server-proxy@309
+- pkg:maven/org.alluxio/alluxio-core-server-proxy@309?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-server-proxy@310
+- pkg:maven/org.alluxio/alluxio-core-server-proxy@310?classifier=sources

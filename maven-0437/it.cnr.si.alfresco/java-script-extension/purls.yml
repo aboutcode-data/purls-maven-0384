@@ -1,3 +1,5 @@
 - pkg:maven/it.cnr.si.alfresco/java-script-extension@2.22?classifier=sources
 - pkg:maven/it.cnr.si.alfresco/java-script-extension@2.23?classifier=sources
 - pkg:maven/it.cnr.si.alfresco/java-script-extension@2.25?classifier=sources
+- pkg:maven/it.cnr.si.alfresco/java-script-extension@3.0
+- pkg:maven/it.cnr.si.alfresco/java-script-extension@3.0?classifier=sources

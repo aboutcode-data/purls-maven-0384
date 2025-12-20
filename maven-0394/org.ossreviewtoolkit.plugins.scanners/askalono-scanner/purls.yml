@@ -5,6 +5,12 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@11.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@12.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@13.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@14.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@15.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@15.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@15.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@15.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@16.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/askalono-scanner@4.0.0?classifier=sources

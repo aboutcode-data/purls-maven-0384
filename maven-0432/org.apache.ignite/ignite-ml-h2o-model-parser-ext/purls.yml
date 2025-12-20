@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.ignite/ignite-ml-h2o-model-parser-ext@1.0.0
+- pkg:maven/org.apache.ignite/ignite-ml-h2o-model-parser-ext@1.0.0?classifier=sources

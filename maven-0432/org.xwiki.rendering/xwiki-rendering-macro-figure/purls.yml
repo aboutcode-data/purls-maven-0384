@@ -342,6 +342,8 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.2
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.20
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.20?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.21
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.21?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.2?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.3
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-macro-figure@14.10.3?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/org.kinotic/structures-core@1.0.0?classifier=sources
 - pkg:maven/org.kinotic/structures-core@1.1.0?classifier=sources
+- pkg:maven/org.kinotic/structures-core@1.13.2?classifier=sources
 - pkg:maven/org.kinotic/structures-core@1.2.0?classifier=sources
 - pkg:maven/org.kinotic/structures-core@1.6.0?classifier=sources

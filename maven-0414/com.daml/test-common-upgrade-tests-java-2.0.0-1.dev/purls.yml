@@ -1,0 +1,6 @@
+- pkg:maven/com.daml/test-common-upgrade-tests-java-2.0.0-1.dev@2.9.0-snapshot.20240205.12604.0.v4c3fd9db
+- pkg:maven/com.daml/test-common-upgrade-tests-java-2.0.0-1.dev@2.9.0-snapshot.20240205.12604.0.v4c3fd9db?classifier=sources
+- pkg:maven/com.daml/test-common-upgrade-tests-java-2.0.0-1.dev@2.9.0-snapshot.20240206.12605.0.v7e2bdfee
+- pkg:maven/com.daml/test-common-upgrade-tests-java-2.0.0-1.dev@2.9.0-snapshot.20240206.12605.0.v7e2bdfee?classifier=sources
+- pkg:maven/com.daml/test-common-upgrade-tests-java-2.0.0-1.dev@2.9.0-snapshot.20240208.12614.0.vb86d563a
+- pkg:maven/com.daml/test-common-upgrade-tests-java-2.0.0-1.dev@2.9.0-snapshot.20240208.12614.0.vb86d563a?classifier=sources

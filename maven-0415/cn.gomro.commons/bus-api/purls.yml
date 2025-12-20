@@ -1,3 +1,5 @@
+- pkg:maven/cn.gomro.commons/bus-api@0.0.10
+- pkg:maven/cn.gomro.commons/bus-api@0.0.10?classifier=sources
 - pkg:maven/cn.gomro.commons/bus-api@0.0.2
 - pkg:maven/cn.gomro.commons/bus-api@0.0.2?classifier=sources
 - pkg:maven/cn.gomro.commons/bus-api@0.0.7

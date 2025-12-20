@@ -23,3 +23,5 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-groovy@2.3.9
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-groovy@2.3.9?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-groovy@3.2.0?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-groovy@4.0.3?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-groovy@4.0.4?classifier=sources

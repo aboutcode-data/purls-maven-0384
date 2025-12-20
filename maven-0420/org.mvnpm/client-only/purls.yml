@@ -1,0 +1,1 @@
+- pkg:maven/org.mvnpm/client-only@0.0.1?classifier=sources

@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-debugger@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-debugger@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-debugger@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-debugger@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-debugger@RELEASE90?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/dev.adamko.gradle/dev-publish-plugin@0.3.0?classifier=sources

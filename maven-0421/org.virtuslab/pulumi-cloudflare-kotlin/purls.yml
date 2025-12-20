@@ -12,6 +12,8 @@
 - pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@5.17.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@5.18.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@5.18.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@5.19.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@5.20.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@5.5.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@5.5.0.1?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@5.6.0.0?classifier=sources

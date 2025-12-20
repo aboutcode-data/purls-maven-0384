@@ -1,0 +1,2 @@
+- pkg:maven/de.neuefische.java/spring-boot-starter-fallback-page@1.0.0
+- pkg:maven/de.neuefische.java/spring-boot-starter-fallback-page@1.0.0?classifier=sources

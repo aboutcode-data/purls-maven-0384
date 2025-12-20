@@ -74,6 +74,7 @@
 - pkg:maven/com.pulumi/cloudinit@1.4.0-alpha.1704346182%2B5feceebe?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.4.0-alpha.1704400702%2B1de7b04b?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.4.0?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.4.1?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1704428144%2B94c4aac9?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1705197089%2B440f4647?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1705434233%2B32fcc960?classifier=sources
@@ -81,3 +82,19 @@
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1705627827%2B0701af2b?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1705642942%2Bdf050076?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1705988607%2Bbb39bd31?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1706307022%2B5cea29aa?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1706745215%2B0f8ad8bf?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1706811520%2B4def76e2?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1706827317%2B1bcb4652?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1707284908%2B9b42b958?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1707496174%2B5eeda299?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1707543953%2Bbca04928?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1707889630%2B6a911390?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1707976061%2B70241b11?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1708062432%2Bad031695?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1708494411%2B472049ac?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1708612396%2B48039e57?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1708667350%2B419ec2a4?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1709014313%2Bf2d66536?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1709099305%2B2e8368ee?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1709123522%2Bfe65eff2?classifier=sources

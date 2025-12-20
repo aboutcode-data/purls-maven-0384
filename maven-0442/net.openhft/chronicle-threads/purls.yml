@@ -462,3 +462,5 @@
 - pkg:maven/net.openhft/chronicle-threads@2.25ea1?classifier=sources
 - pkg:maven/net.openhft/chronicle-threads@2.25ea2
 - pkg:maven/net.openhft/chronicle-threads@2.25ea2?classifier=sources
+- pkg:maven/net.openhft/chronicle-threads@2.25ea4
+- pkg:maven/net.openhft/chronicle-threads@2.25ea4?classifier=sources

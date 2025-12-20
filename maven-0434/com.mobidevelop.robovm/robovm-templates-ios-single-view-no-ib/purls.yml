@@ -14,6 +14,7 @@
 - pkg:maven/com.mobidevelop.robovm/robovm-templates-ios-single-view-no-ib@2.3.19?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-templates-ios-single-view-no-ib@2.3.1?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-templates-ios-single-view-no-ib@2.3.20?classifier=sources
+- pkg:maven/com.mobidevelop.robovm/robovm-templates-ios-single-view-no-ib@2.3.21?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-templates-ios-single-view-no-ib@2.3.2?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-templates-ios-single-view-no-ib@2.3.3?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-templates-ios-single-view-no-ib@2.3.4?classifier=sources

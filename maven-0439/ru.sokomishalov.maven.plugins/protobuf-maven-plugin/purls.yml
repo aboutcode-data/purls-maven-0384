@@ -1,0 +1,2 @@
+- pkg:maven/ru.sokomishalov.maven.plugins/protobuf-maven-plugin@0.7.0
+- pkg:maven/ru.sokomishalov.maven.plugins/protobuf-maven-plugin@0.7.0?classifier=sources

@@ -6,6 +6,16 @@
 - pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.1-rc3?classifier=sources
 - pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.1-rc4
 - pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.1-rc4?classifier=sources
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.3-RC1
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.3-RC1?classifier=sources
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.3-RC2
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.3-RC2?classifier=sources
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.3-RC3
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.3-RC3?classifier=sources
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.3-RC4
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.3-RC4?classifier=sources
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.3-RC5
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@0.0.3-RC5?classifier=sources
 - pkg:maven/io.axual.connect.plugins.http/http-sink-connector@1.0.0
 - pkg:maven/io.axual.connect.plugins.http/http-sink-connector@1.0.0-rc1
 - pkg:maven/io.axual.connect.plugins.http/http-sink-connector@1.0.0-rc1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/community.solace.spring.cloud/spring-cloud-stream-starter-request-reply@5.0.4?classifier=sources
 - pkg:maven/community.solace.spring.cloud/spring-cloud-stream-starter-request-reply@5.1.0
 - pkg:maven/community.solace.spring.cloud/spring-cloud-stream-starter-request-reply@5.1.0?classifier=sources
+- pkg:maven/community.solace.spring.cloud/spring-cloud-stream-starter-request-reply@5.1.1
+- pkg:maven/community.solace.spring.cloud/spring-cloud-stream-starter-request-reply@5.1.1?classifier=sources

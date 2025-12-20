@@ -9,3 +9,4 @@
 - pkg:maven/org.mvnpm.at.types/unist@2.0.7?classifier=sources
 - pkg:maven/org.mvnpm.at.types/unist@2.0.8?classifier=sources
 - pkg:maven/org.mvnpm.at.types/unist@2.0.9?classifier=sources
+- pkg:maven/org.mvnpm.at.types/unist@3.0.2?classifier=sources

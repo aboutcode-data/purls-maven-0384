@@ -155,3 +155,5 @@
 - pkg:maven/com.qiyukf.unicorn/unicorn@8.7.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn@8.8.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn@8.9.0?classifier=sources
+- pkg:maven/com.qiyukf.unicorn/unicorn@9.0.0?classifier=sources
+- pkg:maven/com.qiyukf.unicorn/unicorn@9.0.1?classifier=sources

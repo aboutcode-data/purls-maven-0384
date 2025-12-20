@@ -1,0 +1,2 @@
+- pkg:maven/io.bitbucket.josuesanchez9/api-demo@1.0.0
+- pkg:maven/io.bitbucket.josuesanchez9/api-demo@1.0.0?classifier=sources

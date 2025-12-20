@@ -8,6 +8,8 @@
 - pkg:maven/com.quantxt.core/qt-core@2.13.0?classifier=sources
 - pkg:maven/com.quantxt.core/qt-core@2.14.0
 - pkg:maven/com.quantxt.core/qt-core@2.14.0?classifier=sources
+- pkg:maven/com.quantxt.core/qt-core@2.16.0
+- pkg:maven/com.quantxt.core/qt-core@2.16.0?classifier=sources
 - pkg:maven/com.quantxt.core/qt-core@2.55
 - pkg:maven/com.quantxt.core/qt-core@2.55?classifier=sources
 - pkg:maven/com.quantxt.core/qt-core@2.56

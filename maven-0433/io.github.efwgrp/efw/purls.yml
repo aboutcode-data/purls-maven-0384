@@ -5,3 +5,4 @@
 - pkg:maven/io.github.efwgrp/efw@4.07.007?classifier=sources
 - pkg:maven/io.github.efwgrp/efw@4.07.008?classifier=sources
 - pkg:maven/io.github.efwgrp/efw@4.07.009?classifier=sources
+- pkg:maven/io.github.efwgrp/efw@4.07.015?classifier=sources

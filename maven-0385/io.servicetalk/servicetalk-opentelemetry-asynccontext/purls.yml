@@ -20,3 +20,4 @@
 - pkg:maven/io.servicetalk/servicetalk-opentelemetry-asynccontext@0.42.39?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-opentelemetry-asynccontext@0.42.40?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-opentelemetry-asynccontext@0.42.41?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-opentelemetry-asynccontext@0.42.42?classifier=sources

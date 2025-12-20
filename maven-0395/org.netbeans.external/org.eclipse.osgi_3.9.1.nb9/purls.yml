@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.external/org.eclipse.osgi_3.9.1.nb9@RELEASE180
 - pkg:maven/org.netbeans.external/org.eclipse.osgi_3.9.1.nb9@RELEASE190
 - pkg:maven/org.netbeans.external/org.eclipse.osgi_3.9.1.nb9@RELEASE200
+- pkg:maven/org.netbeans.external/org.eclipse.osgi_3.9.1.nb9@RELEASE210
 - pkg:maven/org.netbeans.external/org.eclipse.osgi_3.9.1.nb9@RELEASE90

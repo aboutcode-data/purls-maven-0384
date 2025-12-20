@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-csl-types@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-csl-types@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-csl-types@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-csl-types@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-csl-types@RELEASE90?classifier=sources

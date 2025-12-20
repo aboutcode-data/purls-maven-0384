@@ -1,0 +1,2 @@
+- pkg:maven/org.elasticsearch.plugin/es-opensaml-security-api@8.12.2
+- pkg:maven/org.elasticsearch.plugin/es-opensaml-security-api@8.12.2?classifier=sources

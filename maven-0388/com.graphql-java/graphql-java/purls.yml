@@ -454,6 +454,12 @@
 - pkg:maven/com.graphql-java/graphql-java@0.0.0-2024-01-23T04-24-48-f059f50?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java@0.0.0-2024-01-23T04-25-46-8c01923?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java@0.0.0-2024-01-23T04-36-40-d275323?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java@0.0.0-2024-01-29T03-26-41-c6a7e91?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java@0.0.0-2024-01-29T04-11-47-bf6e184?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java@0.0.0-2024-01-29T22-23-58-bc2e2d2?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java@0.0.0-2024-02-05T21-12-45-ce452d8?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java@0.0.0-2024-02-08T02-28-45-20020a5?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java@0.0.0-2024-02-09T03-05-57-97ba988?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java@1.2
 - pkg:maven/com.graphql-java/graphql-java@1.2?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java@1.3

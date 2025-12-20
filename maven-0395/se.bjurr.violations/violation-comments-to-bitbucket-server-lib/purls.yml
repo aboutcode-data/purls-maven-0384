@@ -200,3 +200,4 @@
 - pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@1.99
 - pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@1.99?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@1.9?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-server-lib@2.0.0?classifier=sources

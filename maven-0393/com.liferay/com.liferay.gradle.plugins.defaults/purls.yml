@@ -312,6 +312,7 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@10.1.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@10.1.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@10.1.66?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@10.1.67?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@10.1.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@10.1.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.defaults@10.1.8?classifier=sources

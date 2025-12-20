@@ -19,3 +19,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE210?classifier=sources

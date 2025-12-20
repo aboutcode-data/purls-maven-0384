@@ -5,6 +5,12 @@
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@11.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@12.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@13.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@14.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@15.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@15.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@15.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@15.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@16.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/scripting-utils@4.0.0?classifier=sources

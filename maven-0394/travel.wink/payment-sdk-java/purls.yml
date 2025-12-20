@@ -100,6 +100,12 @@
 - pkg:maven/travel.wink/payment-sdk-java@29.30.0?classifier=sources
 - pkg:maven/travel.wink/payment-sdk-java@29.31.0
 - pkg:maven/travel.wink/payment-sdk-java@29.31.0?classifier=sources
+- pkg:maven/travel.wink/payment-sdk-java@29.35.0
+- pkg:maven/travel.wink/payment-sdk-java@29.35.0?classifier=sources
+- pkg:maven/travel.wink/payment-sdk-java@29.36.0
+- pkg:maven/travel.wink/payment-sdk-java@29.36.0?classifier=sources
+- pkg:maven/travel.wink/payment-sdk-java@29.41.0
+- pkg:maven/travel.wink/payment-sdk-java@29.41.0?classifier=sources
 - pkg:maven/travel.wink/payment-sdk-java@29.7.0
 - pkg:maven/travel.wink/payment-sdk-java@29.7.0?classifier=sources
 - pkg:maven/travel.wink/payment-sdk-java@29.8.0

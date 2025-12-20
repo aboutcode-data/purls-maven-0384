@@ -14,3 +14,4 @@
 - pkg:maven/com.capacitorjs/google-maps@5.3.1?classifier=sources
 - pkg:maven/com.capacitorjs/google-maps@5.3.2?classifier=sources
 - pkg:maven/com.capacitorjs/google-maps@5.3.3?classifier=sources
+- pkg:maven/com.capacitorjs/google-maps@5.4.0?classifier=sources

@@ -20,5 +20,11 @@
 - pkg:maven/org.noear/folkmq-transport-smartsocket@1.0.29
 - pkg:maven/org.noear/folkmq-transport-smartsocket@1.0.30
 - pkg:maven/org.noear/folkmq-transport-smartsocket@1.0.31
+- pkg:maven/org.noear/folkmq-transport-smartsocket@1.0.32
+- pkg:maven/org.noear/folkmq-transport-smartsocket@1.0.33-M1
 - pkg:maven/org.noear/folkmq-transport-smartsocket@1.0.8
 - pkg:maven/org.noear/folkmq-transport-smartsocket@1.0.9
+- pkg:maven/org.noear/folkmq-transport-smartsocket@1.1.0
+- pkg:maven/org.noear/folkmq-transport-smartsocket@1.2.0
+- pkg:maven/org.noear/folkmq-transport-smartsocket@1.2.1
+- pkg:maven/org.noear/folkmq-transport-smartsocket@1.2.2

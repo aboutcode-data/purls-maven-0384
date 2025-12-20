@@ -126,3 +126,5 @@
 - pkg:maven/com.helger.phase4/phase4-test@2.7.2?type=war
 - pkg:maven/com.helger.phase4/phase4-test@2.7.3?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-test@2.7.3?type=war
+- pkg:maven/com.helger.phase4/phase4-test@2.7.4?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-test@2.7.4?type=war

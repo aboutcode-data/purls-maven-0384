@@ -22,6 +22,10 @@
 - pkg:maven/com.spotify/folsom-opencensus@1.16.1?classifier=sources
 - pkg:maven/com.spotify/folsom-opencensus@1.17.0
 - pkg:maven/com.spotify/folsom-opencensus@1.17.0?classifier=sources
+- pkg:maven/com.spotify/folsom-opencensus@1.20.0
+- pkg:maven/com.spotify/folsom-opencensus@1.20.0?classifier=sources
+- pkg:maven/com.spotify/folsom-opencensus@1.21.0
+- pkg:maven/com.spotify/folsom-opencensus@1.21.0?classifier=sources
 - pkg:maven/com.spotify/folsom-opencensus@1.6.1
 - pkg:maven/com.spotify/folsom-opencensus@1.6.1?classifier=sources
 - pkg:maven/com.spotify/folsom-opencensus@1.6.2

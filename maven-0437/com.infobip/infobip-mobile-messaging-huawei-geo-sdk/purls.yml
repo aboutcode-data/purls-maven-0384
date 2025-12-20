@@ -45,3 +45,4 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-geo-sdk@5.0.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-geo-sdk@6.0.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-geo-sdk@6.1.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-geo-sdk@6.2.0?classifier=sources

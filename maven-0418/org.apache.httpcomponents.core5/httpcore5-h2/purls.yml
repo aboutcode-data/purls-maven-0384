@@ -74,3 +74,5 @@
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-h2@5.2?classifier=sources
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-h2@5.3-alpha1
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-h2@5.3-alpha1?classifier=sources
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-h2@5.3-alpha2
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-h2@5.3-alpha2?classifier=sources

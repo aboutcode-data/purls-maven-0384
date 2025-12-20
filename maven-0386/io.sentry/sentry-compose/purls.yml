@@ -120,3 +120,7 @@
 - pkg:maven/io.sentry/sentry-compose@7.1.0?classifier=sources
 - pkg:maven/io.sentry/sentry-compose@7.2.0
 - pkg:maven/io.sentry/sentry-compose@7.2.0?classifier=sources
+- pkg:maven/io.sentry/sentry-compose@7.3.0
+- pkg:maven/io.sentry/sentry-compose@7.3.0?classifier=sources
+- pkg:maven/io.sentry/sentry-compose@7.4.0
+- pkg:maven/io.sentry/sentry-compose@7.4.0?classifier=sources

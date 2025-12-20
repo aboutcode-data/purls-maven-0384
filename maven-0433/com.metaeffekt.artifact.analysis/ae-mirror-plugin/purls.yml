@@ -153,3 +153,11 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-mirror-plugin@0.9.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-mirror-plugin@0.9.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-mirror-plugin@0.90.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-mirror-plugin@0.91.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-mirror-plugin@0.92.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-mirror-plugin@0.93.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-mirror-plugin@0.94.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-mirror-plugin@0.95.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-mirror-plugin@0.96.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-mirror-plugin@0.97.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-mirror-plugin@0.98.0

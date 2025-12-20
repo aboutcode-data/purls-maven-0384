@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-azure-native_3@2.29.0-core.0.2
+- pkg:maven/org.virtuslab/besom-azure-native_3@2.29.0-core.0.2?classifier=sources

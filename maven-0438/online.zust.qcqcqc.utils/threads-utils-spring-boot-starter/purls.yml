@@ -1,0 +1,4 @@
+- pkg:maven/online.zust.qcqcqc.utils/threads-utils-spring-boot-starter@1.0.0
+- pkg:maven/online.zust.qcqcqc.utils/threads-utils-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/online.zust.qcqcqc.utils/threads-utils-spring-boot-starter@1.1.0
+- pkg:maven/online.zust.qcqcqc.utils/threads-utils-spring-boot-starter@1.1.0?classifier=sources

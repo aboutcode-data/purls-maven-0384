@@ -352,6 +352,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-language-v1@2.34.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-language-v1@2.35.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-language-v1@2.35.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-language-v1@2.36.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-language-v1@2.36.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-language-v1@2.4.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-language-v1@2.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-language-v1@2.4.1

@@ -1,3 +1,5 @@
+- pkg:maven/org.beangle.otk/beangle-otk-sys_3@0.0.10
+- pkg:maven/org.beangle.otk/beangle-otk-sys_3@0.0.10?classifier=sources
 - pkg:maven/org.beangle.otk/beangle-otk-sys_3@0.0.7
 - pkg:maven/org.beangle.otk/beangle-otk-sys_3@0.0.7?classifier=sources
 - pkg:maven/org.beangle.otk/beangle-otk-sys_3@0.0.8

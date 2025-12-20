@@ -30,3 +30,4 @@
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@8.0.6?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@9.0.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-broker-j@9.1.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.qpid/apache-qpid-broker-j@9.2.0?classifier=src&type=tar.gz

@@ -23,3 +23,4 @@
 - pkg:maven/com.twilio/video-android-ktx@7.6.1?classifier=sources
 - pkg:maven/com.twilio/video-android-ktx@7.6.3?classifier=sources
 - pkg:maven/com.twilio/video-android-ktx@7.6.4?classifier=sources
+- pkg:maven/com.twilio/video-android-ktx@7.7.0?classifier=sources

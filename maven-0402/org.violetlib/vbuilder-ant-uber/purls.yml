@@ -1,0 +1,2 @@
+- pkg:maven/org.violetlib/vbuilder-ant-uber@1?classifier=sources
+- pkg:maven/org.violetlib/vbuilder-ant-uber@2?classifier=sources

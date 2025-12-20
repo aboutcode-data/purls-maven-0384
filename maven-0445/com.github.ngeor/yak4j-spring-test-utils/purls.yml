@@ -38,6 +38,8 @@
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.21.0?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.21.1
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.21.1?classifier=sources
+- pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.21.2
+- pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.21.2?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.3.0
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.3.0?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.4.0

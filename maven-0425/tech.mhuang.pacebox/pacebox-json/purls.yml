@@ -1,0 +1,2 @@
+- pkg:maven/tech.mhuang.pacebox/pacebox-json@1.0.0-jdk21
+- pkg:maven/tech.mhuang.pacebox/pacebox-json@1.0.0-jdk21?classifier=sources

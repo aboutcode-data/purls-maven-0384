@@ -1,0 +1,4 @@
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@3.8.2.1
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@3.8.2.1?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@4.13.2
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@4.13.2?classifier=sources

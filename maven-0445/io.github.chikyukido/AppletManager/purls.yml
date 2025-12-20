@@ -52,3 +52,5 @@
 - pkg:maven/io.github.chikyukido/AppletManager@0.21.021.02-BETA?classifier=sources
 - pkg:maven/io.github.chikyukido/AppletManager@0.21.021.03-BETA
 - pkg:maven/io.github.chikyukido/AppletManager@0.21.021.03-BETA?classifier=sources
+- pkg:maven/io.github.chikyukido/AppletManager@0.22.001-BETA
+- pkg:maven/io.github.chikyukido/AppletManager@0.22.001-BETA?classifier=sources

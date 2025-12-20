@@ -12,5 +12,7 @@
 - pkg:maven/org.neo4j/neo4j-cypher-cst-factory@5.15.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-cst-factory@5.16.0
 - pkg:maven/org.neo4j/neo4j-cypher-cst-factory@5.16.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-cst-factory@5.17.0
+- pkg:maven/org.neo4j/neo4j-cypher-cst-factory@5.17.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-cst-factory@5.9.0
 - pkg:maven/org.neo4j/neo4j-cypher-cst-factory@5.9.0?classifier=sources
