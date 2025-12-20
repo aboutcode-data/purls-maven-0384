@@ -67,6 +67,10 @@
 - pkg:maven/io.github.odys-z/semantic.jserv@1.4.4
 - pkg:maven/io.github.odys-z/semantic.jserv@1.4.40
 - pkg:maven/io.github.odys-z/semantic.jserv@1.4.40?classifier=sources
+- pkg:maven/io.github.odys-z/semantic.jserv@1.4.41
+- pkg:maven/io.github.odys-z/semantic.jserv@1.4.41?classifier=sources
+- pkg:maven/io.github.odys-z/semantic.jserv@1.4.43
+- pkg:maven/io.github.odys-z/semantic.jserv@1.4.43?classifier=sources
 - pkg:maven/io.github.odys-z/semantic.jserv@1.4.4?classifier=sources
 - pkg:maven/io.github.odys-z/semantic.jserv@1.4.5
 - pkg:maven/io.github.odys-z/semantic.jserv@1.4.5?classifier=sources

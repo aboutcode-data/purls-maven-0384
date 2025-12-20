@@ -1,0 +1,2 @@
+- pkg:maven/io.github.never0end/needle-compiler@0.1
+- pkg:maven/io.github.never0end/needle-compiler@0.1?classifier=sources

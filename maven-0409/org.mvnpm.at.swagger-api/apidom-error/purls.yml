@@ -4,3 +4,4 @@
 - pkg:maven/org.mvnpm.at.swagger-api/apidom-error@0.93.0?classifier=sources
 - pkg:maven/org.mvnpm.at.swagger-api/apidom-error@0.95.0?classifier=sources
 - pkg:maven/org.mvnpm.at.swagger-api/apidom-error@0.99.0?classifier=sources
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-error@1.0.0-alpha.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.dominikcebula.amazonaws.dynamodb.embedded/dynamodb-embedded-junit-extension@1.0?classifier=sources
+- pkg:maven/com.dominikcebula.amazonaws.dynamodb.embedded/dynamodb-embedded-junit-extension@1.1?classifier=sources

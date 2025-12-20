@@ -1,1 +1,5 @@
 - pkg:maven/com.clerk/backend-api@0.0.7?classifier=sources
+- pkg:maven/com.clerk/backend-api@0.1.0?classifier=sources
+- pkg:maven/com.clerk/backend-api@0.2.0-beta.1?classifier=sources
+- pkg:maven/com.clerk/backend-api@0.2.0-beta?classifier=sources
+- pkg:maven/com.clerk/backend-api@0.2.0?classifier=sources

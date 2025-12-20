@@ -23,3 +23,4 @@
 - pkg:maven/com.pulumi/dbtcloud@0.2.0-alpha.1718256316?classifier=sources
 - pkg:maven/com.pulumi/dbtcloud@0.2.0-alpha.1718342681?classifier=sources
 - pkg:maven/com.pulumi/dbtcloud@0.2.0-alpha.1718429060?classifier=sources
+- pkg:maven/com.pulumi/dbtcloud@0.2.0-alpha.1722058072?classifier=sources

@@ -54,3 +54,4 @@
 - pkg:maven/org.apache.maven.surefire/surefire@3.2.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.surefire/surefire@3.2.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.surefire/surefire@3.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.surefire/surefire@3.3.1?classifier=source-release&type=zip

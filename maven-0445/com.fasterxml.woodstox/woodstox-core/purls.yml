@@ -66,3 +66,7 @@
 - pkg:maven/com.fasterxml.woodstox/woodstox-core@6.6.1?classifier=sources
 - pkg:maven/com.fasterxml.woodstox/woodstox-core@6.6.2
 - pkg:maven/com.fasterxml.woodstox/woodstox-core@6.6.2?classifier=sources
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.7.0
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@6.7.0?classifier=sources
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@7.0.0
+- pkg:maven/com.fasterxml.woodstox/woodstox-core@7.0.0?classifier=sources

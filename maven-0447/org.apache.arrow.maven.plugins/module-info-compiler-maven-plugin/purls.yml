@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.arrow.maven.plugins/module-info-compiler-maven-plugin@16.1.0
 - pkg:maven/org.apache.arrow.maven.plugins/module-info-compiler-maven-plugin@16.1.0?classifier=sources
 - pkg:maven/org.apache.arrow.maven.plugins/module-info-compiler-maven-plugin@16.1.0?classifier=src&type=zip
+- pkg:maven/org.apache.arrow.maven.plugins/module-info-compiler-maven-plugin@17.0.0
+- pkg:maven/org.apache.arrow.maven.plugins/module-info-compiler-maven-plugin@17.0.0?classifier=sources

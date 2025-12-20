@@ -1,0 +1,4 @@
+- pkg:maven/com.heanbian/heanbian-zabbix@20.4
+- pkg:maven/com.heanbian/heanbian-zabbix@20.4?classifier=sources
+- pkg:maven/com.heanbian/heanbian-zabbix@21.1
+- pkg:maven/com.heanbian/heanbian-zabbix@21.1?classifier=sources

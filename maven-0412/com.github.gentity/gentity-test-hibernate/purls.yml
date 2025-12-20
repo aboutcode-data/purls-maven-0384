@@ -3,3 +3,4 @@
 - pkg:maven/com.github.gentity/gentity-test-hibernate@0.25
 - pkg:maven/com.github.gentity/gentity-test-hibernate@0.26
 - pkg:maven/com.github.gentity/gentity-test-hibernate@0.27
+- pkg:maven/com.github.gentity/gentity-test-hibernate@1.0.0

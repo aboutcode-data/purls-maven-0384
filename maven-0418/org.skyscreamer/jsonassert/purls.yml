@@ -26,3 +26,5 @@
 - pkg:maven/org.skyscreamer/jsonassert@1.5.2?classifier=sources
 - pkg:maven/org.skyscreamer/jsonassert@1.5.3
 - pkg:maven/org.skyscreamer/jsonassert@1.5.3?classifier=sources
+- pkg:maven/org.skyscreamer/jsonassert@2.0-rc1
+- pkg:maven/org.skyscreamer/jsonassert@2.0-rc1?classifier=sources

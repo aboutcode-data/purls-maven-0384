@@ -26,3 +26,7 @@
 - pkg:maven/io.codechicken/DiffPatch@1.5.0.28?classifier=sources
 - pkg:maven/io.codechicken/DiffPatch@1.5.0.29?classifier=sources
 - pkg:maven/io.codechicken/DiffPatch@1.5.0.30?classifier=sources
+- pkg:maven/io.codechicken/DiffPatch@2.0.0.31?classifier=sources
+- pkg:maven/io.codechicken/DiffPatch@2.0.0.34?classifier=sources
+- pkg:maven/io.codechicken/DiffPatch@2.0.0.35?classifier=sources
+- pkg:maven/io.codechicken/DiffPatch@2.0.0.36?classifier=sources

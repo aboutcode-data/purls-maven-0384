@@ -56,3 +56,7 @@
 - pkg:maven/com.ontotext.graphdb/graphdb-runtime@10.6.2?classifier=sources
 - pkg:maven/com.ontotext.graphdb/graphdb-runtime@10.6.4
 - pkg:maven/com.ontotext.graphdb/graphdb-runtime@10.6.4?classifier=sources
+- pkg:maven/com.ontotext.graphdb/graphdb-runtime@10.7.0
+- pkg:maven/com.ontotext.graphdb/graphdb-runtime@10.7.0?classifier=sources
+- pkg:maven/com.ontotext.graphdb/graphdb-runtime@10.7.1
+- pkg:maven/com.ontotext.graphdb/graphdb-runtime@10.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.scylladb.alternator/load-balancing@1.0.0
+- pkg:maven/com.scylladb.alternator/load-balancing@1.0.0?classifier=sources

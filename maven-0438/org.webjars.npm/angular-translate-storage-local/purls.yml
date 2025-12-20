@@ -8,3 +8,4 @@
 - pkg:maven/org.webjars.npm/angular-translate-storage-local@2.18.3?classifier=sources
 - pkg:maven/org.webjars.npm/angular-translate-storage-local@2.18.4
 - pkg:maven/org.webjars.npm/angular-translate-storage-local@2.18.4?classifier=sources
+- pkg:maven/org.webjars.npm/angular-translate-storage-local@2.19.1

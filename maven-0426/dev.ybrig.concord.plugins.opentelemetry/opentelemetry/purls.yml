@@ -1,0 +1,2 @@
+- pkg:maven/dev.ybrig.concord.plugins.opentelemetry/opentelemetry@0.1.5
+- pkg:maven/dev.ybrig.concord.plugins.opentelemetry/opentelemetry@0.1.5?classifier=sources

@@ -200,6 +200,8 @@
 - pkg:maven/io.netty/netty-transport-udt@4.1.110.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-udt@4.1.111.Final
 - pkg:maven/io.netty/netty-transport-udt@4.1.111.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-udt@4.1.112.Final
+- pkg:maven/io.netty/netty-transport-udt@4.1.112.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-udt@4.1.12.Final
 - pkg:maven/io.netty/netty-transport-udt@4.1.12.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-udt@4.1.13.Final
@@ -394,6 +396,8 @@
 - pkg:maven/io.netty/netty-transport-udt@4.1.99.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-udt@4.2.0.Alpha1
 - pkg:maven/io.netty/netty-transport-udt@4.2.0.Alpha1?classifier=sources
+- pkg:maven/io.netty/netty-transport-udt@4.2.0.Alpha2
+- pkg:maven/io.netty/netty-transport-udt@4.2.0.Alpha2?classifier=sources
 - pkg:maven/io.netty/netty-transport-udt@5.0.0.Alpha1
 - pkg:maven/io.netty/netty-transport-udt@5.0.0.Alpha1?classifier=sources
 - pkg:maven/io.netty/netty-transport-udt@5.0.0.Alpha2

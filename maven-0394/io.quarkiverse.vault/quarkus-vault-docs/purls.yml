@@ -20,4 +20,5 @@
 - pkg:maven/io.quarkiverse.vault/quarkus-vault-docs@4.0.0
 - pkg:maven/io.quarkiverse.vault/quarkus-vault-docs@4.0.0-alpha.2
 - pkg:maven/io.quarkiverse.vault/quarkus-vault-docs@4.0.1
+- pkg:maven/io.quarkiverse.vault/quarkus-vault-docs@4.1.0
 - pkg:maven/io.quarkiverse.vault/quarkus-vault-docs@4.1.0.CR1

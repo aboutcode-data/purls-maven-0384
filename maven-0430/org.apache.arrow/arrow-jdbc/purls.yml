@@ -52,6 +52,8 @@
 - pkg:maven/org.apache.arrow/arrow-jdbc@16.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-jdbc@16.1.0
 - pkg:maven/org.apache.arrow/arrow-jdbc@16.1.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-jdbc@17.0.0
+- pkg:maven/org.apache.arrow/arrow-jdbc@17.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-jdbc@2.0.0
 - pkg:maven/org.apache.arrow/arrow-jdbc@2.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-jdbc@3.0.0

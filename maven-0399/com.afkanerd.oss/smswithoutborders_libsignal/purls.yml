@@ -1,0 +1,2 @@
+- pkg:maven/com.afkanerd.oss/smswithoutborders_libsignal@0.0.1?classifier=sources
+- pkg:maven/com.afkanerd.oss/smswithoutborders_libsignal@0.0.2?classifier=sources

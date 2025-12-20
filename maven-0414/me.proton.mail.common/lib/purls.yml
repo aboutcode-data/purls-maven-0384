@@ -20,6 +20,12 @@
 - pkg:maven/me.proton.mail.common/lib@0.10.26?classifier=sources
 - pkg:maven/me.proton.mail.common/lib@0.10.27?classifier=sources
 - pkg:maven/me.proton.mail.common/lib@0.10.28?classifier=sources
+- pkg:maven/me.proton.mail.common/lib@0.10.29?classifier=sources
+- pkg:maven/me.proton.mail.common/lib@0.10.30?classifier=sources
+- pkg:maven/me.proton.mail.common/lib@0.10.31?classifier=sources
+- pkg:maven/me.proton.mail.common/lib@0.10.32?classifier=sources
+- pkg:maven/me.proton.mail.common/lib@0.10.33?classifier=sources
+- pkg:maven/me.proton.mail.common/lib@0.10.34?classifier=sources
 - pkg:maven/me.proton.mail.common/lib@0.10.3?classifier=sources
 - pkg:maven/me.proton.mail.common/lib@0.10.4?classifier=sources
 - pkg:maven/me.proton.mail.common/lib@0.10.5?classifier=sources

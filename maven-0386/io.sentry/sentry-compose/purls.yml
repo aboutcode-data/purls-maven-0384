@@ -120,6 +120,12 @@
 - pkg:maven/io.sentry/sentry-compose@7.1.0?classifier=sources
 - pkg:maven/io.sentry/sentry-compose@7.10.0?classifier=sources
 - pkg:maven/io.sentry/sentry-compose@7.11.0-alpha.2?classifier=sources
+- pkg:maven/io.sentry/sentry-compose@7.11.0?classifier=sources
+- pkg:maven/io.sentry/sentry-compose@7.12.0-alpha.3?classifier=sources
+- pkg:maven/io.sentry/sentry-compose@7.12.0-alpha.4?classifier=sources
+- pkg:maven/io.sentry/sentry-compose@7.12.0?classifier=sources
+- pkg:maven/io.sentry/sentry-compose@7.12.1?classifier=sources
+- pkg:maven/io.sentry/sentry-compose@7.13.0?classifier=sources
 - pkg:maven/io.sentry/sentry-compose@7.2.0
 - pkg:maven/io.sentry/sentry-compose@7.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-compose@7.3.0
@@ -142,3 +148,6 @@
 - pkg:maven/io.sentry/sentry-compose@7.9.0?classifier=sources
 - pkg:maven/io.sentry/sentry-compose@8.0.0-alpha.1
 - pkg:maven/io.sentry/sentry-compose@8.0.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-compose@8.0.0-alpha.2?classifier=sources
+- pkg:maven/io.sentry/sentry-compose@8.0.0-alpha.3?classifier=sources
+- pkg:maven/io.sentry/sentry-compose@8.0.0-alpha.4?classifier=sources

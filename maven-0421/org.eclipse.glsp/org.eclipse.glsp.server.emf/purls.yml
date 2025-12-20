@@ -11,3 +11,4 @@
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server.emf@1.1.0.RC10?classifier=sources
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server.emf@2.0.0?classifier=sources
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server.emf@2.1.0?classifier=sources
+- pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server.emf@2.2.1?classifier=sources

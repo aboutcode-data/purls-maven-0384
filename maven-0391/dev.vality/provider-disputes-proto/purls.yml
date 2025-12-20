@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/provider-disputes-proto@1.2-8e99d11
+- pkg:maven/dev.vality/provider-disputes-proto@1.2-8e99d11?classifier=sources
+- pkg:maven/dev.vality/provider-disputes-proto@1.3-0698667
+- pkg:maven/dev.vality/provider-disputes-proto@1.3-0698667?classifier=sources

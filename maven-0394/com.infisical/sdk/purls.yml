@@ -1,0 +1,5 @@
+- pkg:maven/com.infisical/sdk@0.0.2?classifier=sources
+- pkg:maven/com.infisical/sdk@1.0.0?classifier=sources
+- pkg:maven/com.infisical/sdk@2.2.6?classifier=sources
+- pkg:maven/com.infisical/sdk@2.3.0?classifier=sources
+- pkg:maven/com.infisical/sdk@2.3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.opencastproject/opencast-subtitle-timeshift-workflowoperation@16.2
+- pkg:maven/org.opencastproject/opencast-subtitle-timeshift-workflowoperation@16.2?classifier=sources

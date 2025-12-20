@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars/bignumber@1.3.0
 - pkg:maven/org.webjars/bignumber@2.0.0
 - pkg:maven/org.webjars/bignumber@9.1.1
+- pkg:maven/org.webjars/bignumber@9.1.2

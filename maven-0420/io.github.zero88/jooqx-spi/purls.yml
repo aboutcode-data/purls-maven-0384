@@ -1,3 +1,8 @@
 - pkg:maven/io.github.zero88/jooqx-spi@1.0.0?classifier=sources
 - pkg:maven/io.github.zero88/jooqx-spi@2.0.0-rc.1?classifier=sources
 - pkg:maven/io.github.zero88/jooqx-spi@2.0.0-rc1?classifier=sources
+- pkg:maven/io.github.zero88/jooqx-spi@2.0.0-rc2%2B1?classifier=sources
+- pkg:maven/io.github.zero88/jooqx-spi@2.0.0-rc2%2B2?classifier=sources
+- pkg:maven/io.github.zero88/jooqx-spi@2.0.0-rc2?classifier=sources
+- pkg:maven/io.github.zero88/jooqx-spi@2.0.0-rc3%2Bjvm8?classifier=sources
+- pkg:maven/io.github.zero88/jooqx-spi@2.0.0-rc3?classifier=sources

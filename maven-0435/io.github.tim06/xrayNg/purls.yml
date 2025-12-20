@@ -1,1 +1,2 @@
 - pkg:maven/io.github.tim06/xrayNg@1.0.27?classifier=sources
+- pkg:maven/io.github.tim06/xrayNg@1.1.0?classifier=sources

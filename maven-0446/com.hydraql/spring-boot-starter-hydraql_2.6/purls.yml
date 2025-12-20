@@ -1,0 +1,2 @@
+- pkg:maven/com.hydraql/spring-boot-starter-hydraql_2.6@1.0.2
+- pkg:maven/com.hydraql/spring-boot-starter-hydraql_2.6@1.0.2?classifier=sources

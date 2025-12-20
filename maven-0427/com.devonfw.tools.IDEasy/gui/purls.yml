@@ -1,2 +1,6 @@
 - pkg:maven/com.devonfw.tools.IDEasy/gui@2024.06.001-alpha
 - pkg:maven/com.devonfw.tools.IDEasy/gui@2024.06.001-alpha?classifier=sources
+- pkg:maven/com.devonfw.tools.IDEasy/gui@2024.07.002-alpha
+- pkg:maven/com.devonfw.tools.IDEasy/gui@2024.07.002-alpha?classifier=sources
+- pkg:maven/com.devonfw.tools.IDEasy/gui@2024.07.003-alpha
+- pkg:maven/com.devonfw.tools.IDEasy/gui@2024.07.003-alpha?classifier=sources

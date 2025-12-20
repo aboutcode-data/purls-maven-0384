@@ -38,6 +38,8 @@
 - pkg:maven/me.friwi/jcefmaven@116.0.19?classifier=sources
 - pkg:maven/me.friwi/jcefmaven@122.1.10
 - pkg:maven/me.friwi/jcefmaven@122.1.10?classifier=sources
+- pkg:maven/me.friwi/jcefmaven@126.2.0
+- pkg:maven/me.friwi/jcefmaven@126.2.0?classifier=sources
 - pkg:maven/me.friwi/jcefmaven@95.7.14
 - pkg:maven/me.friwi/jcefmaven@95.7.14.1
 - pkg:maven/me.friwi/jcefmaven@95.7.14.10

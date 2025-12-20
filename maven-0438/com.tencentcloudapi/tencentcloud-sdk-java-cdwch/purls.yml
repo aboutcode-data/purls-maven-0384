@@ -1,5 +1,7 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdwch@3.1.1042
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdwch@3.1.1042?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdwch@3.1.1067
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdwch@3.1.1067?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdwch@3.1.641
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdwch@3.1.641?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdwch@3.1.644

@@ -94,3 +94,4 @@
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1718256739?classifier=sources
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1718342981?classifier=sources
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1718429341?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1722059013?classifier=sources

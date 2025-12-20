@@ -1,0 +1,2 @@
+- pkg:maven/com.zepben/mvn-lib-ci-test@0.10.0-SNAPSHOT1
+- pkg:maven/com.zepben/mvn-lib-ci-test@0.10.0-SNAPSHOT1?classifier=sources

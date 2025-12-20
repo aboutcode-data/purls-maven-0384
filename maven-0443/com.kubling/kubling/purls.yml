@@ -1,3 +1,4 @@
 - pkg:maven/com.kubling/kubling@24.2.0?classifier=src&type=zip
 - pkg:maven/com.kubling/kubling@24.2.1?classifier=src&type=zip
 - pkg:maven/com.kubling/kubling@24.2.2-RC1?classifier=src&type=zip
+- pkg:maven/com.kubling/kubling@24.2.2?classifier=src&type=zip

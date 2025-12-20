@@ -139,3 +139,4 @@
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1718255977?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1718342273?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1718428672?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1722057706?classifier=sources

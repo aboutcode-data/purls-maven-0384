@@ -1,2 +1,4 @@
 - pkg:maven/com.moloco.sdk.adapters/moloco@2.3.0.0?classifier=sources
 - pkg:maven/com.moloco.sdk.adapters/moloco@3.0.0.0?classifier=sources
+- pkg:maven/com.moloco.sdk.adapters/moloco@3.0.1.0?classifier=sources
+- pkg:maven/com.moloco.sdk.adapters/moloco@3.0.2.0?classifier=sources

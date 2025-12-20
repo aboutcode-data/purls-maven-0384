@@ -46,6 +46,10 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.8.36?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.8.38
 - pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.8.38?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.8.40
+- pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.8.40?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.8.41
+- pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.8.41?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.8.6
 - pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.8.6?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-tax@1.8.8

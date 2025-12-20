@@ -86,3 +86,5 @@
 - pkg:maven/com.idea-aedi/class-winter-maven-plugin@2.9.2?classifier=sources
 - pkg:maven/com.idea-aedi/class-winter-maven-plugin@2.9.3
 - pkg:maven/com.idea-aedi/class-winter-maven-plugin@2.9.3?classifier=sources
+- pkg:maven/com.idea-aedi/class-winter-maven-plugin@2.9.4
+- pkg:maven/com.idea-aedi/class-winter-maven-plugin@2.9.4?classifier=sources

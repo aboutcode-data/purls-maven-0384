@@ -34,3 +34,7 @@
 - pkg:maven/eu.unicore.security/secutils-cxf@4.0.0?classifier=sources
 - pkg:maven/eu.unicore.security/secutils-cxf@4.0.1
 - pkg:maven/eu.unicore.security/secutils-cxf@4.0.1?classifier=sources
+- pkg:maven/eu.unicore.security/secutils-cxf@4.1.0
+- pkg:maven/eu.unicore.security/secutils-cxf@4.1.0?classifier=sources
+- pkg:maven/eu.unicore.security/secutils-cxf@4.1.1
+- pkg:maven/eu.unicore.security/secutils-cxf@4.1.1?classifier=sources

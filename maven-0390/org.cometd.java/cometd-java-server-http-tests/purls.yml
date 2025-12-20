@@ -5,3 +5,4 @@
 - pkg:maven/org.cometd.java/cometd-java-server-http-tests@8.0.0.beta3
 - pkg:maven/org.cometd.java/cometd-java-server-http-tests@8.0.1
 - pkg:maven/org.cometd.java/cometd-java-server-http-tests@8.0.2
+- pkg:maven/org.cometd.java/cometd-java-server-http-tests@8.0.3

@@ -29,7 +29,13 @@
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.36.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.37.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.38.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.39.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.4.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.40.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.41.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.42.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.43.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.44.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.5.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.6.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.7.0?classifier=sources

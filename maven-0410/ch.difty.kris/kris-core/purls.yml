@@ -7,3 +7,4 @@
 - pkg:maven/ch.difty.kris/kris-core@0.4.9?classifier=sources
 - pkg:maven/ch.difty.kris/kris-core@0.5.0?classifier=sources
 - pkg:maven/ch.difty.kris/kris-core@0.5.1?classifier=sources
+- pkg:maven/ch.difty.kris/kris-core@0.5.3?classifier=sources

@@ -66,3 +66,4 @@
 - pkg:maven/com.adjust.sdk/adjust-android-webbridge@4.38.2?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android-webbridge@4.38.3?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android-webbridge@4.38.4?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android-webbridge@4.38.5?classifier=sources

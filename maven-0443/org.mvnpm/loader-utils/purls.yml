@@ -1,1 +1,5 @@
 - pkg:maven/org.mvnpm/loader-utils@1.1.0?classifier=sources
+- pkg:maven/org.mvnpm/loader-utils@2.0.0?classifier=sources
+- pkg:maven/org.mvnpm/loader-utils@2.0.4?classifier=sources
+- pkg:maven/org.mvnpm/loader-utils@3.0.0?classifier=sources
+- pkg:maven/org.mvnpm/loader-utils@3.3.1?classifier=sources

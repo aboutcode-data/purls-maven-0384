@@ -3,3 +3,5 @@
 - pkg:maven/dev.mccue/jresolve-cli@0.0.3?classifier=sources
 - pkg:maven/dev.mccue/jresolve-cli@2024.05.09?classifier=sources
 - pkg:maven/dev.mccue/jresolve-cli@2024.05.26?classifier=sources
+- pkg:maven/dev.mccue/jresolve-cli@2024.07.24?classifier=sources
+- pkg:maven/dev.mccue/jresolve-cli@2024.07.27?classifier=sources

@@ -52,7 +52,12 @@
 - pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.47.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.47.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.48.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.49.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.49.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.5.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.50.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.50.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.51.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.6.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.7.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-azure-native-kotlin@2.8.0.0?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-apache-fileupload@24.5.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-apache-fileupload@24.6.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-apache-fileupload@24.6.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-apache-fileupload@24.7.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-apache-fileupload@24.7.0?classifier=sources

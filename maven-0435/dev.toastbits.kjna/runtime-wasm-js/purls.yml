@@ -1,0 +1,1 @@
+- pkg:maven/dev.toastbits.kjna/runtime-wasm-js@0.0.5-wasm?classifier=sources

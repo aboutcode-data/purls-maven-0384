@@ -1,3 +1,4 @@
 - pkg:maven/io.adtrace/android-sdk-plugin-samsung@2.5.0?classifier=sources
 - pkg:maven/io.adtrace/android-sdk-plugin-samsung@2.5.1?classifier=sources
 - pkg:maven/io.adtrace/android-sdk-plugin-samsung@2.5.2?classifier=sources
+- pkg:maven/io.adtrace/android-sdk-plugin-samsung@2.6.0?classifier=sources

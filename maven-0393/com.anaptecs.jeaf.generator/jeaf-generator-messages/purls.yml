@@ -1,5 +1,7 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-messages@1.16.4
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-messages@1.16.4?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-messages@1.16.5
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-messages@1.16.5?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-messages@1.6.0
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-messages@1.6.0?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-messages@1.6.1

@@ -1,0 +1,11 @@
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.18.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.19.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.20.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.21.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.22.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.23.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.24.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.25.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.26.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.27.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.28.0?classifier=sources
