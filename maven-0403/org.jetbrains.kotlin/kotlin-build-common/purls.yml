@@ -248,3 +248,6 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-build-common@2.1.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-build-common@2.1.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-build-common@2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-build-common@2.1.10-RC2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-build-common@2.1.10-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-build-common@2.1.10?classifier=sources

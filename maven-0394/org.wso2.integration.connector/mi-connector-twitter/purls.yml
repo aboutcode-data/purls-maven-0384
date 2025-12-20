@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.integration.connector/mi-connector-twitter@3.0.1?classifier=sources
+- pkg:maven/org.wso2.integration.connector/mi-connector-twitter@3.0.1?type=zip

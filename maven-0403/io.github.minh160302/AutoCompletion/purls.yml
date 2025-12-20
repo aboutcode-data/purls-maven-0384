@@ -1,0 +1,2 @@
+- pkg:maven/io.github.minh160302/AutoCompletion@0.0.1-minor-fix?classifier=sources
+- pkg:maven/io.github.minh160302/AutoCompletion@0.0.1?classifier=sources

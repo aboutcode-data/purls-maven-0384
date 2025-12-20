@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-commons-httpclient@RELEASE250?classifier=sources

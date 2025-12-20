@@ -44,6 +44,10 @@
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20241002-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20241120-2.0.0
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20241120-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20250107-2.0.0
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20250107-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20250113-2.0.0
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1-rev20250113-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1alpha-rev20240718-2.0.0
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1alpha-rev20240718-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1alpha-rev20240924-2.0.0
@@ -52,3 +56,7 @@
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1alpha-rev20241002-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1alpha-rev20241120-2.0.0
 - pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1alpha-rev20241120-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1alpha-rev20250107-2.0.0
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1alpha-rev20250107-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1alpha-rev20250113-2.0.0
+- pkg:maven/com.google.apis/google-api-services-authorizedbuyersmarketplace@v1alpha-rev20250113-2.0.0?classifier=sources

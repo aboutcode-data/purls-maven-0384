@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.external/jemmy-2.3.1.1@RELEASE220
 - pkg:maven/org.netbeans.external/jemmy-2.3.1.1@RELEASE230
 - pkg:maven/org.netbeans.external/jemmy-2.3.1.1@RELEASE240
+- pkg:maven/org.netbeans.external/jemmy-2.3.1.1@RELEASE250
 - pkg:maven/org.netbeans.external/jemmy-2.3.1.1@RELEASE90

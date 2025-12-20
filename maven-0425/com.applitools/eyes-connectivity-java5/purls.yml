@@ -128,5 +128,7 @@
 - pkg:maven/com.applitools/eyes-connectivity-java5@5.64.1?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java5@5.65.0
 - pkg:maven/com.applitools/eyes-connectivity-java5@5.65.0?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java5@5.65.1
+- pkg:maven/com.applitools/eyes-connectivity-java5@5.65.1?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java5@5.8.0
 - pkg:maven/com.applitools/eyes-connectivity-java5@5.8.0?classifier=sources

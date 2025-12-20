@@ -26,3 +26,5 @@
 - pkg:maven/com.google.apis/google-api-services-firebasestorage@v1beta-rev20230822-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebasestorage@v1beta-rev20241111-2.0.0
 - pkg:maven/com.google.apis/google-api-services-firebasestorage@v1beta-rev20241111-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebasestorage@v1beta-rev20241218-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebasestorage@v1beta-rev20241218-2.0.0?classifier=sources

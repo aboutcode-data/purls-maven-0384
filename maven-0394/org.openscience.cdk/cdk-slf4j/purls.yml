@@ -1,3 +1,5 @@
+- pkg:maven/org.openscience.cdk/cdk-slf4j@2.10
+- pkg:maven/org.openscience.cdk/cdk-slf4j@2.10?classifier=sources
 - pkg:maven/org.openscience.cdk/cdk-slf4j@2.8?classifier=sources
 - pkg:maven/org.openscience.cdk/cdk-slf4j@2.9
 - pkg:maven/org.openscience.cdk/cdk-slf4j@2.9?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.earldouglas/sbt-war_2.12_1.0@5.0.0-M5?classifier=sources
 - pkg:maven/com.earldouglas/sbt-war_2.12_1.0@5.0.0-M6
 - pkg:maven/com.earldouglas/sbt-war_2.12_1.0@5.0.0-M6?classifier=sources
+- pkg:maven/com.earldouglas/sbt-war_2.12_1.0@5.0.0-M7
+- pkg:maven/com.earldouglas/sbt-war_2.12_1.0@5.0.0-M7?classifier=sources

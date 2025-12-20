@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/stoplight__types@11.9.0?classifier=sources
 - pkg:maven/org.webjars.npm/stoplight__types@13.7.0
 - pkg:maven/org.webjars.npm/stoplight__types@13.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/stoplight__types@14.1.1

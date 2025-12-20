@@ -10,6 +10,7 @@
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.4.13
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.4.14
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.4.15
+- pkg:maven/io.camunda/identity-spring-boot-starter@8.4.16
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.4.2
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.4.2-RC1
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.4.3
@@ -33,6 +34,8 @@
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.5.1-RC1?classifier=sources
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.5.10
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.5.10?classifier=sources
+- pkg:maven/io.camunda/identity-spring-boot-starter@8.5.11
+- pkg:maven/io.camunda/identity-spring-boot-starter@8.5.11?classifier=sources
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.5.1?classifier=sources
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.5.2
 - pkg:maven/io.camunda/identity-spring-boot-starter@8.5.2?classifier=sources

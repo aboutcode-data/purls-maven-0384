@@ -224,6 +224,7 @@
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@2.1.4?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@2.1.5?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@2.1.6?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@2.10.0?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@2.2.0?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@2.2.10?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@2.2.11?classifier=sources
@@ -283,3 +284,4 @@
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@2.7.0?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@2.7.1?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@2.8.0?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-benchmark@2.9.0?classifier=sources

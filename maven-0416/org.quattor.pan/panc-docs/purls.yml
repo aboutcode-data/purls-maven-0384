@@ -8,6 +8,7 @@
 - pkg:maven/org.quattor.pan/panc-docs@10.4-rc2
 - pkg:maven/org.quattor.pan/panc-docs@10.5
 - pkg:maven/org.quattor.pan/panc-docs@10.7
+- pkg:maven/org.quattor.pan/panc-docs@10.8
 - pkg:maven/org.quattor.pan/panc-docs@9.1
 - pkg:maven/org.quattor.pan/panc-docs@9.1?classifier=sources
 - pkg:maven/org.quattor.pan/panc-docs@9.2

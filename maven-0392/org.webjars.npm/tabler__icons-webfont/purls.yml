@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/tabler__icons-webfont@2.39.0?classifier=sources
 - pkg:maven/org.webjars.npm/tabler__icons-webfont@3.19.0
 - pkg:maven/org.webjars.npm/tabler__icons-webfont@3.21.0
+- pkg:maven/org.webjars.npm/tabler__icons-webfont@3.26.0
+- pkg:maven/org.webjars.npm/tabler__icons-webfont@3.28.1

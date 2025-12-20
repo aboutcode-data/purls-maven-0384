@@ -162,6 +162,10 @@
 - pkg:maven/org.opencastproject/opencast-publication-service-configurable@16.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-publication-service-configurable@16.7
 - pkg:maven/org.opencastproject/opencast-publication-service-configurable@16.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-publication-service-configurable@16.8
+- pkg:maven/org.opencastproject/opencast-publication-service-configurable@16.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-publication-service-configurable@16.9
+- pkg:maven/org.opencastproject/opencast-publication-service-configurable@16.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-publication-service-configurable@6.6
 - pkg:maven/org.opencastproject/opencast-publication-service-configurable@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-publication-service-configurable@7.2

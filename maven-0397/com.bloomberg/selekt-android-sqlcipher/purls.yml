@@ -3,3 +3,4 @@
 - pkg:maven/com.bloomberg/selekt-android-sqlcipher@4.5.5-0.22.3?classifier=sources
 - pkg:maven/com.bloomberg/selekt-android-sqlcipher@4.5.5-0.23.0?classifier=sources
 - pkg:maven/com.bloomberg/selekt-android-sqlcipher@4.5.5-0.23.1?classifier=sources
+- pkg:maven/com.bloomberg/selekt-android-sqlcipher@4.5.5-0.23.2?classifier=sources

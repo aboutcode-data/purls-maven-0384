@@ -8,3 +8,4 @@
 - pkg:maven/com.liferay/org.apache.felix.configurator@1.0.14.LIFERAY-PATCHED-3?classifier=sources
 - pkg:maven/com.liferay/org.apache.felix.configurator@1.0.14.LIFERAY-PATCHED-3?classifier=sources-commercial
 - pkg:maven/com.liferay/org.apache.felix.configurator@1.0.14.LIFERAY-PATCHED-4?classifier=sources
+- pkg:maven/com.liferay/org.apache.felix.configurator@1.0.18.LIFERAY-PATCHED-1?classifier=sources

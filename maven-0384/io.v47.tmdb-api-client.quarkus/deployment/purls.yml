@@ -1,0 +1,1 @@
+- pkg:maven/io.v47.tmdb-api-client.quarkus/deployment@4.10.1?classifier=sources

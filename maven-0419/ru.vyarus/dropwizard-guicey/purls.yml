@@ -94,3 +94,4 @@
 - pkg:maven/ru.vyarus/dropwizard-guicey@7.1.2?classifier=sources
 - pkg:maven/ru.vyarus/dropwizard-guicey@7.1.3?classifier=sources
 - pkg:maven/ru.vyarus/dropwizard-guicey@7.1.4?classifier=sources
+- pkg:maven/ru.vyarus/dropwizard-guicey@8.0.0-rc.1?classifier=sources

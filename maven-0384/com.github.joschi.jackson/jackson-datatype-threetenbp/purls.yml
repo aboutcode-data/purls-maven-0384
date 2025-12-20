@@ -22,6 +22,8 @@
 - pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.14.3?classifier=sources
 - pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.15.2
 - pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.15.2?classifier=sources
+- pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.18.2
+- pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.18.2?classifier=sources
 - pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.4.1
 - pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.4.1.1
 - pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.4.1.1?classifier=sources

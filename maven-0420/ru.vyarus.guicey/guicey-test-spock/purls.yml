@@ -33,3 +33,4 @@
 - pkg:maven/ru.vyarus.guicey/guicey-test-spock@7.1.2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-test-spock@7.1.3?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-test-spock@7.1.4?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-test-spock@8.0.0-rc.1?classifier=sources

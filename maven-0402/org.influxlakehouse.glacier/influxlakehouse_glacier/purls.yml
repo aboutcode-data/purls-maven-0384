@@ -1,0 +1,2 @@
+- pkg:maven/org.influxlakehouse.glacier/influxlakehouse_glacier@1.0.0?classifier=sources
+- pkg:maven/org.influxlakehouse.glacier/influxlakehouse_glacier@1.0.1?classifier=sources

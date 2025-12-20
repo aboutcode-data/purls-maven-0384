@@ -3,3 +3,4 @@
 - pkg:maven/org.mvnpm/unpoly@3.7.3?classifier=sources
 - pkg:maven/org.mvnpm/unpoly@3.9.0?classifier=sources
 - pkg:maven/org.mvnpm/unpoly@3.9.3?classifier=sources
+- pkg:maven/org.mvnpm/unpoly@3.9.5?classifier=sources

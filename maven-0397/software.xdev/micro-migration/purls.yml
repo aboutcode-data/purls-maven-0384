@@ -7,3 +7,7 @@
 - pkg:maven/software.xdev/micro-migration@1.0.0?classifier=sources
 - pkg:maven/software.xdev/micro-migration@2.0.0
 - pkg:maven/software.xdev/micro-migration@2.0.0?classifier=sources
+- pkg:maven/software.xdev/micro-migration@3.0.0
+- pkg:maven/software.xdev/micro-migration@3.0.0?classifier=sources
+- pkg:maven/software.xdev/micro-migration@3.0.1
+- pkg:maven/software.xdev/micro-migration@3.0.1?classifier=sources

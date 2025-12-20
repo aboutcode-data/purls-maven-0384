@@ -4,3 +4,4 @@
 - pkg:maven/org.lable.oss.dynamicconfig/dynamic-config-it-etcd@4.0-beta1
 - pkg:maven/org.lable.oss.dynamicconfig/dynamic-config-it-etcd@4.2
 - pkg:maven/org.lable.oss.dynamicconfig/dynamic-config-it-etcd@4.3
+- pkg:maven/org.lable.oss.dynamicconfig/dynamic-config-it-etcd@4.4

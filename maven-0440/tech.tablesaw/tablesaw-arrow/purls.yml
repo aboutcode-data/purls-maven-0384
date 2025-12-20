@@ -1,0 +1,4 @@
+- pkg:maven/tech.tablesaw/tablesaw-arrow@0.44.0
+- pkg:maven/tech.tablesaw/tablesaw-arrow@0.44.0?classifier=sources
+- pkg:maven/tech.tablesaw/tablesaw-arrow@0.44.1
+- pkg:maven/tech.tablesaw/tablesaw-arrow@0.44.1?classifier=sources

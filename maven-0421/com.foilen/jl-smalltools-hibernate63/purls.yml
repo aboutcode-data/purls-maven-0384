@@ -12,6 +12,7 @@
 - pkg:maven/com.foilen/jl-smalltools-hibernate63@3.16.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-hibernate63@3.17.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-hibernate63@3.18.0?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-hibernate63@3.19.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-hibernate63@3.5.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-hibernate63@3.6.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-hibernate63@3.7.0?classifier=sources

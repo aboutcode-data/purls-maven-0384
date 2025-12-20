@@ -99,3 +99,4 @@
 - pkg:maven/com.urbanairship.android/urbanairship-hms@18.4.2?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-hms@18.5.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-hms@18.6.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-hms@19.0.0?classifier=sources

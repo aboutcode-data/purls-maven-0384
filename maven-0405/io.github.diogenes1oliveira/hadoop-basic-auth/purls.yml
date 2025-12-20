@@ -1,4 +1,8 @@
+- pkg:maven/io.github.diogenes1oliveira/hadoop-basic-auth@0.0.1
 - pkg:maven/io.github.diogenes1oliveira/hadoop-basic-auth@0.0.1-SNAPSHOT-1
 - pkg:maven/io.github.diogenes1oliveira/hadoop-basic-auth@0.0.1-SNAPSHOT-1?classifier=sources
 - pkg:maven/io.github.diogenes1oliveira/hadoop-basic-auth@0.0.1-SNAPSHOT-3
 - pkg:maven/io.github.diogenes1oliveira/hadoop-basic-auth@0.0.1-SNAPSHOT-3?classifier=sources
+- pkg:maven/io.github.diogenes1oliveira/hadoop-basic-auth@0.0.1-SNAPSHOT-4
+- pkg:maven/io.github.diogenes1oliveira/hadoop-basic-auth@0.0.1-SNAPSHOT-4?classifier=sources
+- pkg:maven/io.github.diogenes1oliveira/hadoop-basic-auth@0.0.1?classifier=sources

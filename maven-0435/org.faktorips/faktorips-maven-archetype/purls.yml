@@ -127,3 +127,4 @@
 - pkg:maven/org.faktorips/faktorips-maven-archetype@25.1.0.a20241030-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@25.1.0.rc02?classifier=sources
 - pkg:maven/org.faktorips/faktorips-maven-archetype@25.1.0.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-maven-archetype@25.1.1.release?classifier=sources

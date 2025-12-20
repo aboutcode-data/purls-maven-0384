@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/easymde@2.18.0?classifier=sources
+- pkg:maven/org.mvnpm/easymde@2.19.0?classifier=sources

@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-inspect@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-inspect@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-inspect@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-inspect@RELEASE250?classifier=sources

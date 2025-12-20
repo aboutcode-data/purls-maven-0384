@@ -18,6 +18,7 @@
 - pkg:maven/org.webjars.npm/highlight.js@11.0.0-beta0?classifier=sources
 - pkg:maven/org.webjars.npm/highlight.js@11.0.0-beta1
 - pkg:maven/org.webjars.npm/highlight.js@11.0.0-beta1?classifier=sources
+- pkg:maven/org.webjars.npm/highlight.js@11.11.1
 - pkg:maven/org.webjars.npm/highlight.js@11.3.1
 - pkg:maven/org.webjars.npm/highlight.js@11.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/highlight.js@11.4.0

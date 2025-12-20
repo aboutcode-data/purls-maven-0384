@@ -12,6 +12,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@10.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@10.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@10.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@10.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@10.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@6.17.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@6.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@6.18.0
@@ -120,6 +122,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@8.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@8.16.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@8.16.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@8.17.0
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@8.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@8.3.0
@@ -176,6 +180,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.19.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.20.0
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap@9.4.0

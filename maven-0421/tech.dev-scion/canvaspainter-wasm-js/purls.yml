@@ -1,0 +1,2 @@
+- pkg:maven/tech.dev-scion/canvaspainter-wasm-js@1.1.1?classifier=sources
+- pkg:maven/tech.dev-scion/canvaspainter-wasm-js@1.1.2?classifier=sources

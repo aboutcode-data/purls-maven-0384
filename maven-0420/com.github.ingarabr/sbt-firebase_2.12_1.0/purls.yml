@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ingarabr/sbt-firebase_2.12_1.0@0.0.3
+- pkg:maven/com.github.ingarabr/sbt-firebase_2.12_1.0@0.0.3?classifier=sources

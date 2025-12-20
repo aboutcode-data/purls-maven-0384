@@ -2,3 +2,5 @@
 - pkg:maven/design.aem/cloning@1.11.0?classifier=sources
 - pkg:maven/design.aem/cloning@1.11.1
 - pkg:maven/design.aem/cloning@1.11.1?classifier=sources
+- pkg:maven/design.aem/cloning@1.12.1
+- pkg:maven/design.aem/cloning@1.12.1?classifier=sources

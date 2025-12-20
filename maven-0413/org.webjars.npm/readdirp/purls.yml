@@ -19,3 +19,4 @@
 - pkg:maven/org.webjars.npm/readdirp@3.6.0
 - pkg:maven/org.webjars.npm/readdirp@3.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/readdirp@4.0.2
+- pkg:maven/org.webjars.npm/readdirp@4.1.1

@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junitlib@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junitlib@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junitlib@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-junitlib@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junitlib@RELEASE90?classifier=sources
