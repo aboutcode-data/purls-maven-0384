@@ -1,0 +1,1 @@
+- pkg:maven/org.projectnessie.cel/cel-standalone@0.4.2?classifier=sources

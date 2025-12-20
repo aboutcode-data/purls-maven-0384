@@ -28,3 +28,5 @@
 - pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.8_11_x?classifier=sources
 - pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.9_17_x
 - pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.9_17_x?classifier=sources
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.1.1_11
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.1.1_11?classifier=sources

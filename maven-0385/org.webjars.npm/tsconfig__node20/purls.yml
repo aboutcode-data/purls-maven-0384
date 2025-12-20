@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/tsconfig__node20@20.1.2
+- pkg:maven/org.webjars.npm/tsconfig__node20@20.1.2?classifier=sources

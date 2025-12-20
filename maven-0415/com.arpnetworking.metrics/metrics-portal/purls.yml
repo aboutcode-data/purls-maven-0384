@@ -25,6 +25,9 @@
 - pkg:maven/com.arpnetworking.metrics/metrics-portal@0.10.76?classifier=sources
 - pkg:maven/com.arpnetworking.metrics/metrics-portal@0.10.77?classifier=sources
 - pkg:maven/com.arpnetworking.metrics/metrics-portal@0.10.78?classifier=sources
+- pkg:maven/com.arpnetworking.metrics/metrics-portal@0.10.79?classifier=sources
+- pkg:maven/com.arpnetworking.metrics/metrics-portal@0.10.80?classifier=sources
+- pkg:maven/com.arpnetworking.metrics/metrics-portal@0.10.81?classifier=sources
 - pkg:maven/com.arpnetworking.metrics/metrics-portal@0.9.0?classifier=sources
 - pkg:maven/com.arpnetworking.metrics/metrics-portal@0.9.10?classifier=sources
 - pkg:maven/com.arpnetworking.metrics/metrics-portal@0.9.11?classifier=sources

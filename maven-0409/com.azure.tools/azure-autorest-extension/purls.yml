@@ -5,3 +5,4 @@
 - pkg:maven/com.azure.tools/azure-autorest-extension@1.0.0-beta.3
 - pkg:maven/com.azure.tools/azure-autorest-extension@1.0.0-beta.3?classifier=sources
 - pkg:maven/com.azure.tools/azure-autorest-extension@1.0.0-beta.4?classifier=sources
+- pkg:maven/com.azure.tools/azure-autorest-extension@1.0.0-beta.5?classifier=sources

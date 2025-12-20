@@ -26,3 +26,4 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-xjc-plugins-deployment@2.3.1
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-xjc-plugins-deployment@2.4.0
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-xjc-plugins-deployment@2.4.1
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-xjc-plugins-deployment@2.5.0

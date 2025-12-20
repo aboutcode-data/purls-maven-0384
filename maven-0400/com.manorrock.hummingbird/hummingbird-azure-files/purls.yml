@@ -1,3 +1,5 @@
+- pkg:maven/com.manorrock.hummingbird/hummingbird-azure-files@23.11.0
+- pkg:maven/com.manorrock.hummingbird/hummingbird-azure-files@23.11.0?classifier=sources
 - pkg:maven/com.manorrock.hummingbird/hummingbird-azure-files@23.4.0
 - pkg:maven/com.manorrock.hummingbird/hummingbird-azure-files@23.4.0?classifier=sources
 - pkg:maven/com.manorrock.hummingbird/hummingbird-azure-files@23.5.0

@@ -264,6 +264,8 @@
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@7.0-testgithub6
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@7.0-testgithub6?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@7.0?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-reader-gtfs@8.0
+- pkg:maven/com.graphhopper/graphhopper-reader-gtfs@8.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@client_hc_no_vehicle
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@client_hc_no_vehicle?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-gtfs@feature_1850_01

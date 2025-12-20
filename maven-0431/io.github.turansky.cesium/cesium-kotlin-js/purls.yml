@@ -28,3 +28,5 @@
 - pkg:maven/io.github.turansky.cesium/cesium-kotlin-js@1.108.0-10?classifier=sources
 - pkg:maven/io.github.turansky.cesium/cesium-kotlin-js@1.109.0-10?classifier=sources
 - pkg:maven/io.github.turansky.cesium/cesium-kotlin-js@1.110.0-10?classifier=sources
+- pkg:maven/io.github.turansky.cesium/cesium-kotlin-js@1.111.0-10?classifier=sources
+- pkg:maven/io.github.turansky.cesium/cesium-kotlin-js@1.111.0-11?classifier=sources

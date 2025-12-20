@@ -14,6 +14,8 @@
 - pkg:maven/org.ibissource/credentialprovider@7.7.5?classifier=sources
 - pkg:maven/org.ibissource/credentialprovider@7.7.6
 - pkg:maven/org.ibissource/credentialprovider@7.7.6?classifier=sources
+- pkg:maven/org.ibissource/credentialprovider@7.7.7
+- pkg:maven/org.ibissource/credentialprovider@7.7.7?classifier=sources
 - pkg:maven/org.ibissource/credentialprovider@7.7?classifier=sources
 - pkg:maven/org.ibissource/credentialprovider@7.8
 - pkg:maven/org.ibissource/credentialprovider@7.8-RC1
@@ -26,4 +28,8 @@
 - pkg:maven/org.ibissource/credentialprovider@7.8.1?classifier=sources
 - pkg:maven/org.ibissource/credentialprovider@7.8.2
 - pkg:maven/org.ibissource/credentialprovider@7.8.2?classifier=sources
+- pkg:maven/org.ibissource/credentialprovider@7.8.3
+- pkg:maven/org.ibissource/credentialprovider@7.8.3?classifier=sources
 - pkg:maven/org.ibissource/credentialprovider@7.8?classifier=sources
+- pkg:maven/org.ibissource/credentialprovider@7.9-RC1
+- pkg:maven/org.ibissource/credentialprovider@7.9-RC1?classifier=sources

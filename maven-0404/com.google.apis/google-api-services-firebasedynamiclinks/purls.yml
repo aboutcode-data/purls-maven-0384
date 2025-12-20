@@ -98,6 +98,8 @@
 - pkg:maven/com.google.apis/google-api-services-firebasedynamiclinks@v1-rev20230703-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebasedynamiclinks@v1-rev20230831-2.0.0
 - pkg:maven/com.google.apis/google-api-services-firebasedynamiclinks@v1-rev20230831-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebasedynamiclinks@v1-rev20231107-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebasedynamiclinks@v1-rev20231107-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebasedynamiclinks@v1-rev255-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-firebasedynamiclinks@v1-rev255-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebasedynamiclinks@v1-rev3-1.18.0-rc

@@ -36,3 +36,9 @@
 - pkg:maven/com.idea-aedi/ext-spring-cache@2.3.4.RELEASE.GAMMA?classifier=sources
 - pkg:maven/com.idea-aedi/ext-spring-cache@2.6.13.ALPHA
 - pkg:maven/com.idea-aedi/ext-spring-cache@2.6.13.ALPHA?classifier=sources
+- pkg:maven/com.idea-aedi/ext-spring-cache@2.6.13.BETA
+- pkg:maven/com.idea-aedi/ext-spring-cache@2.6.13.BETA?classifier=sources
+- pkg:maven/com.idea-aedi/ext-spring-cache@2.6.13.DELTA
+- pkg:maven/com.idea-aedi/ext-spring-cache@2.6.13.DELTA?classifier=sources
+- pkg:maven/com.idea-aedi/ext-spring-cache@2.6.13.GAMMA
+- pkg:maven/com.idea-aedi/ext-spring-cache@2.6.13.GAMMA?classifier=sources

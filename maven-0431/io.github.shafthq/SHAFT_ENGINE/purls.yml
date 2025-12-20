@@ -34,3 +34,5 @@
 - pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.3.20230926?classifier=sources
 - pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.3.20230929
 - pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.3.20230929?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.4.20231015?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@7.4.20231026?classifier=sources

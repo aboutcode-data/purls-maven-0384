@@ -55,6 +55,8 @@
 - pkg:maven/org.jinq/jinq-hibernate-legacy@1.8.34?classifier=sources
 - pkg:maven/org.jinq/jinq-hibernate-legacy@1.8.35
 - pkg:maven/org.jinq/jinq-hibernate-legacy@1.8.35?classifier=sources
+- pkg:maven/org.jinq/jinq-hibernate-legacy@1.8.36
+- pkg:maven/org.jinq/jinq-hibernate-legacy@1.8.36?classifier=sources
 - pkg:maven/org.jinq/jinq-hibernate-legacy@1.8.4
 - pkg:maven/org.jinq/jinq-hibernate-legacy@1.8.4?classifier=sources
 - pkg:maven/org.jinq/jinq-hibernate-legacy@1.8.5
@@ -70,3 +72,5 @@
 - pkg:maven/org.jinq/jinq-hibernate-legacy@1.8?classifier=sources
 - pkg:maven/org.jinq/jinq-hibernate-legacy@2.0.0
 - pkg:maven/org.jinq/jinq-hibernate-legacy@2.0.0?classifier=sources
+- pkg:maven/org.jinq/jinq-hibernate-legacy@2.0.1
+- pkg:maven/org.jinq/jinq-hibernate-legacy@2.0.1?classifier=sources

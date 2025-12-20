@@ -1,2 +1,4 @@
 - pkg:maven/codes.vps/tomcat-valve-request-filter@0.1
 - pkg:maven/codes.vps/tomcat-valve-request-filter@0.1?classifier=sources
+- pkg:maven/codes.vps/tomcat-valve-request-filter@1.0
+- pkg:maven/codes.vps/tomcat-valve-request-filter@1.0?classifier=sources

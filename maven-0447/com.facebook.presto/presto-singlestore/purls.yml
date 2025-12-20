@@ -1,0 +1,1 @@
+- pkg:maven/com.facebook.presto/presto-singlestore@0.284?classifier=sources

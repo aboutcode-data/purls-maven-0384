@@ -1,0 +1,2 @@
+- pkg:maven/com.elihullc/jpa-schema-maven-plugin@0.3.0
+- pkg:maven/com.elihullc/jpa-schema-maven-plugin@0.3.0?classifier=sources

@@ -1,3 +1,9 @@
+- pkg:maven/io.mantisrx/mantis-testcontainers@2.0.100?classifier=sources
+- pkg:maven/io.mantisrx/mantis-testcontainers@2.0.101?classifier=sources
+- pkg:maven/io.mantisrx/mantis-testcontainers@2.0.102?classifier=sources
+- pkg:maven/io.mantisrx/mantis-testcontainers@2.0.103?classifier=sources
+- pkg:maven/io.mantisrx/mantis-testcontainers@2.0.104?classifier=sources
+- pkg:maven/io.mantisrx/mantis-testcontainers@2.0.105?classifier=sources
 - pkg:maven/io.mantisrx/mantis-testcontainers@2.0.66?classifier=sources
 - pkg:maven/io.mantisrx/mantis-testcontainers@2.0.67?classifier=sources
 - pkg:maven/io.mantisrx/mantis-testcontainers@2.0.68?classifier=sources
@@ -22,3 +28,8 @@
 - pkg:maven/io.mantisrx/mantis-testcontainers@2.0.92?classifier=sources
 - pkg:maven/io.mantisrx/mantis-testcontainers@2.0.93?classifier=sources
 - pkg:maven/io.mantisrx/mantis-testcontainers@2.0.94?classifier=sources
+- pkg:maven/io.mantisrx/mantis-testcontainers@2.0.95?classifier=sources
+- pkg:maven/io.mantisrx/mantis-testcontainers@2.0.96?classifier=sources
+- pkg:maven/io.mantisrx/mantis-testcontainers@2.0.97?classifier=sources
+- pkg:maven/io.mantisrx/mantis-testcontainers@2.0.98?classifier=sources
+- pkg:maven/io.mantisrx/mantis-testcontainers@2.0.99?classifier=sources

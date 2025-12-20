@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/smithy__eventstream-serde-universal@2.0.13
+- pkg:maven/org.webjars.npm/smithy__eventstream-serde-universal@2.0.13?classifier=sources

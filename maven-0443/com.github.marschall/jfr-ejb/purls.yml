@@ -1,2 +1,6 @@
 - pkg:maven/com.github.marschall/jfr-ejb@0.1.0
 - pkg:maven/com.github.marschall/jfr-ejb@0.1.0?classifier=sources
+- pkg:maven/com.github.marschall/jfr-ejb@1.0.0
+- pkg:maven/com.github.marschall/jfr-ejb@1.0.0?classifier=sources
+- pkg:maven/com.github.marschall/jfr-ejb@2.0.0
+- pkg:maven/com.github.marschall/jfr-ejb@2.0.0?classifier=sources

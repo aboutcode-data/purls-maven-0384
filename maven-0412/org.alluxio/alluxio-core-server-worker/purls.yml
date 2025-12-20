@@ -126,3 +126,5 @@
 - pkg:maven/org.alluxio/alluxio-core-server-worker@303?classifier=sources
 - pkg:maven/org.alluxio/alluxio-core-server-worker@304
 - pkg:maven/org.alluxio/alluxio-core-server-worker@304?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-server-worker@305
+- pkg:maven/org.alluxio/alluxio-core-server-worker@305?classifier=sources

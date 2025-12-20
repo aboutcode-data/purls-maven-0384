@@ -1,0 +1,4 @@
+- pkg:maven/org.qbicc/qbicc-testing-wasm-suite@0.76.0
+- pkg:maven/org.qbicc/qbicc-testing-wasm-suite@0.76.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-testing-wasm-suite@0.77.0
+- pkg:maven/org.qbicc/qbicc-testing-wasm-suite@0.77.0?classifier=sources

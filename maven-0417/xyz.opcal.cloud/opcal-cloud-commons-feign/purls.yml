@@ -42,6 +42,8 @@
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign@2.7.15.0?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign@2.7.16.0
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign@2.7.16.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign@2.7.17.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign@2.7.17.0?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign@2.7.2.0
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign@2.7.2.0?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign@2.7.3.0

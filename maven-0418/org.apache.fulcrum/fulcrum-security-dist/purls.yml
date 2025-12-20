@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.fulcrum/fulcrum-security-dist@2.0.0?classifier=src&type=zip
 - pkg:maven/org.apache.fulcrum/fulcrum-security-dist@2.1.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.fulcrum/fulcrum-security-dist@2.1.0?classifier=src&type=zip
+- pkg:maven/org.apache.fulcrum/fulcrum-security-dist@3.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.fulcrum/fulcrum-security-dist@3.0.0?classifier=src&type=zip

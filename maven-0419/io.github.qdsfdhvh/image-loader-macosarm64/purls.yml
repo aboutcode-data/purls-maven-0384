@@ -45,3 +45,4 @@
 - pkg:maven/io.github.qdsfdhvh/image-loader-macosarm64@1.6.6?classifier=sources
 - pkg:maven/io.github.qdsfdhvh/image-loader-macosarm64@1.6.7?classifier=sources
 - pkg:maven/io.github.qdsfdhvh/image-loader-macosarm64@1.6.8?classifier=sources
+- pkg:maven/io.github.qdsfdhvh/image-loader-macosarm64@1.7.0?classifier=sources

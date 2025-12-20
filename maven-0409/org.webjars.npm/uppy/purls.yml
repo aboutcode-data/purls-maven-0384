@@ -18,6 +18,12 @@
 - pkg:maven/org.webjars.npm/uppy@1.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/uppy@1.7.0
 - pkg:maven/org.webjars.npm/uppy@1.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/uppy@2.6.0
+- pkg:maven/org.webjars.npm/uppy@2.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/uppy@3.17.0
+- pkg:maven/org.webjars.npm/uppy@3.17.0?classifier=sources
+- pkg:maven/org.webjars.npm/uppy@3.18.1
+- pkg:maven/org.webjars.npm/uppy@3.18.1?classifier=sources
 - pkg:maven/org.webjars.npm/uppy@3.4.0
 - pkg:maven/org.webjars.npm/uppy@3.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/uppy@3.6.1

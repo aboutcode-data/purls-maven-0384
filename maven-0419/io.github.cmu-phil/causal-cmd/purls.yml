@@ -1,5 +1,7 @@
 - pkg:maven/io.github.cmu-phil/causal-cmd@1.10.0
 - pkg:maven/io.github.cmu-phil/causal-cmd@1.10.0?classifier=sources
+- pkg:maven/io.github.cmu-phil/causal-cmd@1.11.0
+- pkg:maven/io.github.cmu-phil/causal-cmd@1.11.0?classifier=sources
 - pkg:maven/io.github.cmu-phil/causal-cmd@1.4.1
 - pkg:maven/io.github.cmu-phil/causal-cmd@1.4.1?classifier=sources
 - pkg:maven/io.github.cmu-phil/causal-cmd@1.5.0

@@ -4,3 +4,4 @@
 - pkg:maven/de.codelix.commandapi/waterfall@2.2.3?classifier=sources
 - pkg:maven/de.codelix.commandapi/waterfall@2.2.4?classifier=sources
 - pkg:maven/de.codelix.commandapi/waterfall@3.0.0?classifier=sources
+- pkg:maven/de.codelix.commandapi/waterfall@3.0.1?classifier=sources

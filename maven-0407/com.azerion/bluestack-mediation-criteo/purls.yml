@@ -1,1 +1,2 @@
 - pkg:maven/com.azerion/bluestack-mediation-criteo@4.6.3?classifier=sources
+- pkg:maven/com.azerion/bluestack-mediation-criteo@4.6.4?classifier=sources

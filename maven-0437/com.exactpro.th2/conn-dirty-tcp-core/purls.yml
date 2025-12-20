@@ -18,3 +18,6 @@
 - pkg:maven/com.exactpro.th2/conn-dirty-tcp-core@3.0.0-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/conn-dirty-tcp-core@3.1.0-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/conn-dirty-tcp-core@3.2.0-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/conn-dirty-tcp-core@3.2.1-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/conn-dirty-tcp-core@3.2.2-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/conn-dirty-tcp-core@3.3.0-dev?classifier=sources

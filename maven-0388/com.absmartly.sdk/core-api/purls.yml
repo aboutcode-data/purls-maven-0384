@@ -24,3 +24,15 @@
 - pkg:maven/com.absmartly.sdk/core-api@1.5.2?classifier=sources
 - pkg:maven/com.absmartly.sdk/core-api@1.5.3
 - pkg:maven/com.absmartly.sdk/core-api@1.5.3?classifier=sources
+- pkg:maven/com.absmartly.sdk/core-api@1.6.0
+- pkg:maven/com.absmartly.sdk/core-api@1.6.0?classifier=sources
+- pkg:maven/com.absmartly.sdk/core-api@1.6.1
+- pkg:maven/com.absmartly.sdk/core-api@1.6.1.1
+- pkg:maven/com.absmartly.sdk/core-api@1.6.1.1?classifier=sources
+- pkg:maven/com.absmartly.sdk/core-api@1.6.1.2
+- pkg:maven/com.absmartly.sdk/core-api@1.6.1.2?classifier=sources
+- pkg:maven/com.absmartly.sdk/core-api@1.6.1?classifier=sources
+- pkg:maven/com.absmartly.sdk/core-api@1.6.2
+- pkg:maven/com.absmartly.sdk/core-api@1.6.2?classifier=sources
+- pkg:maven/com.absmartly.sdk/core-api@1.6.3
+- pkg:maven/com.absmartly.sdk/core-api@1.6.3?classifier=sources

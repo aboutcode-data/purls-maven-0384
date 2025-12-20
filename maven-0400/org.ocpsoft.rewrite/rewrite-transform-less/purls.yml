@@ -2,6 +2,10 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@1.1.0.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@10.0.0.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@10.0.0.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@10.0.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@10.0.1.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@10.0.2.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@10.0.2.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@2.0.0.Alpha2
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@2.0.0.Alpha2?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@2.0.0.Alpha3
@@ -72,6 +76,8 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@3.5.0.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@3.5.1.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@3.5.1.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@3.5.2.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@3.5.2.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@4.0.0.Alpha1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@4.0.0.Alpha1?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@5.0.0.Alpha1
@@ -80,5 +86,13 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@6.0.0.Alpha1?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@8.0.0.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@8.0.0.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@8.0.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@8.0.1.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@8.0.2.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@8.0.2.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@9.0.0.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@9.0.0.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@9.0.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@9.0.1.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@9.0.2.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform-less@9.0.2.Final?classifier=sources

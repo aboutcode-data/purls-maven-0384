@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/sonataflow-deployment-webapp@0.31.0
 - pkg:maven/org.webjars.npm/sonataflow-deployment-webapp@0.31.0?classifier=sources
+- pkg:maven/org.webjars.npm/sonataflow-deployment-webapp@0.32.0
+- pkg:maven/org.webjars.npm/sonataflow-deployment-webapp@0.32.0?classifier=sources

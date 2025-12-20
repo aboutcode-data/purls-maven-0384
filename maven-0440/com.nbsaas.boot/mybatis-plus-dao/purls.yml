@@ -1,0 +1,4 @@
+- pkg:maven/com.nbsaas.boot/mybatis-plus-dao@1.1.1-2023
+- pkg:maven/com.nbsaas.boot/mybatis-plus-dao@1.1.1-2023?classifier=sources
+- pkg:maven/com.nbsaas.boot/mybatis-plus-dao@1.1.2-2023
+- pkg:maven/com.nbsaas.boot/mybatis-plus-dao@1.1.2-2023?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/tech.ailef/snap-admin@0.1.9?classifier=sources
+- pkg:maven/tech.ailef/snap-admin@0.2.0?classifier=sources

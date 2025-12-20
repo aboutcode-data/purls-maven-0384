@@ -36,6 +36,10 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-scinitializer@22.9.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-scinitializer@23.1.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-scinitializer@23.1.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-scinitializer@23.10.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-scinitializer@23.10.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-scinitializer@23.11.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-scinitializer@23.11.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-scinitializer@23.2.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-scinitializer@23.2.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-scinitializer@23.3.0

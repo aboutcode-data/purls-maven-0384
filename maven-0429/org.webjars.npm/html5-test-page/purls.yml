@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/html5-test-page@0.9.7
+- pkg:maven/org.webjars.npm/html5-test-page@0.9.7?classifier=sources

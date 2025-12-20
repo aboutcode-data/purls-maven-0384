@@ -22,6 +22,10 @@
 - pkg:maven/com.codenameone/codenameone-android@7.0.12
 - pkg:maven/com.codenameone/codenameone-android@7.0.120
 - pkg:maven/com.codenameone/codenameone-android@7.0.121
+- pkg:maven/com.codenameone/codenameone-android@7.0.122
+- pkg:maven/com.codenameone/codenameone-android@7.0.124
+- pkg:maven/com.codenameone/codenameone-android@7.0.125
+- pkg:maven/com.codenameone/codenameone-android@7.0.126
 - pkg:maven/com.codenameone/codenameone-android@7.0.13
 - pkg:maven/com.codenameone/codenameone-android@7.0.16
 - pkg:maven/com.codenameone/codenameone-android@7.0.17

@@ -86,6 +86,7 @@
 - pkg:maven/com.braintreepayments.api/three-d-secure@4.38.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/three-d-secure@4.38.1?classifier=sources
 - pkg:maven/com.braintreepayments.api/three-d-secure@4.38.2?classifier=sources
+- pkg:maven/com.braintreepayments.api/three-d-secure@4.39.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/three-d-secure@4.4.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/three-d-secure@4.4.1?classifier=sources
 - pkg:maven/com.braintreepayments.api/three-d-secure@4.5.0?classifier=sources

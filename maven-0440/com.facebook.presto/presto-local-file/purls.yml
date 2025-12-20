@@ -182,3 +182,4 @@
 - pkg:maven/com.facebook.presto/presto-local-file@0.281?classifier=sources
 - pkg:maven/com.facebook.presto/presto-local-file@0.282?classifier=sources
 - pkg:maven/com.facebook.presto/presto-local-file@0.283?classifier=sources
+- pkg:maven/com.facebook.presto/presto-local-file@0.284?classifier=sources

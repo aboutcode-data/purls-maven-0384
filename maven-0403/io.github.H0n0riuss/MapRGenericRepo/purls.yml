@@ -30,3 +30,13 @@
 - pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.1.8?classifier=sources
 - pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.1.9
 - pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.1.9?classifier=sources
+- pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.2.0
+- pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.2.0?classifier=sources
+- pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.2.0_11
+- pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.2.0_11?classifier=sources
+- pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.2.1_11
+- pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.2.1_11?classifier=sources
+- pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.2.2_11
+- pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.2.2_11?classifier=sources
+- pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.2.3_11
+- pkg:maven/io.github.H0n0riuss/MapRGenericRepo@0.2.3_11?classifier=sources

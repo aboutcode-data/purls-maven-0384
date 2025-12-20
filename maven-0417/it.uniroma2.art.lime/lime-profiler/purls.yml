@@ -17,4 +17,6 @@
 - pkg:maven/it.uniroma2.art.lime/lime-profiler@0.4.2?classifier=sources
 - pkg:maven/it.uniroma2.art.lime/lime-profiler@0.4.3
 - pkg:maven/it.uniroma2.art.lime/lime-profiler@0.4.3?classifier=sources
+- pkg:maven/it.uniroma2.art.lime/lime-profiler@0.4.4
+- pkg:maven/it.uniroma2.art.lime/lime-profiler@0.4.4?classifier=sources
 - pkg:maven/it.uniroma2.art.lime/lime-profiler@0.4?classifier=sources

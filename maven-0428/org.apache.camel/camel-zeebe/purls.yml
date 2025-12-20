@@ -2,6 +2,8 @@
 - pkg:maven/org.apache.camel/camel-zeebe@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-zeebe@3.21.1
 - pkg:maven/org.apache.camel/camel-zeebe@3.21.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-zeebe@3.21.2
+- pkg:maven/org.apache.camel/camel-zeebe@3.21.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-zeebe@4.0.0
 - pkg:maven/org.apache.camel/camel-zeebe@4.0.0-M1
 - pkg:maven/org.apache.camel/camel-zeebe@4.0.0-M1?classifier=sources
@@ -16,5 +18,7 @@
 - pkg:maven/org.apache.camel/camel-zeebe@4.0.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-zeebe@4.0.1
 - pkg:maven/org.apache.camel/camel-zeebe@4.0.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-zeebe@4.0.2
+- pkg:maven/org.apache.camel/camel-zeebe@4.0.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-zeebe@4.1.0
 - pkg:maven/org.apache.camel/camel-zeebe@4.1.0?classifier=sources

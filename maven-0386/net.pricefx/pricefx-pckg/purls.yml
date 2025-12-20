@@ -10,3 +10,4 @@
 - pkg:maven/net.pricefx/pricefx-pckg@3.24.0?classifier=sources
 - pkg:maven/net.pricefx/pricefx-pckg@3.25.0?classifier=sources
 - pkg:maven/net.pricefx/pricefx-pckg@3.25.1?classifier=sources
+- pkg:maven/net.pricefx/pricefx-pckg@3.26.0?classifier=sources

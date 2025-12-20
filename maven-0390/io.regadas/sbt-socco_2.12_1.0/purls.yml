@@ -1,0 +1,2 @@
+- pkg:maven/io.regadas/sbt-socco_2.12_1.0@0.1.5
+- pkg:maven/io.regadas/sbt-socco_2.12_1.0@0.1.5?classifier=sources

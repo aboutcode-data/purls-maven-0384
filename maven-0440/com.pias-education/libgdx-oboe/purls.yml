@@ -1,1 +1,2 @@
 - pkg:maven/com.pias-education/libgdx-oboe@0.3.0?classifier=sources
+- pkg:maven/com.pias-education/libgdx-oboe@0.3.1?classifier=sources
