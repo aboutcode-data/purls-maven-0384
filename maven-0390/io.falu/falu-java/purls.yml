@@ -11,5 +11,6 @@
 - pkg:maven/io.falu/falu-java@1.4.11?classifier=sources
 - pkg:maven/io.falu/falu-java@1.4.12?classifier=sources
 - pkg:maven/io.falu/falu-java@1.4.13?classifier=sources
+- pkg:maven/io.falu/falu-java@1.4.14?classifier=sources
 - pkg:maven/io.falu/falu-java@1.4.1?classifier=sources
 - pkg:maven/io.falu/falu-java@build_azu24xkmcnbygqavgd9hbe0up%24_run_closure5%407b11de81?classifier=sources

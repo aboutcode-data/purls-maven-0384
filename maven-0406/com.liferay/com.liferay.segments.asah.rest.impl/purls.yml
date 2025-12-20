@@ -111,6 +111,7 @@
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@1.0.57?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@1.0.58
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@1.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@1.0.59?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@2.0.20
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@2.0.20?classifier=sources-commercial
@@ -384,6 +385,8 @@
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.5
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.50
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.50?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.51?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.asah.rest.impl@3.0.6

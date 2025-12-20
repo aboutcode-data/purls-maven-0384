@@ -100,3 +100,4 @@
 - pkg:maven/it.unibo.alchemist/alchemist-physics@26.0.9?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-physics@27.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-physics@28.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@28.0.1?classifier=sources

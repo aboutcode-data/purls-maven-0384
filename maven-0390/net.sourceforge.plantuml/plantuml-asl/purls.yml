@@ -1,1 +1,2 @@
 - pkg:maven/net.sourceforge.plantuml/plantuml-asl@1.2023.10?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml-asl@1.2023.11?classifier=sources

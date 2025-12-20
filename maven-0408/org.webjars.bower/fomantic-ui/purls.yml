@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/fomantic-ui@2.8.7
 - pkg:maven/org.webjars.bower/fomantic-ui@2.8.7?classifier=sources
+- pkg:maven/org.webjars.bower/fomantic-ui@2.9.3
+- pkg:maven/org.webjars.bower/fomantic-ui@2.9.3?classifier=sources

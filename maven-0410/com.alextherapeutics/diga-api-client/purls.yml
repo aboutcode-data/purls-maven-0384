@@ -24,3 +24,5 @@
 - pkg:maven/com.alextherapeutics/diga-api-client@1.2.5-v2-xml?classifier=sources
 - pkg:maven/com.alextherapeutics/diga-api-client@1.2.5-v3-xml
 - pkg:maven/com.alextherapeutics/diga-api-client@1.2.5-v3-xml?classifier=sources
+- pkg:maven/com.alextherapeutics/diga-api-client@2.0.0-beta.1
+- pkg:maven/com.alextherapeutics/diga-api-client@2.0.0-beta.1?classifier=sources

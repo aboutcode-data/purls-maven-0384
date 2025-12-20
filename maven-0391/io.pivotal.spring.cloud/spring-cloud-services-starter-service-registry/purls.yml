@@ -38,3 +38,4 @@
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-service-registry@2.3.0.RELEASE
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-service-registry@2.3.1.RELEASE
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-service-registry@2.4.1
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-service-registry@4.0.4?classifier=sources

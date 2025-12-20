@@ -1,0 +1,2 @@
+- pkg:maven/io.github.purrer-bot/punnett-square-gentools@1.0
+- pkg:maven/io.github.purrer-bot/punnett-square-gentools@1.0?classifier=sources

@@ -40,6 +40,8 @@
 - pkg:maven/io.github.odys-z/album-lib@0.4.32?classifier=sources
 - pkg:maven/io.github.odys-z/album-lib@0.4.33
 - pkg:maven/io.github.odys-z/album-lib@0.4.33?classifier=sources
+- pkg:maven/io.github.odys-z/album-lib@0.4.34
+- pkg:maven/io.github.odys-z/album-lib@0.4.34?classifier=sources
 - pkg:maven/io.github.odys-z/album-lib@0.4.7
 - pkg:maven/io.github.odys-z/album-lib@0.4.7?classifier=sources
 - pkg:maven/io.github.odys-z/album-lib@0.4.8

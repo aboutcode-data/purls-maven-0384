@@ -71,3 +71,5 @@
 - pkg:maven/org.zalando/fahrschein@0.9.1?classifier=sources
 - pkg:maven/org.zalando/fahrschein@1.0.0?classifier=sources
 - pkg:maven/org.zalando/fahrschein@2.0.0-RC1?classifier=sources
+- pkg:maven/org.zalando/fahrschein@2.0.0-RC2?classifier=sources
+- pkg:maven/org.zalando/fahrschein@2.0.0-RC3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/icu.wuhufly/tasks@1.0
+- pkg:maven/icu.wuhufly/tasks@1.0?classifier=sources

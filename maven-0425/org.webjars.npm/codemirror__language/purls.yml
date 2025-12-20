@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/codemirror__language@6.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/codemirror__language@6.7.0
 - pkg:maven/org.webjars.npm/codemirror__language@6.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/codemirror__language@6.9.1
+- pkg:maven/org.webjars.npm/codemirror__language@6.9.1?classifier=sources

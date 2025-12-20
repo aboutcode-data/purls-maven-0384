@@ -51,3 +51,7 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-cucumber@1.85.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-cucumber@1.86.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-cucumber@1.87.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-cucumber@1.88.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-cucumber@1.89.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-cucumber@1.90.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-cucumber@1.91.0?classifier=sources

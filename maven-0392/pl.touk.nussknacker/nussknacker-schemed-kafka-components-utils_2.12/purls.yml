@@ -16,6 +16,8 @@
 - pkg:maven/pl.touk.nussknacker/nussknacker-schemed-kafka-components-utils_2.12@1.11.2?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-schemed-kafka-components-utils_2.12@1.11.3
 - pkg:maven/pl.touk.nussknacker/nussknacker-schemed-kafka-components-utils_2.12@1.11.3?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-schemed-kafka-components-utils_2.12@1.12.0
+- pkg:maven/pl.touk.nussknacker/nussknacker-schemed-kafka-components-utils_2.12@1.12.0?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-schemed-kafka-components-utils_2.12@1.5.0
 - pkg:maven/pl.touk.nussknacker/nussknacker-schemed-kafka-components-utils_2.12@1.5.0-RC1
 - pkg:maven/pl.touk.nussknacker/nussknacker-schemed-kafka-components-utils_2.12@1.5.0-RC1?classifier=sources

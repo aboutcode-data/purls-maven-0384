@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kotoant.micrometer/micrometer-registry-zabbix@0.1.0
+- pkg:maven/io.github.kotoant.micrometer/micrometer-registry-zabbix@0.1.0?classifier=sources

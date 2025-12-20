@@ -1,2 +1,4 @@
 - pkg:maven/de.gematik.api/ncpeh-simulation-ehdsi-model@1.0.3
 - pkg:maven/de.gematik.api/ncpeh-simulation-ehdsi-model@1.0.3?classifier=sources
+- pkg:maven/de.gematik.api/ncpeh-simulation-ehdsi-model@1.5.0
+- pkg:maven/de.gematik.api/ncpeh-simulation-ehdsi-model@1.5.0?classifier=sources

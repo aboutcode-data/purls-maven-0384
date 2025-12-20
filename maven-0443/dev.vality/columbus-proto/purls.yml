@@ -1,2 +1,6 @@
 - pkg:maven/dev.vality/columbus-proto@1.3-979c2b6
 - pkg:maven/dev.vality/columbus-proto@1.3-979c2b6?classifier=sources
+- pkg:maven/dev.vality/columbus-proto@1.5-c3dc5b7
+- pkg:maven/dev.vality/columbus-proto@1.5-c3dc5b7?classifier=sources
+- pkg:maven/dev.vality/columbus-proto@1.7-094dee7
+- pkg:maven/dev.vality/columbus-proto@1.7-094dee7?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/io.codenotary/immudb4j@1.0.0-alpha1?classifier=sources
 - pkg:maven/io.codenotary/immudb4j@1.0.0-alpha2?classifier=sources
 - pkg:maven/io.codenotary/immudb4j@1.0.0?classifier=sources
+- pkg:maven/io.codenotary/immudb4j@1.0.1?classifier=sources

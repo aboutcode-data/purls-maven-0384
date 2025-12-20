@@ -66,6 +66,8 @@
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.20.44?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.20.46
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.20.46?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-sandbox@7.20.47
+- pkg:maven/net.n2oapp.framework/n2o-sandbox@7.20.47?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.21.1
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.21.1?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.21.2
@@ -248,7 +250,15 @@
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.24.3?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.24.4
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.24.4?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-sandbox@7.24.5
+- pkg:maven/net.n2oapp.framework/n2o-sandbox@7.24.5?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.25.1
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.25.1?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.25.2
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.25.2?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-sandbox@7.25.3
+- pkg:maven/net.n2oapp.framework/n2o-sandbox@7.25.3?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-sandbox@7.25.4
+- pkg:maven/net.n2oapp.framework/n2o-sandbox@7.25.4?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-sandbox@7.25.6
+- pkg:maven/net.n2oapp.framework/n2o-sandbox@7.25.6?classifier=sources

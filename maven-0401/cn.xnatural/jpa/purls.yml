@@ -14,3 +14,7 @@
 - pkg:maven/cn.xnatural/jpa@1.3.0?classifier=sources
 - pkg:maven/cn.xnatural/jpa@1.3.1
 - pkg:maven/cn.xnatural/jpa@1.3.1?classifier=sources
+- pkg:maven/cn.xnatural/jpa@1.3.2
+- pkg:maven/cn.xnatural/jpa@1.3.2-java8
+- pkg:maven/cn.xnatural/jpa@1.3.2-java8?classifier=sources
+- pkg:maven/cn.xnatural/jpa@1.3.2?classifier=sources

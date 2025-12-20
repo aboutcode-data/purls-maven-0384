@@ -8,3 +8,5 @@
 - pkg:maven/com.mcsherrylabs/openstar-node-template_2.13@0.8.14?classifier=sources
 - pkg:maven/com.mcsherrylabs/openstar-node-template_2.13@0.8.16
 - pkg:maven/com.mcsherrylabs/openstar-node-template_2.13@0.8.16?classifier=sources
+- pkg:maven/com.mcsherrylabs/openstar-node-template_2.13@0.8.20
+- pkg:maven/com.mcsherrylabs/openstar-node-template_2.13@0.8.20?classifier=sources

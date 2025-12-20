@@ -242,6 +242,14 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper@4.5.4?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper@4.5.5
 - pkg:maven/edu.internet2.middleware.grouper/grouper@4.5.5?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper@4.6.0
+- pkg:maven/edu.internet2.middleware.grouper/grouper@4.6.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper@4.7.0
+- pkg:maven/edu.internet2.middleware.grouper/grouper@4.7.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper@4.7.1
+- pkg:maven/edu.internet2.middleware.grouper/grouper@4.7.1?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper@4.7.2
+- pkg:maven/edu.internet2.middleware.grouper/grouper@4.7.2?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper@5.0.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper@5.0.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper@5.0.1
@@ -260,3 +268,5 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper@5.3.2?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper@5.3.4
 - pkg:maven/edu.internet2.middleware.grouper/grouper@5.3.4?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper@5.4.0
+- pkg:maven/edu.internet2.middleware.grouper/grouper@5.4.0?classifier=sources

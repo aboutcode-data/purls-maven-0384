@@ -1,0 +1,2 @@
+- pkg:maven/org.dromara.stream-query/stream-plugin-mp-solon@2.0.0-alpha%2B002
+- pkg:maven/org.dromara.stream-query/stream-plugin-mp-solon@2.0.0-alpha%2B002?classifier=sources

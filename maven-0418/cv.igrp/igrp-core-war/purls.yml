@@ -12,6 +12,10 @@
 - pkg:maven/cv.igrp/igrp-core-war@1.7.3.230811?type=war
 - pkg:maven/cv.igrp/igrp-core-war@1.7.4.230829?classifier=sources
 - pkg:maven/cv.igrp/igrp-core-war@1.7.4.230829?type=war
+- pkg:maven/cv.igrp/igrp-core-war@1.7.4.230906?classifier=sources
+- pkg:maven/cv.igrp/igrp-core-war@1.7.4.230906?type=war
+- pkg:maven/cv.igrp/igrp-core-war@1.7.4.231011?classifier=sources
+- pkg:maven/cv.igrp/igrp-core-war@1.7.4.231011?type=war
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.230625-alpha?classifier=sources
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.230625-alpha?type=war
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.230627-alpha?classifier=sources
@@ -33,3 +37,7 @@
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.230801-beta?type=war
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.230811-beta?classifier=sources
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.230811-beta?type=war
+- pkg:maven/cv.igrp/igrp-core-war@2.0.0.230911-beta?classifier=sources
+- pkg:maven/cv.igrp/igrp-core-war@2.0.0.230911-beta?type=war
+- pkg:maven/cv.igrp/igrp-core-war@2.0.0.231011-beta?classifier=sources
+- pkg:maven/cv.igrp/igrp-core-war@2.0.0.231011-beta?type=war

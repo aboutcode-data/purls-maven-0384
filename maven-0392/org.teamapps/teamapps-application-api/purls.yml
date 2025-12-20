@@ -159,4 +159,8 @@
 - pkg:maven/org.teamapps/teamapps-application-api@0.90?classifier=sources
 - pkg:maven/org.teamapps/teamapps-application-api@0.91
 - pkg:maven/org.teamapps/teamapps-application-api@0.91?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-api@0.92
+- pkg:maven/org.teamapps/teamapps-application-api@0.92?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-api@0.93
+- pkg:maven/org.teamapps/teamapps-application-api@0.93?classifier=sources
 - pkg:maven/org.teamapps/teamapps-application-api@0.9?classifier=sources

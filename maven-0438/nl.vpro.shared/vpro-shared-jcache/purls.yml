@@ -14,3 +14,7 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-jcache@3.5.3?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-jcache@3.5.4
 - pkg:maven/nl.vpro.shared/vpro-shared-jcache@3.5.4?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-jcache@4.0.0
+- pkg:maven/nl.vpro.shared/vpro-shared-jcache@4.0.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-jcache@4.1.0
+- pkg:maven/nl.vpro.shared/vpro-shared-jcache@4.1.0?classifier=sources

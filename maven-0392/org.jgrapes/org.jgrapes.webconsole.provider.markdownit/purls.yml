@@ -4,3 +4,5 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.markdownit@0.27.1?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.markdownit@0.27.2?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.markdownit@0.28.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.markdownit@1.0.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.markdownit@1.1.0?classifier=sources

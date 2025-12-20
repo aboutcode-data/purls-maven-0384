@@ -1,0 +1,2 @@
+- pkg:maven/io.github.android-dev2015/pub_library@1.0.0?classifier=sources
+- pkg:maven/io.github.android-dev2015/pub_library@1.0.1?classifier=sources

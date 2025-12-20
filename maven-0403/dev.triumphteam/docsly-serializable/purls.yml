@@ -1,1 +1,2 @@
 - pkg:maven/dev.triumphteam/docsly-serializable@0.0.2?classifier=sources
+- pkg:maven/dev.triumphteam/docsly-serializable@0.0.3?classifier=sources

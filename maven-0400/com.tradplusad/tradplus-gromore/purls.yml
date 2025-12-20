@@ -3,6 +3,8 @@
 - pkg:maven/com.tradplusad/tradplus-gromore@49.10.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-gromore@49.10.1.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-gromore@49.10.1.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-gromore@49.10.2.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-gromore@49.10.2.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-gromore@49.8.4.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-gromore@49.8.4.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-gromore@49.8.5.0.1?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/tech.ytsaurus/spark-yt-submit-client_2.12@1.72.2
+- pkg:maven/tech.ytsaurus/spark-yt-submit-client_2.12@1.72.2?classifier=sources

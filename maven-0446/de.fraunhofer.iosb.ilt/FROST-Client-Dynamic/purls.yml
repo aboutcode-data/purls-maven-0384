@@ -8,3 +8,5 @@
 - pkg:maven/de.fraunhofer.iosb.ilt/FROST-Client-Dynamic@2.3?classifier=sources
 - pkg:maven/de.fraunhofer.iosb.ilt/FROST-Client-Dynamic@2.4
 - pkg:maven/de.fraunhofer.iosb.ilt/FROST-Client-Dynamic@2.4?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt/FROST-Client-Dynamic@2.5
+- pkg:maven/de.fraunhofer.iosb.ilt/FROST-Client-Dynamic@2.5?classifier=sources

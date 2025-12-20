@@ -1,0 +1,2 @@
+- pkg:maven/io.bitbucket.hiperperu/hiper-lib-pinblock@0.0.1
+- pkg:maven/io.bitbucket.hiperperu/hiper-lib-pinblock@0.0.1?classifier=sources

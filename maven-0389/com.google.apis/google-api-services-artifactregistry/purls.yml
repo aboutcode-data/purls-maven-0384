@@ -88,6 +88,12 @@
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1-rev20230803-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1-rev20230809-2.0.0
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1-rev20230809-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1-rev20230905-2.0.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1-rev20230905-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1-rev20230913-2.0.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1-rev20230913-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1-rev20231002-2.0.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1-rev20231002-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200508-1.30.9
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200508-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20200605-1.30.9
@@ -186,6 +192,10 @@
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20230522-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20230803-2.0.0
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20230803-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20230913-2.0.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20230913-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20231002-2.0.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta1-rev20231002-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20201107-1.30.10
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20201107-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20201107-1.31.0
@@ -274,3 +284,9 @@
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20230522-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20230803-2.0.0
 - pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20230803-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20230905-2.0.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20230905-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20230913-2.0.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20230913-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20231002-2.0.0
+- pkg:maven/com.google.apis/google-api-services-artifactregistry@v1beta2-rev20231002-2.0.0?classifier=sources

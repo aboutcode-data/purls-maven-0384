@@ -47,3 +47,5 @@
 - pkg:maven/com.microsoft.azure/azure-toolkit-containerregistry-lib@0.35.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-containerregistry-lib@0.35.1?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-containerregistry-lib@0.36.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-containerregistry-lib@0.36.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-containerregistry-lib@0.37.0?classifier=sources

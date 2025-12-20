@@ -10,3 +10,4 @@
 - pkg:maven/io.vegafusion/vegafusion@1.4.0-rc3?classifier=sources
 - pkg:maven/io.vegafusion/vegafusion@1.4.0-rc4?classifier=sources
 - pkg:maven/io.vegafusion/vegafusion@1.4.0?classifier=sources
+- pkg:maven/io.vegafusion/vegafusion@1.4.1?classifier=sources

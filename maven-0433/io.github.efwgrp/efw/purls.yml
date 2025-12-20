@@ -2,3 +2,5 @@
 - pkg:maven/io.github.efwgrp/efw@4.06.016?classifier=sources
 - pkg:maven/io.github.efwgrp/efw@4.07.000?classifier=sources
 - pkg:maven/io.github.efwgrp/efw@4.07.006?classifier=sources
+- pkg:maven/io.github.efwgrp/efw@4.07.007?classifier=sources
+- pkg:maven/io.github.efwgrp/efw@4.07.008?classifier=sources

@@ -122,6 +122,8 @@
 - pkg:maven/org.opendaylight.controller/netty-timer-config@0.18.0
 - pkg:maven/org.opendaylight.controller/netty-timer-config@0.18.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-timer-config@0.18.1
+- pkg:maven/org.opendaylight.controller/netty-timer-config@0.18.10
+- pkg:maven/org.opendaylight.controller/netty-timer-config@0.18.10?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-timer-config@0.18.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-timer-config@0.18.2?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-timer-config@0.18.3

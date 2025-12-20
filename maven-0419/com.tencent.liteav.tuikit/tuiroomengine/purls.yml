@@ -17,3 +17,5 @@
 - pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.4.4.2?classifier=sources
 - pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.4.5.60?classifier=sources
 - pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.4.6.6?classifier=sources
+- pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.5.0.26?classifier=sources
+- pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.5.1.14?classifier=sources

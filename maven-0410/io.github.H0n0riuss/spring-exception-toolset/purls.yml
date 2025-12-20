@@ -1,4 +1,12 @@
 - pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.1
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.10_17_x
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.10_17_x?classifier=sources
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.11_17
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.11_17?classifier=sources
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.11_17_x
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.11_17_x?classifier=sources
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.12_17
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.12_17?classifier=sources
 - pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.1?classifier=sources
 - pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.2
 - pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.2?classifier=sources
@@ -18,3 +26,5 @@
 - pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.8_11?classifier=sources
 - pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.8_11_x
 - pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.8_11_x?classifier=sources
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.9_17_x
+- pkg:maven/io.github.H0n0riuss/spring-exception-toolset@0.0.9_17_x?classifier=sources

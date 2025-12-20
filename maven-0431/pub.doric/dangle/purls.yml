@@ -8,6 +8,8 @@
 - pkg:maven/pub.doric/dangle@0.1.14?type=aar
 - pkg:maven/pub.doric/dangle@0.1.15?classifier=sources
 - pkg:maven/pub.doric/dangle@0.1.15?type=aar
+- pkg:maven/pub.doric/dangle@0.1.16?classifier=sources
+- pkg:maven/pub.doric/dangle@0.1.16?type=aar
 - pkg:maven/pub.doric/dangle@0.1.4?classifier=sources
 - pkg:maven/pub.doric/dangle@0.1.4?type=aar
 - pkg:maven/pub.doric/dangle@0.1.5?classifier=sources

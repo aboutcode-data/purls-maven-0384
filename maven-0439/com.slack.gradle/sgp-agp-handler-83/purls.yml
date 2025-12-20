@@ -1,0 +1,4 @@
+- pkg:maven/com.slack.gradle/sgp-agp-handler-83@0.10.10?classifier=sources
+- pkg:maven/com.slack.gradle/sgp-agp-handler-83@0.10.9-alpha01?classifier=sources
+- pkg:maven/com.slack.gradle/sgp-agp-handler-83@0.10.9-alpha02?classifier=sources
+- pkg:maven/com.slack.gradle/sgp-agp-handler-83@0.10.9?classifier=sources

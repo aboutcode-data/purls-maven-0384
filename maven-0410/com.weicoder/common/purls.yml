@@ -208,3 +208,5 @@
 - pkg:maven/com.weicoder/common@3.5.8?classifier=sources
 - pkg:maven/com.weicoder/common@3.5.9
 - pkg:maven/com.weicoder/common@3.5.9?classifier=sources
+- pkg:maven/com.weicoder/common@3.6.0
+- pkg:maven/com.weicoder/common@3.6.0?classifier=sources

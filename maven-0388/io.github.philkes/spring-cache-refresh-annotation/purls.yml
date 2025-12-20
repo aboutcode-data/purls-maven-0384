@@ -1,0 +1,2 @@
+- pkg:maven/io.github.philkes/spring-cache-refresh-annotation@1.0.0
+- pkg:maven/io.github.philkes/spring-cache-refresh-annotation@1.0.0?classifier=sources

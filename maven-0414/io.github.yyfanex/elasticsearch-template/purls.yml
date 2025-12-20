@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yyfanex/elasticsearch-template@7.9.2
+- pkg:maven/io.github.yyfanex/elasticsearch-template@7.9.2?classifier=sources

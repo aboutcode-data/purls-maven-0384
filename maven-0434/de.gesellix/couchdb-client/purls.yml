@@ -15,3 +15,4 @@
 - pkg:maven/de.gesellix/couchdb-client@2023-04-22T21-28-00?classifier=sources
 - pkg:maven/de.gesellix/couchdb-client@2023-06-22T18-05-00?classifier=sources
 - pkg:maven/de.gesellix/couchdb-client@2023-07-05T22-11-00?classifier=sources
+- pkg:maven/de.gesellix/couchdb-client@2023-10-04T10-00-00?classifier=sources
