@@ -17,6 +17,8 @@
 - pkg:maven/io.gitee.javakiller/wxz-tools@2024.2.25?classifier=sources
 - pkg:maven/io.gitee.javakiller/wxz-tools@2024.2.26
 - pkg:maven/io.gitee.javakiller/wxz-tools@2024.2.26?classifier=sources
+- pkg:maven/io.gitee.javakiller/wxz-tools@2024.2.29
+- pkg:maven/io.gitee.javakiller/wxz-tools@2024.2.29?classifier=sources
 - pkg:maven/io.gitee.javakiller/wxz-tools@2024.2.2?classifier=sources
 - pkg:maven/io.gitee.javakiller/wxz-tools@7.8.9
 - pkg:maven/io.gitee.javakiller/wxz-tools@7.8.9?classifier=sources

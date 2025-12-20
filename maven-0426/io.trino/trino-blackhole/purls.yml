@@ -86,3 +86,8 @@
 - pkg:maven/io.trino/trino-blackhole@437?classifier=sources
 - pkg:maven/io.trino/trino-blackhole@438?classifier=sources
 - pkg:maven/io.trino/trino-blackhole@439?classifier=sources
+- pkg:maven/io.trino/trino-blackhole@440?classifier=sources
+- pkg:maven/io.trino/trino-blackhole@441?classifier=sources
+- pkg:maven/io.trino/trino-blackhole@442?classifier=sources
+- pkg:maven/io.trino/trino-blackhole@443?classifier=sources
+- pkg:maven/io.trino/trino-blackhole@444?classifier=sources

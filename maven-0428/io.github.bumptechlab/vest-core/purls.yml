@@ -37,3 +37,4 @@
 - pkg:maven/io.github.bumptechlab/vest-core@0.9.15-lite?classifier=sources
 - pkg:maven/io.github.bumptechlab/vest-core@0.9.15?classifier=sources
 - pkg:maven/io.github.bumptechlab/vest-core@0.9.9?classifier=sources
+- pkg:maven/io.github.bumptechlab/vest-core@1.0.0?classifier=sources

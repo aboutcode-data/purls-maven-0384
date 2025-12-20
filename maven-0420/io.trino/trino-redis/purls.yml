@@ -86,3 +86,8 @@
 - pkg:maven/io.trino/trino-redis@437?classifier=sources
 - pkg:maven/io.trino/trino-redis@438?classifier=sources
 - pkg:maven/io.trino/trino-redis@439?classifier=sources
+- pkg:maven/io.trino/trino-redis@440?classifier=sources
+- pkg:maven/io.trino/trino-redis@441?classifier=sources
+- pkg:maven/io.trino/trino-redis@442?classifier=sources
+- pkg:maven/io.trino/trino-redis@443?classifier=sources
+- pkg:maven/io.trino/trino-redis@444?classifier=sources

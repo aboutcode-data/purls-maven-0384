@@ -14,6 +14,7 @@
 - pkg:maven/net.sourceforge.pmd/pmd-gherkin@6.54.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-gherkin@6.55.0
 - pkg:maven/net.sourceforge.pmd/pmd-gherkin@6.55.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-gherkin@7.0.0
 - pkg:maven/net.sourceforge.pmd/pmd-gherkin@7.0.0-rc1
 - pkg:maven/net.sourceforge.pmd/pmd-gherkin@7.0.0-rc1?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-gherkin@7.0.0-rc2
@@ -22,3 +23,4 @@
 - pkg:maven/net.sourceforge.pmd/pmd-gherkin@7.0.0-rc3?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-gherkin@7.0.0-rc4
 - pkg:maven/net.sourceforge.pmd/pmd-gherkin@7.0.0-rc4?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-gherkin@7.0.0?classifier=sources

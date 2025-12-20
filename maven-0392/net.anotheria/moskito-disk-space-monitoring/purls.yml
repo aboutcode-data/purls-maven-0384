@@ -72,3 +72,5 @@
 - pkg:maven/net.anotheria/moskito-disk-space-monitoring@3.2.8?classifier=sources
 - pkg:maven/net.anotheria/moskito-disk-space-monitoring@4.0.0
 - pkg:maven/net.anotheria/moskito-disk-space-monitoring@4.0.0?classifier=sources
+- pkg:maven/net.anotheria/moskito-disk-space-monitoring@4.0.1
+- pkg:maven/net.anotheria/moskito-disk-space-monitoring@4.0.1?classifier=sources

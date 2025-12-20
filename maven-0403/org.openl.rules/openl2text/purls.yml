@@ -1,0 +1,2 @@
+- pkg:maven/org.openl.rules/openl2text@5.27.5
+- pkg:maven/org.openl.rules/openl2text@5.27.5?classifier=sources

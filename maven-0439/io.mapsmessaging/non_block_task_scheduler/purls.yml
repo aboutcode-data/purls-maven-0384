@@ -1,2 +1,4 @@
 - pkg:maven/io.mapsmessaging/non_block_task_scheduler@2.1.8
 - pkg:maven/io.mapsmessaging/non_block_task_scheduler@2.1.8?classifier=sources
+- pkg:maven/io.mapsmessaging/non_block_task_scheduler@2.1.9
+- pkg:maven/io.mapsmessaging/non_block_task_scheduler@2.1.9?classifier=sources

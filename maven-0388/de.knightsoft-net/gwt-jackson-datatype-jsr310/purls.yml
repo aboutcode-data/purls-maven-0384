@@ -152,3 +152,5 @@
 - pkg:maven/de.knightsoft-net/gwt-jackson-datatype-jsr310@2.0.8?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-jackson-datatype-jsr310@2.0.9
 - pkg:maven/de.knightsoft-net/gwt-jackson-datatype-jsr310@2.0.9?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-jackson-datatype-jsr310@2.1.0
+- pkg:maven/de.knightsoft-net/gwt-jackson-datatype-jsr310@2.1.0?classifier=sources

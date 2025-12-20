@@ -14,3 +14,5 @@
 - pkg:maven/com.aliyun/hologram20220601@1.0.6?classifier=sources
 - pkg:maven/com.aliyun/hologram20220601@1.0.7
 - pkg:maven/com.aliyun/hologram20220601@1.0.7?classifier=sources
+- pkg:maven/com.aliyun/hologram20220601@1.1.0
+- pkg:maven/com.aliyun/hologram20220601@1.1.0?classifier=sources

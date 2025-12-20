@@ -176,4 +176,5 @@
 - pkg:maven/io.nearpay/nearpay-sdk@2.1.81?classifier=sources
 - pkg:maven/io.nearpay/nearpay-sdk@2.1.82?classifier=sources
 - pkg:maven/io.nearpay/nearpay-sdk@2.1.83?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk@2.1.84?classifier=sources
 - pkg:maven/io.nearpay/nearpay-sdk@unspecified?classifier=sources

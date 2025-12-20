@@ -21,4 +21,6 @@
 - pkg:maven/de.rub.nds/ModifiableVariable@3.4.0
 - pkg:maven/de.rub.nds/ModifiableVariable@3.4.0?classifier=sources
 - pkg:maven/de.rub.nds/ModifiableVariable@3.5.0
+- pkg:maven/de.rub.nds/ModifiableVariable@3.5.0-timing
+- pkg:maven/de.rub.nds/ModifiableVariable@3.5.0-timing?classifier=sources
 - pkg:maven/de.rub.nds/ModifiableVariable@3.5.0?classifier=sources

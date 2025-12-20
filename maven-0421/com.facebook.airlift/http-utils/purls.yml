@@ -36,3 +36,5 @@
 - pkg:maven/com.facebook.airlift/http-utils@0.206?classifier=sources
 - pkg:maven/com.facebook.airlift/http-utils@0.207
 - pkg:maven/com.facebook.airlift/http-utils@0.207?classifier=sources
+- pkg:maven/com.facebook.airlift/http-utils@0.209
+- pkg:maven/com.facebook.airlift/http-utils@0.209?classifier=sources

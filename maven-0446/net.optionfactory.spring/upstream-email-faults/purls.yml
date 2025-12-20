@@ -104,3 +104,9 @@
 - pkg:maven/net.optionfactory.spring/upstream-email-faults@9.4?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream-email-faults@9.5
 - pkg:maven/net.optionfactory.spring/upstream-email-faults@9.5?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream-email-faults@9.6
+- pkg:maven/net.optionfactory.spring/upstream-email-faults@9.6?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream-email-faults@9.7
+- pkg:maven/net.optionfactory.spring/upstream-email-faults@9.7?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream-email-faults@9.8
+- pkg:maven/net.optionfactory.spring/upstream-email-faults@9.8?classifier=sources

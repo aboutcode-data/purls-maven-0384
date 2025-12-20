@@ -98,3 +98,6 @@
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1709014313%2Bf2d66536?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1709099305%2B2e8368ee?classifier=sources
 - pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1709123522%2Bfe65eff2?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1709211029%2B8387fdf2?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1709359571%2B19a525bd?classifier=sources
+- pkg:maven/com.pulumi/cloudinit@1.5.0-alpha.1710156046%2B111847e9?classifier=sources

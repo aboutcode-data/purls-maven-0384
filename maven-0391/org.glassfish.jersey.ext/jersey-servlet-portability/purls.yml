@@ -165,6 +165,8 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.40?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.41
 - pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.41?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.42
+- pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.42?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.5
 - pkg:maven/org.glassfish.jersey.ext/jersey-servlet-portability@2.5.1

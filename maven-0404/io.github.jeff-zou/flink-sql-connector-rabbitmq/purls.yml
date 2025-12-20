@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jeff-zou/flink-sql-connector-rabbitmq@1.15.1
+- pkg:maven/io.github.jeff-zou/flink-sql-connector-rabbitmq@1.15.1?classifier=sources

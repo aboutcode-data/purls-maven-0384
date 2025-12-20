@@ -4,3 +4,5 @@
 - pkg:maven/cn.toutatis/void-toolkit@0.0.0-ALPHA?classifier=sources
 - pkg:maven/cn.toutatis/void-toolkit@0.0.1-ALPHA
 - pkg:maven/cn.toutatis/void-toolkit@0.0.1-ALPHA?classifier=sources
+- pkg:maven/cn.toutatis/void-toolkit@0.0.2-ALPHA
+- pkg:maven/cn.toutatis/void-toolkit@0.0.2-ALPHA?classifier=sources

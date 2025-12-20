@@ -15,6 +15,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.commons.json@2.0.20
 - pkg:maven/org.apache.sling/org.apache.sling.commons.json@2.0.20?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.commons.json@2.0.20?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.json@2.0.24
+- pkg:maven/org.apache.sling/org.apache.sling.commons.json@2.0.24?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.json@2.0.24?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.commons.json@2.0.4-incubator
 - pkg:maven/org.apache.sling/org.apache.sling.commons.json@2.0.4-incubator?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.commons.json@2.0.6

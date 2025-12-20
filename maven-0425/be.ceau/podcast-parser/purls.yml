@@ -1,4 +1,6 @@
 - pkg:maven/be.ceau/podcast-parser@0.10
 - pkg:maven/be.ceau/podcast-parser@0.10?classifier=sources
+- pkg:maven/be.ceau/podcast-parser@0.11
+- pkg:maven/be.ceau/podcast-parser@0.11?classifier=sources
 - pkg:maven/be.ceau/podcast-parser@0.9.0
 - pkg:maven/be.ceau/podcast-parser@0.9.0?classifier=sources

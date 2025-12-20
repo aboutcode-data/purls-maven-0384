@@ -4,3 +4,5 @@
 - pkg:maven/org.htmlunit/htmlunit-csp@3.11.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-csp@3.9.0
 - pkg:maven/org.htmlunit/htmlunit-csp@3.9.0?classifier=sources
+- pkg:maven/org.htmlunit/htmlunit-csp@4.0.0
+- pkg:maven/org.htmlunit/htmlunit-csp@4.0.0?classifier=sources

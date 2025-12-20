@@ -80,6 +80,12 @@
 - pkg:maven/com.artipie/npm-adapter@v0.11.3?classifier=sources
 - pkg:maven/com.artipie/npm-adapter@v0.11.4
 - pkg:maven/com.artipie/npm-adapter@v0.11.4?classifier=sources
+- pkg:maven/com.artipie/npm-adapter@v0.30.13
+- pkg:maven/com.artipie/npm-adapter@v0.30.13?classifier=sources
+- pkg:maven/com.artipie/npm-adapter@v0.30.14
+- pkg:maven/com.artipie/npm-adapter@v0.30.14?classifier=sources
+- pkg:maven/com.artipie/npm-adapter@v1.17.10
+- pkg:maven/com.artipie/npm-adapter@v1.17.10?classifier=sources
 - pkg:maven/com.artipie/npm-adapter@v1.17.2
 - pkg:maven/com.artipie/npm-adapter@v1.17.2?classifier=sources
 - pkg:maven/com.artipie/npm-adapter@v1.17.3

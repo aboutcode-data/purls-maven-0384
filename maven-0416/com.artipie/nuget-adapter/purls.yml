@@ -46,6 +46,12 @@
 - pkg:maven/com.artipie/nuget-adapter@1.5.4?classifier=sources
 - pkg:maven/com.artipie/nuget-adapter@1.5.5
 - pkg:maven/com.artipie/nuget-adapter@1.5.5?classifier=sources
+- pkg:maven/com.artipie/nuget-adapter@v0.30.13
+- pkg:maven/com.artipie/nuget-adapter@v0.30.13?classifier=sources
+- pkg:maven/com.artipie/nuget-adapter@v0.30.14
+- pkg:maven/com.artipie/nuget-adapter@v0.30.14?classifier=sources
+- pkg:maven/com.artipie/nuget-adapter@v1.17.10
+- pkg:maven/com.artipie/nuget-adapter@v1.17.10?classifier=sources
 - pkg:maven/com.artipie/nuget-adapter@v1.17.2
 - pkg:maven/com.artipie/nuget-adapter@v1.17.2?classifier=sources
 - pkg:maven/com.artipie/nuget-adapter@v1.17.3

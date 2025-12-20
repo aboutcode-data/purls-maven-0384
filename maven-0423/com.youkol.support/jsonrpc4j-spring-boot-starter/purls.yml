@@ -1,0 +1,2 @@
+- pkg:maven/com.youkol.support/jsonrpc4j-spring-boot-starter@1.0.3
+- pkg:maven/com.youkol.support/jsonrpc4j-spring-boot-starter@1.0.3?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/org.htmlunit/neko-htmlunit@3.11.1?classifier=sources
 - pkg:maven/org.htmlunit/neko-htmlunit@3.11.2
 - pkg:maven/org.htmlunit/neko-htmlunit@3.11.2?classifier=sources
+- pkg:maven/org.htmlunit/neko-htmlunit@3.11.3
+- pkg:maven/org.htmlunit/neko-htmlunit@3.11.3?classifier=sources
 - pkg:maven/org.htmlunit/neko-htmlunit@3.2.0
 - pkg:maven/org.htmlunit/neko-htmlunit@3.2.0?classifier=sources
 - pkg:maven/org.htmlunit/neko-htmlunit@3.3.0
@@ -26,3 +28,5 @@
 - pkg:maven/org.htmlunit/neko-htmlunit@3.8.0?classifier=sources
 - pkg:maven/org.htmlunit/neko-htmlunit@3.9.0
 - pkg:maven/org.htmlunit/neko-htmlunit@3.9.0?classifier=sources
+- pkg:maven/org.htmlunit/neko-htmlunit@4.0.0
+- pkg:maven/org.htmlunit/neko-htmlunit@4.0.0?classifier=sources

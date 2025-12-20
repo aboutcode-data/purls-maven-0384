@@ -9,3 +9,4 @@
 - pkg:maven/io.mcarle/konvert-spring-annotations@2.4.0?classifier=sources
 - pkg:maven/io.mcarle/konvert-spring-annotations@3.0.0?classifier=sources
 - pkg:maven/io.mcarle/konvert-spring-annotations@3.0.1?classifier=sources
+- pkg:maven/io.mcarle/konvert-spring-annotations@3.1.0?classifier=sources

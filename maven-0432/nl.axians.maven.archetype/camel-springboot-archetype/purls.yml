@@ -1,1 +1,2 @@
 - pkg:maven/nl.axians.maven.archetype/camel-springboot-archetype@1.0.0?classifier=sources
+- pkg:maven/nl.axians.maven.archetype/camel-springboot-archetype@1.0.1?classifier=sources

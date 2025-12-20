@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.causeway.viewer/causeway-viewer-graphql-testsupport@2.0.0
+- pkg:maven/org.apache.causeway.viewer/causeway-viewer-graphql-testsupport@2.0.0?classifier=sources
+- pkg:maven/org.apache.causeway.viewer/causeway-viewer-graphql-testsupport@3.0.0
+- pkg:maven/org.apache.causeway.viewer/causeway-viewer-graphql-testsupport@3.0.0?classifier=sources

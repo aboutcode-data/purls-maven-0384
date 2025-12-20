@@ -1,2 +1,6 @@
 - pkg:maven/com.aizuda/easy-retry-common-log@2.6.0
 - pkg:maven/com.aizuda/easy-retry-common-log@2.6.0?classifier=sources
+- pkg:maven/com.aizuda/easy-retry-common-log@2.6.1
+- pkg:maven/com.aizuda/easy-retry-common-log@2.6.1?classifier=sources
+- pkg:maven/com.aizuda/easy-retry-common-log@3.1.0
+- pkg:maven/com.aizuda/easy-retry-common-log@3.1.0?classifier=sources

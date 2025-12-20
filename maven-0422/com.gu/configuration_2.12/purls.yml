@@ -1,2 +1,4 @@
 - pkg:maven/com.gu/configuration_2.12@4.3
 - pkg:maven/com.gu/configuration_2.12@4.3?classifier=sources
+- pkg:maven/com.gu/configuration_2.12@4.4.0
+- pkg:maven/com.gu/configuration_2.12@4.4.0?classifier=sources

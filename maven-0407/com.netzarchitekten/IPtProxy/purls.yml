@@ -7,3 +7,4 @@
 - pkg:maven/com.netzarchitekten/IPtProxy@3.2.1?classifier=sources
 - pkg:maven/com.netzarchitekten/IPtProxy@3.3.0?classifier=sources
 - pkg:maven/com.netzarchitekten/IPtProxy@3.4.0?classifier=sources
+- pkg:maven/com.netzarchitekten/IPtProxy@3.6.0?classifier=sources

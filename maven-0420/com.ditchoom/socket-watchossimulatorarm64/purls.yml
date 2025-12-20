@@ -5,5 +5,6 @@
 - pkg:maven/com.ditchoom/socket-watchossimulatorarm64@1.1.17?classifier=sources
 - pkg:maven/com.ditchoom/socket-watchossimulatorarm64@1.1.18?classifier=sources
 - pkg:maven/com.ditchoom/socket-watchossimulatorarm64@1.1.19?classifier=sources
+- pkg:maven/com.ditchoom/socket-watchossimulatorarm64@1.1.20?classifier=sources
 - pkg:maven/com.ditchoom/socket-watchossimulatorarm64@1.1.7?classifier=sources
 - pkg:maven/com.ditchoom/socket-watchossimulatorarm64@1.1.9?classifier=sources
