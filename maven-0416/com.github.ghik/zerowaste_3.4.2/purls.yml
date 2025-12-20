@@ -1,2 +1,4 @@
 - pkg:maven/com.github.ghik/zerowaste_3.4.2@0.2.21
 - pkg:maven/com.github.ghik/zerowaste_3.4.2@0.2.21?classifier=sources
+- pkg:maven/com.github.ghik/zerowaste_3.4.2@0.2.22
+- pkg:maven/com.github.ghik/zerowaste_3.4.2@0.2.22?classifier=sources

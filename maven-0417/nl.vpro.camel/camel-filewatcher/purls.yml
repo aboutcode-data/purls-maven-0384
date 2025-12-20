@@ -14,3 +14,5 @@
 - pkg:maven/nl.vpro.camel/camel-filewatcher@1.6.0?classifier=sources
 - pkg:maven/nl.vpro.camel/camel-filewatcher@2.0.0
 - pkg:maven/nl.vpro.camel/camel-filewatcher@2.0.0?classifier=sources
+- pkg:maven/nl.vpro.camel/camel-filewatcher@2.1.0
+- pkg:maven/nl.vpro.camel/camel-filewatcher@2.1.0?classifier=sources

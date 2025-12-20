@@ -77,3 +77,5 @@
 - pkg:maven/io.vertigo/vertigo-studio@4.1.0?classifier=sources
 - pkg:maven/io.vertigo/vertigo-studio@4.2.0
 - pkg:maven/io.vertigo/vertigo-studio@4.2.0?classifier=sources
+- pkg:maven/io.vertigo/vertigo-studio@4.2.0a
+- pkg:maven/io.vertigo/vertigo-studio@4.2.0a?classifier=sources

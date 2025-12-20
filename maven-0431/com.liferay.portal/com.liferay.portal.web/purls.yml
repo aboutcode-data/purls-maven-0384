@@ -1454,7 +1454,9 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.216?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.217?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.218?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.219?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.21?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.220?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.22?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.23?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.24?type=war

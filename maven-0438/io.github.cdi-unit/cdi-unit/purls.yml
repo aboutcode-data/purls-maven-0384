@@ -1,3 +1,5 @@
 - pkg:maven/io.github.cdi-unit/cdi-unit@4.3.0?classifier=sources
 - pkg:maven/io.github.cdi-unit/cdi-unit@4.4.0?classifier=sources
 - pkg:maven/io.github.cdi-unit/cdi-unit@5.0.0-EA1?classifier=sources
+- pkg:maven/io.github.cdi-unit/cdi-unit@5.0.0-EA3?classifier=sources
+- pkg:maven/io.github.cdi-unit/cdi-unit@5.0.0-EA4?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/com.acrolinx.client/sidebar-sdk-java@2.5.29?classifier=sources
 - pkg:maven/com.acrolinx.client/sidebar-sdk-java@2.5.30?classifier=sources
 - pkg:maven/com.acrolinx.client/sidebar-sdk-java@2.6.0?classifier=sources
+- pkg:maven/com.acrolinx.client/sidebar-sdk-java@2.6.1?classifier=sources

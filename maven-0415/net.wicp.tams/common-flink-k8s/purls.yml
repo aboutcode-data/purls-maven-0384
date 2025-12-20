@@ -1,0 +1,2 @@
+- pkg:maven/net.wicp.tams/common-flink-k8s@1.20.0.1
+- pkg:maven/net.wicp.tams/common-flink-k8s@1.20.0.1?classifier=sources

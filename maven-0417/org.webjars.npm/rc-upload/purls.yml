@@ -29,3 +29,4 @@
 - pkg:maven/org.webjars.npm/rc-upload@4.3.4
 - pkg:maven/org.webjars.npm/rc-upload@4.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/rc-upload@4.5.2
+- pkg:maven/org.webjars.npm/rc-upload@4.6.0

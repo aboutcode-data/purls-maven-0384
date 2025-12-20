@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.soteria/soteria@4.0.0
+- pkg:maven/org.glassfish.soteria/soteria@4.0.0?classifier=sources

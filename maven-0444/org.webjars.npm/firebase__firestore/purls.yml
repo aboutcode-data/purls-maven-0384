@@ -18,3 +18,4 @@
 - pkg:maven/org.webjars.npm/firebase__firestore@3.8.2?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__firestore@3.8.3
 - pkg:maven/org.webjars.npm/firebase__firestore@3.8.3?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__firestore@4.7.0

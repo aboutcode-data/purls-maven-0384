@@ -29,6 +29,7 @@
 - pkg:maven/com.tencent.tinker/tinker-android-anno-support@1.9.14.25?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-anno-support@1.9.14.26.3?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-anno-support@1.9.14.26?classifier=sources
+- pkg:maven/com.tencent.tinker/tinker-android-anno-support@1.9.14.27?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-anno-support@1.9.14.7
 - pkg:maven/com.tencent.tinker/tinker-android-anno-support@1.9.14.7?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-anno-support@1.9.14.8

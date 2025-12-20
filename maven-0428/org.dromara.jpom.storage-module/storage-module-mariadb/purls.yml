@@ -6,3 +6,5 @@
 - pkg:maven/org.dromara.jpom.storage-module/storage-module-mariadb@2.11.7?classifier=sources
 - pkg:maven/org.dromara.jpom.storage-module/storage-module-mariadb@2.11.8
 - pkg:maven/org.dromara.jpom.storage-module/storage-module-mariadb@2.11.8?classifier=sources
+- pkg:maven/org.dromara.jpom.storage-module/storage-module-mariadb@2.11.9
+- pkg:maven/org.dromara.jpom.storage-module/storage-module-mariadb@2.11.9?classifier=sources

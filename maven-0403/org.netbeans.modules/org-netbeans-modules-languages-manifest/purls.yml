@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-manifest@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-manifest@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-manifest@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-manifest@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-manifest@RELEASE90?classifier=sources

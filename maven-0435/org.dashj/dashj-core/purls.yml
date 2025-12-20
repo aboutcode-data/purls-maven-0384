@@ -49,3 +49,4 @@
 - pkg:maven/org.dashj/dashj-core@20.0.4
 - pkg:maven/org.dashj/dashj-core@20.0.4?classifier=sources
 - pkg:maven/org.dashj/dashj-core@20.0.5?classifier=sources
+- pkg:maven/org.dashj/dashj-core@21.0.0?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/dnd-kit__core@6.0.0-next-202242114536
 - pkg:maven/org.webjars.npm/dnd-kit__core@6.0.0-next-202242114536?classifier=sources
+- pkg:maven/org.webjars.npm/dnd-kit__core@6.1.0

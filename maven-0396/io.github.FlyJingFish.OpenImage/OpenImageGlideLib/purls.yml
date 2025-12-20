@@ -128,3 +128,4 @@
 - pkg:maven/io.github.FlyJingFish.OpenImage/OpenImageGlideLib@2.2.2?classifier=sources
 - pkg:maven/io.github.FlyJingFish.OpenImage/OpenImageGlideLib@2.2.3?classifier=sources
 - pkg:maven/io.github.FlyJingFish.OpenImage/OpenImageGlideLib@2.2.4?classifier=sources
+- pkg:maven/io.github.FlyJingFish.OpenImage/OpenImageGlideLib@2.2.5?classifier=sources

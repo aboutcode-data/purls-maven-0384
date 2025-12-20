@@ -16,3 +16,5 @@
 - pkg:maven/com.mizhousoft.bmc/bmc-account@1.7.0?classifier=sources
 - pkg:maven/com.mizhousoft.bmc/bmc-account@2.0.0
 - pkg:maven/com.mizhousoft.bmc/bmc-account@2.0.0?classifier=sources
+- pkg:maven/com.mizhousoft.bmc/bmc-account@2.0.1
+- pkg:maven/com.mizhousoft.bmc/bmc-account@2.0.1?classifier=sources

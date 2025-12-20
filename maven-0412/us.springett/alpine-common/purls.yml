@@ -14,3 +14,7 @@
 - pkg:maven/us.springett/alpine-common@2.2.4?classifier=sources
 - pkg:maven/us.springett/alpine-common@2.2.5
 - pkg:maven/us.springett/alpine-common@2.2.5?classifier=sources
+- pkg:maven/us.springett/alpine-common@3.0.1
+- pkg:maven/us.springett/alpine-common@3.0.1?classifier=sources
+- pkg:maven/us.springett/alpine-common@3.1.0
+- pkg:maven/us.springett/alpine-common@3.1.0?classifier=sources

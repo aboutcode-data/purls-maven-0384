@@ -584,3 +584,5 @@
 - pkg:maven/org.fugerit.java/fj-core@8.6.3?classifier=sources
 - pkg:maven/org.fugerit.java/fj-core@8.6.4
 - pkg:maven/org.fugerit.java/fj-core@8.6.4?classifier=sources
+- pkg:maven/org.fugerit.java/fj-core@8.6.5
+- pkg:maven/org.fugerit.java/fj-core@8.6.5?classifier=sources

@@ -32,5 +32,7 @@
 - pkg:maven/com.inteligr8.alfresco/aps-public-rest-api@2.0.8?classifier=sources
 - pkg:maven/com.inteligr8.alfresco/aps-public-rest-api@2.0.9
 - pkg:maven/com.inteligr8.alfresco/aps-public-rest-api@2.0.9?classifier=sources
+- pkg:maven/com.inteligr8.alfresco/aps-public-rest-api@3.0.0
+- pkg:maven/com.inteligr8.alfresco/aps-public-rest-api@3.0.0?classifier=sources
 - pkg:maven/com.inteligr8.alfresco/aps-public-rest-api@v2.0.10
 - pkg:maven/com.inteligr8.alfresco/aps-public-rest-api@v2.0.10?classifier=sources

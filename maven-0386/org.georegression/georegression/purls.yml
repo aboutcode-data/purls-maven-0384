@@ -37,6 +37,7 @@
 - pkg:maven/org.georegression/georegression@0.26?classifier=sources
 - pkg:maven/org.georegression/georegression@0.27.0?classifier=sources
 - pkg:maven/org.georegression/georegression@0.27.1?classifier=sources
+- pkg:maven/org.georegression/georegression@0.27.2?classifier=sources
 - pkg:maven/org.georegression/georegression@0.2?classifier=sources
 - pkg:maven/org.georegression/georegression@0.3
 - pkg:maven/org.georegression/georegression@0.3?classifier=sources

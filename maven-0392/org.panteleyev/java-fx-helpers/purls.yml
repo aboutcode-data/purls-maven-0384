@@ -18,6 +18,10 @@
 - pkg:maven/org.panteleyev/java-fx-helpers@1.15.0?classifier=sources
 - pkg:maven/org.panteleyev/java-fx-helpers@1.16.0
 - pkg:maven/org.panteleyev/java-fx-helpers@1.16.0?classifier=sources
+- pkg:maven/org.panteleyev/java-fx-helpers@1.17.0
+- pkg:maven/org.panteleyev/java-fx-helpers@1.17.0?classifier=sources
+- pkg:maven/org.panteleyev/java-fx-helpers@1.18.0
+- pkg:maven/org.panteleyev/java-fx-helpers@1.18.0?classifier=sources
 - pkg:maven/org.panteleyev/java-fx-helpers@1.2.0
 - pkg:maven/org.panteleyev/java-fx-helpers@1.2.0?classifier=sources
 - pkg:maven/org.panteleyev/java-fx-helpers@1.2.1

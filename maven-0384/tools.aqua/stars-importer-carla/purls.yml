@@ -2,3 +2,4 @@
 - pkg:maven/tools.aqua/stars-importer-carla@0.2.2?classifier=sources
 - pkg:maven/tools.aqua/stars-importer-carla@0.2?classifier=sources
 - pkg:maven/tools.aqua/stars-importer-carla@0.3?classifier=sources
+- pkg:maven/tools.aqua/stars-importer-carla@0.4?classifier=sources

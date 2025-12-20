@@ -20,6 +20,12 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.19.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.19.0.2?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.20.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.21.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.22.0.00?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.22.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.23.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.24.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.24.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.3.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.4.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-iamidentitycenter@5.5.0.0?classifier=sources

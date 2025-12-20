@@ -14,6 +14,8 @@
 - pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@7.7.42?classifier=sources
 - pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@7.7.43
 - pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@7.7.43?classifier=sources
+- pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@7.7.44
+- pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@7.7.44?classifier=sources
 - pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@8.18.0
 - pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@8.18.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-server-mpr-jakarta@8.19.0

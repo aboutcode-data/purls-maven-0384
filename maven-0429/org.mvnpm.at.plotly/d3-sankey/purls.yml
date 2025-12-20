@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.plotly/d3-sankey@0.7.2?classifier=sources
+- pkg:maven/org.mvnpm.at.plotly/d3-sankey@0.7.3?classifier=sources

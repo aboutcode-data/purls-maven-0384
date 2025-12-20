@@ -1,0 +1,4 @@
+- pkg:maven/org.soundsofscala/sounds-of-scala_sjs1_3@0.1.0
+- pkg:maven/org.soundsofscala/sounds-of-scala_sjs1_3@0.1.0-test1
+- pkg:maven/org.soundsofscala/sounds-of-scala_sjs1_3@0.1.0-test1?classifier=sources
+- pkg:maven/org.soundsofscala/sounds-of-scala_sjs1_3@0.1.0?classifier=sources

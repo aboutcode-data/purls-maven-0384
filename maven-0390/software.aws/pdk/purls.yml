@@ -207,6 +207,8 @@
 - pkg:maven/software.aws/pdk@0.23.46?classifier=sources
 - pkg:maven/software.aws/pdk@0.23.47
 - pkg:maven/software.aws/pdk@0.23.47?classifier=sources
+- pkg:maven/software.aws/pdk@0.23.48
+- pkg:maven/software.aws/pdk@0.23.48?classifier=sources
 - pkg:maven/software.aws/pdk@0.23.4?classifier=sources
 - pkg:maven/software.aws/pdk@0.23.5
 - pkg:maven/software.aws/pdk@0.23.5?classifier=sources

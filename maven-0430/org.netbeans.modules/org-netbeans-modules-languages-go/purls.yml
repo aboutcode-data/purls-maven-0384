@@ -3,3 +3,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-go@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-go@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-go@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-go@RELEASE230?classifier=sources

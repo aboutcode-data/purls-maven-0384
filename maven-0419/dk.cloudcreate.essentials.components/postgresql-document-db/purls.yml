@@ -4,3 +4,7 @@
 - pkg:maven/dk.cloudcreate.essentials.components/postgresql-document-db@0.40.11?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials.components/postgresql-document-db@0.40.12
 - pkg:maven/dk.cloudcreate.essentials.components/postgresql-document-db@0.40.12?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials.components/postgresql-document-db@0.40.13
+- pkg:maven/dk.cloudcreate.essentials.components/postgresql-document-db@0.40.13?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials.components/postgresql-document-db@0.40.14
+- pkg:maven/dk.cloudcreate.essentials.components/postgresql-document-db@0.40.14?classifier=sources

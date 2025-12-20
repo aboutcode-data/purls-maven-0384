@@ -1,0 +1,4 @@
+- pkg:maven/com.google.cloud.hosted.kafka/managed-kafka-auth-login-handler@1.0.0
+- pkg:maven/com.google.cloud.hosted.kafka/managed-kafka-auth-login-handler@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud.hosted.kafka/managed-kafka-auth-login-handler@1.0.1
+- pkg:maven/com.google.cloud.hosted.kafka/managed-kafka-auth-login-handler@1.0.1?classifier=sources

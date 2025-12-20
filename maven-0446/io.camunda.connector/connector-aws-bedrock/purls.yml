@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda.connector/connector-aws-bedrock@8.6.0-alpha4
+- pkg:maven/io.camunda.connector/connector-aws-bedrock@8.6.0-alpha4?classifier=sources

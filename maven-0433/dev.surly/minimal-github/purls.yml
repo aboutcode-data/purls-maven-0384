@@ -1,0 +1,2 @@
+- pkg:maven/dev.surly/minimal-github@0.1.0?classifier=sources
+- pkg:maven/dev.surly/minimal-github@0.1.2?classifier=sources

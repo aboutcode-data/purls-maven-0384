@@ -36,6 +36,7 @@
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.42.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.43.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.44.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.45.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.5.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.6.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-distributions@0.7.0?classifier=sources

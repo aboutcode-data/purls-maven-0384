@@ -1,0 +1,8 @@
+- pkg:maven/com.coralogix/android-sdk@1.0.0-alpha.1?classifier=sources
+- pkg:maven/com.coralogix/android-sdk@1.0.0-alpha.2?classifier=sources
+- pkg:maven/com.coralogix/android-sdk@1.0.0-alpha?classifier=sources
+- pkg:maven/com.coralogix/android-sdk@1.0.0-release?classifier=sources
+- pkg:maven/com.coralogix/android-sdk@1.0.0-test-1?classifier=sources
+- pkg:maven/com.coralogix/android-sdk@1.0.0-test-2?classifier=sources
+- pkg:maven/com.coralogix/android-sdk@1.0.0-test?classifier=sources
+- pkg:maven/com.coralogix/android-sdk@1.0.0?classifier=sources

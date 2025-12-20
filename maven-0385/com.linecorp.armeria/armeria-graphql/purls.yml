@@ -59,6 +59,7 @@
 - pkg:maven/com.linecorp.armeria/armeria-graphql@1.29.2?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-graphql@1.29.3?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-graphql@1.29.4?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-graphql@1.30.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-graphql@1.9.0
 - pkg:maven/com.linecorp.armeria/armeria-graphql@1.9.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-graphql@1.9.1?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-eecommon@RELEASE230?classifier=sources

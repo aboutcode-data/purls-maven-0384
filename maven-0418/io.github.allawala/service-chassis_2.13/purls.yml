@@ -1,0 +1,2 @@
+- pkg:maven/io.github.allawala/service-chassis_2.13@1.0.15
+- pkg:maven/io.github.allawala/service-chassis_2.13@1.0.15?classifier=sources

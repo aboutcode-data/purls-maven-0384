@@ -68,3 +68,5 @@
 - pkg:maven/com.github.siom79.japicmp/japicmp-ant-task@0.21.2?classifier=sources
 - pkg:maven/com.github.siom79.japicmp/japicmp-ant-task@0.22.0
 - pkg:maven/com.github.siom79.japicmp/japicmp-ant-task@0.22.0?classifier=sources
+- pkg:maven/com.github.siom79.japicmp/japicmp-ant-task@0.23.0
+- pkg:maven/com.github.siom79.japicmp/japicmp-ant-task@0.23.0?classifier=sources

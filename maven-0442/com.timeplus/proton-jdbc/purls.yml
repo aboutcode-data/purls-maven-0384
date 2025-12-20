@@ -4,3 +4,7 @@
 - pkg:maven/com.timeplus/proton-jdbc@0.5.0?classifier=sources
 - pkg:maven/com.timeplus/proton-jdbc@0.6.0
 - pkg:maven/com.timeplus/proton-jdbc@0.6.0?classifier=sources
+- pkg:maven/com.timeplus/proton-jdbc@0.7.0
+- pkg:maven/com.timeplus/proton-jdbc@0.7.0?classifier=sources
+- pkg:maven/com.timeplus/proton-jdbc@0.7.1
+- pkg:maven/com.timeplus/proton-jdbc@0.7.1?classifier=sources
