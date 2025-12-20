@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.chaokejun/ckapi-common@0.0.11?classifier=sources
+- pkg:maven/io.gitee.chaokejun/ckapi-common@0.0.1?classifier=sources

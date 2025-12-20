@@ -1,0 +1,2 @@
+- pkg:maven/nl.gn0s1s/sbt-license-check_2.12_1.0@0.0.3
+- pkg:maven/nl.gn0s1s/sbt-license-check_2.12_1.0@0.0.3?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.5.7
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.5.8
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.5.9
+- pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.6.0
+- pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.6.1

@@ -122,6 +122,14 @@
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20240902-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20240914-2.0.0
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20240914-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20240930-2.0.0
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20240930-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20241006-2.0.0
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20241006-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20241015-2.0.0
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20241015-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20241022-2.0.0
+- pkg:maven/com.google.apis/google-api-services-datamigration@v1-rev20241022-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20201027-1.30.10
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20201027-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datamigration@v1beta1-rev20201028-1.30.10

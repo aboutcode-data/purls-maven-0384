@@ -17,3 +17,4 @@
 - pkg:maven/com.jashmore/avro-spring-cloud-schema-registry-extension@5.0.0?classifier=sources
 - pkg:maven/com.jashmore/avro-spring-cloud-schema-registry-extension@5.1.0?classifier=sources
 - pkg:maven/com.jashmore/avro-spring-cloud-schema-registry-extension@6.0.0?classifier=sources
+- pkg:maven/com.jashmore/avro-spring-cloud-schema-registry-extension@7.0.0?classifier=sources

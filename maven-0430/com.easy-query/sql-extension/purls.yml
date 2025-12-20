@@ -268,6 +268,7 @@
 - pkg:maven/com.easy-query/sql-extension@2.0.0-beta1
 - pkg:maven/com.easy-query/sql-extension@2.0.1
 - pkg:maven/com.easy-query/sql-extension@2.0.10
+- pkg:maven/com.easy-query/sql-extension@2.0.101
 - pkg:maven/com.easy-query/sql-extension@2.0.11
 - pkg:maven/com.easy-query/sql-extension@2.0.12
 - pkg:maven/com.easy-query/sql-extension@2.0.13
@@ -336,4 +337,14 @@
 - pkg:maven/com.easy-query/sql-extension@2.0.8
 - pkg:maven/com.easy-query/sql-extension@2.0.80
 - pkg:maven/com.easy-query/sql-extension@2.0.81
+- pkg:maven/com.easy-query/sql-extension@2.0.82
 - pkg:maven/com.easy-query/sql-extension@2.0.9
+- pkg:maven/com.easy-query/sql-extension@2.0.90
+- pkg:maven/com.easy-query/sql-extension@2.0.91
+- pkg:maven/com.easy-query/sql-extension@2.0.92
+- pkg:maven/com.easy-query/sql-extension@2.0.93
+- pkg:maven/com.easy-query/sql-extension@2.0.94
+- pkg:maven/com.easy-query/sql-extension@2.0.95
+- pkg:maven/com.easy-query/sql-extension@2.0.96
+- pkg:maven/com.easy-query/sql-extension@2.0.97
+- pkg:maven/com.easy-query/sql-extension@2.0.98

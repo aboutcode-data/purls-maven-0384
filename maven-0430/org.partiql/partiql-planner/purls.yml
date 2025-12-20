@@ -9,3 +9,4 @@
 - pkg:maven/org.partiql/partiql-planner@0.14.8?classifier=sources
 - pkg:maven/org.partiql/partiql-planner@0.14.9?classifier=sources
 - pkg:maven/org.partiql/partiql-planner@1.0.0-perf.1?classifier=sources
+- pkg:maven/org.partiql/partiql-planner@1.0.0-rc.1?classifier=sources

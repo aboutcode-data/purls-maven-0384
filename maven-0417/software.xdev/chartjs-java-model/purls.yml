@@ -26,3 +26,5 @@
 - pkg:maven/software.xdev/chartjs-java-model@2.2.0?classifier=sources
 - pkg:maven/software.xdev/chartjs-java-model@2.3.0
 - pkg:maven/software.xdev/chartjs-java-model@2.3.0?classifier=sources
+- pkg:maven/software.xdev/chartjs-java-model@2.3.1
+- pkg:maven/software.xdev/chartjs-java-model@2.3.1?classifier=sources

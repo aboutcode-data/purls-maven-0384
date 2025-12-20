@@ -1,0 +1,4 @@
+- pkg:maven/be.orbinson.osgi/opentelemetry-logback-appender-1.0@1.33.6-alpha.0000
+- pkg:maven/be.orbinson.osgi/opentelemetry-logback-appender-1.0@1.33.6-alpha.0000?classifier=sources
+- pkg:maven/be.orbinson.osgi/opentelemetry-logback-appender-1.0@2.9.0-alpha.0001
+- pkg:maven/be.orbinson.osgi/opentelemetry-logback-appender-1.0@2.9.0-alpha.0001?classifier=sources

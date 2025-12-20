@@ -14,3 +14,5 @@
 - pkg:maven/com.solacesystems/solclientj-native-common@10.6.0?classifier=sources
 - pkg:maven/com.solacesystems/solclientj-native-common@10.7.0
 - pkg:maven/com.solacesystems/solclientj-native-common@10.7.0?classifier=sources
+- pkg:maven/com.solacesystems/solclientj-native-common@10.8.0
+- pkg:maven/com.solacesystems/solclientj-native-common@10.8.0?classifier=sources

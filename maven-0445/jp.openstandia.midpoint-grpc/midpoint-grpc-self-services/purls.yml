@@ -46,3 +46,5 @@
 - pkg:maven/jp.openstandia.midpoint-grpc/midpoint-grpc-self-services@2.4.2?classifier=sources
 - pkg:maven/jp.openstandia.midpoint-grpc/midpoint-grpc-self-services@3.0.0
 - pkg:maven/jp.openstandia.midpoint-grpc/midpoint-grpc-self-services@3.0.0?classifier=sources
+- pkg:maven/jp.openstandia.midpoint-grpc/midpoint-grpc-self-services@3.1.0
+- pkg:maven/jp.openstandia.midpoint-grpc/midpoint-grpc-self-services@3.1.0?classifier=sources

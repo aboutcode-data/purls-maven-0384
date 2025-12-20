@@ -1,4 +1,5 @@
 - pkg:maven/com.pulumi/external@0.0.1-alpha.1686861021%2Bc7f3fb96?classifier=sources
+- pkg:maven/com.pulumi/external@0.0.10?classifier=sources
 - pkg:maven/com.pulumi/external@0.0.1?classifier=sources
 - pkg:maven/com.pulumi/external@0.0.2-alpha.1695237080%2B70923987?classifier=sources
 - pkg:maven/com.pulumi/external@0.0.2-alpha.1695238082%2Bc5db1c2e?classifier=sources
@@ -116,3 +117,10 @@
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1727221199?classifier=sources
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1727846723?classifier=sources
 - pkg:maven/com.pulumi/external@0.1.0-alpha.1727875891?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1728106200?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1728365336?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1728590441?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1729056588?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1729186518?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1729195318?classifier=sources
+- pkg:maven/com.pulumi/external@0.1.0-alpha.1730179674?classifier=sources

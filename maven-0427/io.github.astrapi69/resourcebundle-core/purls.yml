@@ -4,3 +4,4 @@
 - pkg:maven/io.github.astrapi69/resourcebundle-core@4.3?classifier=sources
 - pkg:maven/io.github.astrapi69/resourcebundle-core@4.4?classifier=sources
 - pkg:maven/io.github.astrapi69/resourcebundle-core@5?classifier=sources
+- pkg:maven/io.github.astrapi69/resourcebundle-core@6.0?classifier=sources

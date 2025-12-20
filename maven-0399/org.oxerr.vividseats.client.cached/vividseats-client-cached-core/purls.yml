@@ -1,0 +1,2 @@
+- pkg:maven/org.oxerr.vividseats.client.cached/vividseats-client-cached-core@0.0.0
+- pkg:maven/org.oxerr.vividseats.client.cached/vividseats-client-cached-core@0.0.0?classifier=sources

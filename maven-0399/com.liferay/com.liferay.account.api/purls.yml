@@ -205,6 +205,7 @@
 - pkg:maven/com.liferay/com.liferay.account.api@23.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.api@24.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.api@25.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.account.api@26.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.account.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.api@3.0.0?classifier=sources-commercial

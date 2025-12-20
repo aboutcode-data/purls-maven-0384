@@ -1,3 +1,4 @@
 - pkg:maven/com.brightsparklabs/datastore@0.1.0-1
 - pkg:maven/com.brightsparklabs/datastore@0.1.0-1?classifier=sources
 - pkg:maven/com.brightsparklabs/datastore@1.0.0?classifier=sources
+- pkg:maven/com.brightsparklabs/datastore@1.1.0?classifier=sources

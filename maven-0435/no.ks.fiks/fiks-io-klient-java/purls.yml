@@ -116,3 +116,5 @@
 - pkg:maven/no.ks.fiks/fiks-io-klient-java@3.3.5?classifier=sources
 - pkg:maven/no.ks.fiks/fiks-io-klient-java@3.3.6
 - pkg:maven/no.ks.fiks/fiks-io-klient-java@3.3.6?classifier=sources
+- pkg:maven/no.ks.fiks/fiks-io-klient-java@3.4.0
+- pkg:maven/no.ks.fiks/fiks-io-klient-java@3.4.0?classifier=sources

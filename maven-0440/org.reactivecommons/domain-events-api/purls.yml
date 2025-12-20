@@ -94,3 +94,4 @@
 - pkg:maven/org.reactivecommons/domain-events-api@5.0.1-beta?classifier=sources
 - pkg:maven/org.reactivecommons/domain-events-api@5.0.2-alpha?classifier=sources
 - pkg:maven/org.reactivecommons/domain-events-api@5.0.3-alpha?classifier=sources
+- pkg:maven/org.reactivecommons/domain-events-api@5.1.0-beta?classifier=sources

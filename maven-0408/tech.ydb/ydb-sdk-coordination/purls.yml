@@ -56,3 +56,9 @@
 - pkg:maven/tech.ydb/ydb-sdk-coordination@2.3.1?classifier=sources
 - pkg:maven/tech.ydb/ydb-sdk-coordination@2.3.2
 - pkg:maven/tech.ydb/ydb-sdk-coordination@2.3.2?classifier=sources
+- pkg:maven/tech.ydb/ydb-sdk-coordination@2.3.3
+- pkg:maven/tech.ydb/ydb-sdk-coordination@2.3.3?classifier=sources
+- pkg:maven/tech.ydb/ydb-sdk-coordination@2.3.4
+- pkg:maven/tech.ydb/ydb-sdk-coordination@2.3.4?classifier=sources
+- pkg:maven/tech.ydb/ydb-sdk-coordination@2.3.5
+- pkg:maven/tech.ydb/ydb-sdk-coordination@2.3.5?classifier=sources

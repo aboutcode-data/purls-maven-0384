@@ -54,6 +54,11 @@
 - pkg:maven/org.mvnpm.at.sentry/browser@8.30.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@8.31.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@8.32.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@8.33.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@8.33.1?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@8.34.0-internal.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@8.34.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@8.35.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@8.4.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@8.5.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@8.6.0?classifier=sources

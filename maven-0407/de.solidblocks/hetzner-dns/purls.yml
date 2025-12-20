@@ -1,1 +1,2 @@
 - pkg:maven/de.solidblocks/hetzner-dns@v0.2.9-pre5?classifier=sources
+- pkg:maven/de.solidblocks/hetzner-dns@v0.2.9?classifier=sources

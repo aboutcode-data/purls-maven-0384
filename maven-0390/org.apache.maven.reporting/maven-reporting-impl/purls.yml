@@ -44,6 +44,7 @@
 - pkg:maven/org.apache.maven.reporting/maven-reporting-impl@3.2.0
 - pkg:maven/org.apache.maven.reporting/maven-reporting-impl@3.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.reporting/maven-reporting-impl@3.2.0?classifier=sources
+- pkg:maven/org.apache.maven.reporting/maven-reporting-impl@4.0.0
 - pkg:maven/org.apache.maven.reporting/maven-reporting-impl@4.0.0-M1
 - pkg:maven/org.apache.maven.reporting/maven-reporting-impl@4.0.0-M10
 - pkg:maven/org.apache.maven.reporting/maven-reporting-impl@4.0.0-M10?classifier=source-release&type=zip
@@ -89,3 +90,5 @@
 - pkg:maven/org.apache.maven.reporting/maven-reporting-impl@4.0.0-M9
 - pkg:maven/org.apache.maven.reporting/maven-reporting-impl@4.0.0-M9?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.reporting/maven-reporting-impl@4.0.0-M9?classifier=sources
+- pkg:maven/org.apache.maven.reporting/maven-reporting-impl@4.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.reporting/maven-reporting-impl@4.0.0?classifier=sources

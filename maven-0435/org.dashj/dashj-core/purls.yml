@@ -51,3 +51,5 @@
 - pkg:maven/org.dashj/dashj-core@20.0.5?classifier=sources
 - pkg:maven/org.dashj/dashj-core@21.0.0?classifier=sources
 - pkg:maven/org.dashj/dashj-core@21.1.0?classifier=sources
+- pkg:maven/org.dashj/dashj-core@21.1.1?classifier=sources
+- pkg:maven/org.dashj/dashj-core@21.1.2?classifier=sources

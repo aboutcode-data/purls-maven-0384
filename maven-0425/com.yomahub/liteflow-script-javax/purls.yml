@@ -1,0 +1,4 @@
+- pkg:maven/com.yomahub/liteflow-script-javax@2.12.4
+- pkg:maven/com.yomahub/liteflow-script-javax@2.12.4.1
+- pkg:maven/com.yomahub/liteflow-script-javax@2.12.4.1?classifier=sources
+- pkg:maven/com.yomahub/liteflow-script-javax@2.12.4?classifier=sources

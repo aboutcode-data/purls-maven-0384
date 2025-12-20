@@ -10,3 +10,7 @@
 - pkg:maven/com.mapp.intelligence.tracking/shop-example@0.1.5?type=war
 - pkg:maven/com.mapp.intelligence.tracking/shop-example@0.2.0?classifier=sources
 - pkg:maven/com.mapp.intelligence.tracking/shop-example@0.2.0?type=war
+- pkg:maven/com.mapp.intelligence.tracking/shop-example@0.2.3?classifier=sources
+- pkg:maven/com.mapp.intelligence.tracking/shop-example@0.2.3?type=war
+- pkg:maven/com.mapp.intelligence.tracking/shop-example@0.2.4?classifier=sources
+- pkg:maven/com.mapp.intelligence.tracking/shop-example@0.2.4?type=war

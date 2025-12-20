@@ -62,3 +62,4 @@
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxws-jws-api-1.1@2.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxws-jws-api-1.1@2.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxws-jws-api-1.1@2.8.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxws-jws-api-1.1@2.9.0-alpha?classifier=sources

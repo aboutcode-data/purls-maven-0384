@@ -26,3 +26,5 @@
 - pkg:maven/io.axual.connect.plugins.http/http-sink-connector@1.0.1?classifier=sources
 - pkg:maven/io.axual.connect.plugins.http/http-sink-connector@1.0.2
 - pkg:maven/io.axual.connect.plugins.http/http-sink-connector@1.0.2?classifier=sources
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@1.1.0-RC1
+- pkg:maven/io.axual.connect.plugins.http/http-sink-connector@1.1.0-RC1?classifier=sources

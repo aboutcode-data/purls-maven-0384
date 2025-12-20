@@ -108,6 +108,13 @@
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-19-52f4aab0
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-2-ab259f77
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-20-119e4855
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-21-1237ac54
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-22-8514e27b
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-23-f47aa783
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-24-5f9523b4
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-25-97abcdbf
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-26-3b644efe
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-27-7ea2a8c0
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-3-d19058d7
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-4-e50b08f9
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-5-246d6f43
@@ -115,3 +122,5 @@
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-7-ab92b74c
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-8-934ad33f
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-9-c1cc2b3a
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.3
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.3-1-f46439ce

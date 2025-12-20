@@ -1,0 +1,4 @@
+- pkg:maven/fr.rozanc.maven/maven-git-versioning-extension@9.8.2-java8.1?classifier=sources
+- pkg:maven/fr.rozanc.maven/maven-git-versioning-extension@9.8.2-java8.2?classifier=sources
+- pkg:maven/fr.rozanc.maven/maven-git-versioning-extension@9.8.2-java8.3?classifier=sources
+- pkg:maven/fr.rozanc.maven/maven-git-versioning-extension@9.8.2-java8?classifier=sources

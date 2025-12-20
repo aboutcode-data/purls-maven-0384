@@ -109,3 +109,4 @@
 - pkg:maven/com.liferay/com.liferay.style.book.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.api@8.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.style.book.api@9.0.0?classifier=sources

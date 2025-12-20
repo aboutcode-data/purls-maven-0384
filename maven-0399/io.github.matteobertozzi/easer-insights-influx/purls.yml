@@ -1,0 +1,2 @@
+- pkg:maven/io.github.matteobertozzi/easer-insights-influx@1.0.0
+- pkg:maven/io.github.matteobertozzi/easer-insights-influx@1.0.0?classifier=sources

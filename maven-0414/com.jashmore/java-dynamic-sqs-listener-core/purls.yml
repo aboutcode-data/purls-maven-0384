@@ -41,3 +41,4 @@
 - pkg:maven/com.jashmore/java-dynamic-sqs-listener-core@5.0.0?classifier=sources
 - pkg:maven/com.jashmore/java-dynamic-sqs-listener-core@5.1.0?classifier=sources
 - pkg:maven/com.jashmore/java-dynamic-sqs-listener-core@6.0.0?classifier=sources
+- pkg:maven/com.jashmore/java-dynamic-sqs-listener-core@7.0.0?classifier=sources

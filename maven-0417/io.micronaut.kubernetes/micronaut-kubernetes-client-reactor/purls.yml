@@ -18,3 +18,4 @@
 - pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-client-reactor@5.1.0?classifier=sources
 - pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-client-reactor@6.0.0?classifier=sources
 - pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-client-reactor@6.1.0?classifier=sources
+- pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-client-reactor@6.2.0?classifier=sources

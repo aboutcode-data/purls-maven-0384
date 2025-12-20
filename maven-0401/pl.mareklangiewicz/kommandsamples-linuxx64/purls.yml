@@ -41,3 +41,4 @@
 - pkg:maven/pl.mareklangiewicz/kommandsamples-linuxx64@0.0.82?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kommandsamples-linuxx64@0.0.83?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kommandsamples-linuxx64@0.0.84?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kommandsamples-linuxx64@0.0.85?classifier=sources

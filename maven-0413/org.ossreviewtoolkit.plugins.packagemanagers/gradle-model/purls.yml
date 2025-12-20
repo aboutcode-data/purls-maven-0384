@@ -42,6 +42,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-model@32.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-model@33.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-model@33.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-model@34.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-model@35.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-model@36.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-model@37.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-model@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-model@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/gradle-model@5.1.0?classifier=sources

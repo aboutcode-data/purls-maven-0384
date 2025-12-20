@@ -1,0 +1,4 @@
+- pkg:maven/aws.sdk.kotlin/hll-mapping-core-jvm@1.3.64-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/hll-mapping-core-jvm@1.3.65-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/hll-mapping-core-jvm@1.3.66-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/hll-mapping-core-jvm@1.3.67-beta?classifier=sources

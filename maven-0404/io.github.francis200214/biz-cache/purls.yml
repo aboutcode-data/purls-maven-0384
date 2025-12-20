@@ -14,3 +14,5 @@
 - pkg:maven/io.github.francis200214/biz-cache@1.4.8?classifier=sources
 - pkg:maven/io.github.francis200214/biz-cache@1.4.9-release
 - pkg:maven/io.github.francis200214/biz-cache@1.4.9-release?classifier=sources
+- pkg:maven/io.github.francis200214/biz-cache@1.5.1
+- pkg:maven/io.github.francis200214/biz-cache@1.5.1?classifier=sources

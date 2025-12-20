@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.contrib.otel/zipkin-module-otel@0.1.0
+- pkg:maven/io.zipkin.contrib.otel/zipkin-module-otel@0.1.0?classifier=sources
