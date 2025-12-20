@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.xstructural/com.io7m.xstructural.maven_plugin@1.8.0
 - pkg:maven/com.io7m.xstructural/com.io7m.xstructural.maven_plugin@1.8.0?classifier=sources
+- pkg:maven/com.io7m.xstructural/com.io7m.xstructural.maven_plugin@1.8.1
+- pkg:maven/com.io7m.xstructural/com.io7m.xstructural.maven_plugin@1.8.1?classifier=sources

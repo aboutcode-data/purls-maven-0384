@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-knockout@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-knockout@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-knockout@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-knockout@RELEASE220?classifier=sources

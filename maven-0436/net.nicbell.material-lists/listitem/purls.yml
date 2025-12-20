@@ -8,3 +8,4 @@
 - pkg:maven/net.nicbell.material-lists/listitem@0.4.0?classifier=sources
 - pkg:maven/net.nicbell.material-lists/listitem@0.5.0?classifier=sources
 - pkg:maven/net.nicbell.material-lists/listitem@0.5.1?classifier=sources
+- pkg:maven/net.nicbell.material-lists/listitem@0.5.2?classifier=sources

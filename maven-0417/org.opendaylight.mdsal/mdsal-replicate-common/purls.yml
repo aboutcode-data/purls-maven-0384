@@ -40,10 +40,15 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@12.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@12.0.4?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@12.0.5?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@12.0.6
+- pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@12.0.6?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@13.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@13.0.1
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@13.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@13.0.2?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@13.0.3?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@13.0.4
+- pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@13.0.4?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@4.0.15
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@4.0.15?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-replicate-common@4.0.16

@@ -39,6 +39,8 @@
 - pkg:maven/foundation.fluent.api/querydsl-parser@0.27?classifier=sources
 - pkg:maven/foundation.fluent.api/querydsl-parser@0.28
 - pkg:maven/foundation.fluent.api/querydsl-parser@0.28?classifier=sources
+- pkg:maven/foundation.fluent.api/querydsl-parser@0.29
+- pkg:maven/foundation.fluent.api/querydsl-parser@0.29?classifier=sources
 - pkg:maven/foundation.fluent.api/querydsl-parser@0.2?classifier=sources
 - pkg:maven/foundation.fluent.api/querydsl-parser@0.3
 - pkg:maven/foundation.fluent.api/querydsl-parser@0.3?classifier=sources

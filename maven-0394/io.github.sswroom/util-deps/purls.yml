@@ -2,3 +2,7 @@
 - pkg:maven/io.github.sswroom/util-deps@0.2.20240405?classifier=sources
 - pkg:maven/io.github.sswroom/util-deps@0.2.20240418?classifier=sources
 - pkg:maven/io.github.sswroom/util-deps@0.2.20240419?classifier=sources
+- pkg:maven/io.github.sswroom/util-deps@0.2.20240503?classifier=sources
+- pkg:maven/io.github.sswroom/util-deps@0.2.20240509?classifier=sources
+- pkg:maven/io.github.sswroom/util-deps@0.2.20240510?classifier=sources
+- pkg:maven/io.github.sswroom/util-deps@0.2.20240513?classifier=sources

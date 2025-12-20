@@ -62,3 +62,5 @@
 - pkg:maven/net.openhft/chronicle-test-framework@2.25ea8?classifier=sources
 - pkg:maven/net.openhft/chronicle-test-framework@2.25ea9
 - pkg:maven/net.openhft/chronicle-test-framework@2.25ea9?classifier=sources
+- pkg:maven/net.openhft/chronicle-test-framework@2.26ea0
+- pkg:maven/net.openhft/chronicle-test-framework@2.26ea0?classifier=sources

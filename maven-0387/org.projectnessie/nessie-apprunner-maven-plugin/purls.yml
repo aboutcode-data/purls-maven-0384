@@ -63,6 +63,7 @@
 - pkg:maven/org.projectnessie/nessie-apprunner-maven-plugin@0.31.0
 - pkg:maven/org.projectnessie/nessie-apprunner-maven-plugin@0.32.0
 - pkg:maven/org.projectnessie/nessie-apprunner-maven-plugin@0.32.1
+- pkg:maven/org.projectnessie/nessie-apprunner-maven-plugin@0.32.2
 - pkg:maven/org.projectnessie/nessie-apprunner-maven-plugin@0.4.0
 - pkg:maven/org.projectnessie/nessie-apprunner-maven-plugin@0.4.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-apprunner-maven-plugin@0.5.0

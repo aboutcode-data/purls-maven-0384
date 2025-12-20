@@ -66,3 +66,5 @@
 - pkg:maven/org.webjars.npm/htmx.org@2.0.0-alpha1?classifier=sources
 - pkg:maven/org.webjars.npm/htmx.org@2.0.0-alpha2
 - pkg:maven/org.webjars.npm/htmx.org@2.0.0-alpha2?classifier=sources
+- pkg:maven/org.webjars.npm/htmx.org@2.0.0-beta3
+- pkg:maven/org.webjars.npm/htmx.org@2.0.0-beta4

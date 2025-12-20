@@ -30,3 +30,10 @@
 - pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.68.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.70.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.71.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.72.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.75.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.77.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.77.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.78.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.79.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-azure-kotlin@5.79.0.1?classifier=sources

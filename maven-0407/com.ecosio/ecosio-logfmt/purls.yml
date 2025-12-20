@@ -1,0 +1,2 @@
+- pkg:maven/com.ecosio/ecosio-logfmt@0.0.1-test2?classifier=sources
+- pkg:maven/com.ecosio/ecosio-logfmt@1.0.3?classifier=sources

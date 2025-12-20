@@ -1,0 +1,2 @@
+- pkg:maven/io.github.javpower/redis-plus-boot-starter@3.9.1.1
+- pkg:maven/io.github.javpower/redis-plus-boot-starter@3.9.1.1?classifier=sources

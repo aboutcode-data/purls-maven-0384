@@ -18,7 +18,15 @@
 - pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@3.24.0?classifier=sources
 - pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@3.25.0
 - pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@3.25.0?classifier=sources
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@3.26.0
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@3.26.0?classifier=sources
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@3.26.1
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@3.26.1?classifier=sources
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@3.26.2
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@3.26.2?classifier=sources
 - pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC1
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC10
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC10?classifier=sources
 - pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC1?classifier=sources
 - pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC2
 - pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC2?classifier=sources
@@ -30,3 +38,9 @@
 - pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC5?classifier=sources
 - pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC6
 - pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC6?classifier=sources
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC7
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC7?classifier=sources
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC8
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC8?classifier=sources
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC9
+- pkg:maven/org.jetbrains/sbt-declarative-packaging_2.12_1.0@4.0.0-RC9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ajalt.mordant/mordant-linuxarm64@2.5.0?classifier=sources
+- pkg:maven/com.github.ajalt.mordant/mordant-linuxarm64@2.6.0?classifier=sources

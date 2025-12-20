@@ -27,3 +27,5 @@
 - pkg:maven/org.csveed/csveed@0.7.4?classifier=sources
 - pkg:maven/org.csveed/csveed@0.7.5?classifier=sources
 - pkg:maven/org.csveed/csveed@0.7.6?classifier=sources
+- pkg:maven/org.csveed/csveed@0.8.0?classifier=sources
+- pkg:maven/org.csveed/csveed@0.8.1?classifier=sources

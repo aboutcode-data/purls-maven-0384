@@ -1,0 +1,8 @@
+- pkg:maven/ai.superstream/spring-kafka@2.8.4-alpha1?classifier=sources
+- pkg:maven/ai.superstream/spring-kafka@2.8.4-alpha2?classifier=sources
+- pkg:maven/ai.superstream/spring-kafka@2.8.4-alpha3?classifier=sources
+- pkg:maven/ai.superstream/spring-kafka@2.8.4-alpha4?classifier=sources
+- pkg:maven/ai.superstream/spring-kafka@2.8.4-alpha5?classifier=sources
+- pkg:maven/ai.superstream/spring-kafka@2.8.4-alpha6?classifier=sources
+- pkg:maven/ai.superstream/spring-kafka@3.0.1-alpha1?classifier=sources
+- pkg:maven/ai.superstream/spring-kafka@3.1.2-alpha1?classifier=sources

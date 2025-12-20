@@ -22,3 +22,5 @@
 - pkg:maven/com.faendir.kotlin.autodsl/annotations@2.2.4?classifier=sources
 - pkg:maven/com.faendir.kotlin.autodsl/annotations@2.2.5?classifier=sources
 - pkg:maven/com.faendir.kotlin.autodsl/annotations@2.2.9?classifier=sources
+- pkg:maven/com.faendir.kotlin.autodsl/annotations@2.3.0?classifier=sources
+- pkg:maven/com.faendir.kotlin.autodsl/annotations@2.3.1?classifier=sources

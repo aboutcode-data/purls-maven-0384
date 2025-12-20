@@ -1,2 +1,8 @@
 - pkg:maven/software.amazon.awsconstructs/constructsfactories@2.56.0
 - pkg:maven/software.amazon.awsconstructs/constructsfactories@2.56.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/constructsfactories@2.57.0
+- pkg:maven/software.amazon.awsconstructs/constructsfactories@2.57.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/constructsfactories@2.58.0
+- pkg:maven/software.amazon.awsconstructs/constructsfactories@2.58.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/constructsfactories@2.58.1
+- pkg:maven/software.amazon.awsconstructs/constructsfactories@2.58.1?classifier=sources

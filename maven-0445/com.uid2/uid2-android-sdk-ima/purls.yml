@@ -7,3 +7,4 @@
 - pkg:maven/com.uid2/uid2-android-sdk-ima@0.7.0?classifier=sources
 - pkg:maven/com.uid2/uid2-android-sdk-ima@0.9.0?classifier=sources
 - pkg:maven/com.uid2/uid2-android-sdk-ima@1.0.0?classifier=sources
+- pkg:maven/com.uid2/uid2-android-sdk-ima@1.2.0?classifier=sources

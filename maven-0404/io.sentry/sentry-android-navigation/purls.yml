@@ -118,6 +118,7 @@
 - pkg:maven/io.sentry/sentry-android-navigation@7.0.0?type=aar
 - pkg:maven/io.sentry/sentry-android-navigation@7.1.0?classifier=sources
 - pkg:maven/io.sentry/sentry-android-navigation@7.1.0?type=aar
+- pkg:maven/io.sentry/sentry-android-navigation@7.10.0?classifier=sources
 - pkg:maven/io.sentry/sentry-android-navigation@7.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-android-navigation@7.2.0?type=aar
 - pkg:maven/io.sentry/sentry-android-navigation@7.3.0?classifier=sources
@@ -136,3 +137,7 @@
 - pkg:maven/io.sentry/sentry-android-navigation@7.8.0?type=aar
 - pkg:maven/io.sentry/sentry-android-navigation@7.9.0-alpha.1?classifier=sources
 - pkg:maven/io.sentry/sentry-android-navigation@7.9.0-alpha.1?type=aar
+- pkg:maven/io.sentry/sentry-android-navigation@7.9.0?classifier=sources
+- pkg:maven/io.sentry/sentry-android-navigation@7.9.0?type=aar
+- pkg:maven/io.sentry/sentry-android-navigation@8.0.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-android-navigation@8.0.0-alpha.1?type=aar

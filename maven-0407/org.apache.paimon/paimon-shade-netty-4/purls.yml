@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.paimon/paimon-shade-netty-4@4.1.100.Final-0.6.0-incubating
+- pkg:maven/org.apache.paimon/paimon-shade-netty-4@4.1.100.Final-0.8.0

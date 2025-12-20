@@ -12,3 +12,5 @@
 - pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.profiling@9.7.0?classifier=sources
 - pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.profiling@9.8.0
 - pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.profiling@9.8.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.profiling@9.8.5
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.profiling@9.8.5?classifier=sources

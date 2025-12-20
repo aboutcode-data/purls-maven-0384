@@ -12,3 +12,5 @@
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-dbapi-adapter_2.13@2.8.0-scalikejdbc-4.0?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-dbapi-adapter_2.13@3.0.0-scalikejdbc-4.2
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-dbapi-adapter_2.13@3.0.0-scalikejdbc-4.2?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-dbapi-adapter_2.13@3.0.1-scalikejdbc-4.3
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-dbapi-adapter_2.13@3.0.1-scalikejdbc-4.3?classifier=sources

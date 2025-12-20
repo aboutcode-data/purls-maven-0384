@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/hyperdrive@10.0.0-rc8
 - pkg:maven/org.webjars.npm/hyperdrive@10.0.0-rc8?classifier=sources
+- pkg:maven/org.webjars.npm/hyperdrive@11.8.1

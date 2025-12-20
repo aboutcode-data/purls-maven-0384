@@ -9,3 +9,5 @@
 - pkg:maven/com.unblu.openapi/jersey3-client-v3@7.41.1?classifier=sources
 - pkg:maven/com.unblu.openapi/jersey3-client-v3@7.42.1?classifier=sources
 - pkg:maven/com.unblu.openapi/jersey3-client-v3@7.43.1?classifier=sources
+- pkg:maven/com.unblu.openapi/jersey3-client-v3@7.44.1?classifier=sources
+- pkg:maven/com.unblu.openapi/jersey3-client-v3@7.45.0?classifier=sources

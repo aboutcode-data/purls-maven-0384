@@ -72,6 +72,8 @@
 - pkg:maven/com.yandex.div/video-custom@29.7.0?classifier=sources
 - pkg:maven/com.yandex.div/video-custom@29.8.0?classifier=sources
 - pkg:maven/com.yandex.div/video-custom@29.9.0?classifier=sources
+- pkg:maven/com.yandex.div/video-custom@30.0.0?classifier=sources
+- pkg:maven/com.yandex.div/video-custom@30.1.0?classifier=sources
 - pkg:maven/com.yandex.div/video-custom@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/video-custom@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/video-custom@7.0.0?classifier=sources

@@ -1,2 +1,7 @@
 - pkg:maven/com.authme/algo@8.7.0.4-rc9?classifier=sources
 - pkg:maven/com.authme/algo@8.7.0.4?classifier=sources
+- pkg:maven/com.authme/algo@8.7.2?classifier=sources
+- pkg:maven/com.authme/algo@8.7.4-rc.1?classifier=sources
+- pkg:maven/com.authme/algo@8.7.6-rc.1?classifier=sources
+- pkg:maven/com.authme/algo@8.7.7-rc.2?classifier=sources
+- pkg:maven/com.authme/algo@8.7.7?classifier=sources

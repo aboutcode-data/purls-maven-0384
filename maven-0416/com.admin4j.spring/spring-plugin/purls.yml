@@ -1,3 +1,5 @@
+- pkg:maven/com.admin4j.spring/spring-plugin@0.10.0
+- pkg:maven/com.admin4j.spring/spring-plugin@0.10.0?classifier=sources
 - pkg:maven/com.admin4j.spring/spring-plugin@0.8.1
 - pkg:maven/com.admin4j.spring/spring-plugin@0.8.1?classifier=sources
 - pkg:maven/com.admin4j.spring/spring-plugin@0.8.2

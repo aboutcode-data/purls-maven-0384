@@ -4,3 +4,7 @@
 - pkg:maven/com.inthebacklog/javampd@7.1.0?classifier=sources
 - pkg:maven/com.inthebacklog/javampd@7.2.0
 - pkg:maven/com.inthebacklog/javampd@7.2.0?classifier=sources
+- pkg:maven/com.inthebacklog/javampd@7.3.0
+- pkg:maven/com.inthebacklog/javampd@7.3.0?classifier=sources
+- pkg:maven/com.inthebacklog/javampd@7.3.1
+- pkg:maven/com.inthebacklog/javampd@7.3.1?classifier=sources

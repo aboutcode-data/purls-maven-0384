@@ -42,3 +42,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-vaadin@7.0.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-vaadin@8.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-vaadin@8.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-vaadin@9.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-vaadin@9.0.0?classifier=sources

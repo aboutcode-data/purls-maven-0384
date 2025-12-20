@@ -40,8 +40,11 @@
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.4.2
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.4.3
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.4.4
+- pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.4.5
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.5.0
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.5.1
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.5.2
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.5.3
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.5.4
+- pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.5.5
+- pkg:maven/org.eclipse.ditto/ditto-internal-utils-test@3.5.6

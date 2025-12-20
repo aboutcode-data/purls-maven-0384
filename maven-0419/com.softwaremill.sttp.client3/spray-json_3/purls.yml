@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client3/spray-json_3@3.9.7
+- pkg:maven/com.softwaremill.sttp.client3/spray-json_3@3.9.7?classifier=sources

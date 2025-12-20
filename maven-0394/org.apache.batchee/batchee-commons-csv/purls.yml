@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.batchee/batchee-commons-csv@1.0.3?classifier=sources
 - pkg:maven/org.apache.batchee/batchee-commons-csv@1.0.4
 - pkg:maven/org.apache.batchee/batchee-commons-csv@1.0.4?classifier=sources
+- pkg:maven/org.apache.batchee/batchee-commons-csv@2.0.0
+- pkg:maven/org.apache.batchee/batchee-commons-csv@2.0.0?classifier=sources

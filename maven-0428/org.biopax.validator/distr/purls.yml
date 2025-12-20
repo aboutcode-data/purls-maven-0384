@@ -2,3 +2,5 @@
 - pkg:maven/org.biopax.validator/distr@4.0.0?classifier=sources
 - pkg:maven/org.biopax.validator/distr@5.1.0
 - pkg:maven/org.biopax.validator/distr@5.1.0?classifier=sources
+- pkg:maven/org.biopax.validator/distr@6.0.0
+- pkg:maven/org.biopax.validator/distr@6.0.0?classifier=sources

@@ -48,6 +48,8 @@
 - pkg:maven/com.adobe.aem/aemanalyser-core@1.4.0?classifier=sources
 - pkg:maven/com.adobe.aem/aemanalyser-core@1.4.10
 - pkg:maven/com.adobe.aem/aemanalyser-core@1.4.10?classifier=sources
+- pkg:maven/com.adobe.aem/aemanalyser-core@1.4.12
+- pkg:maven/com.adobe.aem/aemanalyser-core@1.4.12?classifier=sources
 - pkg:maven/com.adobe.aem/aemanalyser-core@1.4.2
 - pkg:maven/com.adobe.aem/aemanalyser-core@1.4.2?classifier=sources
 - pkg:maven/com.adobe.aem/aemanalyser-core@1.4.4

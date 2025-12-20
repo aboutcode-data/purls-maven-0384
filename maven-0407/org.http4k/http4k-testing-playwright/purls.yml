@@ -36,6 +36,12 @@
 - pkg:maven/org.http4k/http4k-testing-playwright@5.17.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-testing-playwright@5.18.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-testing-playwright@5.18.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-testing-playwright@5.19.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-testing-playwright@5.20.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-testing-playwright@5.21.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-testing-playwright@5.21.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-testing-playwright@5.21.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-testing-playwright@5.22.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-testing-playwright@5.7.4.0?classifier=sources
 - pkg:maven/org.http4k/http4k-testing-playwright@5.7.5.0?classifier=sources
 - pkg:maven/org.http4k/http4k-testing-playwright@5.8.0.0?classifier=sources

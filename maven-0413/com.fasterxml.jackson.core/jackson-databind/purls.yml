@@ -71,6 +71,7 @@
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.12.6.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.12.6?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.12.7.1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.12.7.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.12.7?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.13.0-rc1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.13.0-rc2?classifier=sources
@@ -105,6 +106,7 @@
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.16.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.17.0-rc1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.17.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.17.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.2.0
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.2.0-rc1
 - pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.2.0-rc1?classifier=sources

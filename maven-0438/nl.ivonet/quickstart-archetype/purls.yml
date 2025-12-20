@@ -1,0 +1,2 @@
+- pkg:maven/nl.ivonet/quickstart-archetype@0.1?classifier=sources
+- pkg:maven/nl.ivonet/quickstart-archetype@1.0?classifier=sources

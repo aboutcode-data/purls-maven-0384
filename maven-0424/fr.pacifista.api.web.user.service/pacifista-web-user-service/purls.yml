@@ -1,0 +1,2 @@
+- pkg:maven/fr.pacifista.api.web.user.service/pacifista-web-user-service@1.5.2.4
+- pkg:maven/fr.pacifista.api.web.user.service/pacifista-web-user-service@1.5.2.4?classifier=sources

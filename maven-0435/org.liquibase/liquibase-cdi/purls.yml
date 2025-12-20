@@ -152,6 +152,8 @@
 - pkg:maven/org.liquibase/liquibase-cdi@4.26.0?classifier=sources
 - pkg:maven/org.liquibase/liquibase-cdi@4.27.0
 - pkg:maven/org.liquibase/liquibase-cdi@4.27.0?classifier=sources
+- pkg:maven/org.liquibase/liquibase-cdi@4.28.0
+- pkg:maven/org.liquibase/liquibase-cdi@4.28.0?classifier=sources
 - pkg:maven/org.liquibase/liquibase-cdi@4.3.0
 - pkg:maven/org.liquibase/liquibase-cdi@4.3.0?classifier=sources
 - pkg:maven/org.liquibase/liquibase-cdi@4.3.1

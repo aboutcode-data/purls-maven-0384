@@ -1,0 +1,1 @@
+- pkg:maven/org.embulk/embulk-output-command@0.2.0?classifier=sources

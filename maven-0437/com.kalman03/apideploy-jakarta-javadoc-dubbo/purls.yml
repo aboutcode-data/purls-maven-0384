@@ -4,3 +4,5 @@
 - pkg:maven/com.kalman03/apideploy-jakarta-javadoc-dubbo@1.0.1?classifier=sources
 - pkg:maven/com.kalman03/apideploy-jakarta-javadoc-dubbo@1.0.2
 - pkg:maven/com.kalman03/apideploy-jakarta-javadoc-dubbo@1.0.2?classifier=sources
+- pkg:maven/com.kalman03/apideploy-jakarta-javadoc-dubbo@1.0.4
+- pkg:maven/com.kalman03/apideploy-jakarta-javadoc-dubbo@1.0.4?classifier=sources

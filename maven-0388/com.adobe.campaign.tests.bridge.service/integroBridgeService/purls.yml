@@ -10,3 +10,5 @@
 - pkg:maven/com.adobe.campaign.tests.bridge.service/integroBridgeService@2.11.14?classifier=sources
 - pkg:maven/com.adobe.campaign.tests.bridge.service/integroBridgeService@2.11.15
 - pkg:maven/com.adobe.campaign.tests.bridge.service/integroBridgeService@2.11.15?classifier=sources
+- pkg:maven/com.adobe.campaign.tests.bridge.service/integroBridgeService@2.11.16
+- pkg:maven/com.adobe.campaign.tests.bridge.service/integroBridgeService@2.11.16?classifier=sources

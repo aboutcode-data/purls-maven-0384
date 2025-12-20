@@ -1,2 +1,6 @@
 - pkg:maven/io.github.davidwhitlock.joy.original/airline-web@1.0.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.joy.original/airline-web@1.0.0?type=war
+- pkg:maven/io.github.davidwhitlock.joy.original/airline-web@2.0.0?classifier=sources
+- pkg:maven/io.github.davidwhitlock.joy.original/airline-web@2.0.0?type=war
+- pkg:maven/io.github.davidwhitlock.joy.original/airline-web@2.1.0?classifier=sources
+- pkg:maven/io.github.davidwhitlock.joy.original/airline-web@2.1.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/space.themelon/KSocks5@1.0?classifier=sources
+- pkg:maven/space.themelon/KSocks5@1.1?classifier=sources

@@ -1,3 +1,7 @@
+- pkg:maven/com.microsoft.identity/common4j@0.0.1-alpha1
+- pkg:maven/com.microsoft.identity/common4j@0.0.1-alpha1?classifier=sources
+- pkg:maven/com.microsoft.identity/common4j@0.0.1-alpha2
+- pkg:maven/com.microsoft.identity/common4j@0.0.1-alpha2?classifier=sources
 - pkg:maven/com.microsoft.identity/common4j@0.0.3
 - pkg:maven/com.microsoft.identity/common4j@0.0.3?classifier=sources
 - pkg:maven/com.microsoft.identity/common4j@0.0.4
@@ -42,6 +46,8 @@
 - pkg:maven/com.microsoft.identity/common4j@14.2.1?classifier=sources
 - pkg:maven/com.microsoft.identity/common4j@14.3.0
 - pkg:maven/com.microsoft.identity/common4j@14.3.0?classifier=sources
+- pkg:maven/com.microsoft.identity/common4j@14.4.0
+- pkg:maven/com.microsoft.identity/common4j@14.4.0?classifier=sources
 - pkg:maven/com.microsoft.identity/common4j@2.0.0
 - pkg:maven/com.microsoft.identity/common4j@2.0.0?classifier=sources
 - pkg:maven/com.microsoft.identity/common4j@2.0.1

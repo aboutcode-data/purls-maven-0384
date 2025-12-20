@@ -1,1 +1,2 @@
+- pkg:maven/io.github.bonede/tree-sitter-pod@release-a?classifier=sources
 - pkg:maven/io.github.bonede/tree-sitter-pod@release?classifier=sources

@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectui@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectui@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectui@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-projectui@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectui@RELEASE90?classifier=sources

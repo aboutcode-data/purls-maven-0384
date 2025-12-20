@@ -10,3 +10,7 @@
 - pkg:maven/cn.toutatis/void-toolkit@0.0.3-ALPHA?classifier=sources
 - pkg:maven/cn.toutatis/void-toolkit@0.0.4-ALPHA
 - pkg:maven/cn.toutatis/void-toolkit@0.0.4-ALPHA?classifier=sources
+- pkg:maven/cn.toutatis/void-toolkit@0.0.5-ALPHA
+- pkg:maven/cn.toutatis/void-toolkit@0.0.5-ALPHA?classifier=sources
+- pkg:maven/cn.toutatis/void-toolkit@0.0.6-ALPHA
+- pkg:maven/cn.toutatis/void-toolkit@0.0.6-ALPHA?classifier=sources

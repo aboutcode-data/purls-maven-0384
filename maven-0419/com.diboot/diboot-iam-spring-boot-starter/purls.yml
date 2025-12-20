@@ -30,3 +30,9 @@
 - pkg:maven/com.diboot/diboot-iam-spring-boot-starter@3.1.2?classifier=sources
 - pkg:maven/com.diboot/diboot-iam-spring-boot-starter@3.2.0
 - pkg:maven/com.diboot/diboot-iam-spring-boot-starter@3.2.0?classifier=sources
+- pkg:maven/com.diboot/diboot-iam-spring-boot-starter@3.3.0
+- pkg:maven/com.diboot/diboot-iam-spring-boot-starter@3.3.0-jdk8
+- pkg:maven/com.diboot/diboot-iam-spring-boot-starter@3.3.0-jdk8?classifier=sources
+- pkg:maven/com.diboot/diboot-iam-spring-boot-starter@3.3.0?classifier=sources
+- pkg:maven/com.diboot/diboot-iam-spring-boot-starter@3.3.1
+- pkg:maven/com.diboot/diboot-iam-spring-boot-starter@3.3.1?classifier=sources

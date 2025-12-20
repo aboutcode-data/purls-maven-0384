@@ -1,1 +1,2 @@
 - pkg:maven/me.moros/math-core@2.0.0?classifier=sources
+- pkg:maven/me.moros/math-core@3.0.0?classifier=sources

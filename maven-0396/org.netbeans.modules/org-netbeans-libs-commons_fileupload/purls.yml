@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_fileupload@RELEASE220?classifier=sources

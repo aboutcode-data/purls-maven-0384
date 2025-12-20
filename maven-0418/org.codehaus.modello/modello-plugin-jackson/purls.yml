@@ -26,3 +26,5 @@
 - pkg:maven/org.codehaus.modello/modello-plugin-jackson@2.2.0?classifier=sources
 - pkg:maven/org.codehaus.modello/modello-plugin-jackson@2.3.0
 - pkg:maven/org.codehaus.modello/modello-plugin-jackson@2.3.0?classifier=sources
+- pkg:maven/org.codehaus.modello/modello-plugin-jackson@2.4.0
+- pkg:maven/org.codehaus.modello/modello-plugin-jackson@2.4.0?classifier=sources

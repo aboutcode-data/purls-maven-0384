@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.batchee/batchee-webapp@1.0.3?type=war
 - pkg:maven/org.apache.batchee/batchee-webapp@1.0.4?classifier=sources
 - pkg:maven/org.apache.batchee/batchee-webapp@1.0.4?type=war
+- pkg:maven/org.apache.batchee/batchee-webapp@2.0.0?classifier=sources
+- pkg:maven/org.apache.batchee/batchee-webapp@2.0.0?type=war

@@ -13,4 +13,6 @@
 - pkg:maven/org.atp-fivt/jsyntrax@1.36?classifier=sources
 - pkg:maven/org.atp-fivt/jsyntrax@1.37
 - pkg:maven/org.atp-fivt/jsyntrax@1.37?classifier=sources
+- pkg:maven/org.atp-fivt/jsyntrax@1.38
+- pkg:maven/org.atp-fivt/jsyntrax@1.38?classifier=sources
 - pkg:maven/org.atp-fivt/jsyntrax@1.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.adobe.aem/aem-screens-sdk-api@1.0.2?classifier=sources
+- pkg:maven/com.adobe.aem/aem-screens-sdk-api@1.0.4?classifier=sources
+- pkg:maven/com.adobe.aem/aem-screens-sdk-api@1.0.6?classifier=sources
+- pkg:maven/com.adobe.aem/aem-screens-sdk-api@1.0.8?classifier=sources

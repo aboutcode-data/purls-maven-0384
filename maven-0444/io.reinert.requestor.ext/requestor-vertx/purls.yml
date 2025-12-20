@@ -1,0 +1,2 @@
+- pkg:maven/io.reinert.requestor.ext/requestor-vertx@1.4.0
+- pkg:maven/io.reinert.requestor.ext/requestor-vertx@1.4.0?classifier=sources
