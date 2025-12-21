@@ -96,3 +96,4 @@
 - pkg:maven/net.pincette/pincette-jes@3.2.8?classifier=sources
 - pkg:maven/net.pincette/pincette-jes@3.2.9?classifier=sources
 - pkg:maven/net.pincette/pincette-jes@3.2?classifier=sources
+- pkg:maven/net.pincette/pincette-jes@4.0.0?classifier=sources

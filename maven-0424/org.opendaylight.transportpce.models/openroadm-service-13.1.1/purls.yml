@@ -1,0 +1,4 @@
+- pkg:maven/org.opendaylight.transportpce.models/openroadm-service-13.1.1@22.1.0
+- pkg:maven/org.opendaylight.transportpce.models/openroadm-service-13.1.1@22.1.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce.models/openroadm-service-13.1.1@23.0.0
+- pkg:maven/org.opendaylight.transportpce.models/openroadm-service-13.1.1@23.0.0?classifier=sources

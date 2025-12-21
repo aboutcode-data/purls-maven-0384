@@ -1,0 +1,2 @@
+- pkg:maven/org.recordrobotics/jfastnet@0.3.10?classifier=sources
+- pkg:maven/org.recordrobotics/jfastnet@0.3.9?classifier=sources

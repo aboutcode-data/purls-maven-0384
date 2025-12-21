@@ -1,1 +1,4 @@
 - pkg:maven/io.github.blackneck/android-empty-library@1.0.0?classifier=sources
+- pkg:maven/io.github.blackneck/android-empty-library@1.0.9-patch?classifier=sources
+- pkg:maven/io.github.blackneck/android-empty-library@1.0.9?classifier=sources
+- pkg:maven/io.github.blackneck/android-empty-library@1.1.0?classifier=sources

@@ -78,3 +78,5 @@
 - pkg:maven/com.moengage/core@8.2.1?classifier=sources
 - pkg:maven/com.moengage/core@8.2.2?classifier=sources
 - pkg:maven/com.moengage/core@8.3.0?classifier=sources
+- pkg:maven/com.moengage/core@8.4.0?classifier=sources
+- pkg:maven/com.moengage/core@8.4.1?classifier=sources

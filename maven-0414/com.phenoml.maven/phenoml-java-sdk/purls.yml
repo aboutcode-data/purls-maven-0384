@@ -1,3 +1,4 @@
 - pkg:maven/com.phenoml.maven/phenoml-java-sdk@0.0.28?classifier=sources
 - pkg:maven/com.phenoml.maven/phenoml-java-sdk@0.0.29?classifier=sources
 - pkg:maven/com.phenoml.maven/phenoml-java-sdk@0.0.30?classifier=sources
+- pkg:maven/com.phenoml.maven/phenoml-java-sdk@v0.0.32?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/io.github.nniikkoollaaii/kafka-sasl-oauthbearer-workload-identity@1.1.0?classifier=sources
 - pkg:maven/io.github.nniikkoollaaii/kafka-sasl-oauthbearer-workload-identity@1.1.2
 - pkg:maven/io.github.nniikkoollaaii/kafka-sasl-oauthbearer-workload-identity@1.1.2?classifier=sources
+- pkg:maven/io.github.nniikkoollaaii/kafka-sasl-oauthbearer-workload-identity@3.9.0?classifier=sources
+- pkg:maven/io.github.nniikkoollaaii/kafka-sasl-oauthbearer-workload-identity@v3.9.3?classifier=sources
+- pkg:maven/io.github.nniikkoollaaii/kafka-sasl-oauthbearer-workload-identity@v4.0.2?classifier=sources
+- pkg:maven/io.github.nniikkoollaaii/kafka-sasl-oauthbearer-workload-identity@v4.0.3?classifier=sources

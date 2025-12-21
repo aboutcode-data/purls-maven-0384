@@ -18,6 +18,9 @@
 - pkg:maven/org.apache.rat/apache-rat@0.16.1?classifier=src&type=zip
 - pkg:maven/org.apache.rat/apache-rat@0.16?classifier=src&type=tar.gz
 - pkg:maven/org.apache.rat/apache-rat@0.16?classifier=src&type=zip
+- pkg:maven/org.apache.rat/apache-rat@0.17
+- pkg:maven/org.apache.rat/apache-rat@0.17?classifier=src&type=tar.gz
+- pkg:maven/org.apache.rat/apache-rat@0.17?classifier=src&type=zip
 - pkg:maven/org.apache.rat/apache-rat@0.6
 - pkg:maven/org.apache.rat/apache-rat@0.6?classifier=src&type=tar.gz
 - pkg:maven/org.apache.rat/apache-rat@0.6?classifier=src&type=zip

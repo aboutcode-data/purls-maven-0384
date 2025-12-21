@@ -8,3 +8,5 @@
 - pkg:maven/org.virtuslab/besom-azure-native_3@2.89.1-core.0.4?classifier=sources
 - pkg:maven/org.virtuslab/besom-azure-native_3@3.5.0-core.0.5
 - pkg:maven/org.virtuslab/besom-azure-native_3@3.5.0-core.0.5?classifier=sources
+- pkg:maven/org.virtuslab/besom-azure-native_3@3.8.0-core.0.5
+- pkg:maven/org.virtuslab/besom-azure-native_3@3.8.0-core.0.5?classifier=sources

@@ -120,6 +120,8 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@25.2.0-beta.5?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@25.2.1?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@25.2.3?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@25.2.7?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@25.2.9?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@7.0.0.001_M7
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@7.0.0.003_RC1
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.test@7.0.0.004_RC1

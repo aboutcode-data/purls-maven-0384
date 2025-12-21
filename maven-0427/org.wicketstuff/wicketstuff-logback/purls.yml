@@ -59,6 +59,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-logback@10.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-logback@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-logback@10.6.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-logback@10.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-logback@6.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-logback@6.0.0-beta1.1
 - pkg:maven/org.wicketstuff/wicketstuff-logback@6.0.0-beta1.1?classifier=sources

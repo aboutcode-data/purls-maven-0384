@@ -80,6 +80,8 @@
 - pkg:maven/io.moneyhash/android@3.0.7?classifier=sources
 - pkg:maven/io.moneyhash/android@3.0.8-cp?classifier=sources
 - pkg:maven/io.moneyhash/android@3.0.8?classifier=sources
+- pkg:maven/io.moneyhash/android@3.0.9-cp?classifier=sources
+- pkg:maven/io.moneyhash/android@3.0.9?classifier=sources
 - pkg:maven/io.moneyhash/android@32d268c?classifier=sources
 - pkg:maven/io.moneyhash/android@3412390?classifier=sources
 - pkg:maven/io.moneyhash/android@358008b?classifier=sources

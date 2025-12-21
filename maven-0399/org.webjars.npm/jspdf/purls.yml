@@ -31,3 +31,4 @@
 - pkg:maven/org.webjars.npm/jspdf@2.5.2
 - pkg:maven/org.webjars.npm/jspdf@3.0.0
 - pkg:maven/org.webjars.npm/jspdf@3.0.1
+- pkg:maven/org.webjars.npm/jspdf@3.0.3

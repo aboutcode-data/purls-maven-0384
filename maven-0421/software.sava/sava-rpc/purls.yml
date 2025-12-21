@@ -24,3 +24,5 @@
 - pkg:maven/software.sava/sava-rpc@24.23.2?classifier=sources
 - pkg:maven/software.sava/sava-rpc@24.23.3?classifier=sources
 - pkg:maven/software.sava/sava-rpc@25.0.0?classifier=sources
+- pkg:maven/software.sava/sava-rpc@25.0.1?classifier=sources
+- pkg:maven/software.sava/sava-rpc@25.0.2?classifier=sources

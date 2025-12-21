@@ -10,3 +10,5 @@
 - pkg:maven/dev.cheleb/laminar-form-derivation-ui5-nguyenyou_sjs1_3@1.2.3?classifier=sources
 - pkg:maven/dev.cheleb/laminar-form-derivation-ui5-nguyenyou_sjs1_3@1.2.4
 - pkg:maven/dev.cheleb/laminar-form-derivation-ui5-nguyenyou_sjs1_3@1.2.4?classifier=sources
+- pkg:maven/dev.cheleb/laminar-form-derivation-ui5-nguyenyou_sjs1_3@1.3.0
+- pkg:maven/dev.cheleb/laminar-form-derivation-ui5-nguyenyou_sjs1_3@1.3.0?classifier=sources

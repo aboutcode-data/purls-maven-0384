@@ -79,3 +79,5 @@
 - pkg:maven/org.joinedworkz.facilities/spring-boot@1.3.67?classifier=sources
 - pkg:maven/org.joinedworkz.facilities/spring-boot@1.3.68?classifier=sources
 - pkg:maven/org.joinedworkz.facilities/spring-boot@1.3.69?classifier=sources
+- pkg:maven/org.joinedworkz.facilities/spring-boot@1.3.70?classifier=sources
+- pkg:maven/org.joinedworkz.facilities/spring-boot@1.3.71?classifier=sources

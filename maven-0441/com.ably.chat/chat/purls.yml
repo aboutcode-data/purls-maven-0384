@@ -1,1 +1,2 @@
 - pkg:maven/com.ably.chat/chat@0.7.0?classifier=sources
+- pkg:maven/com.ably.chat/chat@0.8.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.webjars.npm/peggy@1.0.0
+- pkg:maven/org.webjars.npm/peggy@2.0.0
+- pkg:maven/org.webjars.npm/peggy@5.0.6

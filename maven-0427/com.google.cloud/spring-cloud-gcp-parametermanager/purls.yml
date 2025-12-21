@@ -1,4 +1,12 @@
+- pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@6.4.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@6.4.0?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@6.5.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@6.5.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@7.3.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@7.3.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@7.3.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@7.3.1?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@7.3.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@7.3.2?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@7.4.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-parametermanager@7.4.0?classifier=sources

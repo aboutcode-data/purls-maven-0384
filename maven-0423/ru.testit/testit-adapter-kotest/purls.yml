@@ -15,3 +15,4 @@
 - pkg:maven/ru.testit/testit-adapter-kotest@0.6.6?classifier=sources
 - pkg:maven/ru.testit/testit-adapter-kotest@0.6.7?classifier=sources
 - pkg:maven/ru.testit/testit-adapter-kotest@0.7.0?classifier=sources
+- pkg:maven/ru.testit/testit-adapter-kotest@0.7.1-TMS-5.5?classifier=sources

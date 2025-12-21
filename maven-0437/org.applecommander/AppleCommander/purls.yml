@@ -1,1 +1,2 @@
 - pkg:maven/org.applecommander/AppleCommander@12.0?classifier=sources
+- pkg:maven/org.applecommander/AppleCommander@13.0?classifier=sources

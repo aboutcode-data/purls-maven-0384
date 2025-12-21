@@ -25,3 +25,5 @@
 - pkg:maven/org.maplibre.gl/android-sdk-opengl@11.8.8?classifier=sources
 - pkg:maven/org.maplibre.gl/android-sdk-opengl@11.9.0-pre0?classifier=sources
 - pkg:maven/org.maplibre.gl/android-sdk-opengl@11.9.0?classifier=sources
+- pkg:maven/org.maplibre.gl/android-sdk-opengl@12.0.0?classifier=sources
+- pkg:maven/org.maplibre.gl/android-sdk-opengl@12.0.1?classifier=sources

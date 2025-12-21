@@ -16,3 +16,4 @@
 - pkg:maven/org.webjars.npm/idb@7.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/idb@7.1.1
 - pkg:maven/org.webjars.npm/idb@7.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/idb@8.0.3

@@ -91,6 +91,7 @@
 - pkg:maven/com.codbex.rhea/codbex-rhea-branding@2.56.0?classifier=sources
 - pkg:maven/com.codbex.rhea/codbex-rhea-branding@2.57.0?classifier=sources
 - pkg:maven/com.codbex.rhea/codbex-rhea-branding@2.58.0?classifier=sources
+- pkg:maven/com.codbex.rhea/codbex-rhea-branding@2.59.0?classifier=sources
 - pkg:maven/com.codbex.rhea/codbex-rhea-branding@2.6.0
 - pkg:maven/com.codbex.rhea/codbex-rhea-branding@2.6.0?classifier=sources
 - pkg:maven/com.codbex.rhea/codbex-rhea-branding@2.7.0

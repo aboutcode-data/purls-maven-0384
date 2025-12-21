@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.sis.storage/sis-geotiff@1.3
 - pkg:maven/org.apache.sis.storage/sis-geotiff@1.3?classifier=sources
 - pkg:maven/org.apache.sis.storage/sis-geotiff@1.4?classifier=sources
+- pkg:maven/org.apache.sis.storage/sis-geotiff@1.5?classifier=sources

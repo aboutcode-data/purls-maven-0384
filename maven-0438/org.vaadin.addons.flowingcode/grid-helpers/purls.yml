@@ -7,3 +7,4 @@
 - pkg:maven/org.vaadin.addons.flowingcode/grid-helpers@1.4.3
 - pkg:maven/org.vaadin.addons.flowingcode/grid-helpers@1.4.3?classifier=sources
 - pkg:maven/org.vaadin.addons.flowingcode/grid-helpers@1.4.4?classifier=sources
+- pkg:maven/org.vaadin.addons.flowingcode/grid-helpers@1.4.5?classifier=sources

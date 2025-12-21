@@ -1,0 +1,5 @@
+- pkg:maven/io.micronaut.mcp/micronaut-mcp-client-java-sdk@0.0.10?classifier=sources
+- pkg:maven/io.micronaut.mcp/micronaut-mcp-client-java-sdk@0.0.11?classifier=sources
+- pkg:maven/io.micronaut.mcp/micronaut-mcp-client-java-sdk@0.0.12?classifier=sources
+- pkg:maven/io.micronaut.mcp/micronaut-mcp-client-java-sdk@0.0.8?classifier=sources
+- pkg:maven/io.micronaut.mcp/micronaut-mcp-client-java-sdk@0.0.9?classifier=sources

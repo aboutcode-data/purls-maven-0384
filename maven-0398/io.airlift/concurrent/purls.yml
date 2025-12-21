@@ -456,3 +456,10 @@
 - pkg:maven/io.airlift/concurrent@357?classifier=sources
 - pkg:maven/io.airlift/concurrent@358?classifier=sources
 - pkg:maven/io.airlift/concurrent@359?classifier=sources
+- pkg:maven/io.airlift/concurrent@360?classifier=sources
+- pkg:maven/io.airlift/concurrent@361?classifier=sources
+- pkg:maven/io.airlift/concurrent@362?classifier=sources
+- pkg:maven/io.airlift/concurrent@363?classifier=sources
+- pkg:maven/io.airlift/concurrent@364?classifier=sources
+- pkg:maven/io.airlift/concurrent@365?classifier=sources
+- pkg:maven/io.airlift/concurrent@366?classifier=sources

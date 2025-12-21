@@ -9,3 +9,4 @@
 - pkg:maven/org.daisy.pipeline.modules/word-to-dtbook@1.0.4
 - pkg:maven/org.daisy.pipeline.modules/word-to-dtbook@1.0.4?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/word-to-dtbook@1.1.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/word-to-dtbook@1.1.1?classifier=sources

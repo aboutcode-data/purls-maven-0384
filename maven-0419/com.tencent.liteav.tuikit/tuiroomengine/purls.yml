@@ -23,6 +23,7 @@
 - pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.6.1.102?classifier=sources
 - pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.7.0.137?classifier=sources
 - pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.7.1.146?classifier=sources
+- pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.7.10.180?classifier=sources
 - pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.7.2.153?classifier=sources
 - pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.7.5.156?classifier=sources
 - pkg:maven/com.tencent.liteav.tuikit/tuiroomengine@1.7.6.160?classifier=sources

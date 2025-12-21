@@ -12,3 +12,4 @@
 - pkg:maven/com.formance/formance-sdk@5.0.2?classifier=sources
 - pkg:maven/com.formance/formance-sdk@7.0.5?classifier=sources
 - pkg:maven/com.formance/formance-sdk@7.2.3?classifier=sources
+- pkg:maven/com.formance/formance-sdk@7.3.0?classifier=sources

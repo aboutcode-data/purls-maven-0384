@@ -2,7 +2,13 @@
 - pkg:maven/org.virtuslab/besom-equinix_3@0.2.1-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-equinix_3@0.21.0-core.0.4
 - pkg:maven/org.virtuslab/besom-equinix_3@0.21.0-core.0.4?classifier=sources
+- pkg:maven/org.virtuslab/besom-equinix_3@0.25.1-alpha.1755837667%2B87b4765c-core.0.5
+- pkg:maven/org.virtuslab/besom-equinix_3@0.25.1-alpha.1755837667%2B87b4765c-core.0.5?classifier=sources
+- pkg:maven/org.virtuslab/besom-equinix_3@0.26.0-core.0.5
+- pkg:maven/org.virtuslab/besom-equinix_3@0.26.0-core.0.5?classifier=sources
 - pkg:maven/org.virtuslab/besom-equinix_3@0.6.0-core.0.2
 - pkg:maven/org.virtuslab/besom-equinix_3@0.6.0-core.0.2?classifier=sources
 - pkg:maven/org.virtuslab/besom-equinix_3@0.8.0-core.0.3
 - pkg:maven/org.virtuslab/besom-equinix_3@0.8.0-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-equinix_3@0.8.0-core.0.5
+- pkg:maven/org.virtuslab/besom-equinix_3@0.8.0-core.0.5?classifier=sources

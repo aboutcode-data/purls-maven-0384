@@ -44,3 +44,4 @@
 - pkg:maven/io.playgap/playgap-sdk@4.0.9?type=aar
 - pkg:maven/io.playgap/playgap-sdk@4.1.0?type=aar
 - pkg:maven/io.playgap/playgap-sdk@4.1.1?type=aar
+- pkg:maven/io.playgap/playgap-sdk@5.0.0?type=aar

@@ -20,4 +20,5 @@
 - pkg:maven/ru.astrainteractive.klibs/paging-android@2.5.0?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/paging-android@2.6.0?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/paging-android@2.6.1?classifier=sources
+- pkg:maven/ru.astrainteractive.klibs/paging-android@2.6.2?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/paging-android@unspecified?classifier=sources

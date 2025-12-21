@@ -46,6 +46,7 @@
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.23.0?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.24.3?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.24.4?classifier=sources
+- pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.24.5?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.3.0
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.3.0?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-spring-test-utils@0.4.0

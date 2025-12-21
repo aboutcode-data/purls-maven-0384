@@ -1,0 +1,2 @@
+- pkg:maven/io.github.llm96.ebur128java/ebur128java@1.2.6-1
+- pkg:maven/io.github.llm96.ebur128java/ebur128java@1.2.6-1?classifier=sources

@@ -45,6 +45,7 @@
 - pkg:maven/io.sourcesync.sdk/sdk-core@0.7.20?classifier=sources
 - pkg:maven/io.sourcesync.sdk/sdk-core@0.7.21-2?classifier=sources
 - pkg:maven/io.sourcesync.sdk/sdk-core@0.7.21?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sdk-core@0.7.22?classifier=sources
 - pkg:maven/io.sourcesync.sdk/sdk-core@0.7.2?classifier=sources
 - pkg:maven/io.sourcesync.sdk/sdk-core@0.7.4?classifier=sources
 - pkg:maven/io.sourcesync.sdk/sdk-core@0.7.6?classifier=sources

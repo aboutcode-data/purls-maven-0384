@@ -20,6 +20,8 @@
 - pkg:maven/com.tobedevoured.naether/core@0.14.1?classifier=sources
 - pkg:maven/com.tobedevoured.naether/core@0.15.0
 - pkg:maven/com.tobedevoured.naether/core@0.15.0?classifier=sources
+- pkg:maven/com.tobedevoured.naether/core@0.15.10?classifier=sources
+- pkg:maven/com.tobedevoured.naether/core@0.15.11?classifier=sources
 - pkg:maven/com.tobedevoured.naether/core@0.15.2
 - pkg:maven/com.tobedevoured.naether/core@0.15.2?classifier=sources
 - pkg:maven/com.tobedevoured.naether/core@0.15.3

@@ -5,3 +5,4 @@
 - pkg:maven/se.ansman.dagger.auto/ktorfit@1.4.0?classifier=sources
 - pkg:maven/se.ansman.dagger.auto/ktorfit@1.5.0?classifier=sources
 - pkg:maven/se.ansman.dagger.auto/ktorfit@2.0.0?classifier=sources
+- pkg:maven/se.ansman.dagger.auto/ktorfit@2.1.0?classifier=sources

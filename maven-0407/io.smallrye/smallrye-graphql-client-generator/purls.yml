@@ -188,6 +188,8 @@
 - pkg:maven/io.smallrye/smallrye-graphql-client-generator@2.13.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-client-generator@2.14.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-client-generator@2.14.1?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-client-generator@2.15.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-client-generator@2.16.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-client-generator@2.2.0
 - pkg:maven/io.smallrye/smallrye-graphql-client-generator@2.2.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-client-generator@2.2.1

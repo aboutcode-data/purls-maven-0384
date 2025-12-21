@@ -272,3 +272,5 @@
 - pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.92.2?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.93.0
 - pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.93.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.94.0
+- pkg:maven/software.amazon.awsconstructs/fargatedynamodb@2.94.0?classifier=sources

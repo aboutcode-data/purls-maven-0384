@@ -49,6 +49,7 @@
 - pkg:maven/org.opendaylight.netconf/shaded-exificient@1.9.3?classifier=sources
 - pkg:maven/org.opendaylight.netconf/shaded-exificient@1.9.4
 - pkg:maven/org.opendaylight.netconf/shaded-exificient@1.9.4?classifier=sources
+- pkg:maven/org.opendaylight.netconf/shaded-exificient@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/shaded-exificient@2.0.0
 - pkg:maven/org.opendaylight.netconf/shaded-exificient@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/shaded-exificient@2.0.1

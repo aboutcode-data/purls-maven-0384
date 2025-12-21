@@ -8,3 +8,4 @@
 - pkg:maven/io.github.khubaibkhan4/mediaplayer-kmp-wasm-js@2.0.7?classifier=sources
 - pkg:maven/io.github.khubaibkhan4/mediaplayer-kmp-wasm-js@2.0.8?classifier=sources
 - pkg:maven/io.github.khubaibkhan4/mediaplayer-kmp-wasm-js@2.0.9?classifier=sources
+- pkg:maven/io.github.khubaibkhan4/mediaplayer-kmp-wasm-js@2.1.0?classifier=sources

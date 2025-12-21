@@ -16,3 +16,7 @@
 - pkg:maven/org.mvnpm.at.scalar/json-magic@0.5.1?classifier=sources
 - pkg:maven/org.mvnpm.at.scalar/json-magic@0.5.2
 - pkg:maven/org.mvnpm.at.scalar/json-magic@0.5.2?classifier=sources
+- pkg:maven/org.mvnpm.at.scalar/json-magic@0.6.0
+- pkg:maven/org.mvnpm.at.scalar/json-magic@0.6.0?classifier=sources
+- pkg:maven/org.mvnpm.at.scalar/json-magic@0.6.1
+- pkg:maven/org.mvnpm.at.scalar/json-magic@0.6.1?classifier=sources

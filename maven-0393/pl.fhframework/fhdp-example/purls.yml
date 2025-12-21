@@ -14,5 +14,6 @@
 - pkg:maven/pl.fhframework/fhdp-example@4.10.7?classifier=sources
 - pkg:maven/pl.fhframework/fhdp-example@4.10.8
 - pkg:maven/pl.fhframework/fhdp-example@4.10.8?classifier=sources
+- pkg:maven/pl.fhframework/fhdp-example@4.10.9?classifier=sources
 - pkg:maven/pl.fhframework/fhdp-example@4.9.26
 - pkg:maven/pl.fhframework/fhdp-example@4.9.26?classifier=sources
