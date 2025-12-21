@@ -440,3 +440,5 @@
 - pkg:maven/com.actiontestscript/ats-automated-testing@3.4.6?type=zip
 - pkg:maven/com.actiontestscript/ats-automated-testing@3.4.7?classifier=sources
 - pkg:maven/com.actiontestscript/ats-automated-testing@3.4.7?type=zip
+- pkg:maven/com.actiontestscript/ats-automated-testing@3.4.8?classifier=sources
+- pkg:maven/com.actiontestscript/ats-automated-testing@3.4.8?type=zip

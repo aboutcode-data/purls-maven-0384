@@ -100,3 +100,7 @@
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.66.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.67.0
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.67.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.68.0
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.68.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.69.0
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-ui-swing@0.69.0?classifier=sources

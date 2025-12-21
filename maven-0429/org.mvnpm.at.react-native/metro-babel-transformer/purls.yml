@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.react-native/metro-babel-transformer@0.74.89
+- pkg:maven/org.mvnpm.at.react-native/metro-babel-transformer@0.74.89?classifier=sources

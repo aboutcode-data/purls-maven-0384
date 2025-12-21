@@ -2,4 +2,5 @@
 - pkg:maven/io.github.deppan/socket.io-java-emitter@1.0.3-2-gb2357ae?classifier=sources
 - pkg:maven/io.github.deppan/socket.io-java-emitter@1.0.3?classifier=sources
 - pkg:maven/io.github.deppan/socket.io-java-emitter@1.0.4?classifier=sources
+- pkg:maven/io.github.deppan/socket.io-java-emitter@1.0.5?classifier=sources
 - pkg:maven/io.github.deppan/socket.io-java-emitter@list?classifier=sources

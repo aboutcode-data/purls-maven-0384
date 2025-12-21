@@ -1,0 +1,2 @@
+- pkg:maven/com.mapp.sdk/engage-android@7.0.0-alpha01?classifier=sources
+- pkg:maven/com.mapp.sdk/engage-android@7.0.0-beta02?classifier=sources

@@ -36,6 +36,12 @@
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@2.9.32?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@2.9.33
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@2.9.33?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@2.9.34
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@2.9.34?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@2.9.35
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@2.9.35?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@2.9.36
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@2.9.36?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.27
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.27.dev
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.27.dev?classifier=sources
@@ -118,3 +124,9 @@
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.66?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.67
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.67?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.68
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.68?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.69
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.69?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.70
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-authorization@3.3.70?classifier=sources

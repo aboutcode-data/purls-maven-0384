@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm/execa@4.1.0?classifier=sources
 - pkg:maven/org.mvnpm/execa@5.1.1?classifier=sources
 - pkg:maven/org.mvnpm/execa@9.5.2?classifier=sources
+- pkg:maven/org.mvnpm/execa@9.5.3
+- pkg:maven/org.mvnpm/execa@9.5.3?classifier=sources

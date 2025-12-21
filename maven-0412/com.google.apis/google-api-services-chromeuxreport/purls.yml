@@ -32,3 +32,5 @@
 - pkg:maven/com.google.apis/google-api-services-chromeuxreport@v1-rev20240102-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-chromeuxreport@v1-rev20240916-2.0.0
 - pkg:maven/com.google.apis/google-api-services-chromeuxreport@v1-rev20240916-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-chromeuxreport@v1-rev20250409-2.0.0
+- pkg:maven/com.google.apis/google-api-services-chromeuxreport@v1-rev20250409-2.0.0?classifier=sources

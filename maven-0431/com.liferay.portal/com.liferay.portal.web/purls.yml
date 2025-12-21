@@ -1478,6 +1478,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.22?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.230?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.231?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.232?type=war
+- pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.233?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.23?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.24?type=war
 - pkg:maven/com.liferay.portal/com.liferay.portal.web@5.0.25?type=war

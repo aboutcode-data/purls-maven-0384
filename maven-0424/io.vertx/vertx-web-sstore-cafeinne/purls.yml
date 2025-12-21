@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/vertx-web-sstore-cafeinne@5.0.0.CR8?classifier=sources
+- pkg:maven/io.vertx/vertx-web-sstore-cafeinne@5.0.0?classifier=sources

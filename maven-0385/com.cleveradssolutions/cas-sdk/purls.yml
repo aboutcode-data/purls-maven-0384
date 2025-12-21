@@ -94,3 +94,4 @@
 - pkg:maven/com.cleveradssolutions/cas-sdk@3.9.7?classifier=sources
 - pkg:maven/com.cleveradssolutions/cas-sdk@3.9.8?classifier=sources
 - pkg:maven/com.cleveradssolutions/cas-sdk@3.9.9?classifier=sources
+- pkg:maven/com.cleveradssolutions/cas-sdk@4.0.2?classifier=sources

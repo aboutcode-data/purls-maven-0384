@@ -31,3 +31,4 @@
 - pkg:maven/io.playgap/playgap-sdk@3.2.1?type=aar
 - pkg:maven/io.playgap/playgap-sdk@3.2.2?type=aar
 - pkg:maven/io.playgap/playgap-sdk@3.2.3?type=aar
+- pkg:maven/io.playgap/playgap-sdk@3.2.4?type=aar

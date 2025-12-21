@@ -2,3 +2,6 @@
 - pkg:maven/org.webjars.npm/event-calendar__build@3.10.1
 - pkg:maven/org.webjars.npm/event-calendar__build@3.6.2
 - pkg:maven/org.webjars.npm/event-calendar__build@3.9.0
+- pkg:maven/org.webjars.npm/event-calendar__build@4.0.3
+- pkg:maven/org.webjars.npm/event-calendar__build@4.1.0
+- pkg:maven/org.webjars.npm/event-calendar__build@4.3.0

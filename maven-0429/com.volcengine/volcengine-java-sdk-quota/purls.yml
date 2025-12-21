@@ -1,0 +1,2 @@
+- pkg:maven/com.volcengine/volcengine-java-sdk-quota@0.2.9
+- pkg:maven/com.volcengine/volcengine-java-sdk-quota@0.2.9?classifier=sources

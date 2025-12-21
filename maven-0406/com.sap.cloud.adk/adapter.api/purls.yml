@@ -6,7 +6,11 @@
 - pkg:maven/com.sap.cloud.adk/adapter.api@2.28.0?classifier=sources
 - pkg:maven/com.sap.cloud.adk/adapter.api@2.31.0
 - pkg:maven/com.sap.cloud.adk/adapter.api@2.31.0?classifier=sources
+- pkg:maven/com.sap.cloud.adk/adapter.api@2.33.0
+- pkg:maven/com.sap.cloud.adk/adapter.api@2.33.0?classifier=sources
 - pkg:maven/com.sap.cloud.adk/adapter.api@3.11.0
 - pkg:maven/com.sap.cloud.adk/adapter.api@3.11.0?classifier=sources
 - pkg:maven/com.sap.cloud.adk/adapter.api@3.12.0
 - pkg:maven/com.sap.cloud.adk/adapter.api@3.12.0?classifier=sources
+- pkg:maven/com.sap.cloud.adk/adapter.api@3.16.0
+- pkg:maven/com.sap.cloud.adk/adapter.api@3.16.0?classifier=sources

@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-flexmark@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-flexmark@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-flexmark@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-flexmark@RELEASE260?classifier=sources

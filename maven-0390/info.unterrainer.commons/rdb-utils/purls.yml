@@ -53,3 +53,4 @@
 - pkg:maven/info.unterrainer.commons/rdb-utils@0.2.4-2-g11ffd82
 - pkg:maven/info.unterrainer.commons/rdb-utils@0.2.4-2-g11ffd82?classifier=sources
 - pkg:maven/info.unterrainer.commons/rdb-utils@0.2.4?classifier=sources
+- pkg:maven/info.unterrainer.commons/rdb-utils@1.0.1?classifier=sources

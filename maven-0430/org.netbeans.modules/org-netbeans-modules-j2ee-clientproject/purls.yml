@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-clientproject@RELEASE260?classifier=sources

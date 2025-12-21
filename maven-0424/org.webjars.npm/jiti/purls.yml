@@ -15,3 +15,4 @@
 - pkg:maven/org.webjars.npm/jiti@1.21.0
 - pkg:maven/org.webjars.npm/jiti@1.21.0?classifier=sources
 - pkg:maven/org.webjars.npm/jiti@1.21.6
+- pkg:maven/org.webjars.npm/jiti@1.21.7

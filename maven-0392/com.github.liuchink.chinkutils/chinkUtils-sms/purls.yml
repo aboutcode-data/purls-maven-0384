@@ -1,0 +1,2 @@
+- pkg:maven/com.github.liuchink.chinkutils/chinkUtils-sms@0.0.15.RELEASE
+- pkg:maven/com.github.liuchink.chinkutils/chinkUtils-sms@0.0.15.RELEASE?classifier=sources

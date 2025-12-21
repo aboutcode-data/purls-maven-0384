@@ -1,0 +1,3 @@
+- pkg:maven/io.github.bobbyesp/foundation@1.0.0-alpha.98eac45?classifier=sources
+- pkg:maven/io.github.bobbyesp/foundation@1.0.0-alpha.99a7ccd?classifier=sources
+- pkg:maven/io.github.bobbyesp/foundation@1.0.0?classifier=sources

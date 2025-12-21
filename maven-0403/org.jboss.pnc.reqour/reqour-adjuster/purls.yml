@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.pnc.reqour/reqour-adjuster@0.0.2
+- pkg:maven/org.jboss.pnc.reqour/reqour-adjuster@0.0.2?classifier=sources

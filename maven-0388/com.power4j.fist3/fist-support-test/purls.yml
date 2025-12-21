@@ -8,4 +8,6 @@
 - pkg:maven/com.power4j.fist3/fist-support-test@3.4.2
 - pkg:maven/com.power4j.fist3/fist-support-test@3.5.0
 - pkg:maven/com.power4j.fist3/fist-support-test@3.6.0
+- pkg:maven/com.power4j.fist3/fist-support-test@3.7.0
+- pkg:maven/com.power4j.fist3/fist-support-test@3.7.1
 - pkg:maven/com.power4j.fist3/fist-support-test@3.x

@@ -23,3 +23,7 @@
 - pkg:maven/io.github.jdbcx/jdbcx-server@0.5.0?classifier=sources
 - pkg:maven/io.github.jdbcx/jdbcx-server@0.6.0
 - pkg:maven/io.github.jdbcx/jdbcx-server@0.6.0?classifier=sources
+- pkg:maven/io.github.jdbcx/jdbcx-server@0.7.0
+- pkg:maven/io.github.jdbcx/jdbcx-server@0.7.0?classifier=sources
+- pkg:maven/io.github.jdbcx/jdbcx-server@0.7.1
+- pkg:maven/io.github.jdbcx/jdbcx-server@0.7.1?classifier=sources

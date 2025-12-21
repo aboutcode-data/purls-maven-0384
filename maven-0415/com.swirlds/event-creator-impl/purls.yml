@@ -28,3 +28,7 @@
 - pkg:maven/com.swirlds/event-creator-impl@0.61.2?classifier=sources
 - pkg:maven/com.swirlds/event-creator-impl@0.61.3?classifier=sources
 - pkg:maven/com.swirlds/event-creator-impl@0.61.4?classifier=sources
+- pkg:maven/com.swirlds/event-creator-impl@0.61.5?classifier=sources
+- pkg:maven/com.swirlds/event-creator-impl@0.61.6?classifier=sources
+- pkg:maven/com.swirlds/event-creator-impl@0.61.7?classifier=sources
+- pkg:maven/com.swirlds/event-creator-impl@0.61.8?classifier=sources

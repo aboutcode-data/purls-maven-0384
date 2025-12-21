@@ -50,6 +50,8 @@
 - pkg:maven/com.netease.nimlib/ysf@10.8.20?type=aar
 - pkg:maven/com.netease.nimlib/ysf@10.8.21?classifier=sources
 - pkg:maven/com.netease.nimlib/ysf@10.8.21?type=aar
+- pkg:maven/com.netease.nimlib/ysf@10.8.30?classifier=sources
+- pkg:maven/com.netease.nimlib/ysf@10.8.30?type=aar
 - pkg:maven/com.netease.nimlib/ysf@7.6.0?classifier=sources
 - pkg:maven/com.netease.nimlib/ysf@7.6.0?type=aar
 - pkg:maven/com.netease.nimlib/ysf@7.6.1?classifier=sources

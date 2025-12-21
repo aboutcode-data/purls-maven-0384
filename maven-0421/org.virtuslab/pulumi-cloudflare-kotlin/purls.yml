@@ -57,3 +57,5 @@
 - pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@6.0.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@6.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@6.1.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@6.1.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-cloudflare-kotlin@6.1.2.0?classifier=sources

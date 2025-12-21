@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.ozone/ozone-s3-secret-store@1.4.0
 - pkg:maven/org.apache.ozone/ozone-s3-secret-store@1.4.1
+- pkg:maven/org.apache.ozone/ozone-s3-secret-store@2.0.0
+- pkg:maven/org.apache.ozone/ozone-s3-secret-store@2.0.0?classifier=sources

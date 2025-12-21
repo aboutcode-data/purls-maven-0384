@@ -1,2 +1,4 @@
 - pkg:maven/org.rcsb/rcsb-idmapper-client@0.0.10
 - pkg:maven/org.rcsb/rcsb-idmapper-client@0.0.10?classifier=sources
+- pkg:maven/org.rcsb/rcsb-idmapper-client@0.0.11
+- pkg:maven/org.rcsb/rcsb-idmapper-client@0.0.11?classifier=sources

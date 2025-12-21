@@ -1,0 +1,2 @@
+- pkg:maven/cn.ashersu.omni.model/omni-model-api-path@0.0.3?classifier=sources
+- pkg:maven/cn.ashersu.omni.model/omni-model-api-path@1.0.0?classifier=sources

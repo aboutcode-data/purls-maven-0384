@@ -1,2 +1,3 @@
 - pkg:maven/io.github.deersunny/netty-socketio-spring-boot-starter@1.0.0
 - pkg:maven/io.github.deersunny/netty-socketio-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/io.github.deersunny/netty-socketio-spring-boot-starter@2.0.0?classifier=sources

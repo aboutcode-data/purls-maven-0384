@@ -6,3 +6,7 @@
 - pkg:maven/org.mvnpm.at.babel/template@7.25.9?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/template@7.26.9?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/template@7.27.0?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/template@7.27.1
+- pkg:maven/org.mvnpm.at.babel/template@7.27.1?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/template@7.27.2
+- pkg:maven/org.mvnpm.at.babel/template@7.27.2?classifier=sources

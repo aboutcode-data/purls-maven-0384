@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jumpto@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jumpto@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jumpto@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-jumpto@RELEASE260?classifier=sources

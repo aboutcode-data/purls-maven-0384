@@ -1,0 +1,2 @@
+- pkg:maven/dev.rage4j/rage-assert@1.0.1?classifier=sources
+- pkg:maven/dev.rage4j/rage-assert@1.0.2?classifier=sources

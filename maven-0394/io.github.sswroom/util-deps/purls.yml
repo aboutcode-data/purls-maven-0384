@@ -14,6 +14,7 @@
 - pkg:maven/io.github.sswroom/util-deps@0.2.20240725?classifier=sources
 - pkg:maven/io.github.sswroom/util-deps@0.2.20240924?classifier=sources
 - pkg:maven/io.github.sswroom/util-deps@0.2.20240925?classifier=sources
+- pkg:maven/io.github.sswroom/util-deps@0.2.20250516?classifier=sources
 - pkg:maven/io.github.sswroom/util-deps@0.4.20240805?classifier=sources
 - pkg:maven/io.github.sswroom/util-deps@0.4.20240816?classifier=sources
 - pkg:maven/io.github.sswroom/util-deps@0.4.20240913?classifier=sources

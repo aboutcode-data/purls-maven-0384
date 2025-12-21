@@ -18,3 +18,5 @@
 - pkg:maven/com.ecommpay/msdk-ui-common@3.7.0?classifier=sources
 - pkg:maven/com.ecommpay/msdk-ui-common@3.7.1?classifier=sources
 - pkg:maven/com.ecommpay/msdk-ui-common@3.7.2?classifier=sources
+- pkg:maven/com.ecommpay/msdk-ui-common@3.8.1?classifier=sources
+- pkg:maven/com.ecommpay/msdk-ui-common@3.8.2?classifier=sources

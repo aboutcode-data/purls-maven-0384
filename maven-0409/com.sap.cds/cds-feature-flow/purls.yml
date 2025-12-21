@@ -1,0 +1,4 @@
+- pkg:maven/com.sap.cds/cds-feature-flow@3.10.0
+- pkg:maven/com.sap.cds/cds-feature-flow@3.10.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-flow@3.10.1
+- pkg:maven/com.sap.cds/cds-feature-flow@3.10.1?classifier=sources

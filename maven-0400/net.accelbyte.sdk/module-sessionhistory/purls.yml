@@ -1,3 +1,4 @@
+- pkg:maven/net.accelbyte.sdk/module-sessionhistory@0.10.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-sessionhistory@0.2.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-sessionhistory@0.3.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-sessionhistory@0.4.0?classifier=sources

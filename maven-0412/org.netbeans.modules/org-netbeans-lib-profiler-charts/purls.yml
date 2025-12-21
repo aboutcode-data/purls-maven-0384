@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-charts@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-charts@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-charts@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-charts@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-charts@RELEASE90?classifier=sources

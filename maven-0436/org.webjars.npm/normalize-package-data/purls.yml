@@ -17,3 +17,4 @@
 - pkg:maven/org.webjars.npm/normalize-package-data@3.0.3
 - pkg:maven/org.webjars.npm/normalize-package-data@3.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/normalize-package-data@6.0.2
+- pkg:maven/org.webjars.npm/normalize-package-data@7.0.0

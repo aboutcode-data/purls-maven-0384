@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-project@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-project@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-project@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-project@RELEASE260?classifier=sources

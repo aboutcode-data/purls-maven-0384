@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.babel/helper-wrap-function@7.22.17?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/helper-wrap-function@7.22.20?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/helper-wrap-function@7.25.9?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/helper-wrap-function@7.27.1
+- pkg:maven/org.mvnpm.at.babel/helper-wrap-function@7.27.1?classifier=sources

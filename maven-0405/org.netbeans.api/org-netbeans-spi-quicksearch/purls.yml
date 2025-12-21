@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-quicksearch@RELEASE90?classifier=sources

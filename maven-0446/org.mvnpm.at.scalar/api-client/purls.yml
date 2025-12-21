@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.scalar/api-client@2.3.23
+- pkg:maven/org.mvnpm.at.scalar/api-client@2.3.23?classifier=sources

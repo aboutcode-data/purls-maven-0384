@@ -1,0 +1,2 @@
+- pkg:maven/io.deephaven/deephaven-web-client-backplane@0.39.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-web-client-backplane@0.39.1?classifier=sources

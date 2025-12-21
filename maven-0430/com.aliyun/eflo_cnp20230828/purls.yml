@@ -1,2 +1,6 @@
 - pkg:maven/com.aliyun/eflo_cnp20230828@1.0.0
 - pkg:maven/com.aliyun/eflo_cnp20230828@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/eflo_cnp20230828@2.0.0
+- pkg:maven/com.aliyun/eflo_cnp20230828@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/eflo_cnp20230828@2.1.0
+- pkg:maven/com.aliyun/eflo_cnp20230828@2.1.0?classifier=sources

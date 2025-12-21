@@ -1,1 +1,2 @@
 - pkg:maven/io.github.binance/binance-auto-invest@1.0.0?classifier=sources
+- pkg:maven/io.github.binance/binance-auto-invest@1.1.0?classifier=sources
