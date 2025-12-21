@@ -2,3 +2,5 @@
 - pkg:maven/com.github.nbbrd.sdmx-dl/sdmx-dl-standalone@3.0.0-beta.12?classifier=sources
 - pkg:maven/com.github.nbbrd.sdmx-dl/sdmx-dl-standalone@3.0.0-beta.13
 - pkg:maven/com.github.nbbrd.sdmx-dl/sdmx-dl-standalone@3.0.0-beta.13?classifier=sources
+- pkg:maven/com.github.nbbrd.sdmx-dl/sdmx-dl-standalone@3.0.0-beta.14
+- pkg:maven/com.github.nbbrd.sdmx-dl/sdmx-dl-standalone@3.0.0-beta.14?classifier=sources

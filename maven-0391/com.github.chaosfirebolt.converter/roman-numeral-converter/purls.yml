@@ -28,3 +28,5 @@
 - pkg:maven/com.github.chaosfirebolt.converter/roman-numeral-converter@3.5.0?classifier=sources
 - pkg:maven/com.github.chaosfirebolt.converter/roman-numeral-converter@3.6.0
 - pkg:maven/com.github.chaosfirebolt.converter/roman-numeral-converter@3.6.0?classifier=sources
+- pkg:maven/com.github.chaosfirebolt.converter/roman-numeral-converter@3.7.0
+- pkg:maven/com.github.chaosfirebolt.converter/roman-numeral-converter@3.7.0?classifier=sources

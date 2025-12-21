@@ -1,1 +1,2 @@
 - pkg:maven/io.uhndata.cards/cards4corpath@1.0.0?classifier=sources
+- pkg:maven/io.uhndata.cards/cards4corpath@1.1.0?classifier=sources

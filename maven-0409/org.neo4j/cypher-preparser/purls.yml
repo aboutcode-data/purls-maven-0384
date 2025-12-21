@@ -1,2 +1,4 @@
 - pkg:maven/org.neo4j/cypher-preparser@2025.01.0
 - pkg:maven/org.neo4j/cypher-preparser@2025.01.0?classifier=sources
+- pkg:maven/org.neo4j/cypher-preparser@2025.02.0
+- pkg:maven/org.neo4j/cypher-preparser@2025.02.0?classifier=sources

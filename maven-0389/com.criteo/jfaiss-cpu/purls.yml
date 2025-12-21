@@ -1,0 +1,6 @@
+- pkg:maven/com.criteo/jfaiss-cpu@1.6.3-e6c41f7
+- pkg:maven/com.criteo/jfaiss-cpu@1.6.3-e6c41f7?classifier=sources
+- pkg:maven/com.criteo/jfaiss-cpu@2.1.0-da412ad
+- pkg:maven/com.criteo/jfaiss-cpu@2.1.0-da412ad?classifier=sources
+- pkg:maven/com.criteo/jfaiss-cpu@2.1.0-dd6ed70
+- pkg:maven/com.criteo/jfaiss-cpu@2.1.0-dd6ed70?classifier=sources

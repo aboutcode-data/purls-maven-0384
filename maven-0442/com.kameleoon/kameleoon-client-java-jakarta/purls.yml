@@ -8,3 +8,5 @@
 - pkg:maven/com.kameleoon/kameleoon-client-java-jakarta@4.8.0?classifier=sources
 - pkg:maven/com.kameleoon/kameleoon-client-java-jakarta@4.8.1
 - pkg:maven/com.kameleoon/kameleoon-client-java-jakarta@4.8.1?classifier=sources
+- pkg:maven/com.kameleoon/kameleoon-client-java-jakarta@4.9.0
+- pkg:maven/com.kameleoon/kameleoon-client-java-jakarta@4.9.0?classifier=sources

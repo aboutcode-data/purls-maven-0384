@@ -3,6 +3,8 @@
 - pkg:maven/com.tunjid.treenav/compose@0.0.12?classifier=sources
 - pkg:maven/com.tunjid.treenav/compose@0.0.13?classifier=sources
 - pkg:maven/com.tunjid.treenav/compose@0.0.14?classifier=sources
+- pkg:maven/com.tunjid.treenav/compose@0.0.20?classifier=sources
+- pkg:maven/com.tunjid.treenav/compose@0.0.21?classifier=sources
 - pkg:maven/com.tunjid.treenav/compose@0.0.7?classifier=sources
 - pkg:maven/com.tunjid.treenav/compose@0.0.8?classifier=sources
 - pkg:maven/com.tunjid.treenav/compose@0.0.9?classifier=sources

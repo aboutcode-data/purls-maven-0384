@@ -83,3 +83,5 @@
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.241004-RCM?type=war
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.241121-RCM?classifier=sources
 - pkg:maven/cv.igrp/igrp-core-war@2.0.0.241121-RCM?type=war
+- pkg:maven/cv.igrp/igrp-core-war@2.0.0.250216-GA?classifier=sources
+- pkg:maven/cv.igrp/igrp-core-war@2.0.0.250216-GA?type=war

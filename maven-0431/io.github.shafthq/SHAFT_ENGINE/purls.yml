@@ -62,3 +62,6 @@
 - pkg:maven/io.github.shafthq/SHAFT_ENGINE@8.4.20241001-beta?classifier=sources
 - pkg:maven/io.github.shafthq/SHAFT_ENGINE@8.4.20241016-beta?classifier=sources
 - pkg:maven/io.github.shafthq/SHAFT_ENGINE@8.4.20241024?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@9.1.20250203?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@9.1.20250216?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_ENGINE@9.1.20250224?classifier=sources

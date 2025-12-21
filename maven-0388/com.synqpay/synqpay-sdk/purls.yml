@@ -1,2 +1,3 @@
 - pkg:maven/com.synqpay/synqpay-sdk@0.9?classifier=sources
 - pkg:maven/com.synqpay/synqpay-sdk@1.0?classifier=sources
+- pkg:maven/com.synqpay/synqpay-sdk@1.1?classifier=sources

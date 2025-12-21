@@ -18,3 +18,4 @@
 - pkg:maven/org.apache.beam/beam-examples-java-cdap-hubspot@2.60.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java-cdap-hubspot@2.61.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java-cdap-hubspot@2.62.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-examples-java-cdap-hubspot@2.63.0?classifier=sources

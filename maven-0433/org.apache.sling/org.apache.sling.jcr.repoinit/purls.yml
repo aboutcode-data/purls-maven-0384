@@ -76,6 +76,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.repoinit@1.1.52
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.repoinit@1.1.52?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.repoinit@1.1.52?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.repoinit@1.1.54
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.repoinit@1.1.54?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.repoinit@1.1.54?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.repoinit@1.1.6
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.repoinit@1.1.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.repoinit@1.1.6?classifier=sources

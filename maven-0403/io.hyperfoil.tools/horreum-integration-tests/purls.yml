@@ -74,6 +74,7 @@
 - pkg:maven/io.hyperfoil.tools/horreum-integration-tests@0.16.3?classifier=sources
 - pkg:maven/io.hyperfoil.tools/horreum-integration-tests@0.17.0
 - pkg:maven/io.hyperfoil.tools/horreum-integration-tests@0.17.0?classifier=sources
+- pkg:maven/io.hyperfoil.tools/horreum-integration-tests@0.17.1
 - pkg:maven/io.hyperfoil.tools/horreum-integration-tests@0.8.0
 - pkg:maven/io.hyperfoil.tools/horreum-integration-tests@0.8.1
 - pkg:maven/io.hyperfoil.tools/horreum-integration-tests@0.8.2

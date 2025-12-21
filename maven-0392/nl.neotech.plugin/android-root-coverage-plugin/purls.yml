@@ -1,3 +1,4 @@
+- pkg:maven/nl.neotech.plugin/android-root-coverage-plugin@1.10.0?classifier=sources
 - pkg:maven/nl.neotech.plugin/android-root-coverage-plugin@1.3.0?classifier=sources
 - pkg:maven/nl.neotech.plugin/android-root-coverage-plugin@1.3.1?classifier=sources
 - pkg:maven/nl.neotech.plugin/android-root-coverage-plugin@1.4.0?classifier=sources

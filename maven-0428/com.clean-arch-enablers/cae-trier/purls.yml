@@ -1,1 +1,4 @@
 - pkg:maven/com.clean-arch-enablers/cae-trier@1.0.0?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-trier@2.0.0?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-trier@3.0.0?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-trier@4.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.patternfly/react-styles@5.2.1?classifier=sources
 - pkg:maven/org.mvnpm.at.patternfly/react-styles@5.4.0?classifier=sources
+- pkg:maven/org.mvnpm.at.patternfly/react-styles@5.4.1?classifier=sources
+- pkg:maven/org.mvnpm.at.patternfly/react-styles@6.1.0?classifier=sources

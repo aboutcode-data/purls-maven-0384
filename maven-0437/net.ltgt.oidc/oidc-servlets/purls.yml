@@ -1,1 +1,5 @@
 - pkg:maven/net.ltgt.oidc/oidc-servlets@1.0.0-rc-1?classifier=sources
+- pkg:maven/net.ltgt.oidc/oidc-servlets@1.0.0-rc-2?classifier=sources
+- pkg:maven/net.ltgt.oidc/oidc-servlets@1.0.0-rc-3?classifier=sources
+- pkg:maven/net.ltgt.oidc/oidc-servlets@1.0.0-rc-4?classifier=sources
+- pkg:maven/net.ltgt.oidc/oidc-servlets@1.0.0-rc-5?classifier=sources

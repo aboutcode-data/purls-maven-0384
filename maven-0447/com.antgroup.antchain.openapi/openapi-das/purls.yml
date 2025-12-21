@@ -45,4 +45,6 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-das@1.1.6
 - pkg:maven/com.antgroup.antchain.openapi/openapi-das@1.1.65
 - pkg:maven/com.antgroup.antchain.openapi/openapi-das@1.1.65?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-das@1.1.67
+- pkg:maven/com.antgroup.antchain.openapi/openapi-das@1.1.67?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-das@1.1.6?classifier=sources

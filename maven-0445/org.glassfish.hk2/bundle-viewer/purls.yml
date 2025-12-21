@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.hk2/bundle-viewer@3.0.0
+- pkg:maven/org.glassfish.hk2/bundle-viewer@3.0.0?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/io.github.dzirbel/compose-material-context-menu@0.1.0?classifier=sources
 - pkg:maven/io.github.dzirbel/compose-material-context-menu@0.1.1?classifier=sources
 - pkg:maven/io.github.dzirbel/compose-material-context-menu@0.2.0?classifier=sources
+- pkg:maven/io.github.dzirbel/compose-material-context-menu@0.3.0?classifier=sources
+- pkg:maven/io.github.dzirbel/compose-material-context-menu@0.3.1?classifier=sources

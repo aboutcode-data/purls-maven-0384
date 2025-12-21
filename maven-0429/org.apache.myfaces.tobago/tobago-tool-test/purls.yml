@@ -40,6 +40,8 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@5.13.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@5.14.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@5.14.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@5.15.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@5.15.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@5.2.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@5.2.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@5.3.0
@@ -78,3 +80,5 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@6.5.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@6.6.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@6.6.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@6.7.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-test@6.7.0?classifier=sources

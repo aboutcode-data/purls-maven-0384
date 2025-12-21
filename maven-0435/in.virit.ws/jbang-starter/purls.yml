@@ -1,2 +1,3 @@
 - pkg:maven/in.virit.ws/jbang-starter@24.6.1?classifier=sources
 - pkg:maven/in.virit.ws/jbang-starter@24.6.2?classifier=sources
+- pkg:maven/in.virit.ws/jbang-starter@24.6.5?classifier=sources

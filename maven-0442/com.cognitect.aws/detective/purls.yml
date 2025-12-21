@@ -30,3 +30,5 @@
 - pkg:maven/com.cognitect.aws/detective@857.2.1574.0?classifier=sources
 - pkg:maven/com.cognitect.aws/detective@871.2.29.35
 - pkg:maven/com.cognitect.aws/detective@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/detective@871.2.30.11
+- pkg:maven/com.cognitect.aws/detective@871.2.30.11?classifier=sources

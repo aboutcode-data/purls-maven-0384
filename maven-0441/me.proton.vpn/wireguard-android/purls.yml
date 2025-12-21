@@ -12,3 +12,4 @@
 - pkg:maven/me.proton.vpn/wireguard-android@1.0.20230512.24?classifier=sources
 - pkg:maven/me.proton.vpn/wireguard-android@1.0.20230512.25?classifier=sources
 - pkg:maven/me.proton.vpn/wireguard-android@1.0.20230512.26?classifier=sources
+- pkg:maven/me.proton.vpn/wireguard-android@1.0.20230512.28?classifier=sources

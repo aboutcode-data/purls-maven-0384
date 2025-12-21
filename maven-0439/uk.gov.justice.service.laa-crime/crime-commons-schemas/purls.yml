@@ -17,3 +17,5 @@
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-schemas@1.6.0?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-schemas@1.7.0?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-schemas@1.7.1?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-schemas@1.8.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-schemas@1.9.0?classifier=sources

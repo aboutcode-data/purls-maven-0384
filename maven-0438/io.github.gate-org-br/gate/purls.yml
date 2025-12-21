@@ -40,6 +40,10 @@
 - pkg:maven/io.github.gate-org-br/gate@12.3.1?classifier=sources
 - pkg:maven/io.github.gate-org-br/gate@13.0.1
 - pkg:maven/io.github.gate-org-br/gate@13.0.1?classifier=sources
+- pkg:maven/io.github.gate-org-br/gate@13.0.2
+- pkg:maven/io.github.gate-org-br/gate@13.0.2?classifier=sources
+- pkg:maven/io.github.gate-org-br/gate@13.0.3
+- pkg:maven/io.github.gate-org-br/gate@13.0.3?classifier=sources
 - pkg:maven/io.github.gate-org-br/gate@8.3.0?classifier=sources
 - pkg:maven/io.github.gate-org-br/gate@8.3.0?type=war
 - pkg:maven/io.github.gate-org-br/gate@8.4.0?classifier=sources

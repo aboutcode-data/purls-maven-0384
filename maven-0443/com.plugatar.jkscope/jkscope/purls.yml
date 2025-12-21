@@ -11,4 +11,6 @@
 - pkg:maven/com.plugatar.jkscope/jkscope@3.0
 - pkg:maven/com.plugatar.jkscope/jkscope@3.0?classifier=sources
 - pkg:maven/com.plugatar.jkscope/jkscope@3.1
+- pkg:maven/com.plugatar.jkscope/jkscope@3.1.1
+- pkg:maven/com.plugatar.jkscope/jkscope@3.1.1?classifier=sources
 - pkg:maven/com.plugatar.jkscope/jkscope@3.1?classifier=sources
