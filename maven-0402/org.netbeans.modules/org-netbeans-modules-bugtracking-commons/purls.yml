@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-commons@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-commons@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-commons@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-commons@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-commons@RELEASE90?classifier=sources

@@ -31,3 +31,4 @@
 - pkg:maven/com.authme/algo@9.0.8-rc.26?classifier=sources
 - pkg:maven/com.authme/algo@9.0.8-rc.27?classifier=sources
 - pkg:maven/com.authme/algo@9.0.8?classifier=sources
+- pkg:maven/com.authme/algo@9.0.9-rc.1?classifier=sources

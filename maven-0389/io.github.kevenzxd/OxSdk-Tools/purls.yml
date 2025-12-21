@@ -10,3 +10,8 @@
 - pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.0.3?classifier=sources
 - pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.0.4-Base?classifier=sources
 - pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.0.4?classifier=sources
+- pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.3.0-Base?classifier=sources
+- pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.3.0?classifier=sources
+- pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.3.1-Base?classifier=sources
+- pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.3.1-Test?classifier=sources
+- pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.3.1?classifier=sources

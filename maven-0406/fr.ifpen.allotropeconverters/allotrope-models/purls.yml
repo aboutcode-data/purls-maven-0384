@@ -1,3 +1,4 @@
 - pkg:maven/fr.ifpen.allotropeconverters/allotrope-models@2025-03?classifier=sources
 - pkg:maven/fr.ifpen.allotropeconverters/allotrope-models@2025-04?classifier=sources
 - pkg:maven/fr.ifpen.allotropeconverters/allotrope-models@2025-05?classifier=sources
+- pkg:maven/fr.ifpen.allotropeconverters/allotrope-models@2025-06.02?classifier=sources

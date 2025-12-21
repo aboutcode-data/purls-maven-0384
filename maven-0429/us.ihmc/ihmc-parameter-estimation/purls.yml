@@ -1,1 +1,2 @@
 - pkg:maven/us.ihmc/ihmc-parameter-estimation@0.14.0-241016?classifier=sources
+- pkg:maven/us.ihmc/ihmc-parameter-estimation@0.14.0-250815?classifier=sources

@@ -107,8 +107,17 @@
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.14-96784f1-3-86ef8a00?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.14-96784f1-4-d0a6f516?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.15-1-5a6bcfcb?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.15-2-1ff4cd8c?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.15-3-772d0895?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.15-4-36ca4c00?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.15-5-0e9018e6?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.15-6-544e9b47?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.15-7-ddcc4017?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.15-7934566?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.15-8-4e3a8312?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.15?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.16-1-0e2c952c?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.16?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-1-b83658f5
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-10-75559b2b

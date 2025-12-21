@@ -4,3 +4,4 @@
 - pkg:maven/com.helger.schedule/ph-mini-quartz@5.0.0?classifier=sources
 - pkg:maven/com.helger.schedule/ph-mini-quartz@5.0.1
 - pkg:maven/com.helger.schedule/ph-mini-quartz@5.0.1?classifier=sources
+- pkg:maven/com.helger.schedule/ph-mini-quartz@6.0.0?classifier=sources

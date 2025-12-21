@@ -92,7 +92,9 @@
 - pkg:maven/dev.enro/enro-core@2.8.2?classifier=sources
 - pkg:maven/dev.enro/enro-core@2.8.3?classifier=sources
 - pkg:maven/dev.enro/enro-core@2.8.4?classifier=sources
+- pkg:maven/dev.enro/enro-core@2.8.5?classifier=sources
 - pkg:maven/dev.enro/enro-core@2.9.0-alpha01?classifier=sources
 - pkg:maven/dev.enro/enro-core@2.9.0-kmp01?classifier=sources
 - pkg:maven/dev.enro/enro-core@2.9.0-kmp02?classifier=sources
 - pkg:maven/dev.enro/enro-core@2.9.0-kmp03?classifier=sources
+- pkg:maven/dev.enro/enro-core@3.0.0-alpha01?classifier=sources

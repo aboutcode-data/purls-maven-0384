@@ -1,3 +1,4 @@
 - pkg:maven/live.videosdk/libmediasoup-android@1.0?classifier=sources
 - pkg:maven/live.videosdk/libmediasoup-android@2.0?classifier=sources
 - pkg:maven/live.videosdk/libmediasoup-android@3.0?classifier=sources
+- pkg:maven/live.videosdk/libmediasoup-android@3.1?classifier=sources

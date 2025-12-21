@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/ox@0.6.9
+- pkg:maven/org.mvnpm/ox@0.6.9?classifier=sources
+- pkg:maven/org.mvnpm/ox@0.9.1
+- pkg:maven/org.mvnpm/ox@0.9.1?classifier=sources

@@ -3,3 +3,12 @@
 - pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@4.13.2
 - pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@4.13.2?classifier=sources
 - pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@5.11.3?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@5.11.4?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@5.12.0?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@5.12.1?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@5.12.2?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@5.13.0?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@5.13.1?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@5.13.2?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@5.13.3?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.swing.runtime@5.13.4?classifier=sources

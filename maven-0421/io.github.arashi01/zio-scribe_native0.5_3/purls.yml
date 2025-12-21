@@ -1,0 +1,8 @@
+- pkg:maven/io.github.arashi01/zio-scribe_native0.5_3@0.0.1
+- pkg:maven/io.github.arashi01/zio-scribe_native0.5_3@0.0.1-m.1
+- pkg:maven/io.github.arashi01/zio-scribe_native0.5_3@0.0.1-m.1?classifier=sources
+- pkg:maven/io.github.arashi01/zio-scribe_native0.5_3@0.0.1-m.2
+- pkg:maven/io.github.arashi01/zio-scribe_native0.5_3@0.0.1-m.2?classifier=sources
+- pkg:maven/io.github.arashi01/zio-scribe_native0.5_3@0.0.1?classifier=sources
+- pkg:maven/io.github.arashi01/zio-scribe_native0.5_3@0.0.2
+- pkg:maven/io.github.arashi01/zio-scribe_native0.5_3@0.0.2?classifier=sources

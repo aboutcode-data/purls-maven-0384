@@ -3,6 +3,10 @@
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.12?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.13?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.14?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.15.15?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.15.16?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.15.17?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.15.18?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.1?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.2?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.3?classifier=sources

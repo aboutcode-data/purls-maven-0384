@@ -10,3 +10,6 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.components.adminconfig/api-model@0.21.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.components.adminconfig/api-model@0.22.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.components.adminconfig/api-model@0.23.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.adminconfig/api-model@0.24.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.adminconfig/api-model@0.25.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.adminconfig/api-model@0.26.0?classifier=sources

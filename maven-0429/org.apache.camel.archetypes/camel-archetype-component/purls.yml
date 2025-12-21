@@ -255,6 +255,7 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component@4.11.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component@4.12.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component@4.13.0?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-component@4.14.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component@4.3.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component@4.4.0?classifier=sources

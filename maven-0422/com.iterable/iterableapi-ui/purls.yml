@@ -73,4 +73,7 @@
 - pkg:maven/com.iterable/iterableapi-ui@3.5.12?classifier=sources
 - pkg:maven/com.iterable/iterableapi-ui@3.5.13?classifier=sources
 - pkg:maven/com.iterable/iterableapi-ui@3.5.14?classifier=sources
+- pkg:maven/com.iterable/iterableapi-ui@3.5.15?classifier=sources
+- pkg:maven/com.iterable/iterableapi-ui@3.5.16?classifier=sources
 - pkg:maven/com.iterable/iterableapi-ui@3.6.0-beta3?classifier=sources
+- pkg:maven/com.iterable/iterableapi-ui@3.6.0?classifier=sources

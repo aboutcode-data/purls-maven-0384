@@ -4,3 +4,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-dependencies@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-dependencies@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-dependencies@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-dependencies@RELEASE270?classifier=sources

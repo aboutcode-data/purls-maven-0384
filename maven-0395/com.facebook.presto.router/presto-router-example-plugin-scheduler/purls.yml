@@ -1,2 +1,3 @@
 - pkg:maven/com.facebook.presto.router/presto-router-example-plugin-scheduler@0.293?classifier=sources
 - pkg:maven/com.facebook.presto.router/presto-router-example-plugin-scheduler@0.293?type=zip
+- pkg:maven/com.facebook.presto.router/presto-router-example-plugin-scheduler@0.294?classifier=sources

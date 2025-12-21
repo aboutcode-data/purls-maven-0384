@@ -159,3 +159,4 @@
 - pkg:maven/org.nkjmlab/sorm4j@3.0.0-rc.2
 - pkg:maven/org.nkjmlab/sorm4j@3.0.0-rc.2?classifier=sources
 - pkg:maven/org.nkjmlab/sorm4j@3.0.0-rc.3?classifier=sources
+- pkg:maven/org.nkjmlab/sorm4j@3.0.0?classifier=sources

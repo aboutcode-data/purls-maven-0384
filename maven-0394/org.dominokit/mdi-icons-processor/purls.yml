@@ -76,3 +76,4 @@
 - pkg:maven/org.dominokit/mdi-icons-processor@2.0.3?classifier=sources
 - pkg:maven/org.dominokit/mdi-icons-processor@2.0.4
 - pkg:maven/org.dominokit/mdi-icons-processor@2.0.4?classifier=sources
+- pkg:maven/org.dominokit/mdi-icons-processor@2.0.5?classifier=sources

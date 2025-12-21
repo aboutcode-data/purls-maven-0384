@@ -13,4 +13,5 @@
 - pkg:maven/org.opentcs.commadapter.vehicle.vda5050/opentcs-commadapter-vda5050@0.22.0?classifier=sources
 - pkg:maven/org.opentcs.commadapter.vehicle.vda5050/opentcs-commadapter-vda5050@0.23.0?classifier=sources
 - pkg:maven/org.opentcs.commadapter.vehicle.vda5050/opentcs-commadapter-vda5050@0.24.0?classifier=sources
+- pkg:maven/org.opentcs.commadapter.vehicle.vda5050/opentcs-commadapter-vda5050@0.25.0?classifier=sources
 - pkg:maven/org.opentcs.commadapter.vehicle.vda5050/opentcs-commadapter-vda5050@0.9.0?classifier=sources

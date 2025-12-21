@@ -1,4 +1,6 @@
 - pkg:maven/software.sava/sava-rpc@21.0.1?classifier=sources
+- pkg:maven/software.sava/sava-rpc@21.0.7?classifier=sources
+- pkg:maven/software.sava/sava-rpc@21.0.8?classifier=sources
 - pkg:maven/software.sava/sava-rpc@24.0.0?classifier=sources
 - pkg:maven/software.sava/sava-rpc@24.19.10?classifier=sources
 - pkg:maven/software.sava/sava-rpc@24.19.1?classifier=sources
@@ -11,3 +13,11 @@
 - pkg:maven/software.sava/sava-rpc@24.20.0?classifier=sources
 - pkg:maven/software.sava/sava-rpc@24.21.0?classifier=sources
 - pkg:maven/software.sava/sava-rpc@24.21.1?classifier=sources
+- pkg:maven/software.sava/sava-rpc@24.21.2?classifier=sources
+- pkg:maven/software.sava/sava-rpc@24.21.3?classifier=sources
+- pkg:maven/software.sava/sava-rpc@24.21.4?classifier=sources
+- pkg:maven/software.sava/sava-rpc@24.21.5?classifier=sources
+- pkg:maven/software.sava/sava-rpc@24.22.0?classifier=sources
+- pkg:maven/software.sava/sava-rpc@24.22.1?classifier=sources
+- pkg:maven/software.sava/sava-rpc@24.23.1?classifier=sources
+- pkg:maven/software.sava/sava-rpc@24.23.2?classifier=sources

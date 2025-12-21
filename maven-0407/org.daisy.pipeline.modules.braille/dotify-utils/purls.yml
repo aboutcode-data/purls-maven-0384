@@ -68,3 +68,4 @@
 - pkg:maven/org.daisy.pipeline.modules.braille/dotify-utils@6.2.5?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules.braille/dotify-utils@6.3.0
 - pkg:maven/org.daisy.pipeline.modules.braille/dotify-utils@6.3.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/dotify-utils@6.4.0?classifier=sources

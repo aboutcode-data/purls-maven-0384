@@ -7,3 +7,4 @@
 - pkg:maven/io.github.mirzemehdi/kmpnotifier-jvm@1.5.0?classifier=sources
 - pkg:maven/io.github.mirzemehdi/kmpnotifier-jvm@1.5.1-alpha01?classifier=sources
 - pkg:maven/io.github.mirzemehdi/kmpnotifier-jvm@1.5.1?classifier=sources
+- pkg:maven/io.github.mirzemehdi/kmpnotifier-jvm@1.6.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.ojalgo/ojalgo-ortools@1.0.0?classifier=sources
 - pkg:maven/org.ojalgo/ojalgo-ortools@2.0.0
 - pkg:maven/org.ojalgo/ojalgo-ortools@2.0.0?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo-ortools@2.0.1?classifier=sources

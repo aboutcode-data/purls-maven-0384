@@ -21,3 +21,4 @@
 - pkg:maven/org.apache.zookeeper/parent@3.9.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.zookeeper/parent@3.9.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.zookeeper/parent@3.9.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.zookeeper/parent@3.9.4?classifier=source-release&type=zip

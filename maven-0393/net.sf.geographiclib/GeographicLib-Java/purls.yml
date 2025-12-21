@@ -22,3 +22,4 @@
 - pkg:maven/net.sf.geographiclib/GeographicLib-Java@1.52?classifier=sources
 - pkg:maven/net.sf.geographiclib/GeographicLib-Java@2.0
 - pkg:maven/net.sf.geographiclib/GeographicLib-Java@2.0?classifier=sources
+- pkg:maven/net.sf.geographiclib/GeographicLib-Java@2.1?classifier=sources

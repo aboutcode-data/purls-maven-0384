@@ -40,3 +40,4 @@
 - pkg:maven/io.bootique.job/bootique-job-instrumented@3.0.M1?classifier=sources
 - pkg:maven/io.bootique.job/bootique-job-instrumented@3.0.M2
 - pkg:maven/io.bootique.job/bootique-job-instrumented@3.0.M2?classifier=sources
+- pkg:maven/io.bootique.job/bootique-job-instrumented@4.0-M1?classifier=sources

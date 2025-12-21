@@ -10,5 +10,7 @@
 - pkg:maven/io.7mind.izumi.sbt/sbt-izumi_2.12_1.0@0.0.104?classifier=sources
 - pkg:maven/io.7mind.izumi.sbt/sbt-izumi_2.12_1.0@0.0.107
 - pkg:maven/io.7mind.izumi.sbt/sbt-izumi_2.12_1.0@0.0.107?classifier=sources
+- pkg:maven/io.7mind.izumi.sbt/sbt-izumi_2.12_1.0@0.0.108
+- pkg:maven/io.7mind.izumi.sbt/sbt-izumi_2.12_1.0@0.0.108?classifier=sources
 - pkg:maven/io.7mind.izumi.sbt/sbt-izumi_2.12_1.0@0.0.99
 - pkg:maven/io.7mind.izumi.sbt/sbt-izumi_2.12_1.0@0.0.99?classifier=sources

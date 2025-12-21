@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-timelineservice-hbase-server-2@3.4.2
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-timelineservice-hbase-server-2@3.4.2?classifier=sources

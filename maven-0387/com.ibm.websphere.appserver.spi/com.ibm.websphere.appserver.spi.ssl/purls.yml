@@ -46,3 +46,4 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.ssl@1.5.53
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.ssl@1.5.54
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.ssl@1.6.103?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.ssl@1.6.104?classifier=sources

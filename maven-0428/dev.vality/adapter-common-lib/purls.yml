@@ -60,3 +60,4 @@
 - pkg:maven/dev.vality/adapter-common-lib@2.0.4?classifier=sources
 - pkg:maven/dev.vality/adapter-common-lib@2.0.5
 - pkg:maven/dev.vality/adapter-common-lib@2.0.5?classifier=sources
+- pkg:maven/dev.vality/adapter-common-lib@3.0.0?classifier=sources

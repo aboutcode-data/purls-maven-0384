@@ -21,6 +21,7 @@
 - pkg:maven/io.github.ollama4j/ollama4j@1.0.97?classifier=sources
 - pkg:maven/io.github.ollama4j/ollama4j@1.0.98?classifier=sources
 - pkg:maven/io.github.ollama4j/ollama4j@1.0.99?classifier=sources
+- pkg:maven/io.github.ollama4j/ollama4j@1.1.0?classifier=sources
 - pkg:maven/io.github.ollama4j/ollama4j@gh-actions?classifier=sources
 - pkg:maven/io.github.ollama4j/ollama4j@test001.2?classifier=sources
 - pkg:maven/io.github.ollama4j/ollama4j@v1.0.82?classifier=sources

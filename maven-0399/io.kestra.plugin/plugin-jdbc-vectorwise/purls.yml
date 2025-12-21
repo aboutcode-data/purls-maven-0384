@@ -31,6 +31,7 @@
 - pkg:maven/io.kestra.plugin/plugin-jdbc-vectorwise@0.22.3?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-vectorwise@0.23.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-vectorwise@0.24.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-jdbc-vectorwise@0.24.1?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-vectorwise@0.3.2?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-vectorwise@0.3.3?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-vectorwise@0.4.0?classifier=sources

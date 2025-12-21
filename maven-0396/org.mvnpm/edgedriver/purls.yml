@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/edgedriver@6.1.2
+- pkg:maven/org.mvnpm/edgedriver@6.1.2?classifier=sources

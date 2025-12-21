@@ -2,3 +2,5 @@
 - pkg:maven/tech.kwik/flupke@0.5.3?classifier=sources
 - pkg:maven/tech.kwik/flupke@0.5.4?classifier=sources
 - pkg:maven/tech.kwik/flupke@0.6?classifier=sources
+- pkg:maven/tech.kwik/flupke@0.7?classifier=sources
+- pkg:maven/tech.kwik/flupke@0.8?classifier=sources

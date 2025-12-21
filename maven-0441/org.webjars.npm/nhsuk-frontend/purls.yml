@@ -1,3 +1,4 @@
+- pkg:maven/org.webjars.npm/nhsuk-frontend@10.0.0
 - pkg:maven/org.webjars.npm/nhsuk-frontend@10.0.0-internal.0
 - pkg:maven/org.webjars.npm/nhsuk-frontend@10.0.0-internal.1
 - pkg:maven/org.webjars.npm/nhsuk-frontend@10.0.0-internal.2

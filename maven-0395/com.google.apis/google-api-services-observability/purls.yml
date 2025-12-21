@@ -2,3 +2,7 @@
 - pkg:maven/com.google.apis/google-api-services-observability@v1-rev20250320-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-observability@v1-rev20250417-2.0.0
 - pkg:maven/com.google.apis/google-api-services-observability@v1-rev20250417-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-observability@v1-rev20250814-2.0.0
+- pkg:maven/com.google.apis/google-api-services-observability@v1-rev20250814-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-observability@v1-rev20250822-2.0.0
+- pkg:maven/com.google.apis/google-api-services-observability@v1-rev20250822-2.0.0?classifier=sources

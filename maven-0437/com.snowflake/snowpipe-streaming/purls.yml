@@ -1,5 +1,17 @@
 - pkg:maven/com.snowflake/snowpipe-streaming@0.4.1
 - pkg:maven/com.snowflake/snowpipe-streaming@0.4.1?classifier=sources
+- pkg:maven/com.snowflake/snowpipe-streaming@0.5.0
+- pkg:maven/com.snowflake/snowpipe-streaming@0.5.0-unshaded
+- pkg:maven/com.snowflake/snowpipe-streaming@0.5.0-unshaded?classifier=sources
+- pkg:maven/com.snowflake/snowpipe-streaming@0.5.0?classifier=sources
+- pkg:maven/com.snowflake/snowpipe-streaming@0.5.1
+- pkg:maven/com.snowflake/snowpipe-streaming@0.5.1-unshaded
+- pkg:maven/com.snowflake/snowpipe-streaming@0.5.1-unshaded?classifier=sources
+- pkg:maven/com.snowflake/snowpipe-streaming@0.5.1?classifier=sources
+- pkg:maven/com.snowflake/snowpipe-streaming@0.6.0
+- pkg:maven/com.snowflake/snowpipe-streaming@0.6.0-unshaded
+- pkg:maven/com.snowflake/snowpipe-streaming@0.6.0-unshaded?classifier=sources
+- pkg:maven/com.snowflake/snowpipe-streaming@0.6.0?classifier=sources
 - pkg:maven/com.snowflake/snowpipe-streaming@v0.2.8-rel-test
 - pkg:maven/com.snowflake/snowpipe-streaming@v0.2.8-rel-test?classifier=sources
 - pkg:maven/com.snowflake/snowpipe-streaming@v0.3.0

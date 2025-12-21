@@ -7,3 +7,4 @@
 - pkg:maven/org.apache.skywalking/apm-toolkit-webflux@9.2.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-webflux@9.3.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-webflux@9.4.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-webflux@9.5.0

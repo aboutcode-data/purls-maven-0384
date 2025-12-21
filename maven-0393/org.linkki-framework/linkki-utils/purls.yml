@@ -218,6 +218,7 @@
 - pkg:maven/org.linkki-framework/linkki-utils@2.7.2?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-utils@2.7.3
 - pkg:maven/org.linkki-framework/linkki-utils@2.7.3?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-utils@2.7.4?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-utils@2.8.0?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-utils@linkki-0.9.20190528
 - pkg:maven/org.linkki-framework/linkki-utils@linkki-0.9.20190528?classifier=sources

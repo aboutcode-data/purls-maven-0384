@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.plc4x/plc4j-nifi-2-plc4x-nar@0.13.0?classifier=sources

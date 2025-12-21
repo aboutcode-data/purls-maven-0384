@@ -37,3 +37,15 @@
 - pkg:maven/io.github.efwgrp/efw@4.08.000?classifier=sources
 - pkg:maven/io.github.efwgrp/efw@4.08.000jakarta
 - pkg:maven/io.github.efwgrp/efw@4.08.000jakarta?classifier=sources
+- pkg:maven/io.github.efwgrp/efw@4.08.001
+- pkg:maven/io.github.efwgrp/efw@4.08.001?classifier=sources
+- pkg:maven/io.github.efwgrp/efw@4.08.001jakarta
+- pkg:maven/io.github.efwgrp/efw@4.08.001jakarta?classifier=sources
+- pkg:maven/io.github.efwgrp/efw@5.00.000
+- pkg:maven/io.github.efwgrp/efw@5.00.000?classifier=sources
+- pkg:maven/io.github.efwgrp/efw@5.00.000jakarta
+- pkg:maven/io.github.efwgrp/efw@5.00.000jakarta?classifier=sources
+- pkg:maven/io.github.efwgrp/efw@5.00.001
+- pkg:maven/io.github.efwgrp/efw@5.00.001?classifier=sources
+- pkg:maven/io.github.efwgrp/efw@5.00.001jakarta
+- pkg:maven/io.github.efwgrp/efw@5.00.001jakarta?classifier=sources

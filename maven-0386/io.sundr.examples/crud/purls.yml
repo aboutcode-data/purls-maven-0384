@@ -54,6 +54,9 @@
 - pkg:maven/io.sundr.examples/crud@0.19.2?classifier=sources
 - pkg:maven/io.sundr.examples/crud@0.20.0
 - pkg:maven/io.sundr.examples/crud@0.20.0?classifier=sources
+- pkg:maven/io.sundr.examples/crud@0.200.12?classifier=sources
+- pkg:maven/io.sundr.examples/crud@0.200.13?classifier=sources
+- pkg:maven/io.sundr.examples/crud@0.201.0?classifier=sources
 - pkg:maven/io.sundr.examples/crud@0.21.0
 - pkg:maven/io.sundr.examples/crud@0.21.0?classifier=sources
 - pkg:maven/io.sundr.examples/crud@0.22.0

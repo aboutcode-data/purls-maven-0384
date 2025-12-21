@@ -35,6 +35,7 @@
 - pkg:maven/com.databricks/databricks-jdbc@1.0.7-oss
 - pkg:maven/com.databricks/databricks-jdbc@1.0.7-oss?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@1.0.8-oss?classifier=sources
+- pkg:maven/com.databricks/databricks-jdbc@1.0.9-oss?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@2.6.25-1?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@2.6.25-alpha-1?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@2.6.25-alpha-2

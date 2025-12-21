@@ -60,6 +60,11 @@
 - pkg:maven/com.reteno/fcm@2.7.2?classifier=sources
 - pkg:maven/com.reteno/fcm@2.7.3?classifier=sources
 - pkg:maven/com.reteno/fcm@2.7.4?classifier=sources
+- pkg:maven/com.reteno/fcm@2.8.0?classifier=sources
+- pkg:maven/com.reteno/fcm@2.8.1?classifier=sources
+- pkg:maven/com.reteno/fcm@2.8.2?classifier=sources
+- pkg:maven/com.reteno/fcm@2.8.3?classifier=sources
+- pkg:maven/com.reteno/fcm@2.8.4?classifier=sources
 - pkg:maven/com.reteno/fcm@3.0.0-alpha01?classifier=sources
 - pkg:maven/com.reteno/fcm@3.0.0-alpha02?classifier=sources
 - pkg:maven/com.reteno/fcm@3.0.0-beta01?classifier=sources
