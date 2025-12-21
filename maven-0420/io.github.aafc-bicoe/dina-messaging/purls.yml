@@ -50,3 +50,5 @@
 - pkg:maven/io.github.aafc-bicoe/dina-messaging@0.136?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-messaging@0.137
 - pkg:maven/io.github.aafc-bicoe/dina-messaging@0.137?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-messaging@0.138
+- pkg:maven/io.github.aafc-bicoe/dina-messaging@0.138?classifier=sources

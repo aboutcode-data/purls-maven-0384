@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/xmlbuilder@11.0.1?classifier=sources
+- pkg:maven/org.mvnpm/xmlbuilder@15.1.1?classifier=sources

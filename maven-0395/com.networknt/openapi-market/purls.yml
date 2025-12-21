@@ -2,3 +2,5 @@
 - pkg:maven/com.networknt/openapi-market@1.0.2?classifier=sources
 - pkg:maven/com.networknt/openapi-market@1.0.3
 - pkg:maven/com.networknt/openapi-market@1.0.3?classifier=sources
+- pkg:maven/com.networknt/openapi-market@2.2.1
+- pkg:maven/com.networknt/openapi-market@2.2.1?classifier=sources

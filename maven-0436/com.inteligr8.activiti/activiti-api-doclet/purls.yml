@@ -10,3 +10,5 @@
 - pkg:maven/com.inteligr8.activiti/activiti-api-doclet@1.0.4?classifier=sources
 - pkg:maven/com.inteligr8.activiti/activiti-api-doclet@1.1.0
 - pkg:maven/com.inteligr8.activiti/activiti-api-doclet@1.1.0?classifier=sources
+- pkg:maven/com.inteligr8.activiti/activiti-api-doclet@1.1.1
+- pkg:maven/com.inteligr8.activiti/activiti-api-doclet@1.1.1?classifier=sources

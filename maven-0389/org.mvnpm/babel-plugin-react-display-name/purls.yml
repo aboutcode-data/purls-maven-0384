@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/babel-plugin-react-display-name@1.0.3?classifier=sources
+- pkg:maven/org.mvnpm/babel-plugin-react-display-name@2.0.0?classifier=sources

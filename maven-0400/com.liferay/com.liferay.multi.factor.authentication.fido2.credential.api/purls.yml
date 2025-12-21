@@ -61,3 +61,4 @@
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.fido2.credential.api@5.3.1
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.fido2.credential.api@5.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.fido2.credential.api@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.fido2.credential.api@6.0.1?classifier=sources

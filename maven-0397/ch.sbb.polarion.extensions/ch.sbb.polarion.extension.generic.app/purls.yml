@@ -56,3 +56,5 @@
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@7.7.0?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@8.0.0
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@8.0.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@8.1.0
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.generic.app@8.1.0?classifier=sources

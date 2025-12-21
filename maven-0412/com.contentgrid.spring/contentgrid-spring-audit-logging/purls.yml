@@ -14,3 +14,4 @@
 - pkg:maven/com.contentgrid.spring/contentgrid-spring-audit-logging@0.16.2?classifier=sources
 - pkg:maven/com.contentgrid.spring/contentgrid-spring-audit-logging@0.17.0?classifier=sources
 - pkg:maven/com.contentgrid.spring/contentgrid-spring-audit-logging@0.18.0?classifier=sources
+- pkg:maven/com.contentgrid.spring/contentgrid-spring-audit-logging@0.18.1?classifier=sources

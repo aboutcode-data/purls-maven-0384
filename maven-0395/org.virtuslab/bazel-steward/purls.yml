@@ -42,3 +42,7 @@
 - pkg:maven/org.virtuslab/bazel-steward@1.5.2?classifier=sources
 - pkg:maven/org.virtuslab/bazel-steward@1.6.0
 - pkg:maven/org.virtuslab/bazel-steward@1.6.0?classifier=sources
+- pkg:maven/org.virtuslab/bazel-steward@1.7.0
+- pkg:maven/org.virtuslab/bazel-steward@1.7.0?classifier=sources
+- pkg:maven/org.virtuslab/bazel-steward@1.7.1
+- pkg:maven/org.virtuslab/bazel-steward@1.7.1?classifier=sources

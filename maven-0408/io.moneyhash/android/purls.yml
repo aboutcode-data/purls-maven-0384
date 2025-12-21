@@ -23,6 +23,13 @@
 - pkg:maven/io.moneyhash/android@2.2.12?classifier=sources
 - pkg:maven/io.moneyhash/android@2.2.13-cp?classifier=sources
 - pkg:maven/io.moneyhash/android@2.2.13?classifier=sources
+- pkg:maven/io.moneyhash/android@2.2.14-cp?classifier=sources
+- pkg:maven/io.moneyhash/android@2.2.15-cp?classifier=sources
+- pkg:maven/io.moneyhash/android@2.2.15?classifier=sources
+- pkg:maven/io.moneyhash/android@2.2.16-cp?classifier=sources
+- pkg:maven/io.moneyhash/android@2.2.16?classifier=sources
+- pkg:maven/io.moneyhash/android@2.2.17-cp?classifier=sources
+- pkg:maven/io.moneyhash/android@2.2.17?classifier=sources
 - pkg:maven/io.moneyhash/android@2.2.1?classifier=sources
 - pkg:maven/io.moneyhash/android@2.2.2-cp?classifier=sources
 - pkg:maven/io.moneyhash/android@2.2.2?classifier=sources
@@ -66,6 +73,7 @@
 - pkg:maven/io.moneyhash/android@834f2dd?classifier=sources
 - pkg:maven/io.moneyhash/android@8c137ca?classifier=sources
 - pkg:maven/io.moneyhash/android@8ceb8fe?classifier=sources
+- pkg:maven/io.moneyhash/android@8e11591?classifier=sources
 - pkg:maven/io.moneyhash/android@8f34856?classifier=sources
 - pkg:maven/io.moneyhash/android@90cdf09?classifier=sources
 - pkg:maven/io.moneyhash/android@9278885?classifier=sources

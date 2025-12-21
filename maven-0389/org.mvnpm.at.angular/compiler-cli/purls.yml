@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm.at.angular/compiler-cli@19.2.2?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/compiler-cli@19.2.3?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/compiler-cli@19.2.4?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/compiler-cli@2.4.10?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/com.evolvedbinary.j8cu/j8cu@1.0.0?classifier=sources
 - pkg:maven/com.evolvedbinary.j8cu/j8cu@2.0.0
 - pkg:maven/com.evolvedbinary.j8cu/j8cu@2.0.0?classifier=sources
+- pkg:maven/com.evolvedbinary.j8cu/j8cu@2.1.0
+- pkg:maven/com.evolvedbinary.j8cu/j8cu@2.1.0?classifier=sources
+- pkg:maven/com.evolvedbinary.j8cu/j8cu@3.0.0
+- pkg:maven/com.evolvedbinary.j8cu/j8cu@3.0.0?classifier=sources

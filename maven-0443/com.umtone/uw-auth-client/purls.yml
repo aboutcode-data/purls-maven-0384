@@ -1,0 +1,2 @@
+- pkg:maven/com.umtone/uw-auth-client@6.0.26?classifier=sources
+- pkg:maven/com.umtone/uw-auth-client@6.0.28?classifier=sources

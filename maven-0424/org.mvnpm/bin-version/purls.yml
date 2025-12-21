@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/bin-version@6.0.0?classifier=sources
+- pkg:maven/org.mvnpm/bin-version@7.0.0?classifier=sources

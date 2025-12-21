@@ -11,3 +11,5 @@
 - pkg:maven/com.moloco.sdk.adapters/moloco@3.6.1.0?classifier=sources
 - pkg:maven/com.moloco.sdk.adapters/moloco@3.7.0.0?classifier=sources
 - pkg:maven/com.moloco.sdk.adapters/moloco@3.7.1.0?classifier=sources
+- pkg:maven/com.moloco.sdk.adapters/moloco@3.7.2.0?classifier=sources
+- pkg:maven/com.moloco.sdk.adapters/moloco@3.8.0.0?classifier=sources

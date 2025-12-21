@@ -1,0 +1,4 @@
+- pkg:maven/com.ryanstull/scalanullsafe_3@1.4.0
+- pkg:maven/com.ryanstull/scalanullsafe_3@1.4.0?classifier=sources
+- pkg:maven/com.ryanstull/scalanullsafe_3@v1.4.0
+- pkg:maven/com.ryanstull/scalanullsafe_3@v1.4.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/io.github.nafg.bleep-plugins/bleep-plugin-openapi-codegen-zio-http_3@0.0.4?classifier=sources
 - pkg:maven/io.github.nafg.bleep-plugins/bleep-plugin-openapi-codegen-zio-http_3@0.0.5
 - pkg:maven/io.github.nafg.bleep-plugins/bleep-plugin-openapi-codegen-zio-http_3@0.0.5?classifier=sources
+- pkg:maven/io.github.nafg.bleep-plugins/bleep-plugin-openapi-codegen-zio-http_3@0.1.0
+- pkg:maven/io.github.nafg.bleep-plugins/bleep-plugin-openapi-codegen-zio-http_3@0.1.0?classifier=sources

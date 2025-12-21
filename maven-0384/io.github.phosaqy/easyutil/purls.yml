@@ -4,4 +4,5 @@
 - pkg:maven/io.github.phosaqy/easyutil@1.0.1c?classifier=sources
 - pkg:maven/io.github.phosaqy/easyutil@1.0.1e?classifier=sources
 - pkg:maven/io.github.phosaqy/easyutil@1.0.2?classifier=sources
+- pkg:maven/io.github.phosaqy/easyutil@1.0.2a?classifier=sources
 - pkg:maven/io.github.phosaqy/easyutil@1.0?classifier=sources

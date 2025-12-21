@@ -39,3 +39,5 @@
 - pkg:maven/cd.go.groovydsl/dsl@2.2.0-784?classifier=sources
 - pkg:maven/cd.go.groovydsl/dsl@2.2.0-792?classifier=sources
 - pkg:maven/cd.go.groovydsl/dsl@2.2.0-803?classifier=sources
+- pkg:maven/cd.go.groovydsl/dsl@2.2.0-814?classifier=sources
+- pkg:maven/cd.go.groovydsl/dsl@2.2.0-828?classifier=sources

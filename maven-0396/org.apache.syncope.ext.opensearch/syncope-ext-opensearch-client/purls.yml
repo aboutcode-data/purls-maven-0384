@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@3.0.10
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@3.0.10?classifier=sources
+- pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@3.0.11
+- pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@3.0.11?classifier=sources
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@3.0.6
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@3.0.6?classifier=sources
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@3.0.7
@@ -10,3 +12,5 @@
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@3.0.9?classifier=sources
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@4.0.0-M0
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@4.0.0-M0?classifier=sources
+- pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@4.0.0-M1
+- pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-client@4.0.0-M1?classifier=sources

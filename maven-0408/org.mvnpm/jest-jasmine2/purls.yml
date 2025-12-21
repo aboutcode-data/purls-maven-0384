@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/jest-jasmine2@26.6.3?classifier=sources
+- pkg:maven/org.mvnpm/jest-jasmine2@29.7.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/de.linusdev/data@2.1.0?classifier=sources
+- pkg:maven/de.linusdev/data@2.2.1?classifier=sources

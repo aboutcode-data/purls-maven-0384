@@ -17,3 +17,5 @@
 - pkg:maven/com.wgzhao.addax/excelwriter@4.1.4
 - pkg:maven/com.wgzhao.addax/excelwriter@4.1.4?classifier=sources
 - pkg:maven/com.wgzhao.addax/excelwriter@4.2.4?classifier=sources
+- pkg:maven/com.wgzhao.addax/excelwriter@4.3.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/excelwriter@5.0.0?classifier=sources

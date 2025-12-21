@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-mngdmac@3.61.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-mngdmac@3.61.0?classifier=sources

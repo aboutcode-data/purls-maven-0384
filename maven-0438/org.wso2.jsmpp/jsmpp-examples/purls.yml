@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.jsmpp/jsmpp-examples@3.0.0-wso2v4
+- pkg:maven/org.wso2.jsmpp/jsmpp-examples@3.0.0-wso2v4?classifier=sources

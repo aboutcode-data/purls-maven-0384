@@ -4,6 +4,8 @@
 - pkg:maven/org.apache.karaf.decanter.appender/org.apache.karaf.decanter.appender.elasticsearch@1.0.1?classifier=sources
 - pkg:maven/org.apache.karaf.decanter.appender/org.apache.karaf.decanter.appender.elasticsearch@2.10.0
 - pkg:maven/org.apache.karaf.decanter.appender/org.apache.karaf.decanter.appender.elasticsearch@2.10.0?classifier=sources
+- pkg:maven/org.apache.karaf.decanter.appender/org.apache.karaf.decanter.appender.elasticsearch@2.11.0
+- pkg:maven/org.apache.karaf.decanter.appender/org.apache.karaf.decanter.appender.elasticsearch@2.11.0?classifier=sources
 - pkg:maven/org.apache.karaf.decanter.appender/org.apache.karaf.decanter.appender.elasticsearch@2.3.0
 - pkg:maven/org.apache.karaf.decanter.appender/org.apache.karaf.decanter.appender.elasticsearch@2.3.0?classifier=sources
 - pkg:maven/org.apache.karaf.decanter.appender/org.apache.karaf.decanter.appender.elasticsearch@2.4.0

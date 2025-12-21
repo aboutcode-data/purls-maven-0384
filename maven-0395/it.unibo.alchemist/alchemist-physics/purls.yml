@@ -241,3 +241,14 @@
 - pkg:maven/it.unibo.alchemist/alchemist-physics@38.0.3?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-physics@39.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-physics@39.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@40.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@40.1.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@40.1.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@40.1.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@41.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@42.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@42.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@42.0.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@42.0.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@42.0.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-physics@42.0.5?classifier=sources

@@ -6,3 +6,6 @@
 - pkg:maven/net.zetetic/sqlcipher-android@4.5.7?classifier=sources
 - pkg:maven/net.zetetic/sqlcipher-android@4.6.0?classifier=sources
 - pkg:maven/net.zetetic/sqlcipher-android@4.6.1?classifier=sources
+- pkg:maven/net.zetetic/sqlcipher-android@4.7.0?classifier=sources
+- pkg:maven/net.zetetic/sqlcipher-android@4.7.1?classifier=sources
+- pkg:maven/net.zetetic/sqlcipher-android@4.7.2?classifier=sources

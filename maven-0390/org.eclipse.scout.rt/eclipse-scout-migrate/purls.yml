@@ -42,3 +42,4 @@
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-migrate@25.1.0-beta.2
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-migrate@25.1.0-beta.5
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-migrate@25.1.1
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-migrate@25.1.3

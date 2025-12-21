@@ -52,3 +52,9 @@
 - pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.44?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.45
 - pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.45?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.46
+- pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.46?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.47
+- pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.47?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.48
+- pkg:maven/uk.gov.nationalarchives/da-metadata-schema_3@0.0.48?classifier=sources

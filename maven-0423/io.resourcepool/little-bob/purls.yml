@@ -1,2 +1,3 @@
 - pkg:maven/io.resourcepool/little-bob@1.0
 - pkg:maven/io.resourcepool/little-bob@1.0?classifier=sources
+- pkg:maven/io.resourcepool/little-bob@2.0.1?classifier=sources

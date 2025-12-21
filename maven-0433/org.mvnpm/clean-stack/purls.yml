@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/clean-stack@2.2.0?classifier=sources
+- pkg:maven/org.mvnpm/clean-stack@5.2.0?classifier=sources

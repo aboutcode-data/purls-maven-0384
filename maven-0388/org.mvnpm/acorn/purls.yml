@@ -1,4 +1,10 @@
+- pkg:maven/org.mvnpm/acorn@1.2.2?classifier=sources
+- pkg:maven/org.mvnpm/acorn@2.7.0?classifier=sources
+- pkg:maven/org.mvnpm/acorn@3.0.4?classifier=sources
+- pkg:maven/org.mvnpm/acorn@4.0.13?classifier=sources
 - pkg:maven/org.mvnpm/acorn@5.0.3?classifier=sources
+- pkg:maven/org.mvnpm/acorn@5.7.4?classifier=sources
+- pkg:maven/org.mvnpm/acorn@6.4.2?classifier=sources
 - pkg:maven/org.mvnpm/acorn@7.4.1?classifier=sources
 - pkg:maven/org.mvnpm/acorn@8.10.0?classifier=sources
 - pkg:maven/org.mvnpm/acorn@8.11.2?classifier=sources
@@ -7,3 +13,4 @@
 - pkg:maven/org.mvnpm/acorn@8.12.1?classifier=sources
 - pkg:maven/org.mvnpm/acorn@8.13.0?classifier=sources
 - pkg:maven/org.mvnpm/acorn@8.14.0?classifier=sources
+- pkg:maven/org.mvnpm/acorn@8.14.1?classifier=sources

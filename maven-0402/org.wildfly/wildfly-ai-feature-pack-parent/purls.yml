@@ -6,4 +6,7 @@
 - pkg:maven/org.wildfly/wildfly-ai-feature-pack-parent@0.3.2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-ai-feature-pack-parent@0.3.3?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-ai-feature-pack-parent@0.3.4?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-ai-feature-pack-parent@0.4.0?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-ai-feature-pack-parent@0.4.1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-ai-feature-pack-parent@0.4.2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-ai-feature-pack-parent@1.0.0?classifier=source-release&type=zip

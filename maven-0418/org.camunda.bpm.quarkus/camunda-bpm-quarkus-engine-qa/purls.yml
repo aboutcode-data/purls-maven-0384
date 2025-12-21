@@ -44,3 +44,5 @@
 - pkg:maven/org.camunda.bpm.quarkus/camunda-bpm-quarkus-engine-qa@7.23.0-alpha1
 - pkg:maven/org.camunda.bpm.quarkus/camunda-bpm-quarkus-engine-qa@7.23.0-alpha2
 - pkg:maven/org.camunda.bpm.quarkus/camunda-bpm-quarkus-engine-qa@7.23.0-alpha3
+- pkg:maven/org.camunda.bpm.quarkus/camunda-bpm-quarkus-engine-qa@7.23.0-alpha4
+- pkg:maven/org.camunda.bpm.quarkus/camunda-bpm-quarkus-engine-qa@7.23.0-alpha5

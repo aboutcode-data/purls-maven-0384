@@ -1,0 +1,4 @@
+- pkg:maven/com.ibm.security.guardium/com.ibm.security.guardium.saas@3.0.20250226
+- pkg:maven/com.ibm.security.guardium/com.ibm.security.guardium.saas@3.0.20250226?classifier=sources
+- pkg:maven/com.ibm.security.guardium/com.ibm.security.guardium.saas@3.0.20250227
+- pkg:maven/com.ibm.security.guardium/com.ibm.security.guardium.saas@3.0.20250227?classifier=sources

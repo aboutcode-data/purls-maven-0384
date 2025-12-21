@@ -2,3 +2,9 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dblm@2.81.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dblm@3.58.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dblm@3.58.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dblm@3.59.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dblm@3.59.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dblm@3.60.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dblm@3.60.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dblm@3.61.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dblm@3.61.0?classifier=sources

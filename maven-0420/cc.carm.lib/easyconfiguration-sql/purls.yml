@@ -1,2 +1,6 @@
 - pkg:maven/cc.carm.lib/easyconfiguration-sql@3.9.1
 - pkg:maven/cc.carm.lib/easyconfiguration-sql@3.9.1?classifier=sources
+- pkg:maven/cc.carm.lib/easyconfiguration-sql@4.0.10?classifier=sources
+- pkg:maven/cc.carm.lib/easyconfiguration-sql@4.0.11?classifier=sources
+- pkg:maven/cc.carm.lib/easyconfiguration-sql@4.0.8?classifier=sources
+- pkg:maven/cc.carm.lib/easyconfiguration-sql@4.0.9?classifier=sources

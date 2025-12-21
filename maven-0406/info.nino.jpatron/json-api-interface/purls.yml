@@ -1,0 +1,2 @@
+- pkg:maven/info.nino.jpatron/json-api-interface@3.0.0
+- pkg:maven/info.nino.jpatron/json-api-interface@3.0.0?classifier=sources

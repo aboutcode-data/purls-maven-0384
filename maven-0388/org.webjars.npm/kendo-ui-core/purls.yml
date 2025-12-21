@@ -6,5 +6,6 @@
 - pkg:maven/org.webjars.npm/kendo-ui-core@2020.1.130-internal?classifier=sources
 - pkg:maven/org.webjars.npm/kendo-ui-core@2020.2.515-internal
 - pkg:maven/org.webjars.npm/kendo-ui-core@2020.2.515-internal?classifier=sources
+- pkg:maven/org.webjars.npm/kendo-ui-core@2021.3.1207
 - pkg:maven/org.webjars.npm/kendo-ui-core@2022.1.119
 - pkg:maven/org.webjars.npm/kendo-ui-core@2022.1.119?classifier=sources

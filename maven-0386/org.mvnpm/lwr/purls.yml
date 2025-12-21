@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/lwr@0.16.13?classifier=sources
+- pkg:maven/org.mvnpm/lwr@0.17.2?classifier=sources

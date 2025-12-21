@@ -7,3 +7,5 @@
 - pkg:maven/com.wgzhao.addax/databendwriter@4.1.4
 - pkg:maven/com.wgzhao.addax/databendwriter@4.1.4?classifier=sources
 - pkg:maven/com.wgzhao.addax/databendwriter@4.2.4?classifier=sources
+- pkg:maven/com.wgzhao.addax/databendwriter@4.3.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/databendwriter@5.0.0?classifier=sources

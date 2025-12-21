@@ -54,3 +54,5 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.jasper.jspc@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.jasper.jspc@2.0.9
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.jasper.jspc@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.jasper.jspc@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.jasper.jspc@3.0.1?classifier=sources

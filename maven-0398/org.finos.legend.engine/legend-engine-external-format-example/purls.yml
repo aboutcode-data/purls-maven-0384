@@ -87,3 +87,10 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-external-format-example@4.70.0
 - pkg:maven/org.finos.legend.engine/legend-engine-external-format-example@4.70.1
 - pkg:maven/org.finos.legend.engine/legend-engine-external-format-example@4.71.1
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-example@4.72.0
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-example@4.73.0
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-example@4.73.1
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-example@4.74.0
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-example@4.75.0
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-example@4.75.1
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-example@4.75.3

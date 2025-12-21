@@ -82,6 +82,7 @@
 - pkg:maven/org.mvnpm.at.bigbinary/neeto-commons-frontend@4.13.20?classifier=sources
 - pkg:maven/org.mvnpm.at.bigbinary/neeto-commons-frontend@4.13.21?classifier=sources
 - pkg:maven/org.mvnpm.at.bigbinary/neeto-commons-frontend@4.13.22?classifier=sources
+- pkg:maven/org.mvnpm.at.bigbinary/neeto-commons-frontend@4.13.23?classifier=sources
 - pkg:maven/org.mvnpm.at.bigbinary/neeto-commons-frontend@4.13.2?classifier=sources
 - pkg:maven/org.mvnpm.at.bigbinary/neeto-commons-frontend@4.13.3?classifier=sources
 - pkg:maven/org.mvnpm.at.bigbinary/neeto-commons-frontend@4.13.4?classifier=sources

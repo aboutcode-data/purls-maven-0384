@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.envelop/core@5.0.3?classifier=sources
+- pkg:maven/org.mvnpm.at.envelop/core@5.2.3?classifier=sources

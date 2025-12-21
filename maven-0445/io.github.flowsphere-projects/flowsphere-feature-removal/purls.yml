@@ -1,1 +1,2 @@
 - pkg:maven/io.github.flowsphere-projects/flowsphere-feature-removal@1.3.0.RELEASE?classifier=sources
+- pkg:maven/io.github.flowsphere-projects/flowsphere-feature-removal@1.5.0.RELEASE?classifier=sources

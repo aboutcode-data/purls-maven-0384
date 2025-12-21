@@ -2,3 +2,5 @@
 - pkg:maven/io.github.weihubeats/spring-boot-nebula-aggregate@0.0.01?classifier=sources
 - pkg:maven/io.github.weihubeats/spring-boot-nebula-aggregate@0.0.2
 - pkg:maven/io.github.weihubeats/spring-boot-nebula-aggregate@0.0.2?classifier=sources
+- pkg:maven/io.github.weihubeats/spring-boot-nebula-aggregate@3.0.0
+- pkg:maven/io.github.weihubeats/spring-boot-nebula-aggregate@3.0.0?classifier=sources
