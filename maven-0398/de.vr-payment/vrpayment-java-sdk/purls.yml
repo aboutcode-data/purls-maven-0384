@@ -1,3 +1,5 @@
 - pkg:maven/de.vr-payment/vrpayment-java-sdk@8.7.1?classifier=sources
 - pkg:maven/de.vr-payment/vrpayment-java-sdk@8.8.3?classifier=sources
 - pkg:maven/de.vr-payment/vrpayment-java-sdk@9.0.0?classifier=sources
+- pkg:maven/de.vr-payment/vrpayment-java-sdk@9.1.0?classifier=sources
+- pkg:maven/de.vr-payment/vrpayment-java-sdk@9.2.0?classifier=sources

@@ -37,3 +37,4 @@
 - pkg:maven/com.leakyabstractions/result@0.9.0.0?classifier=sources
 - pkg:maven/com.leakyabstractions/result@0.9.1.0?classifier=sources
 - pkg:maven/com.leakyabstractions/result@1.0.0.0?classifier=sources
+- pkg:maven/com.leakyabstractions/result@1.0.1.0?classifier=sources

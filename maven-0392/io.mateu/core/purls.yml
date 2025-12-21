@@ -178,6 +178,9 @@
 - pkg:maven/io.mateu/core@3.0-alpha.11
 - pkg:maven/io.mateu/core@3.0-alpha.114?classifier=sources
 - pkg:maven/io.mateu/core@3.0-alpha.115?classifier=sources
+- pkg:maven/io.mateu/core@3.0-alpha.116?classifier=sources
+- pkg:maven/io.mateu/core@3.0-alpha.117?classifier=sources
+- pkg:maven/io.mateu/core@3.0-alpha.118?classifier=sources
 - pkg:maven/io.mateu/core@3.0-alpha.11?classifier=sources
 - pkg:maven/io.mateu/core@3.0-alpha.12
 - pkg:maven/io.mateu/core@3.0-alpha.12?classifier=sources

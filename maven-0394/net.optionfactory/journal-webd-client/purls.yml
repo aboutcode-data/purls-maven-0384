@@ -4,3 +4,4 @@
 - pkg:maven/net.optionfactory/journal-webd-client@1.1?classifier=sources
 - pkg:maven/net.optionfactory/journal-webd-client@1.2
 - pkg:maven/net.optionfactory/journal-webd-client@1.2?classifier=sources
+- pkg:maven/net.optionfactory/journal-webd-client@2.0?classifier=sources

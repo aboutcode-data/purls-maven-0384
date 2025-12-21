@@ -5,3 +5,4 @@
 - pkg:maven/io.github.hisondev/utils@1.0.2
 - pkg:maven/io.github.hisondev/utils@1.0.2?classifier=sources
 - pkg:maven/io.github.hisondev/utils@1.0.3?classifier=sources
+- pkg:maven/io.github.hisondev/utils@2.0.0?classifier=sources

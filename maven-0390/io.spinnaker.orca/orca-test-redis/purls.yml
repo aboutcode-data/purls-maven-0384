@@ -196,6 +196,8 @@
 - pkg:maven/io.spinnaker.orca/orca-test-redis@main-120?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-test-redis@main-121?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-test-redis@main-122?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-test-redis@main-123?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-test-redis@main-124?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-test-redis@main-12?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-test-redis@main-13?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-test-redis@main-14?classifier=sources

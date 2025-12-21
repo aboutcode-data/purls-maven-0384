@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-macosx@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-macosx@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-macosx@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-macosx@RELEASE280?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.causeway.persistence/causeway-persistence-jdo-datanucleus@3.3.0?classifier=sources
 - pkg:maven/org.apache.causeway.persistence/causeway-persistence-jdo-datanucleus@3.4.0
 - pkg:maven/org.apache.causeway.persistence/causeway-persistence-jdo-datanucleus@3.4.0?classifier=sources
+- pkg:maven/org.apache.causeway.persistence/causeway-persistence-jdo-datanucleus@3.5.0
+- pkg:maven/org.apache.causeway.persistence/causeway-persistence-jdo-datanucleus@3.5.0?classifier=sources

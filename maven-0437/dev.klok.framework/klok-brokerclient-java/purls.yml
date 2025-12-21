@@ -1,2 +1,6 @@
 - pkg:maven/dev.klok.framework/klok-brokerclient-java@0.2.0%2B250526103818?classifier=sources
 - pkg:maven/dev.klok.framework/klok-brokerclient-java@0.2.0%2B250616214738?classifier=sources
+- pkg:maven/dev.klok.framework/klok-brokerclient-java@0.2.0%2B251127071820?classifier=sources
+- pkg:maven/dev.klok.framework/klok-brokerclient-java@0.2.0%2B251201083903?classifier=sources
+- pkg:maven/dev.klok.framework/klok-brokerclient-java@0.2.0%2B251201113611?classifier=sources
+- pkg:maven/dev.klok.framework/klok-brokerclient-java@0.2.0%2B251201131024?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.qubership.integration.platform/qip-designtime-catalog@0.1.11?classifier=sources
+- pkg:maven/org.qubership.integration.platform/qip-designtime-catalog@0.1.12?classifier=sources

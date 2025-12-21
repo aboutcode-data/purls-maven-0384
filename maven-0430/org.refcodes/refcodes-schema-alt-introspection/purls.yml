@@ -1,0 +1,2 @@
+- pkg:maven/org.refcodes/refcodes-schema-alt-introspection@3.4.2
+- pkg:maven/org.refcodes/refcodes-schema-alt-introspection@3.4.2?classifier=sources

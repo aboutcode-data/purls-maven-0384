@@ -20,3 +20,4 @@
 - pkg:maven/org.partiql/partiql-planner@1.2.3?classifier=sources
 - pkg:maven/org.partiql/partiql-planner@1.3.0?classifier=sources
 - pkg:maven/org.partiql/partiql-planner@1.3.1?classifier=sources
+- pkg:maven/org.partiql/partiql-planner@1.3.2?classifier=sources

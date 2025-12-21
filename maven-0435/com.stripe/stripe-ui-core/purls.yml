@@ -165,3 +165,6 @@
 - pkg:maven/com.stripe/stripe-ui-core@21.9.0?classifier=sources
 - pkg:maven/com.stripe/stripe-ui-core@22.0.0?classifier=sources
 - pkg:maven/com.stripe/stripe-ui-core@22.1.0?classifier=sources
+- pkg:maven/com.stripe/stripe-ui-core@22.1.1?classifier=sources
+- pkg:maven/com.stripe/stripe-ui-core@22.2.0?classifier=sources
+- pkg:maven/com.stripe/stripe-ui-core@22.3.0?classifier=sources

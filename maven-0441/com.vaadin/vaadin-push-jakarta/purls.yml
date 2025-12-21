@@ -19,3 +19,4 @@
 - pkg:maven/com.vaadin/vaadin-push-jakarta@8.28.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-push-jakarta@8.28.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-push-jakarta@8.28.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-push-jakarta@8.29.0?classifier=sources

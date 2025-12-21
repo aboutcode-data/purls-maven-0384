@@ -150,10 +150,17 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.10.9-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.0-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.1-1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.10-1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.11-1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.12-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.2-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.3-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.4-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.5-1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.6-1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.7-1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.8-1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.11.9-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.2.0-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.2.1-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core@2025.2.10-1.8.0?classifier=sources

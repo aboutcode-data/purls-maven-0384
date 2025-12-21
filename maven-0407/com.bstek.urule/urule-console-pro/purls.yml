@@ -131,3 +131,4 @@
 - pkg:maven/com.bstek.urule/urule-console-pro@4.3.1
 - pkg:maven/com.bstek.urule/urule-console-pro@4.3.1?classifier=sources
 - pkg:maven/com.bstek.urule/urule-console-pro@4.4.0?classifier=sources
+- pkg:maven/com.bstek.urule/urule-console-pro@4.4.1?classifier=sources

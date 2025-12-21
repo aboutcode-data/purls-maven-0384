@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/qr-code-element@0.1.0
+- pkg:maven/org.mvnpm/qr-code-element@0.1.0?classifier=sources

@@ -110,3 +110,5 @@
 - pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.99
 - pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.99?classifier=sources
 - pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.2.9?classifier=sources
+- pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.4.12
+- pkg:maven/org.wso2.maven/org.wso2.maven.utils@5.4.12?classifier=sources

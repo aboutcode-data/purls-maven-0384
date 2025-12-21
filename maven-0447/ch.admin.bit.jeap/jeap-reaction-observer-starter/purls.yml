@@ -30,3 +30,10 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-starter@2.1.1?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-starter@2.2.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-starter@2.3.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-starter@2.3.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-starter@2.4.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-starter@3.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-starter@3.0.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-starter@3.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-starter@3.2.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-starter@3.3.0?classifier=sources

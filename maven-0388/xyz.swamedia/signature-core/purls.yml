@@ -1,1 +1,2 @@
 - pkg:maven/xyz.swamedia/signature-core@1.0.0?classifier=sources
+- pkg:maven/xyz.swamedia/signature-core@1.1.1?classifier=sources

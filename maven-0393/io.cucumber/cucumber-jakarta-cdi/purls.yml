@@ -130,6 +130,7 @@
 - pkg:maven/io.cucumber/cucumber-jakarta-cdi@7.3.4?classifier=sources
 - pkg:maven/io.cucumber/cucumber-jakarta-cdi@7.30.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-jakarta-cdi@7.31.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-jakarta-cdi@7.32.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-jakarta-cdi@7.4.0
 - pkg:maven/io.cucumber/cucumber-jakarta-cdi@7.4.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-jakarta-cdi@7.4.1

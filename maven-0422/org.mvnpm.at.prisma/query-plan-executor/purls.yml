@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.prisma/query-plan-executor@6.18.0
+- pkg:maven/org.mvnpm.at.prisma/query-plan-executor@6.18.0?classifier=sources

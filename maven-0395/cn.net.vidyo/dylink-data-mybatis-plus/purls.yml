@@ -76,3 +76,4 @@
 - pkg:maven/cn.net.vidyo/dylink-data-mybatis-plus@3.0.0.1.RELEASE?classifier=sources
 - pkg:maven/cn.net.vidyo/dylink-data-mybatis-plus@3.0.0.3.RELEASE
 - pkg:maven/cn.net.vidyo/dylink-data-mybatis-plus@3.0.0.3.RELEASE?classifier=sources
+- pkg:maven/cn.net.vidyo/dylink-data-mybatis-plus@4.0.0.1.RELEASE?classifier=sources

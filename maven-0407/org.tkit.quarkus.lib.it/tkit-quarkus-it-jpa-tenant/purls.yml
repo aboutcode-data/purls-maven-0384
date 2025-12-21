@@ -17,3 +17,6 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-jpa-tenant@3.6.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-jpa-tenant@4.0.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-jpa-tenant@4.1.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-jpa-tenant@4.2.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-jpa-tenant@4.3.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-jpa-tenant@4.4.0?classifier=sources

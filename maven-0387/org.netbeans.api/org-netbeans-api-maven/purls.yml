@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-maven@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-maven@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-maven@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-maven@RELEASE280?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-maven@RELEASE90?classifier=sources

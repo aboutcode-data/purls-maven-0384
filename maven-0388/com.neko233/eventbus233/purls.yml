@@ -11,3 +11,6 @@
 - pkg:maven/com.neko233/eventbus233@0.2.6?classifier=sources
 - pkg:maven/com.neko233/eventbus233@0.2.7?classifier=sources
 - pkg:maven/com.neko233/eventbus233@0.2.8?classifier=sources
+- pkg:maven/com.neko233/eventbus233@0.2.9?classifier=sources
+- pkg:maven/com.neko233/eventbus233@0.3.0?classifier=sources
+- pkg:maven/com.neko233/eventbus233@0.3.1?classifier=sources

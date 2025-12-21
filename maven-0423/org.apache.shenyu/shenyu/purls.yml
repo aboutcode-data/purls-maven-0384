@@ -8,4 +8,5 @@
 - pkg:maven/org.apache.shenyu/shenyu@2.6.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.shenyu/shenyu@2.7.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.shenyu/shenyu@2.7.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.shenyu/shenyu@2.7.0.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.shenyu/shenyu@2.7.0?classifier=source-release&type=zip

@@ -9,3 +9,5 @@
 - pkg:maven/net.laprun.sustainability/power-server-if-manifest-export@0.2.2?classifier=sources
 - pkg:maven/net.laprun.sustainability/power-server-if-manifest-export@0.2.3?classifier=sources
 - pkg:maven/net.laprun.sustainability/power-server-if-manifest-export@0.3.0?classifier=sources
+- pkg:maven/net.laprun.sustainability/power-server-if-manifest-export@0.5.0?classifier=sources
+- pkg:maven/net.laprun.sustainability/power-server-if-manifest-export@0.6.0?classifier=sources

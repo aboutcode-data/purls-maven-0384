@@ -66,3 +66,5 @@
 - pkg:maven/com.free-now.sauron.plugins/dependency-checker@0.0.68?classifier=sources
 - pkg:maven/com.free-now.sauron.plugins/dependency-checker@0.0.69
 - pkg:maven/com.free-now.sauron.plugins/dependency-checker@0.0.69?classifier=sources
+- pkg:maven/com.free-now.sauron.plugins/dependency-checker@0.0.70
+- pkg:maven/com.free-now.sauron.plugins/dependency-checker@0.0.70?classifier=sources

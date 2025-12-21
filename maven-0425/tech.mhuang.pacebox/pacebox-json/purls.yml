@@ -1,5 +1,6 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-json@1.0.0-jdk21
 - pkg:maven/tech.mhuang.pacebox/pacebox-json@1.0.0-jdk21?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-json@1.0.0-jdk25?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-json@1.0.1-jdk25?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-json@1.0.2-jdk24?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-json@1.0.3-jdk24?classifier=sources

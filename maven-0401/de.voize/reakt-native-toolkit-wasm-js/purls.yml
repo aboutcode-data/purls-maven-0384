@@ -44,3 +44,4 @@
 - pkg:maven/de.voize/reakt-native-toolkit-wasm-js@0.21.8?classifier=sources
 - pkg:maven/de.voize/reakt-native-toolkit-wasm-js@0.21.9-legacy?classifier=sources
 - pkg:maven/de.voize/reakt-native-toolkit-wasm-js@0.21.9?classifier=sources
+- pkg:maven/de.voize/reakt-native-toolkit-wasm-js@0.22.0?classifier=sources

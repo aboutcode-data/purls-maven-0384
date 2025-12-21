@@ -7,3 +7,5 @@
 - pkg:maven/com.amap.api/navi-3dmap-location-search@10.1.302_3dmap10.1.302_loc6.5.0_sea9.7.4?classifier=sources
 - pkg:maven/com.amap.api/navi-3dmap-location-search@10.1.500_3dmap10.1.500_loc6.5.0_sea9.7.4
 - pkg:maven/com.amap.api/navi-3dmap-location-search@10.1.500_3dmap10.1.500_loc6.5.0_sea9.7.4?classifier=sources
+- pkg:maven/com.amap.api/navi-3dmap-location-search@10.1.600_3dmap10.1.600_loc6.5.1_sea9.7.4
+- pkg:maven/com.amap.api/navi-3dmap-location-search@10.1.600_3dmap10.1.600_loc6.5.1_sea9.7.4?classifier=sources

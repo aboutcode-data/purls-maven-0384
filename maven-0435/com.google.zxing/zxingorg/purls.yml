@@ -30,3 +30,5 @@
 - pkg:maven/com.google.zxing/zxingorg@3.5.1?type=war
 - pkg:maven/com.google.zxing/zxingorg@3.5.2?classifier=sources
 - pkg:maven/com.google.zxing/zxingorg@3.5.2?type=war
+- pkg:maven/com.google.zxing/zxingorg@3.5.4?classifier=sources
+- pkg:maven/com.google.zxing/zxingorg@3.5.4?type=war

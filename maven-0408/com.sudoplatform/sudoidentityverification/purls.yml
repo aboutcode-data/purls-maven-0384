@@ -70,6 +70,8 @@
 - pkg:maven/com.sudoplatform/sudoidentityverification@20.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoidentityverification@21.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoidentityverification@21.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoidentityverification@21.1.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoidentityverification@21.1.0?type=aar
 - pkg:maven/com.sudoplatform/sudoidentityverification@3.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoidentityverification@3.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoidentityverification@3.0.1?classifier=sources

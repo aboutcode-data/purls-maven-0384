@@ -1,5 +1,7 @@
 - pkg:maven/com.github.jobservice/job-service-core@10.0.0-633
 - pkg:maven/com.github.jobservice/job-service-core@10.0.0-633?classifier=sources
+- pkg:maven/com.github.jobservice/job-service-core@10.0.1-670
+- pkg:maven/com.github.jobservice/job-service-core@10.0.1-670?classifier=sources
 - pkg:maven/com.github.jobservice/job-service-core@9.0.0-530
 - pkg:maven/com.github.jobservice/job-service-core@9.0.0-530?classifier=sources
 - pkg:maven/com.github.jobservice/job-service-core@9.0.1-534

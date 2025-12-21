@@ -51,3 +51,5 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1330?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1337?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1349?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1363?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1365?classifier=sources

@@ -46,6 +46,7 @@
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.1.2.168?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.1.2.169?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.2.2.151?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.2.2.154?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.2.6.202?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.2.6.205?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.2.6.206?type=aar
@@ -65,7 +66,10 @@
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.3.2.153?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.3.2.156?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.3.2.157?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.3.2.163?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.3.2.17?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.3.2.201.MCH.TEST.2?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.3.2.201.MCH.TEST?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.3.2.240?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.3.2.249?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.3.2.250?type=aar
@@ -82,6 +86,7 @@
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.151?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.154?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.155?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.166?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.1?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.2?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.3?type=aar
@@ -91,5 +96,7 @@
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.6.TEST?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.6?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.6.0.1?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.6.0.2?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.6.0.TEST?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.6.0?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.6.1?type=aar

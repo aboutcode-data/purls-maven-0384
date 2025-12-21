@@ -15,6 +15,7 @@
 - pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.14.20250124
 - pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.14.20250124?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.15.20250608?classifier=sources
+- pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.16.20251111?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.2.20230201
 - pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.2.20230201?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-spring-jig-starter@2.4.3.20230305

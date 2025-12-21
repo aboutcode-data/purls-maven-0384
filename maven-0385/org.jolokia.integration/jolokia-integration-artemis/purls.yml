@@ -1,3 +1,4 @@
 - pkg:maven/org.jolokia.integration/jolokia-integration-artemis@0.5.0?classifier=sources
 - pkg:maven/org.jolokia.integration/jolokia-integration-artemis@0.6.0?classifier=sources
 - pkg:maven/org.jolokia.integration/jolokia-integration-artemis@0.7.0?classifier=sources
+- pkg:maven/org.jolokia.integration/jolokia-integration-artemis@0.8.0?classifier=sources

@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-tomcat5@RELEASE280?classifier=sources

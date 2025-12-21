@@ -48,3 +48,4 @@
 - pkg:maven/com.idea-aedi/ext-spring-cache@3.0.2.BETA?classifier=sources
 - pkg:maven/com.idea-aedi/ext-spring-cache@3.0.2.GAMMA
 - pkg:maven/com.idea-aedi/ext-spring-cache@3.0.2.GAMMA?classifier=sources
+- pkg:maven/com.idea-aedi/ext-spring-cache@3.2.4.ALPHA?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.github.anylogic/codeloom-extensions-kube@25.2.1?classifier=sources
 - pkg:maven/com.github.anylogic/codeloom-extensions-kube@25.3.1?classifier=sources
 - pkg:maven/com.github.anylogic/codeloom-extensions-kube@25.3.2?classifier=sources
+- pkg:maven/com.github.anylogic/codeloom-extensions-kube@25.4.1?classifier=sources
+- pkg:maven/com.github.anylogic/codeloom-extensions-kube@25.4.2?classifier=sources

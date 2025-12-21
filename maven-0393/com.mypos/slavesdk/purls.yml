@@ -6,3 +6,4 @@
 - pkg:maven/com.mypos/slavesdk@2.0.2?type=aar
 - pkg:maven/com.mypos/slavesdk@2.0.8?classifier=sources
 - pkg:maven/com.mypos/slavesdk@2.0.8?type=aar
+- pkg:maven/com.mypos/slavesdk@2.1.8?classifier=sources

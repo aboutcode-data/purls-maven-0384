@@ -15,3 +15,5 @@
 - pkg:maven/com.devonfw.tools.IDEasy/url-updater@2025.08.001?classifier=sources
 - pkg:maven/com.devonfw.tools.IDEasy/url-updater@2025.09.001?classifier=sources
 - pkg:maven/com.devonfw.tools.IDEasy/url-updater@2025.10.001?classifier=sources
+- pkg:maven/com.devonfw.tools.IDEasy/url-updater@2025.10.002?classifier=sources
+- pkg:maven/com.devonfw.tools.IDEasy/url-updater@2025.11.001?classifier=sources
