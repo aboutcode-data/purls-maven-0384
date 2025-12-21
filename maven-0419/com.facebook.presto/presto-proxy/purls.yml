@@ -131,3 +131,4 @@
 - pkg:maven/com.facebook.presto/presto-proxy@0.290?classifier=sources
 - pkg:maven/com.facebook.presto/presto-proxy@0.291?classifier=sources
 - pkg:maven/com.facebook.presto/presto-proxy@0.292?classifier=sources
+- pkg:maven/com.facebook.presto/presto-proxy@0.293?classifier=sources

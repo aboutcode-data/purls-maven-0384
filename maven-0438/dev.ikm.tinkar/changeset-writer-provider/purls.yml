@@ -14,6 +14,12 @@
 - pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.106.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.107.0
 - pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.107.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.108.0
+- pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.108.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.109.0
+- pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.109.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.111.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.112.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.79.0
 - pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.79.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/changeset-writer-provider@1.80.0

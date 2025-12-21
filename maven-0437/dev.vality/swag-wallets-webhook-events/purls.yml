@@ -90,3 +90,15 @@
 - pkg:maven/dev.vality/swag-wallets-webhook-events@1.38-719220c-client?classifier=sources
 - pkg:maven/dev.vality/swag-wallets-webhook-events@1.38-719220c-server
 - pkg:maven/dev.vality/swag-wallets-webhook-events@1.38-719220c-server?classifier=sources
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.50-5299faf-epic-BG-165-client
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.50-5299faf-epic-BG-165-client?classifier=sources
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.50-5299faf-epic-BG-165-server
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.50-5299faf-epic-BG-165-server?classifier=sources
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.51-33a6952-epic-BG-165-client
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.51-33a6952-epic-BG-165-client?classifier=sources
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.51-33a6952-epic-BG-165-server
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.51-33a6952-epic-BG-165-server?classifier=sources
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.52-5dd30f2-epic-BG-165-client
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.52-5dd30f2-epic-BG-165-client?classifier=sources
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.52-5dd30f2-epic-BG-165-server
+- pkg:maven/dev.vality/swag-wallets-webhook-events@1.52-5dd30f2-epic-BG-165-server?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.stomp@2.0.1?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.stomp@3.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.stomp@3.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.stomp@4.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.stomp@4.0.0?classifier=sources

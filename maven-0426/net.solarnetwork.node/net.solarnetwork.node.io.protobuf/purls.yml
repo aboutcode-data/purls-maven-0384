@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.protobuf@2.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.protobuf@3.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.protobuf@3.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.protobuf@4.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.protobuf@4.0.0?classifier=sources

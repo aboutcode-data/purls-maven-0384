@@ -1,5 +1,7 @@
 - pkg:maven/org.kie/kie-dmn-validation@10.0.0
 - pkg:maven/org.kie/kie-dmn-validation@10.0.0?classifier=sources
+- pkg:maven/org.kie/kie-dmn-validation@10.1.0
+- pkg:maven/org.kie/kie-dmn-validation@10.1.0?classifier=sources
 - pkg:maven/org.kie/kie-dmn-validation@7.0.0.Beta7
 - pkg:maven/org.kie/kie-dmn-validation@7.0.0.Beta7?classifier=sources
 - pkg:maven/org.kie/kie-dmn-validation@7.0.0.Beta8

@@ -56,3 +56,4 @@
 - pkg:maven/com.github.ladutsko/isbn-core@1.5.2?classifier=sources
 - pkg:maven/com.github.ladutsko/isbn-core@1.5.3
 - pkg:maven/com.github.ladutsko/isbn-core@1.5.3?classifier=sources
+- pkg:maven/com.github.ladutsko/isbn-core@2.0.0?classifier=sources

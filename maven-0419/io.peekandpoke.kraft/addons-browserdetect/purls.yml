@@ -143,3 +143,4 @@
 - pkg:maven/io.peekandpoke.kraft/addons-browserdetect@0.88.9?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-browserdetect@0.89.0?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-browserdetect@0.90.0?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-browserdetect@0.91.0?classifier=sources

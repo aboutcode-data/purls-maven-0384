@@ -1,5 +1,6 @@
 - pkg:maven/io.honeycomb.android/honeycomb-opentelemetry-android-interaction@0.0.10?classifier=sources
 - pkg:maven/io.honeycomb.android/honeycomb-opentelemetry-android-interaction@0.0.11?classifier=sources
+- pkg:maven/io.honeycomb.android/honeycomb-opentelemetry-android-interaction@0.0.12?classifier=sources
 - pkg:maven/io.honeycomb.android/honeycomb-opentelemetry-android-interaction@0.0.3-experimental6?classifier=sources
 - pkg:maven/io.honeycomb.android/honeycomb-opentelemetry-android-interaction@0.0.4-alpha?classifier=sources
 - pkg:maven/io.honeycomb.android/honeycomb-opentelemetry-android-interaction@0.0.5-alpha?classifier=sources

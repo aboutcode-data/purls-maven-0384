@@ -29,3 +29,6 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-youtrack@3.305?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-youtrack@3.306?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-youtrack@3.307?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-youtrack@3.308?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-youtrack@3.309?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-youtrack@3.310?classifier=sources

@@ -5,3 +5,5 @@
 - pkg:maven/org.mvnpm.at.carbon/colors@11.31.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/colors@11.33.0
 - pkg:maven/org.mvnpm.at.carbon/colors@11.33.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/colors@11.35.0
+- pkg:maven/org.mvnpm.at.carbon/colors@11.35.0?classifier=sources

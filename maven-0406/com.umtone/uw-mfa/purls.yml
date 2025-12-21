@@ -11,3 +11,9 @@
 - pkg:maven/com.umtone/uw-mfa@1.0.39?classifier=sources
 - pkg:maven/com.umtone/uw-mfa@1.0.50?classifier=sources
 - pkg:maven/com.umtone/uw-mfa@1.0.51?classifier=sources
+- pkg:maven/com.umtone/uw-mfa@1.0.52?classifier=sources
+- pkg:maven/com.umtone/uw-mfa@1.0.53?classifier=sources
+- pkg:maven/com.umtone/uw-mfa@1.0.55?classifier=sources
+- pkg:maven/com.umtone/uw-mfa@1.0.56?classifier=sources
+- pkg:maven/com.umtone/uw-mfa@1.0.57?classifier=sources
+- pkg:maven/com.umtone/uw-mfa@1.0.58?classifier=sources

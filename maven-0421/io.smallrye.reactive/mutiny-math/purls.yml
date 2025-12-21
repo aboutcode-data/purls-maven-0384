@@ -92,3 +92,6 @@
 - pkg:maven/io.smallrye.reactive/mutiny-math@2.8.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-math@2.9.0-RC1?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-math@2.9.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-math@2.9.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-math@2.9.2?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-math@2.9.3?classifier=sources

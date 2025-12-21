@@ -7,3 +7,6 @@
 - pkg:maven/org.neo4j/neo4j-jdbc-tracing-micrometer@6.4.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc-tracing-micrometer@6.5.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc-tracing-micrometer@6.5.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-jdbc-tracing-micrometer@6.6.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-jdbc-tracing-micrometer@6.6.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-jdbc-tracing-micrometer@6.7.0?classifier=sources

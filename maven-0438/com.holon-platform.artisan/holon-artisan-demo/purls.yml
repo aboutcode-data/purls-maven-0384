@@ -58,3 +58,5 @@
 - pkg:maven/com.holon-platform.artisan/holon-artisan-demo@2.3.1?classifier=sources
 - pkg:maven/com.holon-platform.artisan/holon-artisan-demo@3.0.0
 - pkg:maven/com.holon-platform.artisan/holon-artisan-demo@3.0.0?classifier=sources
+- pkg:maven/com.holon-platform.artisan/holon-artisan-demo@3.0.1
+- pkg:maven/com.holon-platform.artisan/holon-artisan-demo@3.0.1?classifier=sources

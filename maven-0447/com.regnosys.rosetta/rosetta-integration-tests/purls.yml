@@ -54,3 +54,6 @@
 - pkg:maven/com.regnosys.rosetta/rosetta-integration-tests@9.55.0
 - pkg:maven/com.regnosys.rosetta/rosetta-integration-tests@9.55.1
 - pkg:maven/com.regnosys.rosetta/rosetta-integration-tests@9.56.0
+- pkg:maven/com.regnosys.rosetta/rosetta-integration-tests@9.57.0
+- pkg:maven/com.regnosys.rosetta/rosetta-integration-tests@9.58.0
+- pkg:maven/com.regnosys.rosetta/rosetta-integration-tests@9.58.1

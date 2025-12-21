@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/motion@12.15.0
 - pkg:maven/org.mvnpm/motion@12.15.0?classifier=sources
+- pkg:maven/org.mvnpm/motion@12.18.1
+- pkg:maven/org.mvnpm/motion@12.18.1?classifier=sources

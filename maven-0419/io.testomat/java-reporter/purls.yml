@@ -1,0 +1,2 @@
+- pkg:maven/io.testomat/java-reporter@0.1.0?classifier=sources
+- pkg:maven/io.testomat/java-reporter@0.5.0?classifier=sources

@@ -243,3 +243,4 @@
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@6.4.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@6.4.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@6.5.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@6.5.1?classifier=sources

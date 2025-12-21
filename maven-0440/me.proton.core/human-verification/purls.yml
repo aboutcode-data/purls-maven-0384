@@ -145,6 +145,9 @@
 - pkg:maven/me.proton.core/human-verification@32.0.2?classifier=sources
 - pkg:maven/me.proton.core/human-verification@32.1.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification@32.2.0?classifier=sources
+- pkg:maven/me.proton.core/human-verification@33.0.0?classifier=sources
+- pkg:maven/me.proton.core/human-verification@33.0.2?classifier=sources
+- pkg:maven/me.proton.core/human-verification@34.0.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification@5.0.0?classifier=sources

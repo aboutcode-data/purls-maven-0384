@@ -54,3 +54,4 @@
 - pkg:maven/com.aliyun/sddp20190103@1.4.2?classifier=sources
 - pkg:maven/com.aliyun/sddp20190103@1.4.3
 - pkg:maven/com.aliyun/sddp20190103@1.4.3?classifier=sources
+- pkg:maven/com.aliyun/sddp20190103@1.4.4?classifier=sources

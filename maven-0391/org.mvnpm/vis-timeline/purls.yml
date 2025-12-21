@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/vis-timeline@7.7.4
+- pkg:maven/org.mvnpm/vis-timeline@7.7.4?classifier=sources

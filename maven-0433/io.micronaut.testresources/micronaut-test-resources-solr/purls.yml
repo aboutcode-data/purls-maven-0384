@@ -1,1 +1,2 @@
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-solr@2.8.0?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-solr@2.9.0?classifier=sources

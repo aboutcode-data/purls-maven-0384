@@ -36,3 +36,8 @@
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.0.1.5?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.0.1?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing@4.1.0?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.1.2.159?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.141?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.142.1?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.142.2?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing@4.5.2.142?type=aar

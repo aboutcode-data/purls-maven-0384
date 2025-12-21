@@ -1,5 +1,6 @@
 - pkg:maven/org.spongepowered/spongeapi@12.0.0?classifier=sources
 - pkg:maven/org.spongepowered/spongeapi@13.0.0?classifier=sources
+- pkg:maven/org.spongepowered/spongeapi@14.0.0?classifier=sources
 - pkg:maven/org.spongepowered/spongeapi@8.0.0?classifier=sources
 - pkg:maven/org.spongepowered/spongeapi@8.1.0?classifier=sources
 - pkg:maven/org.spongepowered/spongeapi@9.0.0?classifier=sources

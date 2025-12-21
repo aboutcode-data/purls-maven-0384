@@ -1,1 +1,2 @@
 - pkg:maven/eu.rssw.pdo/groovy-pdo@2.8.5?classifier=sources
+- pkg:maven/eu.rssw.pdo/groovy-pdo@2.8.6?classifier=sources

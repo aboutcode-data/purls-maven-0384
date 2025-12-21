@@ -12,3 +12,5 @@
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-ucp@25.1.0?classifier=sources
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-ucp@25.2.0
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-ucp@25.2.0?classifier=sources
+- pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-ucp@25.3.0
+- pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-ucp@25.3.0?classifier=sources

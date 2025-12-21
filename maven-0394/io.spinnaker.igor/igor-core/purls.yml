@@ -1,4 +1,6 @@
 - pkg:maven/io.spinnaker.igor/igor-core@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@2025.0-10?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@2025.0-11?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@2025.0-1?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@2025.0-2?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@2025.0-3?classifier=sources
@@ -6,10 +8,13 @@
 - pkg:maven/io.spinnaker.igor/igor-core@2025.0-5?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@2025.0-6?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@2025.0-7?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@2025.0-8?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@2025.0-9?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@2025.0.2?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@2025.0.3?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@2025.0.4?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@4.10.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@4.10.1?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@4.10.2?classifier=sources
@@ -79,6 +84,15 @@
 - pkg:maven/io.spinnaker.igor/igor-core@main-20?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@main-21?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@main-22?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@main-23?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@main-24?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@main-30?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@main-31?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@main-32?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@main-33?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@main-34?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@main-35?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-core@main-36?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@main-5?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@main-6?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-core@main-7?classifier=sources

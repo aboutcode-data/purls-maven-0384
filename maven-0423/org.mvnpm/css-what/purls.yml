@@ -1,1 +1,7 @@
 - pkg:maven/org.mvnpm/css-what@6.1.0?classifier=sources
+- pkg:maven/org.mvnpm/css-what@6.2.1
+- pkg:maven/org.mvnpm/css-what@6.2.1?classifier=sources
+- pkg:maven/org.mvnpm/css-what@6.2.2
+- pkg:maven/org.mvnpm/css-what@6.2.2?classifier=sources
+- pkg:maven/org.mvnpm/css-what@7.0.0
+- pkg:maven/org.mvnpm/css-what@7.0.0?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/io.github.aafc-bicoe/dina-json@0.141?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-json@0.142
 - pkg:maven/io.github.aafc-bicoe/dina-json@0.142?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-json@0.143
+- pkg:maven/io.github.aafc-bicoe/dina-json@0.143?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-json@0.144?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-json@0.145?classifier=sources

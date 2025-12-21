@@ -1,0 +1,2 @@
+- pkg:maven/dev.aliyag/BulMultiverse@0.14?classifier=sources
+- pkg:maven/dev.aliyag/BulMultiverse@1.0?classifier=sources

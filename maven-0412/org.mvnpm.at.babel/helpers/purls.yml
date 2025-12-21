@@ -29,3 +29,5 @@
 - pkg:maven/org.mvnpm.at.babel/helpers@7.27.3?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/helpers@7.27.4
 - pkg:maven/org.mvnpm.at.babel/helpers@7.27.4?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/helpers@7.27.6
+- pkg:maven/org.mvnpm.at.babel/helpers@7.27.6?classifier=sources

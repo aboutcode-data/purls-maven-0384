@@ -3,3 +3,4 @@
 - pkg:maven/io.kestra.plugin/plugin-datahub@0.21.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-datahub@0.21.1?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-datahub@0.22.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-datahub@0.23.0?classifier=sources

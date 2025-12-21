@@ -1,1 +1,2 @@
 - pkg:maven/org.jdbi/jdbi3-docs@3.49.4?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-docs@3.49.5?classifier=sources

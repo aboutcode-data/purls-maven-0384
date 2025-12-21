@@ -1,0 +1,4 @@
+- pkg:maven/io.freshpaint.android/freshpaint-wear@1.2.2?classifier=sources
+- pkg:maven/io.freshpaint.android/freshpaint-wear@1.2.2?type=aar
+- pkg:maven/io.freshpaint.android/freshpaint-wear@1.2.3?classifier=sources
+- pkg:maven/io.freshpaint.android/freshpaint-wear@1.2.3?type=aar

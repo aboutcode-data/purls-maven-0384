@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/datatables.net-select-bs5@1.4.0
 - pkg:maven/org.webjars.npm/datatables.net-select-bs5@1.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-select-bs5@3.0.0
+- pkg:maven/org.webjars.npm/datatables.net-select-bs5@3.0.1

@@ -54,3 +54,5 @@
 - pkg:maven/cn.hserver/hserver-plugin-node@3.6.M8?classifier=sources
 - pkg:maven/cn.hserver/hserver-plugin-node@3.6.M9
 - pkg:maven/cn.hserver/hserver-plugin-node@3.6.M9?classifier=sources
+- pkg:maven/cn.hserver/hserver-plugin-node@3.7.0
+- pkg:maven/cn.hserver/hserver-plugin-node@3.7.0?classifier=sources

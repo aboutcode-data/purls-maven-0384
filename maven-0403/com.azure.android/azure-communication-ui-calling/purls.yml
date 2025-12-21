@@ -22,6 +22,8 @@
 - pkg:maven/com.azure.android/azure-communication-ui-calling@1.14.0-beta.2?classifier=sources
 - pkg:maven/com.azure.android/azure-communication-ui-calling@1.14.0?classifier=sources
 - pkg:maven/com.azure.android/azure-communication-ui-calling@1.14.1?classifier=sources
+- pkg:maven/com.azure.android/azure-communication-ui-calling@1.14.2-beta.1?classifier=sources
+- pkg:maven/com.azure.android/azure-communication-ui-calling@1.14.2?classifier=sources
 - pkg:maven/com.azure.android/azure-communication-ui-calling@1.2.0-beta.1?classifier=sources
 - pkg:maven/com.azure.android/azure-communication-ui-calling@1.2.0-beta.1?type=aar
 - pkg:maven/com.azure.android/azure-communication-ui-calling@1.2.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.oxerr.vividseats.client.rescu/vividseats-client-rescu-model@0.0.13?classifier=sources
 - pkg:maven/org.oxerr.vividseats.client.rescu/vividseats-client-rescu-model@0.0.14
 - pkg:maven/org.oxerr.vividseats.client.rescu/vividseats-client-rescu-model@0.0.14?classifier=sources
+- pkg:maven/org.oxerr.vividseats.client.rescu/vividseats-client-rescu-model@0.0.15
+- pkg:maven/org.oxerr.vividseats.client.rescu/vividseats-client-rescu-model@0.0.15?classifier=sources

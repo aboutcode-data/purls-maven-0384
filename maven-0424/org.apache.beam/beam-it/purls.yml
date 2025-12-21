@@ -15,3 +15,4 @@
 - pkg:maven/org.apache.beam/beam-it@2.63.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-it@2.64.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-it@2.65.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-it@2.66.0?classifier=sources

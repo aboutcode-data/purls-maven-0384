@@ -1,0 +1,3 @@
+- pkg:maven/io.github.fanchenggang/curd-pojo-maven-plugin@20250704.A?classifier=sources
+- pkg:maven/io.github.fanchenggang/curd-pojo-maven-plugin@20250704.B?classifier=sources
+- pkg:maven/io.github.fanchenggang/curd-pojo-maven-plugin@20250705.A?classifier=sources

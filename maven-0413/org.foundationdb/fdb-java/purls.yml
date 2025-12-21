@@ -149,6 +149,8 @@
 - pkg:maven/org.foundationdb/fdb-java@7.3.65?classifier=sources
 - pkg:maven/org.foundationdb/fdb-java@7.3.66?classifier=sources
 - pkg:maven/org.foundationdb/fdb-java@7.3.67?classifier=sources
+- pkg:maven/org.foundationdb/fdb-java@7.3.68
+- pkg:maven/org.foundationdb/fdb-java@7.3.68?classifier=sources
 - pkg:maven/org.foundationdb/fdb-java@7.3.6?classifier=sources
 - pkg:maven/org.foundationdb/fdb-java@7.3.7?classifier=sources
 - pkg:maven/org.foundationdb/fdb-java@7.3.8?classifier=sources

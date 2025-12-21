@@ -73,3 +73,5 @@
 - pkg:maven/org.webjars.npm/htmx.org@2.0.2
 - pkg:maven/org.webjars.npm/htmx.org@2.0.3
 - pkg:maven/org.webjars.npm/htmx.org@2.0.4
+- pkg:maven/org.webjars.npm/htmx.org@2.0.5
+- pkg:maven/org.webjars.npm/htmx.org@2.0.6

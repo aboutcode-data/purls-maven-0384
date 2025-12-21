@@ -171,3 +171,5 @@
 - pkg:maven/net.mingsoft/ms-basic@3.0.0.3.1?classifier=sources
 - pkg:maven/net.mingsoft/ms-basic@3.0.0.3?classifier=sources
 - pkg:maven/net.mingsoft/ms-basic@3.0.0?classifier=sources
+- pkg:maven/net.mingsoft/ms-basic@3.0.1?classifier=sources
+- pkg:maven/net.mingsoft/ms-basic@3.0.2?classifier=sources

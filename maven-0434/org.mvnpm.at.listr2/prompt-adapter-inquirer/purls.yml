@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm.at.listr2/prompt-adapter-inquirer@2.0.21?classifier=sources
 - pkg:maven/org.mvnpm.at.listr2/prompt-adapter-inquirer@2.0.22
 - pkg:maven/org.mvnpm.at.listr2/prompt-adapter-inquirer@2.0.22?classifier=sources
+- pkg:maven/org.mvnpm.at.listr2/prompt-adapter-inquirer@3.0.0
+- pkg:maven/org.mvnpm.at.listr2/prompt-adapter-inquirer@3.0.0?classifier=sources

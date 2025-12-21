@@ -6,3 +6,5 @@
 - pkg:maven/net.solarnetwork.common/net.solarnetwork.common.s3@3.1.0?classifier=sources
 - pkg:maven/net.solarnetwork.common/net.solarnetwork.common.s3@3.2.0
 - pkg:maven/net.solarnetwork.common/net.solarnetwork.common.s3@3.2.0?classifier=sources
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.s3@4.0.0
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.s3@4.0.0?classifier=sources

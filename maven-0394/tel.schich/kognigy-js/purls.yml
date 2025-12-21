@@ -23,3 +23,5 @@
 - pkg:maven/tel.schich/kognigy-js@4.0.3?classifier=sources
 - pkg:maven/tel.schich/kognigy-js@5.0.0?classifier=sources
 - pkg:maven/tel.schich/kognigy-js@5.1.0?classifier=sources
+- pkg:maven/tel.schich/kognigy-js@5.2.0?classifier=sources
+- pkg:maven/tel.schich/kognigy-js@6.0.0?classifier=sources

@@ -6,6 +6,7 @@
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@7.0.10?classifier=sources
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@7.0.11
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@7.0.11?classifier=sources
+- pkg:maven/org.webjars.npm/dhtmlx-gantt@7.0.12
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@7.0.2
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@7.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@7.0.8
@@ -46,6 +47,7 @@
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@9.0.1
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@9.0.10
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@9.0.11
+- pkg:maven/org.webjars.npm/dhtmlx-gantt@9.0.13
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@9.0.2
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@9.0.3
 - pkg:maven/org.webjars.npm/dhtmlx-gantt@9.0.7

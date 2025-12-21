@@ -1,0 +1,2 @@
+- pkg:maven/org.ethelred.kiwiproc/plugin@0.3.2?classifier=sources
+- pkg:maven/org.ethelred.kiwiproc/plugin@0.3?classifier=sources

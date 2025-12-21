@@ -148,3 +148,4 @@
 - pkg:maven/org.t-io/tio-utils@3.8.5.v20230901-RELEASE?classifier=sources
 - pkg:maven/org.t-io/tio-utils@3.8.6.v20240801-RELEASE
 - pkg:maven/org.t-io/tio-utils@3.8.6.v20240801-RELEASE?classifier=sources
+- pkg:maven/org.t-io/tio-utils@3.8.7.v20250626-RELEASE?classifier=sources

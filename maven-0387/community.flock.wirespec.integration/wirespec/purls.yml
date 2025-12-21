@@ -25,4 +25,7 @@
 - pkg:maven/community.flock.wirespec.integration/wirespec@0.14.28?classifier=sources
 - pkg:maven/community.flock.wirespec.integration/wirespec@0.14.30?classifier=sources
 - pkg:maven/community.flock.wirespec.integration/wirespec@0.14.3?classifier=sources
+- pkg:maven/community.flock.wirespec.integration/wirespec@0.15.12?classifier=sources
+- pkg:maven/community.flock.wirespec.integration/wirespec@0.15.13?classifier=sources
+- pkg:maven/community.flock.wirespec.integration/wirespec@0.15.14?classifier=sources
 - pkg:maven/community.flock.wirespec.integration/wirespec@0.15.2?classifier=sources

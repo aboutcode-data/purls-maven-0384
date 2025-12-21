@@ -7,3 +7,5 @@
 - pkg:maven/org.mvnpm/nan@2.18.0?classifier=sources
 - pkg:maven/org.mvnpm/nan@2.19.0?classifier=sources
 - pkg:maven/org.mvnpm/nan@2.22.2?classifier=sources
+- pkg:maven/org.mvnpm/nan@2.23.0
+- pkg:maven/org.mvnpm/nan@2.23.0?classifier=sources

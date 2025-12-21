@@ -11,3 +11,4 @@
 - pkg:maven/dev.opensavvy.vite.kotlin/dev.opensavvy.vite.kotlin.gradle.plugin@0.4.0?classifier=sources
 - pkg:maven/dev.opensavvy.vite.kotlin/dev.opensavvy.vite.kotlin.gradle.plugin@0.5.0?classifier=sources
 - pkg:maven/dev.opensavvy.vite.kotlin/dev.opensavvy.vite.kotlin.gradle.plugin@0.5.1?classifier=sources
+- pkg:maven/dev.opensavvy.vite.kotlin/dev.opensavvy.vite.kotlin.gradle.plugin@0.5.2?classifier=sources

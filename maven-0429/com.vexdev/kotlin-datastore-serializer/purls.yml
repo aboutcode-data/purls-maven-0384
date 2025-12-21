@@ -3,3 +3,13 @@
 - pkg:maven/com.vexdev/kotlin-datastore-serializer@0.1.2?classifier=sources
 - pkg:maven/com.vexdev/kotlin-datastore-serializer@0.1.3?classifier=sources
 - pkg:maven/com.vexdev/kotlin-datastore-serializer@0.2.0?classifier=sources
+- pkg:maven/com.vexdev/kotlin-datastore-serializer@0.3.0?classifier=sources
+- pkg:maven/com.vexdev/kotlin-datastore-serializer@1.0.0?classifier=sources
+- pkg:maven/com.vexdev/kotlin-datastore-serializer@1.1.0?classifier=sources
+- pkg:maven/com.vexdev/kotlin-datastore-serializer@1.2.0?classifier=sources
+- pkg:maven/com.vexdev/kotlin-datastore-serializer@1.2.1?classifier=sources
+- pkg:maven/com.vexdev/kotlin-datastore-serializer@2.0.0?classifier=sources
+- pkg:maven/com.vexdev/kotlin-datastore-serializer@2.0.1?classifier=sources
+- pkg:maven/com.vexdev/kotlin-datastore-serializer@2.0.3?classifier=sources
+- pkg:maven/com.vexdev/kotlin-datastore-serializer@2.1.0?classifier=sources
+- pkg:maven/com.vexdev/kotlin-datastore-serializer@xxx.xxx.xxx?classifier=sources

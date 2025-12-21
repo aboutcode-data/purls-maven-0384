@@ -16,3 +16,6 @@
 - pkg:maven/com.barion/barionsdk@0.1.7?classifier=sources
 - pkg:maven/com.barion/barionsdk@0.1.8?classifier=sources
 - pkg:maven/com.barion/barionsdk@0.1.9?classifier=sources
+- pkg:maven/com.barion/barionsdk@0.2.0?classifier=sources
+- pkg:maven/com.barion/barionsdk@0.2.1?classifier=sources
+- pkg:maven/com.barion/barionsdk@0.2.2?classifier=sources

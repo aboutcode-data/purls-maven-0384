@@ -1,1 +1,2 @@
 - pkg:maven/org.fitframework.waterflow/waterflow-common@3.5.0-M3?classifier=sources
+- pkg:maven/org.fitframework.waterflow/waterflow-common@3.5.0-M4?classifier=sources

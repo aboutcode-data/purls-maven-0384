@@ -267,3 +267,4 @@
 - pkg:maven/org.smallmind/smallmind-nutsnbolts@6.4.0?classifier=sources
 - pkg:maven/org.smallmind/smallmind-nutsnbolts@6.5.0?classifier=sources
 - pkg:maven/org.smallmind/smallmind-nutsnbolts@6.6.0?classifier=sources
+- pkg:maven/org.smallmind/smallmind-nutsnbolts@6.7.0?classifier=sources

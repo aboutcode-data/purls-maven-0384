@@ -109,3 +109,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.auth.core@1.7.0
 - pkg:maven/org.apache.sling/org.apache.sling.auth.core@1.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.auth.core@1.7.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.auth.core@2.0.0
+- pkg:maven/org.apache.sling/org.apache.sling.auth.core@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.auth.core@2.0.0?classifier=sources
