@@ -600,4 +600,5 @@
 - pkg:maven/org.babyfish.jimmer/jimmer-core-kotlin@0.9.88?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core-kotlin@0.9.89?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core-kotlin@0.9.8?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core-kotlin@0.9.90?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core-kotlin@0.9.9?classifier=sources

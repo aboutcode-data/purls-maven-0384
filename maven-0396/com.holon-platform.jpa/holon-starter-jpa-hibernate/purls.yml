@@ -19,3 +19,4 @@
 - pkg:maven/com.holon-platform.jpa/holon-starter-jpa-hibernate@5.4.0
 - pkg:maven/com.holon-platform.jpa/holon-starter-jpa-hibernate@5.5.0
 - pkg:maven/com.holon-platform.jpa/holon-starter-jpa-hibernate@5.7.0
+- pkg:maven/com.holon-platform.jpa/holon-starter-jpa-hibernate@6.0.0

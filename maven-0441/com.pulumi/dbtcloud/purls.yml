@@ -34,6 +34,7 @@
 - pkg:maven/com.pulumi/dbtcloud@0.1.2?classifier=sources
 - pkg:maven/com.pulumi/dbtcloud@0.1.3-alpha.1717796825?classifier=sources
 - pkg:maven/com.pulumi/dbtcloud@0.1.30?classifier=sources
+- pkg:maven/com.pulumi/dbtcloud@0.1.31?classifier=sources
 - pkg:maven/com.pulumi/dbtcloud@0.1.3?classifier=sources
 - pkg:maven/com.pulumi/dbtcloud@0.1.4?classifier=sources
 - pkg:maven/com.pulumi/dbtcloud@0.1.5?classifier=sources
@@ -87,3 +88,4 @@
 - pkg:maven/com.pulumi/dbtcloud@0.2.0-alpha.1732599208?classifier=sources
 - pkg:maven/com.pulumi/dbtcloud@0.2.0-alpha.1732685456?classifier=sources
 - pkg:maven/com.pulumi/dbtcloud@0.2.0-alpha.1732771816?classifier=sources
+- pkg:maven/com.pulumi/dbtcloud@1.0.0?classifier=sources

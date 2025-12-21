@@ -1,0 +1,1 @@
+- pkg:maven/io.flamingock/dynamodb-util@0.0.34-beta?classifier=sources

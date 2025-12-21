@@ -47,3 +47,4 @@
 - pkg:maven/org.hibernate.models/hibernate-models@1.0.0.CR1?classifier=sources
 - pkg:maven/org.hibernate.models/hibernate-models@1.0.0.CR2?classifier=sources
 - pkg:maven/org.hibernate.models/hibernate-models@1.0.0.CR3?classifier=sources
+- pkg:maven/org.hibernate.models/hibernate-models@1.0.0?classifier=sources

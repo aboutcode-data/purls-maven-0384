@@ -1,4 +1,6 @@
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-core@6.4.0
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-core@6.4.0?classifier=sources
+- pkg:maven/xyz.elemental.fork.org.exist-db/exist-core@6.5.0?classifier=sources
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-core@7.0.0
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-core@7.0.0?classifier=sources
+- pkg:maven/xyz.elemental.fork.org.exist-db/exist-core@7.1.0?classifier=sources

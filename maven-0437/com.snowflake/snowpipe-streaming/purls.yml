@@ -1,0 +1,4 @@
+- pkg:maven/com.snowflake/snowpipe-streaming@v0.2.8-rel-test
+- pkg:maven/com.snowflake/snowpipe-streaming@v0.2.8-rel-test?classifier=sources
+- pkg:maven/com.snowflake/snowpipe-streaming@v0.3.0
+- pkg:maven/com.snowflake/snowpipe-streaming@v0.3.0?classifier=sources

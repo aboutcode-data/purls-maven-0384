@@ -6,3 +6,4 @@
 - pkg:maven/org.codelibs/minhash@0.3.0?classifier=sources
 - pkg:maven/org.codelibs/minhash@0.4.0
 - pkg:maven/org.codelibs/minhash@0.4.0?classifier=sources
+- pkg:maven/org.codelibs/minhash@0.5.0?classifier=sources

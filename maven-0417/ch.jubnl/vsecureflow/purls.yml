@@ -1,1 +1,2 @@
 - pkg:maven/ch.jubnl/vsecureflow@0.0.15?classifier=sources
+- pkg:maven/ch.jubnl/vsecureflow@0.0.16?classifier=sources

@@ -52,6 +52,7 @@
 - pkg:maven/com.yandex.ads.adapter/admob-mobileads@7.12.1.0?classifier=sources
 - pkg:maven/com.yandex.ads.adapter/admob-mobileads@7.12.2.0?classifier=sources
 - pkg:maven/com.yandex.ads.adapter/admob-mobileads@7.12.3.0?classifier=sources
+- pkg:maven/com.yandex.ads.adapter/admob-mobileads@7.13.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.adapter/admob-mobileads@7.2.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.adapter/admob-mobileads@7.3.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.adapter/admob-mobileads@7.4.0.0?classifier=sources

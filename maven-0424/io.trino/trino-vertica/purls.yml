@@ -10,3 +10,4 @@
 - pkg:maven/io.trino/trino-vertica@473?classifier=sources
 - pkg:maven/io.trino/trino-vertica@474?classifier=sources
 - pkg:maven/io.trino/trino-vertica@475?classifier=sources
+- pkg:maven/io.trino/trino-vertica@476?classifier=sources

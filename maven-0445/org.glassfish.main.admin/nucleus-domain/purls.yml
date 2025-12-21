@@ -89,6 +89,8 @@
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@7.0.23?classifier=sources
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@7.0.24
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@7.0.24?classifier=sources
+- pkg:maven/org.glassfish.main.admin/nucleus-domain@7.0.25
+- pkg:maven/org.glassfish.main.admin/nucleus-domain@7.0.25?classifier=sources
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@7.0.2?classifier=sources
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@7.0.3
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@7.0.3?classifier=sources
@@ -106,6 +108,8 @@
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@7.0.9?classifier=sources
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-JDK17-M10
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-JDK17-M10?classifier=sources
+- pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-JDK17-M12
+- pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-JDK17-M12?classifier=sources
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-JDK17-M5
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-JDK17-M5?classifier=sources
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-JDK17-M6
@@ -119,6 +123,8 @@
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-M10?classifier=sources
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-M11
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-M11?classifier=sources
+- pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-M12
+- pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-M12?classifier=sources
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-M2
 - pkg:maven/org.glassfish.main.admin/nucleus-domain@8.0.0-M2?classifier=sources

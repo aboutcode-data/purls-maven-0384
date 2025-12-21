@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm/object-keys@0.4.0
+- pkg:maven/org.mvnpm/object-keys@0.4.0?classifier=sources
 - pkg:maven/org.mvnpm/object-keys@1.0.10?classifier=sources
 - pkg:maven/org.mvnpm/object-keys@1.0.11?classifier=sources
 - pkg:maven/org.mvnpm/object-keys@1.0.12?classifier=sources

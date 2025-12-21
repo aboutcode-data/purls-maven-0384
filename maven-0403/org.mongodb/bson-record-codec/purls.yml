@@ -78,3 +78,5 @@
 - pkg:maven/org.mongodb/bson-record-codec@5.4.0?classifier=sources
 - pkg:maven/org.mongodb/bson-record-codec@5.5.0
 - pkg:maven/org.mongodb/bson-record-codec@5.5.0?classifier=sources
+- pkg:maven/org.mongodb/bson-record-codec@5.5.1
+- pkg:maven/org.mongodb/bson-record-codec@5.5.1?classifier=sources

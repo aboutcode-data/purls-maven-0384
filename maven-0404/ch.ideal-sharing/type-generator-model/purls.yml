@@ -1,0 +1,2 @@
+- pkg:maven/ch.ideal-sharing/type-generator-model@1.1.0?classifier=sources
+- pkg:maven/ch.ideal-sharing/type-generator-model@1.1.1?classifier=sources

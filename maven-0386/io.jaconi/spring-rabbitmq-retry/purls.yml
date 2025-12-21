@@ -26,3 +26,4 @@
 - pkg:maven/io.jaconi/spring-rabbitmq-retry@1.2.2?classifier=sources
 - pkg:maven/io.jaconi/spring-rabbitmq-retry@1.2.3?classifier=sources
 - pkg:maven/io.jaconi/spring-rabbitmq-retry@1.2.5?classifier=sources
+- pkg:maven/io.jaconi/spring-rabbitmq-retry@1.2.6?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/io.github.davidwhitlock.joy.original/airline-web@2.2.0?type=war
 - pkg:maven/io.github.davidwhitlock.joy.original/airline-web@3.0.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.joy.original/airline-web@3.0.0?type=war
+- pkg:maven/io.github.davidwhitlock.joy.original/airline-web@3.0.2?classifier=sources

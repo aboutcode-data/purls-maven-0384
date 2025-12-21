@@ -17,3 +17,4 @@
 - pkg:maven/com.yandex.pay/core-network@2.5.0?classifier=sources
 - pkg:maven/com.yandex.pay/core-network@2.6.0?classifier=sources
 - pkg:maven/com.yandex.pay/core-network@2.7.0?classifier=sources
+- pkg:maven/com.yandex.pay/core-network@2.8.0?classifier=sources

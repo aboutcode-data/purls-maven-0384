@@ -3,5 +3,7 @@
 - pkg:maven/org.mvnpm.at.ui5/webcomponents@2.1.2?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents@2.10.0
 - pkg:maven/org.mvnpm.at.ui5/webcomponents@2.10.0?classifier=sources
+- pkg:maven/org.mvnpm.at.ui5/webcomponents@2.11.0
+- pkg:maven/org.mvnpm.at.ui5/webcomponents@2.11.0?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents@2.4.0?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents@2.9.0?classifier=sources

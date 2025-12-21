@@ -1,0 +1,2 @@
+- pkg:maven/net.cqchain.sdk/cqchain-sdk-nft@1.0.0?classifier=sources
+- pkg:maven/net.cqchain.sdk/cqchain-sdk-nft@1.0.1?classifier=sources

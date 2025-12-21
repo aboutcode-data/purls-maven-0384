@@ -14,3 +14,5 @@
 - pkg:maven/com.aliyun/aicontent20240611@2.1.0?classifier=sources
 - pkg:maven/com.aliyun/aicontent20240611@3.0.0
 - pkg:maven/com.aliyun/aicontent20240611@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/aicontent20240611@4.0.0
+- pkg:maven/com.aliyun/aicontent20240611@4.0.0?classifier=sources

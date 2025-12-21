@@ -5,3 +5,4 @@
 - pkg:maven/io.gitee.fitminf/personal-tailor@0.0.7?classifier=sources
 - pkg:maven/io.gitee.fitminf/personal-tailor@0.0.9?classifier=sources
 - pkg:maven/io.gitee.fitminf/personal-tailor@1.0.0?classifier=sources
+- pkg:maven/io.gitee.fitminf/personal-tailor@1.6.0?classifier=sources

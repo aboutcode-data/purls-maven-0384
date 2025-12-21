@@ -38,3 +38,5 @@
 - pkg:maven/com.exadel.etoolbox/etoolbox-authoring-kit-plugin@2.5.3?classifier=sources
 - pkg:maven/com.exadel.etoolbox/etoolbox-authoring-kit-plugin@2.5.4
 - pkg:maven/com.exadel.etoolbox/etoolbox-authoring-kit-plugin@2.5.4?classifier=sources
+- pkg:maven/com.exadel.etoolbox/etoolbox-authoring-kit-plugin@2.6.0
+- pkg:maven/com.exadel.etoolbox/etoolbox-authoring-kit-plugin@2.6.0?classifier=sources

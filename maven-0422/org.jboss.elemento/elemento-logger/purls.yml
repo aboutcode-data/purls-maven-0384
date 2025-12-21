@@ -17,3 +17,4 @@
 - pkg:maven/org.jboss.elemento/elemento-logger@1.6.9?classifier=sources
 - pkg:maven/org.jboss.elemento/elemento-logger@1.7.0?classifier=sources
 - pkg:maven/org.jboss.elemento/elemento-logger@1.7.1?classifier=sources
+- pkg:maven/org.jboss.elemento/elemento-logger@2.0.0?classifier=sources

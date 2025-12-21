@@ -1,0 +1,4 @@
+- pkg:maven/io.github.a2ap/a2a4j-server-spring-boot-starter@0.0.1-RC2?classifier=sources
+- pkg:maven/io.github.a2ap/a2a4j-server-spring-boot-starter@0.0.1-RC3-snapshot?classifier=sources
+- pkg:maven/io.github.a2ap/a2a4j-server-spring-boot-starter@0.0.1-RC3?classifier=sources
+- pkg:maven/io.github.a2ap/a2a4j-server-spring-boot-starter@0.0.1-RC5?classifier=sources

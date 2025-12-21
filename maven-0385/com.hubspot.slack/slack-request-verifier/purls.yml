@@ -22,3 +22,4 @@
 - pkg:maven/com.hubspot.slack/slack-request-verifier@1.16.6?classifier=sources
 - pkg:maven/com.hubspot.slack/slack-request-verifier@1.16.7
 - pkg:maven/com.hubspot.slack/slack-request-verifier@1.16.7?classifier=sources
+- pkg:maven/com.hubspot.slack/slack-request-verifier@1.16.8?classifier=sources

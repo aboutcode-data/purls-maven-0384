@@ -18,6 +18,7 @@
 - pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@6.13.4?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@6.13.5
 - pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@6.13.5?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@6.14.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@6.8.0
 - pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@6.8.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@6.8.1
@@ -38,3 +39,5 @@
 - pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@7.2.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@7.3.0
 - pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@7.3.0?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@7.3.1
+- pkg:maven/io.fabric8/kubernetes-junit-jupiter-autodetected@7.3.1?classifier=sources

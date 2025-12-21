@@ -34,3 +34,7 @@
 - pkg:maven/org.webjars.npm/nhsuk-frontend@9.1.0
 - pkg:maven/org.webjars.npm/nhsuk-frontend@9.3.0
 - pkg:maven/org.webjars.npm/nhsuk-frontend@9.4.1
+- pkg:maven/org.webjars.npm/nhsuk-frontend@9.5.0
+- pkg:maven/org.webjars.npm/nhsuk-frontend@9.6.0
+- pkg:maven/org.webjars.npm/nhsuk-frontend@9.6.1
+- pkg:maven/org.webjars.npm/nhsuk-frontend@9.6.2

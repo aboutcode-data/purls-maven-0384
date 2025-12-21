@@ -18,3 +18,4 @@
 - pkg:maven/com.trigyn/jquiver@1.9?classifier=sources
 - pkg:maven/com.trigyn/jquiver@2.0?classifier=sources
 - pkg:maven/com.trigyn/jquiver@2.1?classifier=sources
+- pkg:maven/com.trigyn/jquiver@2.2?classifier=sources

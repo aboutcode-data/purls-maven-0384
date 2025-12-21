@@ -76,3 +76,5 @@
 - pkg:maven/io.trino/trino-product-tests-groups@474?classifier=sources
 - pkg:maven/io.trino/trino-product-tests-groups@475
 - pkg:maven/io.trino/trino-product-tests-groups@475?classifier=sources
+- pkg:maven/io.trino/trino-product-tests-groups@476
+- pkg:maven/io.trino/trino-product-tests-groups@476?classifier=sources

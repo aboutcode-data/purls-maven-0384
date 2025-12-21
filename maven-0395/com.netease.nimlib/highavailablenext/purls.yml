@@ -26,3 +26,7 @@
 - pkg:maven/com.netease.nimlib/highavailablenext@10.8.21?type=aar
 - pkg:maven/com.netease.nimlib/highavailablenext@10.8.30?classifier=sources
 - pkg:maven/com.netease.nimlib/highavailablenext@10.8.30?type=aar
+- pkg:maven/com.netease.nimlib/highavailablenext@10.9.0?classifier=sources
+- pkg:maven/com.netease.nimlib/highavailablenext@10.9.0?type=aar
+- pkg:maven/com.netease.nimlib/highavailablenext@10.9.1?classifier=sources
+- pkg:maven/com.netease.nimlib/highavailablenext@10.9.1?type=aar

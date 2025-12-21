@@ -32,3 +32,4 @@
 - pkg:maven/com.refinitiv.eta.json.converter/etajConverter@3.8.0.0?classifier=sources
 - pkg:maven/com.refinitiv.eta.json.converter/etajConverter@3.8.2.0?classifier=sources
 - pkg:maven/com.refinitiv.eta.json.converter/etajConverter@3.8.3.0?classifier=sources
+- pkg:maven/com.refinitiv.eta.json.converter/etajConverter@3.9.0.1?classifier=sources

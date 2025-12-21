@@ -42,3 +42,5 @@
 - pkg:maven/com.aliyun/paifeaturestore20230621@5.0.3?classifier=sources
 - pkg:maven/com.aliyun/paifeaturestore20230621@5.1.0
 - pkg:maven/com.aliyun/paifeaturestore20230621@5.1.0?classifier=sources
+- pkg:maven/com.aliyun/paifeaturestore20230621@6.0.0
+- pkg:maven/com.aliyun/paifeaturestore20230621@6.0.0?classifier=sources

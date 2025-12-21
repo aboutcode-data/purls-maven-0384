@@ -1,0 +1,2 @@
+- pkg:maven/com.sundayapp/decimal4kmp-wasm-js@0.1.1?classifier=sources
+- pkg:maven/com.sundayapp/decimal4kmp-wasm-js@0.1.2?classifier=sources

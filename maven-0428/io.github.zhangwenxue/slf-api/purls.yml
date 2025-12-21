@@ -2,3 +2,5 @@
 - pkg:maven/io.github.zhangwenxue/slf-api@1.0.1-alpha1?classifier=sources
 - pkg:maven/io.github.zhangwenxue/slf-api@1.0.1-alpha?classifier=sources
 - pkg:maven/io.github.zhangwenxue/slf-api@1.0.2?classifier=sources
+- pkg:maven/io.github.zhangwenxue/slf-api@1.0.3?classifier=sources
+- pkg:maven/io.github.zhangwenxue/slf-api@1.0.4?classifier=sources

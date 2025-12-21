@@ -347,3 +347,5 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-frontend@0.81.8a
 - pkg:maven/com.xlrit.gears.runtime/gears-frontend@0.81.8a?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-frontend@0.82.1?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-frontend@0.82.2?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-frontend@0.82.3?classifier=sources

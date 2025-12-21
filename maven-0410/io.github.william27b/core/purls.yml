@@ -1,0 +1,4 @@
+- pkg:maven/io.github.william27b/core@0.15.01
+- pkg:maven/io.github.william27b/core@0.15.01?classifier=sources
+- pkg:maven/io.github.william27b/core@0.15.02
+- pkg:maven/io.github.william27b/core@0.15.02?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.gitee.jmash/jmash-dict-service@0.0.11?classifier=sources
+- pkg:maven/com.gitee.jmash/jmash-dict-service@1.0.0?classifier=sources

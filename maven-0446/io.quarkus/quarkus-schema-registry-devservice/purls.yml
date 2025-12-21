@@ -161,6 +161,7 @@
 - pkg:maven/io.quarkus/quarkus-schema-registry-devservice@3.22.1
 - pkg:maven/io.quarkus/quarkus-schema-registry-devservice@3.22.2
 - pkg:maven/io.quarkus/quarkus-schema-registry-devservice@3.22.3
+- pkg:maven/io.quarkus/quarkus-schema-registry-devservice@3.23.0
 - pkg:maven/io.quarkus/quarkus-schema-registry-devservice@3.23.0.CR1
 - pkg:maven/io.quarkus/quarkus-schema-registry-devservice@3.3.0
 - pkg:maven/io.quarkus/quarkus-schema-registry-devservice@3.3.0.CR1

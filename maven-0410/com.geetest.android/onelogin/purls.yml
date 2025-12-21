@@ -124,3 +124,5 @@
 - pkg:maven/com.geetest.android/onelogin@2.9.5?type=aar
 - pkg:maven/com.geetest.android/onelogin@2.9.6?classifier=sources
 - pkg:maven/com.geetest.android/onelogin@2.9.6?type=aar
+- pkg:maven/com.geetest.android/onelogin@2.9.7?classifier=sources
+- pkg:maven/com.geetest.android/onelogin@2.9.7?type=aar
