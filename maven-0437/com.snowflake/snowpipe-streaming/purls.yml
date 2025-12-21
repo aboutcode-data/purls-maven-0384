@@ -24,6 +24,10 @@
 - pkg:maven/com.snowflake/snowpipe-streaming@1.0.2-unshaded
 - pkg:maven/com.snowflake/snowpipe-streaming@1.0.2-unshaded?classifier=sources
 - pkg:maven/com.snowflake/snowpipe-streaming@1.0.2?classifier=sources
+- pkg:maven/com.snowflake/snowpipe-streaming@1.1.0
+- pkg:maven/com.snowflake/snowpipe-streaming@1.1.0-unshaded
+- pkg:maven/com.snowflake/snowpipe-streaming@1.1.0-unshaded?classifier=sources
+- pkg:maven/com.snowflake/snowpipe-streaming@1.1.0?classifier=sources
 - pkg:maven/com.snowflake/snowpipe-streaming@v0.2.8-rel-test
 - pkg:maven/com.snowflake/snowpipe-streaming@v0.2.8-rel-test?classifier=sources
 - pkg:maven/com.snowflake/snowpipe-streaming@v0.3.0

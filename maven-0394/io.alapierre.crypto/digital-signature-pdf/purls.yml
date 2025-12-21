@@ -16,3 +16,4 @@
 - pkg:maven/io.alapierre.crypto/digital-signature-pdf@1.17?classifier=sources
 - pkg:maven/io.alapierre.crypto/digital-signature-pdf@1.9
 - pkg:maven/io.alapierre.crypto/digital-signature-pdf@1.9?classifier=sources
+- pkg:maven/io.alapierre.crypto/digital-signature-pdf@2.0.3?classifier=sources

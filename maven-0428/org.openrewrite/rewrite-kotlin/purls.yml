@@ -147,3 +147,6 @@
 - pkg:maven/org.openrewrite/rewrite-kotlin@8.63.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-kotlin@8.63.4?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-kotlin@8.64.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-kotlin@8.65.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-kotlin@8.66.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-kotlin@8.66.1?classifier=sources

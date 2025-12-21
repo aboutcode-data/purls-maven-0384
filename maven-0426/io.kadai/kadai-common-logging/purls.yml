@@ -1,6 +1,8 @@
 - pkg:maven/io.kadai/kadai-common-logging@10.0.0?classifier=sources
 - pkg:maven/io.kadai/kadai-common-logging@10.1.0?classifier=sources
 - pkg:maven/io.kadai/kadai-common-logging@10.2.0?classifier=sources
+- pkg:maven/io.kadai/kadai-common-logging@11.0.0?classifier=sources
+- pkg:maven/io.kadai/kadai-common-logging@11.1.0?classifier=sources
 - pkg:maven/io.kadai/kadai-common-logging@9.0.0?classifier=sources
 - pkg:maven/io.kadai/kadai-common-logging@9.1.0?classifier=sources
 - pkg:maven/io.kadai/kadai-common-logging@9.2.0?classifier=sources

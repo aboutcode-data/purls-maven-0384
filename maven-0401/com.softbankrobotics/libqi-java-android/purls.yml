@@ -1,0 +1,2 @@
+- pkg:maven/com.softbankrobotics/libqi-java-android@4.2.1
+- pkg:maven/com.softbankrobotics/libqi-java-android@4.2.1?classifier=sources

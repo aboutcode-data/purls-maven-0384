@@ -2844,6 +2844,9 @@
 - pkg:maven/software.amazon.awssdk/qldb@2.36.0?classifier=sources
 - pkg:maven/software.amazon.awssdk/qldb@2.36.1?classifier=sources
 - pkg:maven/software.amazon.awssdk/qldb@2.36.2?classifier=sources
+- pkg:maven/software.amazon.awssdk/qldb@2.36.3?classifier=sources
+- pkg:maven/software.amazon.awssdk/qldb@2.37.0?classifier=sources
+- pkg:maven/software.amazon.awssdk/qldb@2.37.1?classifier=sources
 - pkg:maven/software.amazon.awssdk/qldb@2.8.4
 - pkg:maven/software.amazon.awssdk/qldb@2.8.4?classifier=sources
 - pkg:maven/software.amazon.awssdk/qldb@2.8.5

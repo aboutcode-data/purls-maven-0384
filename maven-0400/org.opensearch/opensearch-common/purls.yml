@@ -13,6 +13,7 @@
 - pkg:maven/org.opensearch/opensearch-common@2.19.1?classifier=sources
 - pkg:maven/org.opensearch/opensearch-common@2.19.2?classifier=sources
 - pkg:maven/org.opensearch/opensearch-common@2.19.3?classifier=sources
+- pkg:maven/org.opensearch/opensearch-common@2.19.4?classifier=sources
 - pkg:maven/org.opensearch/opensearch-common@2.6.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-common@2.7.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-common@2.8.0?classifier=sources
@@ -24,3 +25,4 @@
 - pkg:maven/org.opensearch/opensearch-common@3.2.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-common@3.3.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-common@3.3.1?classifier=sources
+- pkg:maven/org.opensearch/opensearch-common@3.3.2?classifier=sources

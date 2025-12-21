@@ -17,3 +17,6 @@
 - pkg:maven/io.github.adgocompany/unad_global@2.6.9.7-r5?type=aar
 - pkg:maven/io.github.adgocompany/unad_global@2.6.9.7-r6?type=aar
 - pkg:maven/io.github.adgocompany/unad_global@2.6.9.7?type=aar
+- pkg:maven/io.github.adgocompany/unad_global@2.6.9.8-r1?type=aar
+- pkg:maven/io.github.adgocompany/unad_global@2.6.9.8-r2?type=aar
+- pkg:maven/io.github.adgocompany/unad_global@2.6.9.8?type=aar

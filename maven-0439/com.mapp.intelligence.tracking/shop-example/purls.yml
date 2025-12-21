@@ -14,3 +14,5 @@
 - pkg:maven/com.mapp.intelligence.tracking/shop-example@0.2.3?type=war
 - pkg:maven/com.mapp.intelligence.tracking/shop-example@0.2.4?classifier=sources
 - pkg:maven/com.mapp.intelligence.tracking/shop-example@0.2.4?type=war
+- pkg:maven/com.mapp.intelligence.tracking/shop-example@1.0.3?classifier=sources
+- pkg:maven/com.mapp.intelligence.tracking/shop-example@1.0.3?type=war

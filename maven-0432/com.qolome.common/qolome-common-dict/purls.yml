@@ -1,0 +1,2 @@
+- pkg:maven/com.qolome.common/qolome-common-dict@3.0.1-jre25?classifier=sources
+- pkg:maven/com.qolome.common/qolome-common-dict@3.0.2-jre25?classifier=sources

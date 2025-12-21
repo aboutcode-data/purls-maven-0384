@@ -26,3 +26,4 @@
 - pkg:maven/com.carto/carto-mobile-sdk@4.4.7-rc.1?type=aar
 - pkg:maven/com.carto/carto-mobile-sdk@4.4.7?classifier=sources
 - pkg:maven/com.carto/carto-mobile-sdk@4.4.7?type=aar
+- pkg:maven/com.carto/carto-mobile-sdk@5.0.0?classifier=sources

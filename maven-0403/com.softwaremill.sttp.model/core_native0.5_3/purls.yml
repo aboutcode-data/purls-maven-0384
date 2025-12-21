@@ -12,3 +12,5 @@
 - pkg:maven/com.softwaremill.sttp.model/core_native0.5_3@1.7.15?classifier=sources
 - pkg:maven/com.softwaremill.sttp.model/core_native0.5_3@1.7.16
 - pkg:maven/com.softwaremill.sttp.model/core_native0.5_3@1.7.16?classifier=sources
+- pkg:maven/com.softwaremill.sttp.model/core_native0.5_3@1.7.17
+- pkg:maven/com.softwaremill.sttp.model/core_native0.5_3@1.7.17?classifier=sources

@@ -40,3 +40,4 @@
 - pkg:maven/com.ksmpartners/domino-java-client@6.0.1.2?classifier=sources
 - pkg:maven/com.ksmpartners/domino-java-client@6.0.1.3?classifier=sources
 - pkg:maven/com.ksmpartners/domino-java-client@6.1.0.0?classifier=sources
+- pkg:maven/com.ksmpartners/domino-java-client@6.1.1.0?classifier=sources

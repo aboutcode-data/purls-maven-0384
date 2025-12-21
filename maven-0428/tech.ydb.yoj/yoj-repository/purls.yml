@@ -155,6 +155,7 @@
 - pkg:maven/tech.ydb.yoj/yoj-repository@2.6.41?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-repository@2.6.42?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-repository@2.6.43?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-repository@2.6.44?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-repository@2.6.4?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-repository@2.6.5
 - pkg:maven/tech.ydb.yoj/yoj-repository@2.6.5?classifier=sources

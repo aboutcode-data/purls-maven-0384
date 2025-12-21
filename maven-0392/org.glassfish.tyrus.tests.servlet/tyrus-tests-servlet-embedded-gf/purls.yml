@@ -25,3 +25,4 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-embedded-gf@2.1.4?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-embedded-gf@2.1.4?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-embedded-gf@2.1.6?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-embedded-gf@2.2.1?classifier=sources

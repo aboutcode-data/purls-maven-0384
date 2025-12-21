@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.grails.profiles/web@7.0.0-RC1?classifier=sources
 - pkg:maven/org.apache.grails.profiles/web@7.0.0-RC2?classifier=sources
 - pkg:maven/org.apache.grails.profiles/web@7.0.0?classifier=sources
+- pkg:maven/org.apache.grails.profiles/web@7.0.1?classifier=sources

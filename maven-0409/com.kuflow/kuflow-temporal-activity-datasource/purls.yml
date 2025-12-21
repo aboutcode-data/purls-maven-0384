@@ -1,0 +1,2 @@
+- pkg:maven/com.kuflow/kuflow-temporal-activity-datasource@3.5.2?classifier=sources
+- pkg:maven/com.kuflow/kuflow-temporal-activity-datasource@3.5.3?classifier=sources

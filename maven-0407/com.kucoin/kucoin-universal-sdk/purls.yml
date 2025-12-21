@@ -1,2 +1,4 @@
 - pkg:maven/com.kucoin/kucoin-universal-sdk@0.1.0-alpha
 - pkg:maven/com.kucoin/kucoin-universal-sdk@0.1.0-alpha?classifier=sources
+- pkg:maven/com.kucoin/kucoin-universal-sdk@0.1.1-alpha
+- pkg:maven/com.kucoin/kucoin-universal-sdk@0.1.1-alpha?classifier=sources

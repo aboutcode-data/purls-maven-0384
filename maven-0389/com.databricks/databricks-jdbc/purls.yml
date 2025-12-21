@@ -63,4 +63,6 @@
 - pkg:maven/com.databricks/databricks-jdbc@2.7.3?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@2.7.4
 - pkg:maven/com.databricks/databricks-jdbc@2.7.4?classifier=sources
+- pkg:maven/com.databricks/databricks-jdbc@2.7.5
+- pkg:maven/com.databricks/databricks-jdbc@2.7.5?classifier=sources
 - pkg:maven/com.databricks/databricks-jdbc@3.0.1?classifier=sources

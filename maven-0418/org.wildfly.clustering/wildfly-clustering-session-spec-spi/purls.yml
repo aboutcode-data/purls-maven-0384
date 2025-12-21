@@ -67,6 +67,7 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-spi@5.0.10.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-spi@5.0.10.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-spi@5.0.11.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-spi@5.0.12.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-spi@5.0.2.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-spi@5.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-spi@5.0.3.Final
@@ -122,3 +123,4 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-spi@8.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-spi@8.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-spi@8.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-spi@8.0.3.Final?classifier=sources

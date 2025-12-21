@@ -128,9 +128,11 @@
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.17-5-3ae566fe?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.17?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.18-1-6c0c0a5e?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.18-10-edb7288d?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.18-2-1efb11ee?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.18-3-84145e06?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.18?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-plugin@1.5.19?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-1-b83658f5
 - pkg:maven/io.kalix/kalix-maven-plugin@1.5.2-10-75559b2b

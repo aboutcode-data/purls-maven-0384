@@ -12,3 +12,5 @@
 - pkg:maven/io.github.jinahya/kftc-financial-institution-info@1.0.0.20250617?classifier=sources
 - pkg:maven/io.github.jinahya/kftc-financial-institution-info@1.0.0.20250730?classifier=sources
 - pkg:maven/io.github.jinahya/kftc-financial-institution-info@1.0.0.20250924?classifier=sources
+- pkg:maven/io.github.jinahya/kftc-financial-institution-info@1.0.0.20251014?classifier=sources
+- pkg:maven/io.github.jinahya/kftc-financial-institution-info@1.0.0.20251103?classifier=sources

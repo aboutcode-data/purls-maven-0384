@@ -114,3 +114,4 @@
 - pkg:maven/io.trino/trino-filesystem-manager@475?classifier=sources
 - pkg:maven/io.trino/trino-filesystem-manager@476
 - pkg:maven/io.trino/trino-filesystem-manager@476?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-manager@478?classifier=sources

@@ -80,6 +80,7 @@
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-prometheus@1.54.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-prometheus@1.54.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-prometheus@1.55.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-prometheus@1.56.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-prometheus@1.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-prometheus@1.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-prometheus@1.7.1-alpha?classifier=sources

@@ -20,6 +20,12 @@
 - pkg:maven/io.github.ppzxc/fixh@0.0.22?classifier=sources
 - pkg:maven/io.github.ppzxc/fixh@0.0.23
 - pkg:maven/io.github.ppzxc/fixh@0.0.23?classifier=sources
+- pkg:maven/io.github.ppzxc/fixh@0.0.25
+- pkg:maven/io.github.ppzxc/fixh@0.0.25?classifier=sources
+- pkg:maven/io.github.ppzxc/fixh@0.0.26
+- pkg:maven/io.github.ppzxc/fixh@0.0.26?classifier=sources
+- pkg:maven/io.github.ppzxc/fixh@0.0.27
+- pkg:maven/io.github.ppzxc/fixh@0.0.27?classifier=sources
 - pkg:maven/io.github.ppzxc/fixh@0.0.7
 - pkg:maven/io.github.ppzxc/fixh@0.0.7?classifier=sources
 - pkg:maven/io.github.ppzxc/fixh@0.0.8

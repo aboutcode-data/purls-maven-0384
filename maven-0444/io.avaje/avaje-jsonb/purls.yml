@@ -209,3 +209,4 @@
 - pkg:maven/io.avaje/avaje-jsonb@3.8-RC2?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb@3.8-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb@3.8-RC4?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb@3.8?classifier=sources

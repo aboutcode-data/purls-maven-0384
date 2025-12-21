@@ -1,1 +1,2 @@
 - pkg:maven/io.github.boiledeggg/boiled-calendar-compose@1.0.0?classifier=sources
+- pkg:maven/io.github.boiledeggg/boiled-calendar-compose@1.1.0?classifier=sources

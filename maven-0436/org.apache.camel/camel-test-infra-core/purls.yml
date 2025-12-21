@@ -24,7 +24,9 @@
 - pkg:maven/org.apache.camel/camel-test-infra-core@4.13.0
 - pkg:maven/org.apache.camel/camel-test-infra-core@4.14.0
 - pkg:maven/org.apache.camel/camel-test-infra-core@4.14.1
+- pkg:maven/org.apache.camel/camel-test-infra-core@4.14.2
 - pkg:maven/org.apache.camel/camel-test-infra-core@4.15.0
+- pkg:maven/org.apache.camel/camel-test-infra-core@4.16.0
 - pkg:maven/org.apache.camel/camel-test-infra-core@4.2.0
 - pkg:maven/org.apache.camel/camel-test-infra-core@4.3.0
 - pkg:maven/org.apache.camel/camel-test-infra-core@4.4.0

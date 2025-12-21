@@ -1,0 +1,4 @@
+- pkg:maven/tech.turso/turso@0.0.1
+- pkg:maven/tech.turso/turso@0.0.1?classifier=sources
+- pkg:maven/tech.turso/turso@0.3.2
+- pkg:maven/tech.turso/turso@0.3.2?classifier=sources

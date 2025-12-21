@@ -42,3 +42,5 @@
 - pkg:maven/net.reactivecore/kreuzberg-xml_native0.5_3@0.11.3?classifier=sources
 - pkg:maven/net.reactivecore/kreuzberg-xml_native0.5_3@0.11.4
 - pkg:maven/net.reactivecore/kreuzberg-xml_native0.5_3@0.11.4?classifier=sources
+- pkg:maven/net.reactivecore/kreuzberg-xml_native0.5_3@0.11.5
+- pkg:maven/net.reactivecore/kreuzberg-xml_native0.5_3@0.11.5?classifier=sources

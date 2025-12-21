@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.polaris/router-mirroring@2.1.0.0-RC2?classifier=sources
+- pkg:maven/com.tencent.polaris/router-mirroring@2.1.0.0?classifier=sources

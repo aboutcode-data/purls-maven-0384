@@ -58,6 +58,7 @@
 - pkg:maven/org.seasar.doma/doma-processor@3.1.0?classifier=sources
 - pkg:maven/org.seasar.doma/doma-processor@3.10.0?classifier=sources
 - pkg:maven/org.seasar.doma/doma-processor@3.11.0?classifier=sources
+- pkg:maven/org.seasar.doma/doma-processor@3.11.1?classifier=sources
 - pkg:maven/org.seasar.doma/doma-processor@3.2.0?classifier=sources
 - pkg:maven/org.seasar.doma/doma-processor@3.3.0?classifier=sources
 - pkg:maven/org.seasar.doma/doma-processor@3.3.1?classifier=sources

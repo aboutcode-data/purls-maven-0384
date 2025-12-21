@@ -9,3 +9,5 @@
 - pkg:maven/org.mvnpm/nan@2.22.2?classifier=sources
 - pkg:maven/org.mvnpm/nan@2.23.0
 - pkg:maven/org.mvnpm/nan@2.23.0?classifier=sources
+- pkg:maven/org.mvnpm/nan@2.23.1
+- pkg:maven/org.mvnpm/nan@2.23.1?classifier=sources

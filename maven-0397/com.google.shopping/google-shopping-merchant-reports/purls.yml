@@ -94,3 +94,5 @@
 - pkg:maven/com.google.shopping/google-shopping-merchant-reports@1.4.0?classifier=sources
 - pkg:maven/com.google.shopping/google-shopping-merchant-reports@1.5.0
 - pkg:maven/com.google.shopping/google-shopping-merchant-reports@1.5.0?classifier=sources
+- pkg:maven/com.google.shopping/google-shopping-merchant-reports@1.6.0
+- pkg:maven/com.google.shopping/google-shopping-merchant-reports@1.6.0?classifier=sources

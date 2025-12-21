@@ -1,0 +1,4 @@
+- pkg:maven/studio.o7/gentle@0.0.1
+- pkg:maven/studio.o7/gentle@0.0.1?classifier=sources
+- pkg:maven/studio.o7/gentle@0.0.2
+- pkg:maven/studio.o7/gentle@0.0.2?classifier=sources

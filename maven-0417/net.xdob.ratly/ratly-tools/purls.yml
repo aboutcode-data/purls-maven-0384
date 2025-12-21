@@ -27,6 +27,9 @@
 - pkg:maven/net.xdob.ratly/ratly-tools@3.13.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-tools@3.14.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-tools@3.15.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-tools@3.16.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-tools@3.17.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-tools@3.18.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-tools@3.2.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-tools@3.3.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-tools@3.4.0?classifier=sources

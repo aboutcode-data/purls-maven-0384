@@ -121,6 +121,7 @@
 - pkg:maven/com.finbourne/scheduler-sdk@2.0.17
 - pkg:maven/com.finbourne/scheduler-sdk@2.0.170?classifier=sources
 - pkg:maven/com.finbourne/scheduler-sdk@2.0.171?classifier=sources
+- pkg:maven/com.finbourne/scheduler-sdk@2.0.172?classifier=sources
 - pkg:maven/com.finbourne/scheduler-sdk@2.0.17?classifier=sources
 - pkg:maven/com.finbourne/scheduler-sdk@2.0.18
 - pkg:maven/com.finbourne/scheduler-sdk@2.0.18?classifier=sources

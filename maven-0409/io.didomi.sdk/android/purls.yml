@@ -12,3 +12,5 @@
 - pkg:maven/io.didomi.sdk/android@2.30.0?classifier=sources
 - pkg:maven/io.didomi.sdk/android@2.31.0?classifier=sources
 - pkg:maven/io.didomi.sdk/android@2.31.1?classifier=sources
+- pkg:maven/io.didomi.sdk/android@2.32.0?classifier=sources
+- pkg:maven/io.didomi.sdk/android@2.33.0?classifier=sources

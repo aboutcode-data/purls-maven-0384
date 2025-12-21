@@ -1,0 +1,1 @@
+- pkg:maven/io.github.jakala-germany/transitive-dependency-check-gradle-plugin@1.0.0?classifier=sources

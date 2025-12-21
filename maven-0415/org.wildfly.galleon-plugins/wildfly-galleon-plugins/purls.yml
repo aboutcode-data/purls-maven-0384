@@ -327,3 +327,4 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-plugins@8.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-plugins@8.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-plugins@8.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-galleon-plugins@8.1.0.Beta1?classifier=sources

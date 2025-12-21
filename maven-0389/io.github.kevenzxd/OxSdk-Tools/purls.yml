@@ -15,3 +15,5 @@
 - pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.3.1-Base?classifier=sources
 - pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.3.1-Test?classifier=sources
 - pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.3.1?classifier=sources
+- pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.3.2-Base-RC01?classifier=sources
+- pkg:maven/io.github.kevenzxd/OxSdk-Tools@1.2.3.2-RC01?classifier=sources

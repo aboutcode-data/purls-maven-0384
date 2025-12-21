@@ -30,6 +30,8 @@
 - pkg:maven/org.mvnpm.at.sentry/browser@10.21.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@10.22.0
 - pkg:maven/org.mvnpm.at.sentry/browser@10.22.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@10.23.0
+- pkg:maven/org.mvnpm.at.sentry/browser@10.23.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@10.3.0
 - pkg:maven/org.mvnpm.at.sentry/browser@10.3.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@10.4.0

@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.hapi/topo@5.1.0
 - pkg:maven/org.mvnpm.at.hapi/topo@5.1.0?classifier=sources
+- pkg:maven/org.mvnpm.at.hapi/topo@6.0.2
+- pkg:maven/org.mvnpm.at.hapi/topo@6.0.2?classifier=sources

@@ -46,6 +46,10 @@
 - pkg:maven/org.beangle.ems/beangle-ems-app@4.12.0?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-app@4.12.1
 - pkg:maven/org.beangle.ems/beangle-ems-app@4.12.1?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-app@4.12.3
+- pkg:maven/org.beangle.ems/beangle-ems-app@4.12.3?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-app@4.13.0
+- pkg:maven/org.beangle.ems/beangle-ems-app@4.13.0?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-app@4.8.12
 - pkg:maven/org.beangle.ems/beangle-ems-app@4.8.12?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-app@4.8.13

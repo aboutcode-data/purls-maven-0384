@@ -2,3 +2,5 @@
 - pkg:maven/io.github.allawala/service-chassis_2.13@1.0.15?classifier=sources
 - pkg:maven/io.github.allawala/service-chassis_2.13@1.0.16
 - pkg:maven/io.github.allawala/service-chassis_2.13@1.0.16?classifier=sources
+- pkg:maven/io.github.allawala/service-chassis_2.13@2.0.0
+- pkg:maven/io.github.allawala/service-chassis_2.13@2.0.0?classifier=sources

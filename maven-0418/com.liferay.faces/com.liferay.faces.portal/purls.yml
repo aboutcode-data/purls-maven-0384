@@ -32,3 +32,4 @@
 - pkg:maven/com.liferay.faces/com.liferay.faces.portal@5.0.0?classifier=sources
 - pkg:maven/com.liferay.faces/com.liferay.faces.portal@6.0.0
 - pkg:maven/com.liferay.faces/com.liferay.faces.portal@6.0.0?classifier=sources
+- pkg:maven/com.liferay.faces/com.liferay.faces.portal@6.1.0?classifier=sources

@@ -1,3 +1,6 @@
+- pkg:maven/com.charleskorn.kaml/kaml-js@0.100.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-js@0.101.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-js@0.102.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-js@0.55.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-js@0.56.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-js@0.57.0?classifier=sources
@@ -43,3 +46,4 @@
 - pkg:maven/com.charleskorn.kaml/kaml-js@0.96.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-js@0.97.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-js@0.98.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-js@0.99.0?classifier=sources

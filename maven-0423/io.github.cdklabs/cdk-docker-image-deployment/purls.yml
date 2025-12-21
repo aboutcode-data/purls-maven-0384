@@ -1814,8 +1814,16 @@
 - pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.927?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.928
 - pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.928?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.929
+- pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.929?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.92?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.93
+- pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.930
+- pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.930?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.931
+- pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.931?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.932
+- pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.932?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.93?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.94
 - pkg:maven/io.github.cdklabs/cdk-docker-image-deployment@0.0.94?classifier=sources

@@ -30,3 +30,4 @@
 - pkg:maven/com.cognitect.aws/meteringmarketplace@871.2.29.35?classifier=sources
 - pkg:maven/com.cognitect.aws/meteringmarketplace@871.2.31.23
 - pkg:maven/com.cognitect.aws/meteringmarketplace@871.2.31.23?classifier=sources
+- pkg:maven/com.cognitect.aws/meteringmarketplace@871.2.36.3?classifier=sources

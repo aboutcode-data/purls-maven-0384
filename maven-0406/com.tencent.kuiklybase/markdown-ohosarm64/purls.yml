@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.kuiklybase/markdown-ohosarm64@0.1.0-ohos?classifier=sources
+- pkg:maven/com.tencent.kuiklybase/markdown-ohosarm64@0.2.0-ohos?classifier=sources

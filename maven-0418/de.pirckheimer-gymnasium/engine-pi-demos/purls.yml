@@ -14,3 +14,6 @@
 - pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.31.0?classifier=sources
 - pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.32.0?classifier=sources
 - pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.33.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.34.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.35.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi-demos@0.36.0?classifier=sources

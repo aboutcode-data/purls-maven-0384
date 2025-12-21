@@ -16,6 +16,7 @@
 - pkg:maven/com.itemis/fluffyj@1.13.4?classifier=sources
 - pkg:maven/com.itemis/fluffyj@1.13.6
 - pkg:maven/com.itemis/fluffyj@1.13.6?classifier=sources
+- pkg:maven/com.itemis/fluffyj@1.13.7?classifier=sources
 - pkg:maven/com.itemis/fluffyj@1.7.0
 - pkg:maven/com.itemis/fluffyj@1.7.0?classifier=sources
 - pkg:maven/com.itemis/fluffyj@1.8.0

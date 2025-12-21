@@ -100,3 +100,4 @@
 - pkg:maven/xyz.erupt/erupt-toolkit@1.12.8?classifier=sources
 - pkg:maven/xyz.erupt/erupt-toolkit@1.12.9
 - pkg:maven/xyz.erupt/erupt-toolkit@1.12.9?classifier=sources
+- pkg:maven/xyz.erupt/erupt-toolkit@1.13.1?classifier=sources

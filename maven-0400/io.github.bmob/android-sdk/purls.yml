@@ -18,3 +18,5 @@
 - pkg:maven/io.github.bmob/android-sdk@3.8.7?type=aar
 - pkg:maven/io.github.bmob/android-sdk@3.8.8?type=aar
 - pkg:maven/io.github.bmob/android-sdk@3.8.9?type=aar
+- pkg:maven/io.github.bmob/android-sdk@4.2.0?type=aar
+- pkg:maven/io.github.bmob/android-sdk@4.2.1?type=aar

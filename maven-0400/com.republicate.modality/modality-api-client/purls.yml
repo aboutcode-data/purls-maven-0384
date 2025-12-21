@@ -30,3 +30,7 @@
 - pkg:maven/com.republicate.modality/modality-api-client@2.2?classifier=sources
 - pkg:maven/com.republicate.modality/modality-api-client@2.4
 - pkg:maven/com.republicate.modality/modality-api-client@2.4?classifier=sources
+- pkg:maven/com.republicate.modality/modality-api-client@2.5
+- pkg:maven/com.republicate.modality/modality-api-client@2.5?classifier=sources
+- pkg:maven/com.republicate.modality/modality-api-client@2.6
+- pkg:maven/com.republicate.modality/modality-api-client@2.6?classifier=sources

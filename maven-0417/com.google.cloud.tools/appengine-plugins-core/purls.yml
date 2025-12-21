@@ -37,6 +37,8 @@
 - pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.13.1?classifier=sources
 - pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.13.2?classifier=sources
 - pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.13.3?classifier=sources
+- pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.13.4
+- pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.13.4?classifier=sources
 - pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.2.0
 - pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.2.0?classifier=sources
 - pkg:maven/com.google.cloud.tools/appengine-plugins-core@0.2.1

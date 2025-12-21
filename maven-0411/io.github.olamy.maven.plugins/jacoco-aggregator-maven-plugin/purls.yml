@@ -5,3 +5,4 @@
 - pkg:maven/io.github.olamy.maven.plugins/jacoco-aggregator-maven-plugin@1.0.2
 - pkg:maven/io.github.olamy.maven.plugins/jacoco-aggregator-maven-plugin@1.0.2?classifier=sources
 - pkg:maven/io.github.olamy.maven.plugins/jacoco-aggregator-maven-plugin@1.0.3?classifier=sources
+- pkg:maven/io.github.olamy.maven.plugins/jacoco-aggregator-maven-plugin@1.0.4?classifier=sources

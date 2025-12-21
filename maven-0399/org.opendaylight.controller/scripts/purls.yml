@@ -1,1 +1,2 @@
 - pkg:maven/org.opendaylight.controller/scripts@12.0.0
+- pkg:maven/org.opendaylight.controller/scripts@12.0.2
