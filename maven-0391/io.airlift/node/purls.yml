@@ -463,3 +463,7 @@
 - pkg:maven/io.airlift/node@336?classifier=sources
 - pkg:maven/io.airlift/node@337?classifier=sources
 - pkg:maven/io.airlift/node@338?classifier=sources
+- pkg:maven/io.airlift/node@339?classifier=sources
+- pkg:maven/io.airlift/node@340?classifier=sources
+- pkg:maven/io.airlift/node@341?classifier=sources
+- pkg:maven/io.airlift/node@342?classifier=sources

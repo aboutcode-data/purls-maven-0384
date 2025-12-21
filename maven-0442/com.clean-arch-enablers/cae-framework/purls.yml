@@ -31,3 +31,11 @@
 - pkg:maven/com.clean-arch-enablers/cae-framework@4.2.0?classifier=sources
 - pkg:maven/com.clean-arch-enablers/cae-framework@4.2.1?classifier=sources
 - pkg:maven/com.clean-arch-enablers/cae-framework@5.0.0?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-framework@6.0.0-RC1?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-framework@6.0.0-RC2?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-framework@6.0.0-RC3?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-framework@6.0.0-RC4?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-framework@6.0.0-RC5?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-framework@6.0.0-RC6?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-framework@6.0.0-RC7?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-framework@6.0.0-RC8?classifier=sources

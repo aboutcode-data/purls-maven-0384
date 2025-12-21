@@ -608,3 +608,13 @@
 - pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@5.5.0-rc8?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@5.5.0-rc9
 - pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@5.5.0-rc9?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@6.0.0
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@6.0.0-rc10
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@6.0.0-rc10?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@6.0.0-rc11
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@6.0.0-rc11?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@6.0.0-rc12
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@6.0.0-rc12?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@6.0.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@6.0.1-rc1
+- pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12@6.0.1-rc1?classifier=sources

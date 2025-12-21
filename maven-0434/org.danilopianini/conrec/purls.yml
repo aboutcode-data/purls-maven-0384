@@ -16,3 +16,16 @@
 - pkg:maven/org.danilopianini/conrec@0.1.1-devjk%2Be96a1ed?classifier=sources
 - pkg:maven/org.danilopianini/conrec@0.1.1-devjl%2Bb308ea8?classifier=sources
 - pkg:maven/org.danilopianini/conrec@0.1.1?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev01%2B8d63082?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev02%2Bf8a854b?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev03%2B3452011?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev04%2Bc2f3a74?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev06%2Bc3c9096?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev07%2B1a6050f?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev08%2B8f4ed3d?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev09%2B14b5395?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev0a%2B8d8016b?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev0b%2B7db7bfc?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev0c%2Bc07fab1?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev0d%2Bc38b125?classifier=sources
+- pkg:maven/org.danilopianini/conrec@0.1.2-dev0e%2B739c878?classifier=sources

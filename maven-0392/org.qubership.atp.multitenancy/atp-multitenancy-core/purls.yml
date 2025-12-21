@@ -1,1 +1,2 @@
 - pkg:maven/org.qubership.atp.multitenancy/atp-multitenancy-core@0.0.11?classifier=sources
+- pkg:maven/org.qubership.atp.multitenancy/atp-multitenancy-core@0.0.12?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.arangodb/arangodb-tinkerpop-provider@3.0.0?classifier=sources

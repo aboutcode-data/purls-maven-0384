@@ -6,3 +6,5 @@
 - pkg:maven/com.poly-gamma/pg-ogm-transsion@0.5.18?classifier=sources
 - pkg:maven/com.poly-gamma/pg-ogm-transsion@0.5.19.1?classifier=sources
 - pkg:maven/com.poly-gamma/pg-ogm-transsion@0.5.19?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-transsion@0.5.20?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-transsion@0.5.22?classifier=sources

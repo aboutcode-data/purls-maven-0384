@@ -49,6 +49,7 @@
 - pkg:maven/io.github.solven-eu.cleanthat/test-helpers@2.21?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/test-helpers@2.22
 - pkg:maven/io.github.solven-eu.cleanthat/test-helpers@2.22?classifier=sources
+- pkg:maven/io.github.solven-eu.cleanthat/test-helpers@2.23?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/test-helpers@2.2?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/test-helpers@2.3
 - pkg:maven/io.github.solven-eu.cleanthat/test-helpers@2.3?classifier=sources

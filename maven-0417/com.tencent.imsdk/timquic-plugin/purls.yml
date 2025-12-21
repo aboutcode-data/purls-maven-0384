@@ -16,3 +16,4 @@
 - pkg:maven/com.tencent.imsdk/timquic-plugin@8.5.6864?classifier=sources
 - pkg:maven/com.tencent.imsdk/timquic-plugin@8.6.7019?classifier=sources
 - pkg:maven/com.tencent.imsdk/timquic-plugin@8.6.7020?classifier=sources
+- pkg:maven/com.tencent.imsdk/timquic-plugin@8.6.7040?classifier=sources

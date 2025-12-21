@@ -1,0 +1,3 @@
+- pkg:maven/io.github.oshai/kotlin-logging-watchosarm32@7.0.10?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-watchosarm32@7.0.11?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-watchosarm32@7.0.12?classifier=sources

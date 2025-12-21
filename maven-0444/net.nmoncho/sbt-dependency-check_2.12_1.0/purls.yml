@@ -20,3 +20,7 @@
 - pkg:maven/net.nmoncho/sbt-dependency-check_2.12_1.0@1.7.1?classifier=sources
 - pkg:maven/net.nmoncho/sbt-dependency-check_2.12_1.0@1.7.2
 - pkg:maven/net.nmoncho/sbt-dependency-check_2.12_1.0@1.7.2?classifier=sources
+- pkg:maven/net.nmoncho/sbt-dependency-check_2.12_1.0@1.8.0
+- pkg:maven/net.nmoncho/sbt-dependency-check_2.12_1.0@1.8.0?classifier=sources
+- pkg:maven/net.nmoncho/sbt-dependency-check_2.12_1.0@1.8.1
+- pkg:maven/net.nmoncho/sbt-dependency-check_2.12_1.0@1.8.1?classifier=sources

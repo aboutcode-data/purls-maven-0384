@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/suneditor@2.45.1
 - pkg:maven/org.webjars.npm/suneditor@2.45.1?classifier=sources
 - pkg:maven/org.webjars.npm/suneditor@2.47.5
+- pkg:maven/org.webjars.npm/suneditor@2.47.6

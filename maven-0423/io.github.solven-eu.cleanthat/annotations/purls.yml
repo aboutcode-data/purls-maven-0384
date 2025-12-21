@@ -18,3 +18,4 @@
 - pkg:maven/io.github.solven-eu.cleanthat/annotations@2.21?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/annotations@2.22
 - pkg:maven/io.github.solven-eu.cleanthat/annotations@2.22?classifier=sources
+- pkg:maven/io.github.solven-eu.cleanthat/annotations@2.23?classifier=sources

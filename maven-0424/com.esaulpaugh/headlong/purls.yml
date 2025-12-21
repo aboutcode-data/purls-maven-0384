@@ -64,6 +64,7 @@
 - pkg:maven/com.esaulpaugh/headlong@13.2.2?classifier=sources
 - pkg:maven/com.esaulpaugh/headlong@13.2.3?classifier=sources
 - pkg:maven/com.esaulpaugh/headlong@13.3.0?classifier=sources
+- pkg:maven/com.esaulpaugh/headlong@13.3.1?classifier=sources
 - pkg:maven/com.esaulpaugh/headlong@2.0.0
 - pkg:maven/com.esaulpaugh/headlong@2.0.0?classifier=sources
 - pkg:maven/com.esaulpaugh/headlong@2.1.0

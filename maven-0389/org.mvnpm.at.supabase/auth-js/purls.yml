@@ -1,2 +1,6 @@
 - pkg:maven/org.mvnpm.at.supabase/auth-js@2.70.0
 - pkg:maven/org.mvnpm.at.supabase/auth-js@2.70.0?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/auth-js@2.71.0
+- pkg:maven/org.mvnpm.at.supabase/auth-js@2.71.0?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/auth-js@2.71.1
+- pkg:maven/org.mvnpm.at.supabase/auth-js@2.71.1?classifier=sources

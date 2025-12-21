@@ -187,6 +187,11 @@
 - pkg:maven/info.unterrainer.server/elite-server-dtos@0.1.8?classifier=sources
 - pkg:maven/info.unterrainer.server/elite-server-dtos@0.1.9
 - pkg:maven/info.unterrainer.server/elite-server-dtos@0.1.9?classifier=sources
+- pkg:maven/info.unterrainer.server/elite-server-dtos@1.0.10?classifier=sources
+- pkg:maven/info.unterrainer.server/elite-server-dtos@1.0.11?classifier=sources
+- pkg:maven/info.unterrainer.server/elite-server-dtos@1.0.12?classifier=sources
+- pkg:maven/info.unterrainer.server/elite-server-dtos@1.0.13?classifier=sources
+- pkg:maven/info.unterrainer.server/elite-server-dtos@1.0.14?classifier=sources
 - pkg:maven/info.unterrainer.server/elite-server-dtos@1.0.1?classifier=sources
 - pkg:maven/info.unterrainer.server/elite-server-dtos@1.0.2?classifier=sources
 - pkg:maven/info.unterrainer.server/elite-server-dtos@1.0.3?classifier=sources

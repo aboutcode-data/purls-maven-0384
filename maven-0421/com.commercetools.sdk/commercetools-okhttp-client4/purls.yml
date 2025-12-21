@@ -78,6 +78,8 @@
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client4@18.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client4@18.2.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client4@18.3.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-okhttp-client4@19.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-okhttp-client4@19.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client4@2.0.0
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client4@2.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client4@2.0.1

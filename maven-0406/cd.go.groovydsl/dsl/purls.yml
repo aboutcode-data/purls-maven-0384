@@ -49,3 +49,4 @@
 - pkg:maven/cd.go.groovydsl/dsl@2.2.1-854?classifier=sources
 - pkg:maven/cd.go.groovydsl/dsl@3.0.0-860?classifier=sources
 - pkg:maven/cd.go.groovydsl/dsl@3.0.0-867?classifier=sources
+- pkg:maven/cd.go.groovydsl/dsl@3.0.0-871?classifier=sources

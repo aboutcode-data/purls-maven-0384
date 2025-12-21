@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/morgan@1.10.0?classifier=sources
+- pkg:maven/org.mvnpm/morgan@1.10.1
+- pkg:maven/org.mvnpm/morgan@1.10.1?classifier=sources
 - pkg:maven/org.mvnpm/morgan@1.9.1?classifier=sources

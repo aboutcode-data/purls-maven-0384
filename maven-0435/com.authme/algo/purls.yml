@@ -1,3 +1,4 @@
+- pkg:maven/com.authme/algo@2.8.0-rc.68?classifier=sources
 - pkg:maven/com.authme/algo@8.7.0.4-rc9?classifier=sources
 - pkg:maven/com.authme/algo@8.7.0.4?classifier=sources
 - pkg:maven/com.authme/algo@8.7.10-alpha.1?classifier=sources
@@ -18,3 +19,15 @@
 - pkg:maven/com.authme/algo@9.0.0-rc.15?classifier=sources
 - pkg:maven/com.authme/algo@9.0.0-rc.2?classifier=sources
 - pkg:maven/com.authme/algo@9.0.0-rc.9?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8-rc.11?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8-rc.16?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8-rc.17?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8-rc.18?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8-rc.19?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8-rc.20?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8-rc.23?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8-rc.24?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8-rc.25?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8-rc.26?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8-rc.27?classifier=sources
+- pkg:maven/com.authme/algo@9.0.8?classifier=sources

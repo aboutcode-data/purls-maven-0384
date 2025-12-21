@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.nolyfill/is-core-module@1.0.39
+- pkg:maven/org.mvnpm.at.nolyfill/is-core-module@1.0.39?classifier=sources

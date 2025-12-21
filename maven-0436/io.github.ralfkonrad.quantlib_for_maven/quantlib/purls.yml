@@ -20,3 +20,4 @@
 - pkg:maven/io.github.ralfkonrad.quantlib_for_maven/quantlib@1.37.0?classifier=sources
 - pkg:maven/io.github.ralfkonrad.quantlib_for_maven/quantlib@1.38.0
 - pkg:maven/io.github.ralfkonrad.quantlib_for_maven/quantlib@1.38.0?classifier=sources
+- pkg:maven/io.github.ralfkonrad.quantlib_for_maven/quantlib@1.39.0?classifier=sources

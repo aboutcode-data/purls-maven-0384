@@ -4,3 +4,4 @@
 - pkg:maven/fish.focus.uvms.incident/incident-application@1.0.14?type=war
 - pkg:maven/fish.focus.uvms.incident/incident-application@1.0.15?classifier=sources
 - pkg:maven/fish.focus.uvms.incident/incident-application@1.0.15?type=war
+- pkg:maven/fish.focus.uvms.incident/incident-application@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.klib.eval/mvn.deploy.bnd.sub.b@0.3.0
+- pkg:maven/io.klib.eval/mvn.deploy.bnd.sub.b@0.3.0?classifier=sources

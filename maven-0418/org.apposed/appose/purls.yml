@@ -10,3 +10,5 @@
 - pkg:maven/org.apposed/appose@0.5.0?classifier=sources
 - pkg:maven/org.apposed/appose@0.5.1
 - pkg:maven/org.apposed/appose@0.5.1?classifier=sources
+- pkg:maven/org.apposed/appose@0.6.0?classifier=sources
+- pkg:maven/org.apposed/appose@0.7.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/de.schegge/freshmarker-astro@1.0.0?classifier=sources
+- pkg:maven/de.schegge/freshmarker-astro@2.0.0?classifier=sources

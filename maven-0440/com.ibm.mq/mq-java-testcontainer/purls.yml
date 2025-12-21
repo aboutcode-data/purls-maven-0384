@@ -1,1 +1,2 @@
 - pkg:maven/com.ibm.mq/mq-java-testcontainer@1.21.2?classifier=sources
+- pkg:maven/com.ibm.mq/mq-java-testcontainer@1.21.3?classifier=sources

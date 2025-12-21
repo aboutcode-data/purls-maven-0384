@@ -4,3 +4,4 @@
 - pkg:maven/cn.xphsc.boot/openstack-spring-boot-autoconfigure@1.0.0-RC2
 - pkg:maven/cn.xphsc.boot/openstack-spring-boot-autoconfigure@1.0.0-RC2?classifier=sources
 - pkg:maven/cn.xphsc.boot/openstack-spring-boot-autoconfigure@1.0.0?classifier=sources
+- pkg:maven/cn.xphsc.boot/openstack-spring-boot-autoconfigure@1.0.1?classifier=sources

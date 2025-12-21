@@ -50,5 +50,7 @@
 - pkg:maven/io.getkyo/kyo-zio_sjs1_3@0.5.0?classifier=sources
 - pkg:maven/io.getkyo/kyo-zio_sjs1_3@0.5.1
 - pkg:maven/io.getkyo/kyo-zio_sjs1_3@0.5.1?classifier=sources
+- pkg:maven/io.getkyo/kyo-zio_sjs1_3@1.0-RC1
+- pkg:maven/io.getkyo/kyo-zio_sjs1_3@1.0-RC1?classifier=sources
 - pkg:maven/io.getkyo/kyo-zio_sjs1_3@3.0.7
 - pkg:maven/io.getkyo/kyo-zio_sjs1_3@3.0.7?classifier=sources

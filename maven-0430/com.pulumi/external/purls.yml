@@ -4,6 +4,7 @@
 - pkg:maven/com.pulumi/external@0.0.12?classifier=sources
 - pkg:maven/com.pulumi/external@0.0.13?classifier=sources
 - pkg:maven/com.pulumi/external@0.0.14?classifier=sources
+- pkg:maven/com.pulumi/external@0.0.15?classifier=sources
 - pkg:maven/com.pulumi/external@0.0.1?classifier=sources
 - pkg:maven/com.pulumi/external@0.0.2-alpha.1695237080%2B70923987?classifier=sources
 - pkg:maven/com.pulumi/external@0.0.2-alpha.1695238082%2Bc5db1c2e?classifier=sources

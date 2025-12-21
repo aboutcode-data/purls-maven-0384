@@ -19,6 +19,8 @@
 - pkg:maven/org.dspace/dspace-iiif@7.6.2?classifier=sources
 - pkg:maven/org.dspace/dspace-iiif@7.6.3
 - pkg:maven/org.dspace/dspace-iiif@7.6.3?classifier=sources
+- pkg:maven/org.dspace/dspace-iiif@7.6.4?classifier=sources
+- pkg:maven/org.dspace/dspace-iiif@7.6.5?classifier=sources
 - pkg:maven/org.dspace/dspace-iiif@7.6?classifier=sources
 - pkg:maven/org.dspace/dspace-iiif@8.0
 - pkg:maven/org.dspace/dspace-iiif@8.0-rc1
@@ -26,7 +28,9 @@
 - pkg:maven/org.dspace/dspace-iiif@8.0?classifier=sources
 - pkg:maven/org.dspace/dspace-iiif@8.1
 - pkg:maven/org.dspace/dspace-iiif@8.1?classifier=sources
+- pkg:maven/org.dspace/dspace-iiif@8.2?classifier=sources
 - pkg:maven/org.dspace/dspace-iiif@9.0
 - pkg:maven/org.dspace/dspace-iiif@9.0-rc1
 - pkg:maven/org.dspace/dspace-iiif@9.0-rc1?classifier=sources
 - pkg:maven/org.dspace/dspace-iiif@9.0?classifier=sources
+- pkg:maven/org.dspace/dspace-iiif@9.1?classifier=sources

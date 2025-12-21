@@ -31,3 +31,4 @@
 - pkg:maven/com.gitee.l0km/casban-annotations@1.4.1
 - pkg:maven/com.gitee.l0km/casban-annotations@1.4.1?classifier=sources
 - pkg:maven/com.gitee.l0km/casban-annotations@1.5.0?classifier=sources
+- pkg:maven/com.gitee.l0km/casban-annotations@1.5.1?classifier=sources

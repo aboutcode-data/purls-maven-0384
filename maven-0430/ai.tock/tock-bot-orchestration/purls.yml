@@ -118,3 +118,4 @@
 - pkg:maven/ai.tock/tock-bot-orchestration@25.3.3?classifier=sources
 - pkg:maven/ai.tock/tock-bot-orchestration@25.3.4
 - pkg:maven/ai.tock/tock-bot-orchestration@25.3.4?classifier=sources
+- pkg:maven/ai.tock/tock-bot-orchestration@25.3.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.continuously.jing/jing-openapi-server-http4s_3@0.0.2
+- pkg:maven/dev.continuously.jing/jing-openapi-server-http4s_3@0.0.2?classifier=sources

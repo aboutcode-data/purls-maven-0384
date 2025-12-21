@@ -3,3 +3,4 @@
 - pkg:maven/ch.ideal-sharing/type-generator-model@1.1.2?classifier=sources
 - pkg:maven/ch.ideal-sharing/type-generator-model@1.1.3?classifier=sources
 - pkg:maven/ch.ideal-sharing/type-generator-model@1.1.4?classifier=sources
+- pkg:maven/ch.ideal-sharing/type-generator-model@1.1.5?classifier=sources

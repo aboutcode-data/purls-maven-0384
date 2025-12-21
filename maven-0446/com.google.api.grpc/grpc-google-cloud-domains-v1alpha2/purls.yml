@@ -148,6 +148,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-domains-v1alpha2@0.71.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-domains-v1alpha2@0.72.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-domains-v1alpha2@0.72.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-domains-v1alpha2@0.73.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-domains-v1alpha2@0.73.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-domains-v1alpha2@0.75.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-domains-v1alpha2@0.75.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-domains-v1alpha2@0.8.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-domains-v1alpha2@0.8.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-domains-v1alpha2@0.8.1
