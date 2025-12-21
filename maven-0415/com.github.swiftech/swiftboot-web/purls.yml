@@ -51,4 +51,6 @@
 - pkg:maven/com.github.swiftech/swiftboot-web@2.4.6?classifier=sources
 - pkg:maven/com.github.swiftech/swiftboot-web@2.4.7
 - pkg:maven/com.github.swiftech/swiftboot-web@2.4.7?classifier=sources
+- pkg:maven/com.github.swiftech/swiftboot-web@2.4.9
+- pkg:maven/com.github.swiftech/swiftboot-web@2.4.9?classifier=sources
 - pkg:maven/com.github.swiftech/swiftboot-web@2.4?classifier=sources

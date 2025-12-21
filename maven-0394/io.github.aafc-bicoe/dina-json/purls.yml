@@ -12,3 +12,5 @@
 - pkg:maven/io.github.aafc-bicoe/dina-json@0.137?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-json@0.138
 - pkg:maven/io.github.aafc-bicoe/dina-json@0.138?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-json@0.139
+- pkg:maven/io.github.aafc-bicoe/dina-json@0.139?classifier=sources

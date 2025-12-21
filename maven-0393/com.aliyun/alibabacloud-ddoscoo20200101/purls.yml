@@ -52,3 +52,5 @@
 - pkg:maven/com.aliyun/alibabacloud-ddoscoo20200101@3.0.8?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ddoscoo20200101@3.0.9
 - pkg:maven/com.aliyun/alibabacloud-ddoscoo20200101@3.0.9?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ddoscoo20200101@4.0.0
+- pkg:maven/com.aliyun/alibabacloud-ddoscoo20200101@4.0.0?classifier=sources

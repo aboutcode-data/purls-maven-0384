@@ -5,3 +5,4 @@
 - pkg:maven/io.secugrow/secugrow-java-archetype@1.8.0-snapshot?classifier=sources
 - pkg:maven/io.secugrow/secugrow-java-archetype@1.9.0?classifier=sources
 - pkg:maven/io.secugrow/secugrow-java-archetype@1.9.1?classifier=sources
+- pkg:maven/io.secugrow/secugrow-java-archetype@1.9.2?classifier=sources

@@ -351,6 +351,7 @@
 - pkg:maven/com.liferay/com.liferay.blogs.web@3.0.105?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@3.0.106?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@3.0.107?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.web@3.0.108?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@3.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.web@3.0.11
@@ -668,6 +669,7 @@
 - pkg:maven/com.liferay/com.liferay.blogs.web@4.0.105?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@4.0.106?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@4.0.107?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.web@4.0.108?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@4.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@4.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.web@4.0.11
@@ -1229,6 +1231,7 @@
 - pkg:maven/com.liferay/com.liferay.blogs.web@5.0.92?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@5.0.93?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@5.0.94?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.web@5.0.95?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@5.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.0
@@ -1294,6 +1297,7 @@
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.136?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.137?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.138?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.web@6.0.139?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.web@6.0.14

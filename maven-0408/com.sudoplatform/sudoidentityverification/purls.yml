@@ -48,6 +48,10 @@
 - pkg:maven/com.sudoplatform/sudoidentityverification@16.1.0?type=aar
 - pkg:maven/com.sudoplatform/sudoidentityverification@17.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoidentityverification@17.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoidentityverification@17.1.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoidentityverification@17.1.0?type=aar
+- pkg:maven/com.sudoplatform/sudoidentityverification@18.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoidentityverification@18.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoidentityverification@2.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoidentityverification@2.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoidentityverification@2.0.1?classifier=sources

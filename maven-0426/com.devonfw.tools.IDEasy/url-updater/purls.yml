@@ -1,0 +1,4 @@
+- pkg:maven/com.devonfw.tools.IDEasy/url-updater@2025.03.002
+- pkg:maven/com.devonfw.tools.IDEasy/url-updater@2025.03.002?classifier=sources
+- pkg:maven/com.devonfw.tools.IDEasy/url-updater@2025.04.001
+- pkg:maven/com.devonfw.tools.IDEasy/url-updater@2025.04.001?classifier=sources

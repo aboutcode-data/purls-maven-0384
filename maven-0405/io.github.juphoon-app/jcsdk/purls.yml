@@ -7,6 +7,7 @@
 - pkg:maven/io.github.juphoon-app/jcsdk@2.14.14.1?type=aar
 - pkg:maven/io.github.juphoon-app/jcsdk@2.14.14?type=aar
 - pkg:maven/io.github.juphoon-app/jcsdk@2.14.15?type=aar
+- pkg:maven/io.github.juphoon-app/jcsdk@2.14.16?type=aar
 - pkg:maven/io.github.juphoon-app/jcsdk@2.14.1?type=aar
 - pkg:maven/io.github.juphoon-app/jcsdk@2.14.3?type=aar
 - pkg:maven/io.github.juphoon-app/jcsdk@2.14.4?type=aar

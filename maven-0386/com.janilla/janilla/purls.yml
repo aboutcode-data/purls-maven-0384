@@ -28,3 +28,5 @@
 - pkg:maven/com.janilla/janilla@3.0.0?classifier=sources
 - pkg:maven/com.janilla/janilla@3.0.1?classifier=sources
 - pkg:maven/com.janilla/janilla@4.0.0?classifier=sources
+- pkg:maven/com.janilla/janilla@5.0.0?classifier=sources
+- pkg:maven/com.janilla/janilla@5.0.1?classifier=sources

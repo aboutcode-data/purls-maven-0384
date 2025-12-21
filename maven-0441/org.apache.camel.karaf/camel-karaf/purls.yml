@@ -1,4 +1,6 @@
+- pkg:maven/org.apache.camel.karaf/camel-karaf@4.10.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.karaf/camel-karaf@4.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.karaf/camel-karaf@4.8.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.karaf/camel-karaf@4.8.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.karaf/camel-karaf@4.8.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.karaf/camel-karaf@4.9.0?classifier=source-release&type=zip

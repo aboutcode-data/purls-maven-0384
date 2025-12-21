@@ -12,6 +12,8 @@
 - pkg:maven/dev.macula.boot/macula-boot-starter-cloud-alibaba-gray@5.0.15?classifier=sources
 - pkg:maven/dev.macula.boot/macula-boot-starter-cloud-alibaba-gray@5.0.16
 - pkg:maven/dev.macula.boot/macula-boot-starter-cloud-alibaba-gray@5.0.16?classifier=sources
+- pkg:maven/dev.macula.boot/macula-boot-starter-cloud-alibaba-gray@5.0.17
+- pkg:maven/dev.macula.boot/macula-boot-starter-cloud-alibaba-gray@5.0.17?classifier=sources
 - pkg:maven/dev.macula.boot/macula-boot-starter-cloud-alibaba-gray@5.0.3
 - pkg:maven/dev.macula.boot/macula-boot-starter-cloud-alibaba-gray@5.0.3?classifier=sources
 - pkg:maven/dev.macula.boot/macula-boot-starter-cloud-alibaba-gray@5.0.4

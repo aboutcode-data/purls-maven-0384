@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/radix-ui__react-portal@1.0.4-rc.8?classifier=sources
 - pkg:maven/org.webjars.npm/radix-ui__react-portal@1.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/radix-ui__react-portal@1.1.1
+- pkg:maven/org.webjars.npm/radix-ui__react-portal@1.1.4

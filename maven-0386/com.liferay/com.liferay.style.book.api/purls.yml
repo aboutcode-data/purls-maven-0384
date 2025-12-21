@@ -49,6 +49,7 @@
 - pkg:maven/com.liferay/com.liferay.style.book.api@1.7.1
 - pkg:maven/com.liferay/com.liferay.style.book.api@1.7.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.api@1.7.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.style.book.api@10.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.style.book.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.style.book.api@2.0.0?classifier=sources-commercial

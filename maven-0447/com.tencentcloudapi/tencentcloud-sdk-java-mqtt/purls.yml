@@ -28,3 +28,15 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1216?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1222
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1222?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1227
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1227?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1228
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1228?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1229
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1229?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1230
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1230?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1232
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1232?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1233
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mqtt@3.1.1233?classifier=sources

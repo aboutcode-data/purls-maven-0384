@@ -78,3 +78,5 @@
 - pkg:maven/com.applovin.mediation/ironsource-adapter@8.6.1.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/ironsource-adapter@8.6.1.0.1?classifier=sources
 - pkg:maven/com.applovin.mediation/ironsource-adapter@8.7.0.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/ironsource-adapter@8.8.0.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/ironsource-adapter@8.8.0.0.1?classifier=sources

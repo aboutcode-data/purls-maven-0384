@@ -1,3 +1,4 @@
+- pkg:maven/software.aws.connect/amazon-connect-chat-android@1.0.10?classifier=sources
 - pkg:maven/software.aws.connect/amazon-connect-chat-android@1.0.4?classifier=sources
 - pkg:maven/software.aws.connect/amazon-connect-chat-android@1.0.5?classifier=sources
 - pkg:maven/software.aws.connect/amazon-connect-chat-android@1.0.6-beta?classifier=sources

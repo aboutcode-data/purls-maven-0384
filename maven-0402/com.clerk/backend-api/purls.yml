@@ -13,3 +13,4 @@
 - pkg:maven/com.clerk/backend-api@1.4.0?classifier=sources
 - pkg:maven/com.clerk/backend-api@1.5.0?classifier=sources
 - pkg:maven/com.clerk/backend-api@2.2.0?classifier=sources
+- pkg:maven/com.clerk/backend-api@2.3.1?classifier=sources

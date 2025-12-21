@@ -1,0 +1,2 @@
+- pkg:maven/no.ks.fiks/altinn-klient-client@1.0.3
+- pkg:maven/no.ks.fiks/altinn-klient-client@1.0.3?classifier=sources

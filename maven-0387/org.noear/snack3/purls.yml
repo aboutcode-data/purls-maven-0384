@@ -202,6 +202,8 @@
 - pkg:maven/org.noear/snack3@3.2.129?classifier=sources
 - pkg:maven/org.noear/snack3@3.2.12?classifier=sources
 - pkg:maven/org.noear/snack3@3.2.13
+- pkg:maven/org.noear/snack3@3.2.130?classifier=sources
+- pkg:maven/org.noear/snack3@3.2.131?classifier=sources
 - pkg:maven/org.noear/snack3@3.2.13?classifier=sources
 - pkg:maven/org.noear/snack3@3.2.14
 - pkg:maven/org.noear/snack3@3.2.14?classifier=sources

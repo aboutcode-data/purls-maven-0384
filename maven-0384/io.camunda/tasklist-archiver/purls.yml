@@ -49,6 +49,8 @@
 - pkg:maven/io.camunda/tasklist-archiver@8.6.12-rc1
 - pkg:maven/io.camunda/tasklist-archiver@8.6.12-rc1?classifier=sources
 - pkg:maven/io.camunda/tasklist-archiver@8.6.12?classifier=sources
+- pkg:maven/io.camunda/tasklist-archiver@8.6.13
+- pkg:maven/io.camunda/tasklist-archiver@8.6.13?classifier=sources
 - pkg:maven/io.camunda/tasklist-archiver@8.6.1?classifier=sources
 - pkg:maven/io.camunda/tasklist-archiver@8.6.2
 - pkg:maven/io.camunda/tasklist-archiver@8.6.2?classifier=sources
@@ -78,6 +80,7 @@
 - pkg:maven/io.camunda/tasklist-archiver@8.6.9-rc1
 - pkg:maven/io.camunda/tasklist-archiver@8.6.9-rc1?classifier=sources
 - pkg:maven/io.camunda/tasklist-archiver@8.6.9?classifier=sources
+- pkg:maven/io.camunda/tasklist-archiver@8.7.0
 - pkg:maven/io.camunda/tasklist-archiver@8.7.0-alpha1
 - pkg:maven/io.camunda/tasklist-archiver@8.7.0-alpha1-rc1
 - pkg:maven/io.camunda/tasklist-archiver@8.7.0-alpha1-rc1?classifier=sources
@@ -98,3 +101,10 @@
 - pkg:maven/io.camunda/tasklist-archiver@8.7.0-alpha5-rc1
 - pkg:maven/io.camunda/tasklist-archiver@8.7.0-alpha5-rc1?classifier=sources
 - pkg:maven/io.camunda/tasklist-archiver@8.7.0-alpha5?classifier=sources
+- pkg:maven/io.camunda/tasklist-archiver@8.7.0-rc3
+- pkg:maven/io.camunda/tasklist-archiver@8.7.0-rc3?classifier=sources
+- pkg:maven/io.camunda/tasklist-archiver@8.7.0?classifier=sources
+- pkg:maven/io.camunda/tasklist-archiver@8.7.1
+- pkg:maven/io.camunda/tasklist-archiver@8.7.1-rc1
+- pkg:maven/io.camunda/tasklist-archiver@8.7.1-rc1?classifier=sources
+- pkg:maven/io.camunda/tasklist-archiver@8.7.1?classifier=sources

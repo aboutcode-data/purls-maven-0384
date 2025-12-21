@@ -24,3 +24,4 @@
 - pkg:maven/org.kinotic/structures-core@3.3.3?classifier=sources
 - pkg:maven/org.kinotic/structures-core@3.3.4?classifier=sources
 - pkg:maven/org.kinotic/structures-core@3.4.0?classifier=sources
+- pkg:maven/org.kinotic/structures-core@3.4.1?classifier=sources

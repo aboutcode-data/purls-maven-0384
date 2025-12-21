@@ -30,3 +30,5 @@
 - pkg:maven/io.github.dumijdev/dp-xml@0.2.3?classifier=sources
 - pkg:maven/io.github.dumijdev/dp-xml@0.2.4
 - pkg:maven/io.github.dumijdev/dp-xml@0.2.4?classifier=sources
+- pkg:maven/io.github.dumijdev/dp-xml@0.2.5
+- pkg:maven/io.github.dumijdev/dp-xml@0.2.5?classifier=sources

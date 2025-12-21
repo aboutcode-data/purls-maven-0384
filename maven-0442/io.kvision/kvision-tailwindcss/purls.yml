@@ -1,0 +1,2 @@
+- pkg:maven/io.kvision/kvision-tailwindcss@9.0.0?classifier=sources
+- pkg:maven/io.kvision/kvision-tailwindcss@9.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.ecsp/api-registry@0.0.3
+- pkg:maven/org.eclipse.ecsp/api-registry@0.0.3?classifier=sources
+- pkg:maven/org.eclipse.ecsp/api-registry@1.0.0
+- pkg:maven/org.eclipse.ecsp/api-registry@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.ecsp/api-registry@1.1.0
+- pkg:maven/org.eclipse.ecsp/api-registry@1.1.0?classifier=sources

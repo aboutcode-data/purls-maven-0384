@@ -73,7 +73,12 @@
 - pkg:maven/com.codenameone/codenameone-android@7.0.174
 - pkg:maven/com.codenameone/codenameone-android@7.0.175
 - pkg:maven/com.codenameone/codenameone-android@7.0.176
+- pkg:maven/com.codenameone/codenameone-android@7.0.177
+- pkg:maven/com.codenameone/codenameone-android@7.0.178
+- pkg:maven/com.codenameone/codenameone-android@7.0.179
 - pkg:maven/com.codenameone/codenameone-android@7.0.18
+- pkg:maven/com.codenameone/codenameone-android@7.0.180
+- pkg:maven/com.codenameone/codenameone-android@7.0.181
 - pkg:maven/com.codenameone/codenameone-android@7.0.19
 - pkg:maven/com.codenameone/codenameone-android@7.0.20
 - pkg:maven/com.codenameone/codenameone-android@7.0.21

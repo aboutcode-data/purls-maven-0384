@@ -473,6 +473,8 @@
 - pkg:maven/org.springframework.data/spring-data-neo4j@7.3.1
 - pkg:maven/org.springframework.data/spring-data-neo4j@7.3.10
 - pkg:maven/org.springframework.data/spring-data-neo4j@7.3.10?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@7.3.11
+- pkg:maven/org.springframework.data/spring-data-neo4j@7.3.11?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@7.3.1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@7.3.2
 - pkg:maven/org.springframework.data/spring-data-neo4j@7.3.2?classifier=sources
@@ -500,5 +502,9 @@
 - pkg:maven/org.springframework.data/spring-data-neo4j@7.4.3?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@7.4.4
 - pkg:maven/org.springframework.data/spring-data-neo4j@7.4.4?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@7.4.5
+- pkg:maven/org.springframework.data/spring-data-neo4j@7.4.5?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-neo4j@8.0.0-M1
 - pkg:maven/org.springframework.data/spring-data-neo4j@8.0.0-M1?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-neo4j@8.0.0-M2
+- pkg:maven/org.springframework.data/spring-data-neo4j@8.0.0-M2?classifier=sources

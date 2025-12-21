@@ -1,1 +1,2 @@
 - pkg:maven/cn.tannn.jdevelops/jdevelops-dals-autoschema@0.0.1?classifier=sources
+- pkg:maven/cn.tannn.jdevelops/jdevelops-dals-autoschema@1.0.1?classifier=sources

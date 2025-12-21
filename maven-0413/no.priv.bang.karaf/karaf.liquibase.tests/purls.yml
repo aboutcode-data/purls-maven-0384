@@ -12,3 +12,4 @@
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.tests@4.29.0
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.tests@4.30.0
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.tests@4.31.0
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.tests@4.31.1

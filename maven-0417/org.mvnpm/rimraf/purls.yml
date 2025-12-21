@@ -1,4 +1,6 @@
 - pkg:maven/org.mvnpm/rimraf@2.2.8?classifier=sources
+- pkg:maven/org.mvnpm/rimraf@2.6.3
+- pkg:maven/org.mvnpm/rimraf@2.6.3?classifier=sources
 - pkg:maven/org.mvnpm/rimraf@2.7.1?classifier=sources
 - pkg:maven/org.mvnpm/rimraf@3.0.2?classifier=sources
 - pkg:maven/org.mvnpm/rimraf@5.0.10?classifier=sources

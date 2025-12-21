@@ -270,5 +270,11 @@
 - pkg:maven/software.amazon.awsconstructs/albfargate@2.80.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/albfargate@2.81.0
 - pkg:maven/software.amazon.awsconstructs/albfargate@2.81.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/albfargate@2.82.0
+- pkg:maven/software.amazon.awsconstructs/albfargate@2.82.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/albfargate@2.83.0
+- pkg:maven/software.amazon.awsconstructs/albfargate@2.83.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/albfargate@2.84.0
+- pkg:maven/software.amazon.awsconstructs/albfargate@2.84.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/albfargate@2.9.0
 - pkg:maven/software.amazon.awsconstructs/albfargate@2.9.0?classifier=sources

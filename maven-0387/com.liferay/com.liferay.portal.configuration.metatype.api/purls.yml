@@ -61,6 +61,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@1.2.5
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@1.2.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@1.2.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@1.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@2.0.0?classifier=sources-commercial
@@ -98,6 +99,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@2.0.2
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@2.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@2.0.3
@@ -149,6 +151,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@3.1.13
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@3.1.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@3.1.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@3.1.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@3.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@3.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.configuration.metatype.api@3.1.2

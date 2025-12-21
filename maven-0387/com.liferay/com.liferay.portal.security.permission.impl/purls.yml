@@ -54,6 +54,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@1.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@1.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@1.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@1.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@1.0.3
@@ -136,6 +137,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@2.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@2.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@2.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@2.0.3
@@ -255,6 +257,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@3.0.4
+- pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@3.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.permission.impl@3.0.5

@@ -2,4 +2,6 @@
 - pkg:maven/org.mvnpm/three@0.173.0?classifier=sources
 - pkg:maven/org.mvnpm/three@0.174.0?classifier=sources
 - pkg:maven/org.mvnpm/three@0.175.0?classifier=sources
+- pkg:maven/org.mvnpm/three@0.176.0
+- pkg:maven/org.mvnpm/three@0.176.0?classifier=sources
 - pkg:maven/org.mvnpm/three@0.77.0?classifier=sources

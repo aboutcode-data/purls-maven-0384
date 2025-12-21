@@ -10,3 +10,9 @@
 - pkg:maven/org.wso2.carbon.identity.local.auth.emailotp/org.wso2.carbon.identity.local.auth.emailotp@1.0.24?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.local.auth.emailotp/org.wso2.carbon.identity.local.auth.emailotp@1.0.30
 - pkg:maven/org.wso2.carbon.identity.local.auth.emailotp/org.wso2.carbon.identity.local.auth.emailotp@1.0.30?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.emailotp/org.wso2.carbon.identity.local.auth.emailotp@1.0.39
+- pkg:maven/org.wso2.carbon.identity.local.auth.emailotp/org.wso2.carbon.identity.local.auth.emailotp@1.0.39?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.emailotp/org.wso2.carbon.identity.local.auth.emailotp@1.0.40
+- pkg:maven/org.wso2.carbon.identity.local.auth.emailotp/org.wso2.carbon.identity.local.auth.emailotp@1.0.40?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.emailotp/org.wso2.carbon.identity.local.auth.emailotp@1.0.41
+- pkg:maven/org.wso2.carbon.identity.local.auth.emailotp/org.wso2.carbon.identity.local.auth.emailotp@1.0.41?classifier=sources

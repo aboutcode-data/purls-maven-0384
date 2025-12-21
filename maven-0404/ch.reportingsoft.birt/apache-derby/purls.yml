@@ -1,0 +1,2 @@
+- pkg:maven/ch.reportingsoft.birt/apache-derby@10.16.1
+- pkg:maven/ch.reportingsoft.birt/apache-derby@10.16.1?classifier=sources

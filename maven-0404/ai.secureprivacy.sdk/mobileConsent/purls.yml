@@ -1,1 +1,2 @@
 - pkg:maven/ai.secureprivacy.sdk/mobileConsent@0.2.4-alpha?type=aar
+- pkg:maven/ai.secureprivacy.sdk/mobileConsent@0.2.5-beta?type=aar

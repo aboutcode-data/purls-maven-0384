@@ -1,1 +1,2 @@
 - pkg:maven/io.agrest/agrest-java17-tests@5.0-M20
+- pkg:maven/io.agrest/agrest-java17-tests@5.0-RC1

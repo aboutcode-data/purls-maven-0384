@@ -15,3 +15,4 @@
 - pkg:maven/com.github.javadev/leetcode-in-java21@1.39?classifier=sources
 - pkg:maven/com.github.javadev/leetcode-in-java21@1.40?classifier=sources
 - pkg:maven/com.github.javadev/leetcode-in-java21@1.41?classifier=sources
+- pkg:maven/com.github.javadev/leetcode-in-java21@1.42?classifier=sources
