@@ -15,4 +15,6 @@
 - pkg:maven/io.github.magistvan/match-predicting-public-api@2.12?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-public-api@2.13?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-public-api@2.14?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-public-api@2.15?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-public-api@2.16?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-public-api@2.9?classifier=sources

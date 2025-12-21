@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lvdaxianer/xinference-embedding-model-spring-ai-starter@1.0.0?classifier=sources
+- pkg:maven/io.github.lvdaxianer/xinference-embedding-model-spring-ai-starter@1.0.1?classifier=sources

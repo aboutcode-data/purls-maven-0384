@@ -29,3 +29,4 @@
 - pkg:maven/org.webjars.npm/uppy@3.6.1
 - pkg:maven/org.webjars.npm/uppy@3.6.1?classifier=sources
 - pkg:maven/org.webjars.npm/uppy@4.16.0
+- pkg:maven/org.webjars.npm/uppy@5.1.1

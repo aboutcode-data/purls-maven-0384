@@ -4,3 +4,8 @@
 - pkg:maven/software.xdev.tci/db-jdbc-spring-orm-hibernate@2.5.0?classifier=sources
 - pkg:maven/software.xdev.tci/db-jdbc-spring-orm-hibernate@2.5.1?classifier=sources
 - pkg:maven/software.xdev.tci/db-jdbc-spring-orm-hibernate@2.5.2?classifier=sources
+- pkg:maven/software.xdev.tci/db-jdbc-spring-orm-hibernate@2.6.0?classifier=sources
+- pkg:maven/software.xdev.tci/db-jdbc-spring-orm-hibernate@2.7.0?classifier=sources
+- pkg:maven/software.xdev.tci/db-jdbc-spring-orm-hibernate@2.7.1?classifier=sources
+- pkg:maven/software.xdev.tci/db-jdbc-spring-orm-hibernate@2.7.2?classifier=sources
+- pkg:maven/software.xdev.tci/db-jdbc-spring-orm-hibernate@2.8.0?classifier=sources

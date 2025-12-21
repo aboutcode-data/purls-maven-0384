@@ -34,6 +34,8 @@
 - pkg:maven/org.docx4j/docx4j-export-fo@11.5.3?classifier=sources
 - pkg:maven/org.docx4j/docx4j-export-fo@11.5.4
 - pkg:maven/org.docx4j/docx4j-export-fo@11.5.4?classifier=sources
+- pkg:maven/org.docx4j/docx4j-export-fo@11.5.5
+- pkg:maven/org.docx4j/docx4j-export-fo@11.5.5?classifier=sources
 - pkg:maven/org.docx4j/docx4j-export-fo@3.3.0
 - pkg:maven/org.docx4j/docx4j-export-fo@3.3.0?classifier=sources
 - pkg:maven/org.docx4j/docx4j-export-fo@3.3.1
@@ -97,6 +99,8 @@
 - pkg:maven/org.docx4j/docx4j-export-fo@8.3.13?classifier=sources
 - pkg:maven/org.docx4j/docx4j-export-fo@8.3.14
 - pkg:maven/org.docx4j/docx4j-export-fo@8.3.14?classifier=sources
+- pkg:maven/org.docx4j/docx4j-export-fo@8.3.15
+- pkg:maven/org.docx4j/docx4j-export-fo@8.3.15?classifier=sources
 - pkg:maven/org.docx4j/docx4j-export-fo@8.3.1?classifier=sources
 - pkg:maven/org.docx4j/docx4j-export-fo@8.3.2
 - pkg:maven/org.docx4j/docx4j-export-fo@8.3.2?classifier=sources

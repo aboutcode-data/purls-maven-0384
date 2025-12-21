@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon/aws-msk-iam-auth@2.3.3?classifier=sources

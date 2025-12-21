@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/mobx@6.13.0?classifier=sources
 - pkg:maven/org.mvnpm/mobx@6.13.7
 - pkg:maven/org.mvnpm/mobx@6.13.7?classifier=sources
+- pkg:maven/org.mvnpm/mobx@6.15.0
+- pkg:maven/org.mvnpm/mobx@6.15.0?classifier=sources

@@ -31,3 +31,4 @@
 - pkg:maven/com.cognitect.aws/emr-containers@871.2.31.23
 - pkg:maven/com.cognitect.aws/emr-containers@871.2.31.23?classifier=sources
 - pkg:maven/com.cognitect.aws/emr-containers@871.2.32.30?classifier=sources
+- pkg:maven/com.cognitect.aws/emr-containers@871.2.33.10?classifier=sources

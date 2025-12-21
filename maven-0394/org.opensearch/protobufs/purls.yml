@@ -1,5 +1,13 @@
 - pkg:maven/org.opensearch/protobufs@0.1.0?classifier=sources
 - pkg:maven/org.opensearch/protobufs@0.10.0?classifier=sources
+- pkg:maven/org.opensearch/protobufs@0.11.0?classifier=sources
+- pkg:maven/org.opensearch/protobufs@0.12.0?classifier=sources
+- pkg:maven/org.opensearch/protobufs@0.13.0?classifier=sources
+- pkg:maven/org.opensearch/protobufs@0.14.0?classifier=sources
+- pkg:maven/org.opensearch/protobufs@0.15.0?classifier=sources
+- pkg:maven/org.opensearch/protobufs@0.16.0?classifier=sources
+- pkg:maven/org.opensearch/protobufs@0.17.0?classifier=sources
+- pkg:maven/org.opensearch/protobufs@0.18.0?classifier=sources
 - pkg:maven/org.opensearch/protobufs@0.2.0?classifier=sources
 - pkg:maven/org.opensearch/protobufs@0.3.0?classifier=sources
 - pkg:maven/org.opensearch/protobufs@0.4.0?classifier=sources

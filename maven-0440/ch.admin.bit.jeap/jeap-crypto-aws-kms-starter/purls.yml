@@ -25,3 +25,4 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-aws-kms-starter@3.28.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-aws-kms-starter@3.9.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-aws-kms-starter@4.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-aws-kms-starter@4.1.0?classifier=sources

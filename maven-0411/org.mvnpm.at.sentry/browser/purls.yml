@@ -2,6 +2,18 @@
 - pkg:maven/org.mvnpm.at.sentry/browser@10.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@10.1.0
 - pkg:maven/org.mvnpm.at.sentry/browser@10.1.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@10.10.0
+- pkg:maven/org.mvnpm.at.sentry/browser@10.10.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@10.11.0
+- pkg:maven/org.mvnpm.at.sentry/browser@10.11.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@10.12.0
+- pkg:maven/org.mvnpm.at.sentry/browser@10.12.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@10.13.0
+- pkg:maven/org.mvnpm.at.sentry/browser@10.13.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@10.14.0
+- pkg:maven/org.mvnpm.at.sentry/browser@10.14.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@10.15.0
+- pkg:maven/org.mvnpm.at.sentry/browser@10.15.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@10.2.0
 - pkg:maven/org.mvnpm.at.sentry/browser@10.2.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@10.3.0
@@ -16,6 +28,8 @@
 - pkg:maven/org.mvnpm.at.sentry/browser@10.7.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@10.8.0
 - pkg:maven/org.mvnpm.at.sentry/browser@10.8.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/browser@10.9.0
+- pkg:maven/org.mvnpm.at.sentry/browser@10.9.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@6.19.7
 - pkg:maven/org.mvnpm.at.sentry/browser@6.19.7?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/browser@7.100.1?classifier=sources

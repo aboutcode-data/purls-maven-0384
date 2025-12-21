@@ -12,3 +12,4 @@
 - pkg:maven/io.github.mkoncek/classpathless-compiler-util@2.2?classifier=sources
 - pkg:maven/io.github.mkoncek/classpathless-compiler-util@2.3
 - pkg:maven/io.github.mkoncek/classpathless-compiler-util@2.3?classifier=sources
+- pkg:maven/io.github.mkoncek/classpathless-compiler-util@2.4?classifier=sources

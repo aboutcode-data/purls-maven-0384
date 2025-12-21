@@ -2,3 +2,4 @@
 - pkg:maven/cloud.shoplive/shoplive-exoplayer@2.19.1.14?classifier=sources
 - pkg:maven/cloud.shoplive/shoplive-exoplayer@2.19.1.14?type=aar
 - pkg:maven/cloud.shoplive/shoplive-exoplayer@2.19.1.15?type=aar
+- pkg:maven/cloud.shoplive/shoplive-exoplayer@2.19.1.16?type=aar

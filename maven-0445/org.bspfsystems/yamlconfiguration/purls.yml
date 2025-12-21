@@ -51,3 +51,4 @@
 - pkg:maven/org.bspfsystems/yamlconfiguration@3.0.2
 - pkg:maven/org.bspfsystems/yamlconfiguration@3.0.2?classifier=sources
 - pkg:maven/org.bspfsystems/yamlconfiguration@3.0.3?classifier=sources
+- pkg:maven/org.bspfsystems/yamlconfiguration@3.0.4?classifier=sources

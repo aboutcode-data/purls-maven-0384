@@ -14,3 +14,5 @@
 - pkg:maven/com.sap.cloud.adk/adapter.api@3.12.0?classifier=sources
 - pkg:maven/com.sap.cloud.adk/adapter.api@3.16.0
 - pkg:maven/com.sap.cloud.adk/adapter.api@3.16.0?classifier=sources
+- pkg:maven/com.sap.cloud.adk/adapter.api@3.18.2
+- pkg:maven/com.sap.cloud.adk/adapter.api@3.18.2?classifier=sources

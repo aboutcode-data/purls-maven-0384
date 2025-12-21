@@ -1,0 +1,2 @@
+- pkg:maven/io.orqueio.bpm/orqueio-engine-spring@0.24.0-alpha?classifier=sources
+- pkg:maven/io.orqueio.bpm/orqueio-engine-spring@1.0.0?classifier=sources

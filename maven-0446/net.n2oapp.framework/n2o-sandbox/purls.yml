@@ -388,3 +388,4 @@
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.28.9?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.29.0?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-sandbox@7.29.1?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-sandbox@7.29.2?classifier=sources

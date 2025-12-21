@@ -15,3 +15,4 @@
 - pkg:maven/com.cognitect.aws/verifiedpermissions@871.2.31.23
 - pkg:maven/com.cognitect.aws/verifiedpermissions@871.2.31.23?classifier=sources
 - pkg:maven/com.cognitect.aws/verifiedpermissions@871.2.31.64?classifier=sources
+- pkg:maven/com.cognitect.aws/verifiedpermissions@871.2.33.5?classifier=sources

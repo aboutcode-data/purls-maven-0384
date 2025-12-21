@@ -4,3 +4,4 @@
 - pkg:maven/app.cash.paraphrase/paraphrase-runtime-compose-ui@0.3.0?classifier=sources
 - pkg:maven/app.cash.paraphrase/paraphrase-runtime-compose-ui@0.3.1?classifier=sources
 - pkg:maven/app.cash.paraphrase/paraphrase-runtime-compose-ui@0.4.0?classifier=sources
+- pkg:maven/app.cash.paraphrase/paraphrase-runtime-compose-ui@0.4.1?classifier=sources

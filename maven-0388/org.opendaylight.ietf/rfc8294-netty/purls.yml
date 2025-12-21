@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.ietf/rfc8294-netty@1.0.0
+- pkg:maven/org.opendaylight.ietf/rfc8294-netty@1.0.0?classifier=sources

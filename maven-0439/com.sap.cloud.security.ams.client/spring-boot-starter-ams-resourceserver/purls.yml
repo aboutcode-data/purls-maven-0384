@@ -16,3 +16,4 @@
 - pkg:maven/com.sap.cloud.security.ams.client/spring-boot-starter-ams-resourceserver@2.7.0
 - pkg:maven/com.sap.cloud.security.ams.client/spring-boot-starter-ams-resourceserver@3.3.0
 - pkg:maven/com.sap.cloud.security.ams.client/spring-boot-starter-ams-resourceserver@3.4.0
+- pkg:maven/com.sap.cloud.security.ams.client/spring-boot-starter-ams-resourceserver@3.7.0

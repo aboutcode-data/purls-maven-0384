@@ -56,3 +56,4 @@
 - pkg:maven/net.anotheria/distributeme-registry@4.0.1?type=war
 - pkg:maven/net.anotheria/distributeme-registry@4.0.2?classifier=sources
 - pkg:maven/net.anotheria/distributeme-registry@4.0.2?type=war
+- pkg:maven/net.anotheria/distributeme-registry@4.0.3?classifier=sources

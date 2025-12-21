@@ -12,6 +12,8 @@
 - pkg:maven/com.github.tommyettinger/tantrum-regexodus@0.1.19.11?classifier=sources
 - pkg:maven/com.github.tommyettinger/tantrum-regexodus@0.1.19.12?classifier=sources
 - pkg:maven/com.github.tommyettinger/tantrum-regexodus@0.1.19.13?classifier=sources
+- pkg:maven/com.github.tommyettinger/tantrum-regexodus@0.1.19.14?classifier=sources
+- pkg:maven/com.github.tommyettinger/tantrum-regexodus@0.1.19.15?classifier=sources
 - pkg:maven/com.github.tommyettinger/tantrum-regexodus@0.1.19.7?classifier=sources
 - pkg:maven/com.github.tommyettinger/tantrum-regexodus@0.1.19.8?classifier=sources
 - pkg:maven/com.github.tommyettinger/tantrum-regexodus@0.1.19.9?classifier=sources

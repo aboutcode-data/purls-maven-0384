@@ -22,3 +22,4 @@
 - pkg:maven/org.jmolecules/jmolecules-ddd@1.9.0?classifier=sources
 - pkg:maven/org.jmolecules/jmolecules-ddd@2.0.0-RC1
 - pkg:maven/org.jmolecules/jmolecules-ddd@2.0.0-RC1?classifier=sources
+- pkg:maven/org.jmolecules/jmolecules-ddd@2.0.0-RC2?classifier=sources

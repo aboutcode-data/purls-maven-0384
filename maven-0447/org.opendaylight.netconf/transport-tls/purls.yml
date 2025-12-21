@@ -50,5 +50,7 @@
 - pkg:maven/org.opendaylight.netconf/transport-tls@8.0.7
 - pkg:maven/org.opendaylight.netconf/transport-tls@8.0.7?classifier=sources
 - pkg:maven/org.opendaylight.netconf/transport-tls@8.0.8?classifier=sources
+- pkg:maven/org.opendaylight.netconf/transport-tls@8.0.9?classifier=sources
 - pkg:maven/org.opendaylight.netconf/transport-tls@9.0.0
 - pkg:maven/org.opendaylight.netconf/transport-tls@9.0.0?classifier=sources
+- pkg:maven/org.opendaylight.netconf/transport-tls@9.0.1?classifier=sources

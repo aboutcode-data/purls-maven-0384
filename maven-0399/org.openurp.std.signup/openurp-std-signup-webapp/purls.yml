@@ -2,3 +2,4 @@
 - pkg:maven/org.openurp.std.signup/openurp-std-signup-webapp@0.0.1?type=war
 - pkg:maven/org.openurp.std.signup/openurp-std-signup-webapp@0.0.2?classifier=sources
 - pkg:maven/org.openurp.std.signup/openurp-std-signup-webapp@0.0.4?classifier=sources
+- pkg:maven/org.openurp.std.signup/openurp-std-signup-webapp@0.0.5?classifier=sources

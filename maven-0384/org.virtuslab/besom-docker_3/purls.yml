@@ -4,7 +4,15 @@
 - pkg:maven/org.virtuslab/besom-docker_3@4.5.3-core.0.3?classifier=sources
 - pkg:maven/org.virtuslab/besom-docker_3@4.5.4-core.0.3
 - pkg:maven/org.virtuslab/besom-docker_3@4.5.4-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-docker_3@4.5.4-core.0.5
+- pkg:maven/org.virtuslab/besom-docker_3@4.5.4-core.0.5?classifier=sources
 - pkg:maven/org.virtuslab/besom-docker_3@4.6.0-core.0.4
 - pkg:maven/org.virtuslab/besom-docker_3@4.6.0-core.0.4?classifier=sources
+- pkg:maven/org.virtuslab/besom-docker_3@4.6.0-core.0.5
+- pkg:maven/org.virtuslab/besom-docker_3@4.6.0-core.0.5?classifier=sources
 - pkg:maven/org.virtuslab/besom-docker_3@4.6.2-core.0.4
 - pkg:maven/org.virtuslab/besom-docker_3@4.6.2-core.0.4?classifier=sources
+- pkg:maven/org.virtuslab/besom-docker_3@4.6.2-core.0.5
+- pkg:maven/org.virtuslab/besom-docker_3@4.6.2-core.0.5?classifier=sources
+- pkg:maven/org.virtuslab/besom-docker_3@4.9.0-core.0.5
+- pkg:maven/org.virtuslab/besom-docker_3@4.9.0-core.0.5?classifier=sources

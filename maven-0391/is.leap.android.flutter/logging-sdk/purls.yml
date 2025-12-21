@@ -1,3 +1,4 @@
 - pkg:maven/is.leap.android.flutter/logging-sdk@1.0.2?classifier=sources
+- pkg:maven/is.leap.android.flutter/logging-sdk@1.0.3?classifier=sources
 - pkg:maven/is.leap.android.flutter/logging-sdk@1.1.0?classifier=sources
 - pkg:maven/is.leap.android.flutter/logging-sdk@1.1.1?classifier=sources

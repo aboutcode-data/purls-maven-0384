@@ -8,3 +8,5 @@
 - pkg:maven/org.virtuslab/besom-str_3@1.0.0-core.0.3?classifier=sources
 - pkg:maven/org.virtuslab/besom-str_3@1.0.0-core.0.4
 - pkg:maven/org.virtuslab/besom-str_3@1.0.0-core.0.4?classifier=sources
+- pkg:maven/org.virtuslab/besom-str_3@1.0.0-core.0.5
+- pkg:maven/org.virtuslab/besom-str_3@1.0.0-core.0.5?classifier=sources

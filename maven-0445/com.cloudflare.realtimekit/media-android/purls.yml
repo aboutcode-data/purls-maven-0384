@@ -7,7 +7,12 @@
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.16?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.17?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.18?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.15.19?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.1?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.15.20?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.15.21?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.15.22?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.15.23?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.2?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.3?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.4?classifier=sources
@@ -16,3 +21,8 @@
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.7?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.8?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/media-android@0.15.9?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.16.0?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.16.1?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.16.2?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.16.3?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/media-android@0.16.4?classifier=sources

@@ -19,3 +19,8 @@
 - pkg:maven/io.gitee.fadada-cloud/dss-java-sdk@1.2.6-8?classifier=sources
 - pkg:maven/io.gitee.fadada-cloud/dss-java-sdk@1.2.6.1-11?classifier=sources
 - pkg:maven/io.gitee.fadada-cloud/dss-java-sdk@1.2.6.1-8?classifier=sources
+- pkg:maven/io.gitee.fadada-cloud/dss-java-sdk@1.2.7-1.8?classifier=sources
+- pkg:maven/io.gitee.fadada-cloud/dss-java-sdk@1.2.7-11?classifier=sources
+- pkg:maven/io.gitee.fadada-cloud/dss-java-sdk@1.2.7-8?classifier=sources
+- pkg:maven/io.gitee.fadada-cloud/dss-java-sdk@1.2.8-11?classifier=sources
+- pkg:maven/io.gitee.fadada-cloud/dss-java-sdk@1.2.8-8?classifier=sources

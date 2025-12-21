@@ -1,1 +1,4 @@
 - pkg:maven/ca.twoducks/3bom-child@1.3-snapshot?classifier=sources
+- pkg:maven/ca.twoducks/3bom-child@1.4-sup?classifier=sources
+- pkg:maven/ca.twoducks/3bom-child@1.5-wik?classifier=sources
+- pkg:maven/ca.twoducks/3bom-child@1.6-alsowik?classifier=sources

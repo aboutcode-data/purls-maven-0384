@@ -31,3 +31,4 @@
 - pkg:maven/org.webjars.npm/rc-upload@4.5.2
 - pkg:maven/org.webjars.npm/rc-upload@4.6.0
 - pkg:maven/org.webjars.npm/rc-upload@4.8.1
+- pkg:maven/org.webjars.npm/rc-upload@4.9.2

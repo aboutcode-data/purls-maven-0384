@@ -2,5 +2,6 @@
 - pkg:maven/com.sta-soft/mservletengine@1.10?classifier=sources
 - pkg:maven/com.sta-soft/mservletengine@1.11
 - pkg:maven/com.sta-soft/mservletengine@1.11?classifier=sources
+- pkg:maven/com.sta-soft/mservletengine@1.14?classifier=sources
 - pkg:maven/com.sta-soft/mservletengine@1.9
 - pkg:maven/com.sta-soft/mservletengine@1.9?classifier=sources

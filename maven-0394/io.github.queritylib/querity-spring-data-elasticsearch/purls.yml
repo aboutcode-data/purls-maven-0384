@@ -2,3 +2,4 @@
 - pkg:maven/io.github.queritylib/querity-spring-data-elasticsearch@3.1.0?classifier=sources
 - pkg:maven/io.github.queritylib/querity-spring-data-elasticsearch@3.2.0?classifier=sources
 - pkg:maven/io.github.queritylib/querity-spring-data-elasticsearch@3.3.1?classifier=sources
+- pkg:maven/io.github.queritylib/querity-spring-data-elasticsearch@3.4.0?classifier=sources

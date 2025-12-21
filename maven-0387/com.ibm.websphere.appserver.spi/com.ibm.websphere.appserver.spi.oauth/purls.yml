@@ -2,6 +2,7 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.oauth@1.2.13
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.oauth@1.4.103?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.oauth@1.4.104?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.oauth@1.4.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.oauth@1.4.14
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.oauth@1.4.15
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.oauth@1.4.16

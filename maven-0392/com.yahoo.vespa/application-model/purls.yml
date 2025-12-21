@@ -962,6 +962,8 @@
 - pkg:maven/com.yahoo.vespa/application-model@8.571.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/application-model@8.572.77?classifier=sources
 - pkg:maven/com.yahoo.vespa/application-model@8.573.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/application-model@8.574.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/application-model@8.575.21?classifier=sources
 - pkg:maven/com.yahoo.vespa/application-model@8.61.17?classifier=sources
 - pkg:maven/com.yahoo.vespa/application-model@8.62.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/application-model@8.63.8?classifier=sources

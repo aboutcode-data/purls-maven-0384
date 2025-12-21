@@ -51,3 +51,4 @@
 - pkg:maven/com.exactpro.th2/cradle-cassandra@5.5.0-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/cradle-cassandra@5.5.1-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/cradle-cassandra@5.6.0-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/cradle-cassandra@5.7.0-dev?classifier=sources

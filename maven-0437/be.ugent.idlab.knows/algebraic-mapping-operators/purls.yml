@@ -1,3 +1,4 @@
 - pkg:maven/be.ugent.idlab.knows/algebraic-mapping-operators@0.1-ALPHA-testrelease-6?classifier=sources
 - pkg:maven/be.ugent.idlab.knows/algebraic-mapping-operators@0.1-ALPHA-testrelease?classifier=sources
 - pkg:maven/be.ugent.idlab.knows/algebraic-mapping-operators@1.0.0?classifier=sources
+- pkg:maven/be.ugent.idlab.knows/algebraic-mapping-operators@2.0.0?classifier=sources

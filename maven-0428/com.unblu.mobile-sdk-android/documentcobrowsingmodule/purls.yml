@@ -1,3 +1,4 @@
 - pkg:maven/com.unblu.mobile-sdk-android/documentcobrowsingmodule@4.12.0?classifier=sources
 - pkg:maven/com.unblu.mobile-sdk-android/documentcobrowsingmodule@4.13.0?classifier=sources
 - pkg:maven/com.unblu.mobile-sdk-android/documentcobrowsingmodule@4.13.1?classifier=sources
+- pkg:maven/com.unblu.mobile-sdk-android/documentcobrowsingmodule@4.13.2?classifier=sources

@@ -52,6 +52,8 @@
 - pkg:maven/org.beangle.sas/beangle-sas-juli@0.13.2?classifier=sources
 - pkg:maven/org.beangle.sas/beangle-sas-juli@0.13.3
 - pkg:maven/org.beangle.sas/beangle-sas-juli@0.13.3?classifier=sources
+- pkg:maven/org.beangle.sas/beangle-sas-juli@0.13.4
+- pkg:maven/org.beangle.sas/beangle-sas-juli@0.13.4?classifier=sources
 - pkg:maven/org.beangle.sas/beangle-sas-juli@0.6.0
 - pkg:maven/org.beangle.sas/beangle-sas-juli@0.6.0?classifier=sources
 - pkg:maven/org.beangle.sas/beangle-sas-juli@0.6.1

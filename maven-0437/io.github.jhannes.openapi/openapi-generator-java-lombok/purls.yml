@@ -22,3 +22,5 @@
 - pkg:maven/io.github.jhannes.openapi/openapi-generator-java-lombok@0.2.6?classifier=sources
 - pkg:maven/io.github.jhannes.openapi/openapi-generator-java-lombok@0.3.1?classifier=sources
 - pkg:maven/io.github.jhannes.openapi/openapi-generator-java-lombok@0.3.2?classifier=sources
+- pkg:maven/io.github.jhannes.openapi/openapi-generator-java-lombok@0.4.0?classifier=sources
+- pkg:maven/io.github.jhannes.openapi/openapi-generator-java-lombok@0.4.1?classifier=sources

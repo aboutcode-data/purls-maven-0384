@@ -42,3 +42,4 @@
 - pkg:maven/io.kestra.plugin/plugin-aws@0.7.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-aws@0.8.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-aws@0.9.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-aws@1.0.0?classifier=sources

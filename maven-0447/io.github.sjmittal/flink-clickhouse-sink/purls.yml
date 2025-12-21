@@ -1,5 +1,6 @@
 - pkg:maven/io.github.sjmittal/flink-clickhouse-sink@1.4.10?classifier=sources
 - pkg:maven/io.github.sjmittal/flink-clickhouse-sink@1.4.11?classifier=sources
+- pkg:maven/io.github.sjmittal/flink-clickhouse-sink@1.4.12?classifier=sources
 - pkg:maven/io.github.sjmittal/flink-clickhouse-sink@1.4.2?classifier=sources
 - pkg:maven/io.github.sjmittal/flink-clickhouse-sink@1.4.3?classifier=sources
 - pkg:maven/io.github.sjmittal/flink-clickhouse-sink@1.4.4?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.scala-sbt/lmcoursier_3@2.0.0-RC3?classifier=sources
 - pkg:maven/org.scala-sbt/lmcoursier_3@2.0.0-RC4
 - pkg:maven/org.scala-sbt/lmcoursier_3@2.0.0-RC4?classifier=sources
+- pkg:maven/org.scala-sbt/lmcoursier_3@2.0.0-RC5
+- pkg:maven/org.scala-sbt/lmcoursier_3@2.0.0-RC5?classifier=sources
